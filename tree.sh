@@ -1,15 +1,15 @@
 # Must be in the public folder when run (not good assumption)
 for dir in $(find . -type d -print); do
   if [ "$dir" = '.' ]; then
-    thisdirstring=""
-    treestring=""
+    baseURL="https://cashoptimizer.pages.dev"
+    ofile="index.html"
     else
-    thisdirstring="$(basename $dir)/"
-    treestring="$dir/"
+    baseURL="https://cashoptimizer.pages.dev$(echo $dir | sed 's/^\.//')"
+    ofile="$dir/index.html"
   fi
   tree "$dir" \
-    -o "$treestring"index.html \
-    -H "https://cashoptimizer.pages.dev/$thisdirstring" \
+    -o "$ofile" \
+    -H "$baseURL" \
     -L 1 \
     --noreport \
     --dirsfirst \
@@ -21,13 +21,3 @@ for dir in $(find . -type d -print); do
     -I "index.html" \
     -P "*.json|*.csv|*.html"
 done
-##  --noreport \
-# what is going on here?
-# -o is location of the output file
-# -H create HTML output using the parameter as path to tree.
-#
-# -I ignore list
-# -P pattern match file inclusion list (not directories)
-# unused:
-# -L 1 - only on level deep
-# -houtro "" - not sure what this does!
