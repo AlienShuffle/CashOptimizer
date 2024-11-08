@@ -1,14 +1,19 @@
-tree -H '.' \
-    -f \
+#find . -type d -print -exec sh -c 'echo hello world = "$0/xxx.html"' {} \;
+#exit
+find . -type d -print -exec sh -c 'tree "$0" \
+    -o "$0/index.html" \
+    -H "." \
+    -L 1 \
     --noreport \
     --houtro "" \
     --dirsfirst \
     --charset utf-8 \
     --ignore-case \
-    --timefmt '%d-%b-%Y %H:%M' \
+    --timefmt "%d-%b-%Y %H:%M" \
     -I "index.html" \
-    -T 'Downloads' \
+    -T "CashAnalyzerFiles" \
     -s -D \
     -P "*.json|*.csv|*.html" \
-    -o index.html
+    ' {} \;
+
     # -L 1 - only on level deep
