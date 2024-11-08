@@ -1,5 +1,5 @@
 tree -H '.' \
-    -L 1 \
+    -f \
     --noreport \
     --houtro "" \
     --dirsfirst \
@@ -9,5 +9,6 @@ tree -H '.' \
     -I "index.html" \
     -T 'Downloads' \
     -s -D \
-    -P "*.zip|*.gz" \
+    -P "*.json|*.csv|*.html" \
     -o index.html
+    # -L 1 - only on level deep
