@@ -1,5 +1,6 @@
 #find . -type d -print -exec sh -c 'echo hello world = "$0/xxx.html"' {} \;
 #exit
+# must be in the public folder when run (not good assumption, ugh.)
 find . -type d -print -exec sh -c 'tree "$0" \
     -o "$0/index.html" \
     -H "." \
