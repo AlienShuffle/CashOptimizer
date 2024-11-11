@@ -6,6 +6,7 @@ if [ -d Banks ]; then
     cd Banks
     find * -depth -type d -print >/tmp/bank-list.txt
     if diff bank-list.txt /tmp/bank-list.txt; then
+      true
       #echo bank-list.txt unchanged.
     else
       cat /tmp/bank-list.txt >bank-list.txt
