@@ -1,3 +1,4 @@
+#
 # Must be in the public folder when run (not good assumption)
 #
 # create the most up to date Bank List.
