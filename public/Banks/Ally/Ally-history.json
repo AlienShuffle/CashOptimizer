@@ -382,6 +382,13 @@
     "asOfDate": "2024-11-22"
   },
   {
+    "source": "node-Ally-update.js",
+    "timestamp": "2024-11-23T09:02:39.028Z",
+    "accountType": "NPCD",
+    "apy": 0.04,
+    "asOfDate": "2024-11-23"
+  },
+  {
     "accountType": "Savings",
     "apy": 0.04,
     "asOfDate": "2024-09-28"
@@ -762,5 +769,12 @@
     "accountType": "Savings",
     "apy": 0.0385,
     "asOfDate": "2024-11-22"
+  },
+  {
+    "source": "node-Ally-update.js",
+    "timestamp": "2024-11-23T09:02:39.028Z",
+    "accountType": "Savings",
+    "apy": "n/a",
+    "asOfDate": "2024-11-23"
   }
 ]
