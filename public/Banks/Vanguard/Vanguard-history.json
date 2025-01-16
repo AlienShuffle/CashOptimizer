@@ -658,6 +658,13 @@
     "asOfDate": "2025-01-15"
   },
   {
+    "source": "node-Vanguard-update.js",
+    "timestamp": "2025-01-16T13:15:26.242Z",
+    "accountType": "CashDeposit",
+    "apy": 0.0275,
+    "asOfDate": "2025-01-16"
+  },
+  {
     "accountType": "CashPlus",
     "apy": 0.0415,
     "asOfDate": "2024-09-26"
@@ -1426,5 +1433,12 @@
     "accountType": "CashPlus",
     "apy": 0.0365,
     "asOfDate": "2025-01-15"
+  },
+  {
+    "source": "node-Vanguard-update.js",
+    "timestamp": "2025-01-16T13:15:26.242Z",
+    "accountType": "CashPlus",
+    "apy": 0.0365,
+    "asOfDate": "2025-01-16"
   }
 ]
