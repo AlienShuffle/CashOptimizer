@@ -781,6 +781,20 @@
     "asOfDate": "2025-01-18"
   },
   {
+    "source": "gapFiller",
+    "timestamp": "2025-01-21T00:37:56.581Z",
+    "accountType": "NPCD",
+    "apy": 0.0375,
+    "asOfDate": "2025-01-19"
+  },
+  {
+    "source": "node-Ally-update.js",
+    "timestamp": "2025-01-21T00:37:56.252Z",
+    "accountType": "NPCD",
+    "apy": "n/a",
+    "asOfDate": "2025-01-20"
+  },
+  {
     "accountType": "Savings",
     "apy": 0.04,
     "asOfDate": "2024-09-28"
@@ -1560,5 +1574,19 @@
     "accountType": "Savings",
     "apy": 0.038,
     "asOfDate": "2025-01-18"
+  },
+  {
+    "source": "gapFiller",
+    "timestamp": "2025-01-21T00:37:56.581Z",
+    "accountType": "Savings",
+    "apy": 0.038,
+    "asOfDate": "2025-01-19"
+  },
+  {
+    "source": "node-Ally-update.js",
+    "timestamp": "2025-01-21T00:37:56.252Z",
+    "accountType": "Savings",
+    "apy": "n/a",
+    "asOfDate": "2025-01-20"
   }
 ]
