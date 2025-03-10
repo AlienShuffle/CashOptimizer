@@ -9,7 +9,7 @@ if [ -d Banks ]; then
     [ -f "bank-list.txt" ] || touch -list.txt
     if diff bank-list.txt /tmp/bank-list.txt; then
       true
-      echo bank-list.txt unchanged.
+      #echo bank-list.txt unchanged.
     else
       cat /tmp/bank-list.txt >bank-list.txt
       echo bank-list.txt updated.
@@ -18,13 +18,13 @@ if [ -d Banks ]; then
   )
   for dir in Banks/*/history; do
     (
-      echo "cd into $dir"
+      #echo "cd into $dir"
       cd "$dir"
       find * -prune -type d -print >/tmp/acct-list.txt
       [ -f "acct-list.txt" ] || touch acct-list.txt
       if diff acct-list.txt /tmp/acct-list.txt; then
         true
-        echo "$dir/acct-list.txt unchanged."
+        #echo "$dir/acct-list.txt unchanged."
       else
         cat /tmp/acct-list.txt >acct-list.txt
         echo "$dir/acct-list.txt updated."
