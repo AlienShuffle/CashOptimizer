@@ -28,7 +28,7 @@ if [ -d Banks ]; then
       cat /tmp/acct-list.txt >acct-list.txt
       echo "$dir/acct-list.txt updated."
     fi
-    #rm /tmp/acct-list.txt
+    rm /tmp/acct-list.txt
   )
   done
 fi
