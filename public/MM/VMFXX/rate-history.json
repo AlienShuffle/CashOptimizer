@@ -2,17 +2,27 @@
   {
     "ticker": "VMFXX",
     "source": "Vanguard.com",
-    "timestamp": "2025-03-14T01:39:38.495Z",
+    "timestamp": "2025-03-14T02:19:11.402Z",
     "accountType": "Federal Money Mkt Fund",
     "sevenDayYield": 0.0424,
     "asOfDate": "2025-03-12"
   },
   {
-    "ticker": "VMFXX",
-    "source": "yieldFinder",
-    "timestamp": "2025-03-14T00:48:05.123Z",
-    "accountType": "Vanguard Federal",
+    "accountType": "Federal Money Mkt Fund",
+    "asOfDate": "2025-03-13",
+    "price": 1,
     "sevenDayYield": 0.0424,
-    "asOfDate": "2025-03-13"
+    "source": "Vanguard.com",
+    "ticker": "VMFXX",
+    "timestamp": "2025-03-14T19:19:38.799Z"
+  },
+  {
+    "accountType": "Vanguard Federal",
+    "asOfDate": "2025-03-14",
+    "price": 1,
+    "source": "yieldFinder",
+    "sevenDayYield": 0.0424,
+    "ticker": "VMFXX",
+    "timestamp": "2025-03-14T19:38:26.899Z"
   }
 ]

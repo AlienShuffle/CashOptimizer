@@ -2,17 +2,27 @@
   {
     "ticker": "VYFXX",
     "source": "Vanguard.com",
-    "timestamp": "2025-03-14T01:39:38.495Z",
+    "timestamp": "2025-03-14T02:19:11.402Z",
     "accountType": "New York Muni Money Mkt",
     "sevenDayYield": 0.025,
     "asOfDate": "2025-03-12"
   },
   {
+    "accountType": "New York Muni Money Mkt",
+    "asOfDate": "2025-03-13",
+    "price": 1,
+    "sevenDayYield": 0.0267,
+    "source": "Vanguard.com",
     "ticker": "VYFXX",
-    "source": "yieldFinder",
-    "timestamp": "2025-03-14T00:48:05.123Z",
+    "timestamp": "2025-03-14T19:19:38.799Z"
+  },
+  {
     "accountType": "Vanguard New York Municipal",
-    "sevenDayYield": 0.0237,
-    "asOfDate": "2025-03-13"
+    "asOfDate": "2025-03-14",
+    "price": 1,
+    "source": "yieldFinder",
+    "sevenDayYield": 0.025,
+    "ticker": "VYFXX",
+    "timestamp": "2025-03-14T19:38:26.899Z"
   }
 ]
