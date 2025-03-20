@@ -8,14 +8,6 @@
     "timestamp": "2025-03-20T18:55:06.778Z"
   },
   {
-    "asOfDate": "2020-01-02",
-    "price": 1,
-    "sevenDayYield": 0.0122,
-    "source": "gapFiller",
-    "ticker": "FDLXX",
-    "timestamp": "2025-03-20T18:55:06.778Z"
-  },
-  {
     "asOfDate": "2020-01-03",
     "price": 1,
     "sevenDayYield": 0.0121,
@@ -14552,20 +14544,20 @@
     "timestamp": "2025-03-20T18:55:03.217Z"
   },
   {
-    "asOfDate": "2024-12-24",
+    "asOfDate": "2024-12-25",
     "price": 1,
     "sevenDayYield": 0.0415,
     "source": "gapFiller",
     "ticker": "FDLXX",
-    "timestamp": "2025-03-19T21:56:26.060Z"
+    "timestamp": "2025-03-20T20:57:17.905Z"
   },
   {
-    "asOfDate": "2024-12-26",
+    "asOfDate": "2024-12-25",
     "price": 1,
-    "sevenDayYield": 0.0414,
+    "sevenDayYield": 0.0415,
     "source": "gapFiller",
     "ticker": "FDLXX",
-    "timestamp": "2025-03-20T18:55:06.782Z"
+    "timestamp": "2025-03-20T20:57:17.905Z"
   },
   {
     "asOfDate": "2024-12-26",
@@ -15301,5 +15293,14 @@
     "source": "Fidelity.com",
     "ticker": "FDLXX",
     "timestamp": "2025-03-20T04:40:47.204Z"
+  },
+  {
+    "accountType": "Fidelity Treasury Only",
+    "asOfDate": "2025-03-20",
+    "price": 1,
+    "source": "yieldFinder",
+    "sevenDayYield": 0.0392,
+    "ticker": "FDLXX",
+    "timestamp": "2025-03-20T20:57:17.784Z"
   }
 ]

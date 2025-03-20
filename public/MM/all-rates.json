@@ -17,12 +17,12 @@
   },
   {
     "accountType": "SPDR 1-3 Month T-Bill ETF",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
     "sevenDayYield": 0.0413,
     "ticker": "BIL",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -170,15 +170,13 @@
     "timestamp": "2025-03-20T04:40:47.204Z"
   },
   {
-    "accountType": "Treasury Only MM",
-    "asOfDate": "2025-03-19",
+    "accountType": "Fidelity Treasury Only",
+    "asOfDate": "2025-03-20",
     "price": 1,
-    "oneDayYield": 0.0391,
-    "sevenDayYield": 0.0391,
-    "thirtyDayYield": 0.0391,
-    "source": "Fidelity.com",
+    "source": "yieldFinder",
+    "sevenDayYield": 0.0392,
     "ticker": "FDLXX",
-    "timestamp": "2025-03-20T04:40:47.204Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Government Cash Reserves",
@@ -494,15 +492,13 @@
     "timestamp": "2025-03-20T04:40:59.834Z"
   },
   {
-    "accountType": "Municipal Money Market",
-    "asOfDate": "2025-03-19",
+    "accountType": "Fidelity Municipal",
+    "asOfDate": "2025-03-20",
     "price": 1,
-    "oneDayYield": 0.0312,
-    "sevenDayYield": 0.0321,
-    "thirtyDayYield": 0.0246,
-    "source": "Fidelity.com",
+    "source": "yieldFinder",
+    "sevenDayYield": 0.0313,
     "ticker": "FTEXX",
-    "timestamp": "2025-03-20T04:40:59.834Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -579,15 +575,13 @@
     "timestamp": "2025-03-20T04:41:06.816Z"
   },
   {
-    "accountType": "Money Market - Pr",
-    "asOfDate": "2025-03-19",
+    "accountType": "Fidelity Prime Premium",
+    "asOfDate": "2025-03-20",
     "price": 1,
-    "oneDayYield": 0.0414,
+    "source": "yieldFinder",
     "sevenDayYield": 0.0414,
-    "thirtyDayYield": 0.0415,
-    "source": "Fidelity.com",
     "ticker": "FZDXX",
-    "timestamp": "2025-03-20T04:41:06.816Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Tax-Exempt MM - Pr",
@@ -712,12 +706,12 @@
   },
   {
     "accountType": "iShares 0-3 Month Treasury ",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.042,
+    "sevenDayYield": 0.0419,
     "ticker": "SGOV",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -729,30 +723,30 @@
   },
   {
     "accountType": "Schwab Treasury Obligations",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0406,
+    "sevenDayYield": 0.0405,
     "ticker": "SNOXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Schwab U.S. Treasury",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
     "sevenDayYield": 0.0399,
     "ticker": "SNSXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Schwab Government",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0407,
+    "sevenDayYield": 0.0406,
     "ticker": "SNVXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -763,26 +757,22 @@
     "timestamp": "2025-03-17T17:20:43.336Z"
   },
   {
-    "accountType": "Government Money Market",
-    "asOfDate": "2025-03-19",
+    "accountType": "Fidelity Government",
+    "asOfDate": "2025-03-20",
     "price": 1,
-    "oneDayYield": 0.0396,
+    "source": "yieldFinder",
     "sevenDayYield": 0.0396,
-    "thirtyDayYield": 0.0399,
-    "source": "Fidelity.com",
     "ticker": "SPAXX",
-    "timestamp": "2025-03-20T04:41:08.943Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
-    "accountType": "Money Market",
-    "asOfDate": "2025-03-19",
+    "accountType": "Fidelity Money Market",
+    "asOfDate": "2025-03-20",
     "price": 1,
-    "oneDayYield": 0.0402,
+    "source": "yieldFinder",
     "sevenDayYield": 0.0402,
-    "thirtyDayYield": 0.0403,
-    "source": "Fidelity.com",
     "ticker": "SPRXX",
-    "timestamp": "2025-03-20T04:41:08.943Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -802,12 +792,12 @@
   },
   {
     "accountType": "Schwab California Municipal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0245,
+    "sevenDayYield": 0.0251,
     "ticker": "SWKXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -819,21 +809,21 @@
   },
   {
     "accountType": "Schwab Municipal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0297,
+    "sevenDayYield": 0.0305,
     "ticker": "SWTXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Schwab Value Advantage",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
     "sevenDayYield": 0.0415,
     "ticker": "SWVXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -845,12 +835,12 @@
   },
   {
     "accountType": "Schwab New York Municipal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0299,
+    "sevenDayYield": 0.0308,
     "ticker": "SWYXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -894,21 +884,21 @@
   },
   {
     "accountType": "BLF Treasury Trust",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
     "sevenDayYield": 0.0417,
     "ticker": "TTTXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "WisdomTree Floating Rate",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0421,
+    "sevenDayYield": 0.042,
     "ticker": "USFR",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -920,57 +910,57 @@
   },
   {
     "accountType": "Vanguard California Municipal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0269,
+    "sevenDayYield": 0.0277,
     "ticker": "VCTXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Vanguard Federal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0423,
+    "sevenDayYield": 0.0422,
     "ticker": "VMFXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Vanguard Cash Reserves Federal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0424,
+    "sevenDayYield": 0.0423,
     "ticker": "VMRXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Vanguard Municipal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0327,
+    "sevenDayYield": 0.034,
     "ticker": "VMSXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Vanguard Treasury",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
     "sevenDayYield": 0.0425,
     "ticker": "VUSXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "accountType": "Vanguard New York Municipal",
-    "asOfDate": "2025-03-19",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
-    "sevenDayYield": 0.0321,
+    "sevenDayYield": 0.0333,
     "ticker": "VYFXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   },
   {
     "asOfDate": "2025-03-14",

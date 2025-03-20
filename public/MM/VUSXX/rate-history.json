@@ -15238,12 +15238,21 @@
     "timestamp": "2025-03-20T00:36:28.693Z"
   },
   {
-    "accountType": "Vanguard Treasury",
+    "accountType": "Treasury Money Market",
     "asOfDate": "2025-03-19",
+    "price": 1,
+    "sevenDayYield": 0.0425,
+    "source": "Vanguard.com",
+    "ticker": "VUSXX",
+    "timestamp": "2025-03-20T20:57:10.141Z"
+  },
+  {
+    "accountType": "Vanguard Treasury",
+    "asOfDate": "2025-03-20",
     "price": 1,
     "source": "yieldFinder",
     "sevenDayYield": 0.0425,
     "ticker": "VUSXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:17.784Z"
   }
 ]

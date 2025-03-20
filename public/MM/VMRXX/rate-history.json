@@ -15238,12 +15238,21 @@
     "timestamp": "2025-03-20T00:36:28.693Z"
   },
   {
-    "accountType": "Vanguard Cash Reserves Federal",
+    "accountType": "Cash Res Fed MM Adm",
     "asOfDate": "2025-03-19",
     "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0424,
+    "sevenDayYield": 0.0423,
+    "source": "Vanguard.com",
     "ticker": "VMRXX",
-    "timestamp": "2025-03-20T00:36:29.663Z"
+    "timestamp": "2025-03-20T20:57:10.141Z"
+  },
+  {
+    "accountType": "Vanguard Cash Reserves Federal",
+    "asOfDate": "2025-03-20",
+    "price": 1,
+    "source": "yieldFinder",
+    "sevenDayYield": 0.0423,
+    "ticker": "VMRXX",
+    "timestamp": "2025-03-20T20:57:17.784Z"
   }
 ]
