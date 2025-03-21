@@ -47,10 +47,10 @@
     "accountType": "WisdomTree Floating Rate",
     "asOfDate": "2025-03-18",
     "price": 1,
-    "source": "gapFiller",
+    "source": "gapFiller (yieldFinder)",
     "sevenDayYield": 0.0421,
     "ticker": "USFR",
-    "timestamp": "2025-03-20T00:36:30.898Z"
+    "timestamp": "2025-03-21T03:48:42.798Z"
   },
   {
     "accountType": "WisdomTree Floating Rate",
@@ -69,5 +69,14 @@
     "sevenDayYield": 0.042,
     "ticker": "USFR",
     "timestamp": "2025-03-20T20:57:17.784Z"
+  },
+  {
+    "accountType": "WisdomTree Floating Rate",
+    "asOfDate": "2025-03-21",
+    "price": 1,
+    "source": "yieldFinder",
+    "sevenDayYield": 0.042,
+    "ticker": "USFR",
+    "timestamp": "2025-03-21T03:48:41.813Z"
   }
 ]
