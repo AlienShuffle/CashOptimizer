@@ -160,78 +160,80 @@
   },
   {
     "accountType": "Tax-Exempt MM-Daily Money",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
-    "oneDayYield": 0.0257,
-    "sevenDayYield": 0.0277,
-    "thirtyDayYield": 0.0212,
+    "oneDayYield": 0.0258,
+    "sevenDayYield": 0.0265,
+    "thirtyDayYield": 0.0215,
     "source": "Fidelity.com",
     "ticker": "FDEXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
-    "accountType": "Fidelity Treasury Only",
-    "asOfDate": "2025-03-22",
+    "accountType": "Treasury Only MM",
+    "asOfDate": "2025-03-23",
     "price": 1,
-    "source": "yieldFinder",
+    "oneDayYield": 0.0391,
     "sevenDayYield": 0.0391,
+    "thirtyDayYield": 0.0391,
+    "source": "Fidelity.com",
     "ticker": "FDLXX",
-    "timestamp": "2025-03-22T05:15:16.985Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "accountType": "Government Cash Reserves",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
     "oneDayYield": 0.0401,
     "sevenDayYield": 0.0402,
-    "thirtyDayYield": 0.0404,
+    "thirtyDayYield": 0.0403,
     "source": "Fidelity.com",
     "ticker": "FDRXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "accountType": "Treasury MM-Daily Money",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
     "oneDayYield": 0.0367,
     "sevenDayYield": 0.0368,
-    "thirtyDayYield": 0.037,
+    "thirtyDayYield": 0.0369,
     "source": "Fidelity.com",
     "ticker": "FDUXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "accountType": "Tax-Exempt MM - CRF",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
-    "oneDayYield": 0.0232,
-    "sevenDayYield": 0.0252,
-    "thirtyDayYield": 0.0187,
+    "oneDayYield": 0.0233,
+    "sevenDayYield": 0.024,
+    "thirtyDayYield": 0.019,
     "source": "Fidelity.com",
     "ticker": "FERXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "accountType": "FIMM Tax-Exempt - III",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
-    "oneDayYield": 0.0284,
-    "sevenDayYield": 0.0306,
-    "thirtyDayYield": 0.0234,
+    "oneDayYield": 0.0286,
+    "sevenDayYield": 0.0293,
+    "thirtyDayYield": 0.0237,
     "source": "Fidelity.com",
     "ticker": "FETXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "accountType": "FIMM Tax-Exempt - II",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
-    "oneDayYield": 0.0294,
-    "sevenDayYield": 0.0316,
-    "thirtyDayYield": 0.0244,
+    "oneDayYield": 0.0296,
+    "sevenDayYield": 0.0303,
+    "thirtyDayYield": 0.0247,
     "source": "Fidelity.com",
     "ticker": "FEXXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "asOfDate": "2025-03-14",
@@ -243,36 +245,36 @@
   },
   {
     "accountType": "FIMM Government - SEL",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
     "oneDayYield": 0.0415,
     "sevenDayYield": 0.0415,
-    "thirtyDayYield": 0.0418,
+    "thirtyDayYield": 0.0417,
     "source": "Fidelity.com",
     "ticker": "FGEXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "accountType": "FIMM Government - I",
-    "asOfDate": "2025-03-20",
+    "asOfDate": "2025-03-23",
     "price": 1,
-    "oneDayYield": 0.0419,
-    "sevenDayYield": 0.042,
-    "thirtyDayYield": 0.0423,
-    "source": "Fidelity.com",
-    "ticker": "FIGXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
-  },
-  {
-    "accountType": "FIMM Treasury - I",
-    "asOfDate": "2025-03-20",
-    "price": 1,
-    "oneDayYield": 0.0419,
+    "oneDayYield": 0.042,
     "sevenDayYield": 0.042,
     "thirtyDayYield": 0.0422,
     "source": "Fidelity.com",
+    "ticker": "FIGXX",
+    "timestamp": "2025-03-22T11:16:42.142Z"
+  },
+  {
+    "accountType": "FIMM Treasury - I",
+    "asOfDate": "2025-03-23",
+    "price": 1,
+    "oneDayYield": 0.0419,
+    "sevenDayYield": 0.042,
+    "thirtyDayYield": 0.0421,
+    "source": "Fidelity.com",
     "ticker": "FISXX",
-    "timestamp": "2025-03-21T13:25:03.551Z"
+    "timestamp": "2025-03-22T11:16:42.142Z"
   },
   {
     "accountType": "MA Municipal MM - Inst",
