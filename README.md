@@ -1,2 +1,2 @@
 # CashOptimizer
-Hugo site for deploying Cash resources
+Static site for deploying Cash resources
