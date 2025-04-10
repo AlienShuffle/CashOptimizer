@@ -1,36 +1,11 @@
 [
   {
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "sevenDayYield": 0.042152,
-    "source": "moneymarket.fun",
-    "ticker": "BEMXX",
-    "timestamp": "2025-04-01T03:46:51.846Z"
-  },
-  {
     "asOfDate": "2025-03-31",
     "price": 1,
     "sevenDayYield": 0.0383,
     "source": "EDGAR MFP-3",
     "ticker": "BFRXX",
     "timestamp": "2025-04-07T18:10:25.364Z"
-  },
-  {
-    "accountType": "SPDR 1-3 Month T-Bill ETF",
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0412,
-    "ticker": "BIL",
-    "timestamp": "2025-03-28T03:00:30.221Z"
-  },
-  {
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "sevenDayYield": 0.037812,
-    "source": "moneymarket.fun",
-    "ticker": "BTFXX",
-    "timestamp": "2025-04-01T03:46:51.846Z"
   },
   {
     "asOfDate": "2025-03-31",
@@ -631,15 +606,6 @@
     "timestamp": "2025-04-04T17:09:23.538Z"
   },
   {
-    "accountType": "iShares Government Money Market ETF",
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0415,
-    "ticker": "GMMF",
-    "timestamp": "2025-03-28T03:00:30.221Z"
-  },
-  {
     "asOfDate": "2025-03-31",
     "price": 1,
     "sevenDayYield": 0.0426,
@@ -704,27 +670,12 @@
     "timestamp": "2025-04-07T18:09:32.866Z"
   },
   {
-    "accountType": "iShares Prime Money Market ETF",
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0426,
-    "ticker": "PMMF",
-    "timestamp": "2025-03-28T03:00:30.221Z"
-  },
-  {
     "asOfDate": "2025-03-31",
     "price": 1,
     "sevenDayYield": 0.0246,
     "source": "EDGAR MFP-3",
     "ticker": "SCAXX",
     "timestamp": "2025-04-07T20:31:15.220Z"
-  },
-  {
-    "asOfDate": "2025-04-09",
-    "price": 1,
-    "source": "schwab.com",
-    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
     "accountType": "Schwab California Municipal Money Fund - Ultra Shares",
@@ -755,15 +706,6 @@
     "price": 1,
     "source": "schwab.com",
     "timestamp": "2025-04-10T02:10:10.943Z"
-  },
-  {
-    "accountType": "iShares 0-3 Month Treasury ",
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0419,
-    "ticker": "SGOV",
-    "timestamp": "2025-03-28T03:00:30.221Z"
   },
   {
     "accountType": "Schwab Government Money Fund - Ultra Shares",
@@ -976,15 +918,6 @@
     "timestamp": "2025-04-07T18:10:23.659Z"
   },
   {
-    "accountType": "WisdomTree Floating Rate",
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0422,
-    "ticker": "USFR",
-    "timestamp": "2025-03-28T03:00:30.221Z"
-  },
-  {
     "asOfDate": "2025-03-31",
     "price": 1,
     "sevenDayYield": 0.0414,
@@ -1057,11 +990,5 @@
     "source": "EDGAR MFP-3",
     "ticker": "WMPXX",
     "timestamp": "2025-04-07T14:01:32.706Z"
-  },
-  {
-    "asOfDate": "2025-04-09",
-    "price": 1,
-    "source": "schwab.com",
-    "timestamp": "2025-04-10T02:10:10.943Z"
   }
 ]
