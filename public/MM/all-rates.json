@@ -721,12 +721,40 @@
     "timestamp": "2025-04-07T20:31:15.220Z"
   },
   {
-    "asOfDate": "2025-03-31",
+    "asOfDate": "2025-04-09",
     "price": 1,
-    "sevenDayYield": 0.0288,
-    "source": "EDGAR MFP-3",
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
+  },
+  {
+    "accountType": "Schwab California Municipal Money Fund - Ultra Shares",
+    "ticker": "SCAXX",
+    "sevenDayYield": 0.0237,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
+  },
+  {
+    "accountType": "Schwab Treasury Obligations Money Fund - Ultra Shares",
+    "ticker": "SCOXX",
+    "sevenDayYield": 0.0422,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
+  },
+  {
+    "accountType": "Schwab AMT Tax-Free Money Fund - Ultra Shares",
     "ticker": "SCTXX",
-    "timestamp": "2025-04-07T20:31:20.059Z"
+    "sevenDayYield": 0.0276,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
     "accountType": "iShares 0-3 Month Treasury ",
@@ -738,46 +766,64 @@
     "timestamp": "2025-03-28T03:00:30.221Z"
   },
   {
-    "asOfDate": "2025-03-31",
+    "accountType": "Schwab Government Money Fund - Ultra Shares",
+    "ticker": "SGUXX",
+    "sevenDayYield": 0.0424,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
     "price": 1,
-    "sevenDayYield": 0.0432,
-    "source": "EDGAR MFP-3",
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
+  },
+  {
+    "accountType": "Schwab Value Advantage Money Fund® - Ultra Shares4",
     "ticker": "SNAXX",
-    "timestamp": "2025-04-07T20:31:18.108Z"
+    "sevenDayYield": 0.0432,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "accountType": "Schwab Treasury Obligations",
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0406,
+    "accountType": "Schwab Treasury Obligations Money Fund - Investor Shares",
     "ticker": "SNOXX",
-    "timestamp": "2025-03-28T03:00:30.221Z"
+    "sevenDayYield": 0.0407,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0399,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab U.S. Treasury Money Fund -  Investor Shares",
     "ticker": "SNSXX",
-    "timestamp": "2025-04-07T20:31:19.134Z"
+    "sevenDayYield": 0.0398,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "accountType": "Schwab Government",
-    "asOfDate": "2025-03-28",
-    "price": 1,
-    "source": "yieldFinder",
-    "sevenDayYield": 0.0406,
+    "accountType": "Schwab Government Money Fund - Investor Shares",
     "ticker": "SNVXX",
-    "timestamp": "2025-03-28T03:00:30.221Z"
+    "sevenDayYield": 0.0409,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0291,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab New York Municipal Money Fund - Ultra Shares",
     "ticker": "SNYXX",
-    "timestamp": "2025-04-07T20:31:15.915Z"
+    "sevenDayYield": 0.0279,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
     "accountType": "Government Money Market",
@@ -802,68 +848,84 @@
     "timestamp": "2025-04-09T11:57:20.333Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0414,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab U.S. Treasury Money Fund - Ultra Shares",
     "ticker": "SUTXX",
-    "timestamp": "2025-04-07T20:31:19.134Z"
+    "sevenDayYield": 0.0413,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0398,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab Government Money Fund - Sweep Shares8",
     "ticker": "SWGXX",
-    "timestamp": "2025-04-07T20:31:14.623Z"
+    "sevenDayYield": 0.0399,
+    "expenseRatio": 0.0044,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0231,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab California Municipal Money Fund - Investor Shares",
     "ticker": "SWKXX",
-    "timestamp": "2025-04-07T20:31:15.220Z"
+    "sevenDayYield": 0.0222,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0291,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab Municipal Money Fund - Ultra Shares",
     "ticker": "SWOXX",
-    "timestamp": "2025-04-07T20:31:13.530Z"
+    "sevenDayYield": 0.028,
+    "expenseRatio": 0.0019,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0276,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab Municipal Money Fund - Investor Shares",
     "ticker": "SWTXX",
-    "timestamp": "2025-04-07T20:31:13.530Z"
+    "sevenDayYield": 0.0265,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0417,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab Value Advantage Money Fund® - Investor Shares4",
     "ticker": "SWVXX",
-    "timestamp": "2025-04-07T20:31:18.108Z"
+    "sevenDayYield": 0.0417,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0273,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab AMT Tax-Free Money Fund - Investor Shares",
     "ticker": "SWWXX",
-    "timestamp": "2025-04-07T20:31:20.059Z"
+    "sevenDayYield": 0.0261,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
-    "asOfDate": "2025-03-31",
-    "price": 1,
-    "sevenDayYield": 0.0276,
-    "source": "EDGAR MFP-3",
+    "accountType": "Schwab New York Municipal Money Fund - Investor Shares",
     "ticker": "SWYXX",
-    "timestamp": "2025-04-07T20:31:15.915Z"
+    "sevenDayYield": 0.0264,
+    "expenseRatio": 0.0034,
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   },
   {
     "asOfDate": "2025-03-31",
@@ -995,5 +1057,11 @@
     "source": "EDGAR MFP-3",
     "ticker": "WMPXX",
     "timestamp": "2025-04-07T14:01:32.706Z"
+  },
+  {
+    "asOfDate": "2025-04-09",
+    "price": 1,
+    "source": "schwab.com",
+    "timestamp": "2025-04-10T02:10:10.943Z"
   }
 ]
