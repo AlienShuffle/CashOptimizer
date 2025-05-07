@@ -9,6 +9,48 @@
     "expenseRatio": 0.0018,
     "fiscalYearEnd": "1031",
     "category": "Prime",
+    "totalNetAssets": 7370514587.62,
+    "investorType": "Retail",
+    "minimumInitialInvestment": 10000000,
+    "wam": 44,
+    "wal": 77,
+    "reportDate": "2025-04-30",
+    "yield": 0.0428,
+    "yieldDate": "2025-04-30",
+    "usTreasuryDebt": 0.15076,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0.00799,
+    "usGovernmentAgencyZeroCouponDebt": 0.00212,
+    "nonUSSovereignDebt": 0.0038,
+    "certificateofDeposit": 0.18574,
+    "nonNegotiableTimeDeposit": 0.07815,
+    "variableRateDemandNote": 0.09857,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0.1661,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0.0534,
+    "usGovernmentAgencyRepurchaseAgreement": 0.03052,
+    "otherRepurchaseAgreement": 0.11615,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0.05995,
+    "nonFinancialCompanyCommercialPaper": 0.0366,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0.01015,
+    "USGO": 0.16087,
+    "Muni": 0.09857,
+    "filingDate": "2025-05-07",
+    "timestamp": "2025-05-07T17:29:17.813Z"
+  },
+  {
+    "ticker": "FMJXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Goldman Sachs Trust",
+    "seriesName": "Goldman Sachs Investor Fund - Money Market",
+    "className": "Class I Shares",
+    "mmName": "Goldman Sachs Investor Money Market Fund Class I",
+    "expenseRatio": 0.0018,
+    "fiscalYearEnd": "1031",
+    "category": "Prime",
     "totalNetAssets": 7583424494.63,
     "investorType": "Retail",
     "minimumInitialInvestment": 10000000,
@@ -39,7 +81,7 @@
     "USGO": 0.16048,
     "Muni": 0.0925,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-04-18T21:41:13.929Z"
+    "timestamp": "2025-04-18T22:20:44.268Z"
   },
   {
     "ticker": "FMJXX",
@@ -81,7 +123,7 @@
     "USGO": 0.21523,
     "Muni": 0.09181,
     "filingDate": "2025-03-07",
-    "timestamp": "2025-04-18T21:41:04.205Z"
+    "timestamp": "2025-04-18T22:20:34.922Z"
   },
   {
     "ticker": "FMJXX",
@@ -123,7 +165,7 @@
     "USGO": 0.21627,
     "Muni": 0.08965,
     "filingDate": "2025-02-07",
-    "timestamp": "2025-04-18T21:41:04.943Z"
+    "timestamp": "2025-04-18T22:20:35.613Z"
   },
   {
     "ticker": "FMJXX",
@@ -165,7 +207,7 @@
     "USGO": 0.21818,
     "Muni": 0.09045,
     "filingDate": "2025-01-08",
-    "timestamp": "2025-04-18T21:41:04.725Z"
+    "timestamp": "2025-04-18T22:20:35.414Z"
   },
   {
     "ticker": "FMJXX",
