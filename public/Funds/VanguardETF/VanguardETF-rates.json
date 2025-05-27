@@ -1,9 +1,272 @@
 [
   {
+    "accountType": "0-3 Month T-Bill ETF",
     "asOfDate": "2025-05-22",
+    "price": 75.54,
+    "thirtyDayYield": 0.042,
+    "source": "Vanguard.com ETF",
+    "ticker": "VBIL",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "CA Tax-Exempt Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 96.9,
+    "thirtyDayYield": 0.0369,
+    "source": "Vanguard.com ETF",
+    "ticker": "VTEC",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Core Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 76.06,
+    "thirtyDayYield": 0.0476,
+    "source": "Vanguard.com ETF",
+    "ticker": "VCRB",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Core Tax-Ex Bnd ETF",
+    "asOfDate": "2025-05-22",
+    "price": 73.08,
+    "thirtyDayYield": 0.0408,
+    "source": "Vanguard.com ETF",
+    "ticker": "VCRM",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Core-Plus Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 76.22,
+    "thirtyDayYield": 0.049,
+    "source": "Vanguard.com ETF",
+    "ticker": "VPLS",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "ESG U.S. Corp Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 61.88,
+    "thirtyDayYield": 0.051,
+    "source": "Vanguard.com ETF",
+    "ticker": "VCEB",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Em Mkt Gov Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 63.63,
+    "thirtyDayYield": 0.0651,
+    "source": "Vanguard.com ETF",
+    "ticker": "VWOB",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Ext Duration Treasury ETF",
+    "asOfDate": "2025-05-22",
+    "price": 62.97,
+    "thirtyDayYield": 0.0543,
+    "source": "Vanguard.com ETF",
+    "ticker": "EDV",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "IT Treasury ETF",
+    "asOfDate": "2025-05-22",
+    "price": 58.93,
+    "thirtyDayYield": 0.0408,
+    "source": "Vanguard.com ETF",
+    "ticker": "VGIT",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Int-Term Tax-Ex Bd ETF",
+    "asOfDate": "2025-05-22",
+    "price": 97.87,
+    "thirtyDayYield": 0.0359,
+    "source": "Vanguard.com ETF",
+    "ticker": "VTEI",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Inter-Term Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 75.75,
     "thirtyDayYield": 0.047,
-    "source": "Vanguard.com Distro",
+    "source": "Vanguard.com ETF",
     "ticker": "BIV",
-    "timestamp": "2025-05-26T17:49:30.903Z"
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Inter-Term Corp Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 80.92,
+    "thirtyDayYield": 0.0532,
+    "source": "Vanguard.com ETF",
+    "ticker": "VCIT",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "LT Treasury ETF",
+    "asOfDate": "2025-05-22",
+    "price": 53.94,
+    "thirtyDayYield": 0.0506,
+    "source": "Vanguard.com ETF",
+    "ticker": "VGLT",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Long-Term Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 66.59,
+    "thirtyDayYield": 0.0558,
+    "source": "Vanguard.com ETF",
+    "ticker": "BLV",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Long-Term Corp Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 72.44,
+    "thirtyDayYield": 0.0612,
+    "source": "Vanguard.com ETF",
+    "ticker": "VCLT",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Mortgage-Backed Sec ETF",
+    "asOfDate": "2025-05-22",
+    "price": 45.34,
+    "thirtyDayYield": 0.0414,
+    "source": "Vanguard.com ETF",
+    "ticker": "VMBS",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "ST Treasury ETF",
+    "asOfDate": "2025-05-22",
+    "price": 58.53,
+    "thirtyDayYield": 0.0394,
+    "source": "Vanguard.com ETF",
+    "ticker": "VGSH",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "STerm InflatPro Sec ETF",
+    "asOfDate": "2025-05-22",
+    "price": 49.95,
+    "thirtyDayYield": 0.0119,
+    "source": "Vanguard.com ETF",
+    "ticker": "VTIP",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Short Dura Tax-Ex Bnd ETF",
+    "asOfDate": "2025-05-22",
+    "price": 74.95,
+    "thirtyDayYield": 0.0351,
+    "source": "Vanguard.com ETF",
+    "ticker": "VSDM",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Short Duration Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 75.37,
+    "thirtyDayYield": 0.0464,
+    "source": "Vanguard.com ETF",
+    "ticker": "VSDB",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Short-Term Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 78.09,
+    "thirtyDayYield": 0.0413,
+    "source": "Vanguard.com ETF",
+    "ticker": "BSV",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Short-Term Corp Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 78.78,
+    "thirtyDayYield": 0.0468,
+    "source": "Vanguard.com ETF",
+    "ticker": "VCSH",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Short-Term Tax-Ex Bnd ETF",
+    "asOfDate": "2025-05-22",
+    "price": 100.29,
+    "thirtyDayYield": 0.0316,
+    "source": "Vanguard.com ETF",
+    "ticker": "VTES",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Tax-Exempt Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 48.73,
+    "thirtyDayYield": 0.0393,
+    "source": "Vanguard.com ETF",
+    "ticker": "VTEB",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Tot Intl Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 49.11,
+    "thirtyDayYield": 0.0301,
+    "source": "Vanguard.com ETF",
+    "ticker": "BNDX",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Total Bond Market ETF",
+    "asOfDate": "2025-05-22",
+    "price": 72.19,
+    "thirtyDayYield": 0.0445,
+    "source": "Vanguard.com ETF",
+    "ticker": "BND",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Total Corporate Bond ETF",
+    "asOfDate": "2025-04-30",
+    "price": 75.37,
+    "thirtyDayYield": 0.0523,
+    "source": "Vanguard.com ETF",
+    "ticker": "VTC",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Total World Bond ETF",
+    "asOfDate": "2025-04-30",
+    "price": 68.38,
+    "thirtyDayYield": 0.0397,
+    "source": "Vanguard.com ETF",
+    "ticker": "BNDW",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Ultra-Short Bond ETF",
+    "asOfDate": "2025-05-22",
+    "price": 49.73,
+    "thirtyDayYield": 0.0467,
+    "source": "Vanguard.com ETF",
+    "ticker": "VUSB",
+    "timestamp": "2025-05-27T04:00:21.767Z"
+  },
+  {
+    "accountType": "Ultra-Short Treasury ETF",
+    "asOfDate": "2025-05-22",
+    "price": 75.46,
+    "thirtyDayYield": 0.0418,
+    "source": "Vanguard.com ETF",
+    "ticker": "VGUS",
+    "timestamp": "2025-05-27T04:00:21.767Z"
   }
 ]
