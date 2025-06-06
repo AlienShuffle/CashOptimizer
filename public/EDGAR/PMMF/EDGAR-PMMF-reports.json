@@ -9,6 +9,48 @@
     "expenseRatio": null,
     "fiscalYearEnd": "0731",
     "category": "Prime",
+    "totalNetAssets": 235074743.98,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 0.01,
+    "wam": 30,
+    "wal": 88,
+    "reportDate": "2025-05-31",
+    "yield": 0.0425,
+    "yieldDate": "2025-05-30",
+    "usTreasuryDebt": 0,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0.24611,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0.05147,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0.46878,
+    "otherRepurchaseAgreement": 0.05527,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0.15388,
+    "nonFinancialCompanyCommercialPaper": 0.02156,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0.00293,
+    "USGO": 0,
+    "Muni": 0,
+    "filingDate": "2025-06-06",
+    "timestamp": "2025-06-06T18:10:57.162Z"
+  },
+  {
+    "ticker": "PMMF",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Blackrock Etf Trust",
+    "seriesName": "Ishares Prime Money Market Etf",
+    "className": "I",
+    "mmName": "",
+    "expenseRatio": null,
+    "fiscalYearEnd": "0731",
+    "category": "Prime",
     "totalNetAssets": 185775669.71,
     "investorType": "Institutional",
     "minimumInitialInvestment": 0.01,
@@ -39,7 +81,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-05-13T03:54:01.442Z"
+    "timestamp": "2025-06-03T14:16:12.469Z"
   },
   {
     "ticker": "PMMF",
@@ -81,7 +123,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-05-13T03:54:01.526Z"
+    "timestamp": "2025-06-03T14:16:12.798Z"
   },
   {
     "ticker": "PMMF",
@@ -123,6 +165,6 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2025-03-06",
-    "timestamp": "2025-05-13T03:54:01.669Z"
+    "timestamp": "2025-06-03T14:16:13.394Z"
   }
 ]

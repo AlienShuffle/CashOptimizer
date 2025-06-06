@@ -9,6 +9,48 @@
     "expenseRatio": null,
     "fiscalYearEnd": "0731",
     "category": "Government",
+    "totalNetAssets": 52225530.07,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 0.01,
+    "wam": 41,
+    "wal": 93,
+    "reportDate": "2025-05-31",
+    "yield": 0.041,
+    "yieldDate": "2025-05-30",
+    "usTreasuryDebt": 0.36379,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0.08007,
+    "usGovernmentAgencyZeroCouponDebt": 0.11436,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0.44178,
+    "otherRepurchaseAgreement": 0,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0,
+    "nonFinancialCompanyCommercialPaper": 0,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0,
+    "USGO": 0.55822,
+    "Muni": 0,
+    "filingDate": "2025-06-06",
+    "timestamp": "2025-06-06T18:10:56.813Z"
+  },
+  {
+    "ticker": "GMMF",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Blackrock Etf Trust",
+    "seriesName": "Ishares Government Money Market Etf",
+    "className": "I",
+    "mmName": "",
+    "expenseRatio": null,
+    "fiscalYearEnd": "0731",
+    "category": "Government",
     "totalNetAssets": 42172035.85,
     "investorType": "Institutional",
     "minimumInitialInvestment": 0.01,
@@ -39,7 +81,7 @@
     "USGO": 0.5931,
     "Muni": 0,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-05-13T03:54:01.271Z"
+    "timestamp": "2025-06-03T14:16:11.854Z"
   },
   {
     "ticker": "GMMF",
@@ -81,7 +123,7 @@
     "USGO": 0.5118,
     "Muni": 0,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-05-13T03:54:01.348Z"
+    "timestamp": "2025-06-03T14:16:12.162Z"
   },
   {
     "ticker": "GMMF",
@@ -123,6 +165,6 @@
     "USGO": 0.27959,
     "Muni": 0,
     "filingDate": "2025-03-06",
-    "timestamp": "2025-05-13T03:54:01.588Z"
+    "timestamp": "2025-06-03T14:16:13.105Z"
   }
 ]
