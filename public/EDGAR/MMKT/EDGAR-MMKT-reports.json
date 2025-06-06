@@ -9,6 +9,48 @@
     "expenseRatio": 0,
     "fiscalYearEnd": "1231",
     "category": "Government",
+    "totalNetAssets": 47679414.04,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 0.01,
+    "wam": 53,
+    "wal": 63,
+    "reportDate": "2025-05-31",
+    "yield": 0.0427,
+    "yieldDate": "2025-05-30",
+    "usTreasuryDebt": 0.76584,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0.09545,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0.0587,
+    "otherRepurchaseAgreement": 0,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0.08002,
+    "nonFinancialCompanyCommercialPaper": 0,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0,
+    "USGO": 0.86129,
+    "Muni": 0,
+    "filingDate": "2025-06-06",
+    "timestamp": "2025-06-06T22:17:43.274Z"
+  },
+  {
+    "ticker": "MMKT",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Texas Capital Funds Trust",
+    "seriesName": "Texas Capital Government Money Market Etf",
+    "className": "Texas Capital Government Money Market Etf",
+    "mmName": "Texas Capital Government Money Market ETF",
+    "expenseRatio": 0,
+    "fiscalYearEnd": "1231",
+    "category": "Government",
     "totalNetAssets": 45097970.78,
     "investorType": "Institutional",
     "minimumInitialInvestment": 0.01,
@@ -39,7 +81,7 @@
     "USGO": 0.86818,
     "Muni": 0,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-05-07T21:35:53.664Z"
+    "timestamp": "2025-05-13T03:39:44.740Z"
   },
   {
     "ticker": "MMKT",
@@ -81,7 +123,7 @@
     "USGO": 0.92142,
     "Muni": 0,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-04-18T22:19:55.141Z"
+    "timestamp": "2025-05-13T03:39:43.798Z"
   },
   {
     "ticker": "MMKT",
@@ -123,7 +165,7 @@
     "USGO": 0.91529,
     "Muni": 0,
     "filingDate": "2025-03-07",
-    "timestamp": "2025-04-18T22:19:55.322Z"
+    "timestamp": "2025-05-13T03:39:43.979Z"
   },
   {
     "ticker": "MMKT",
@@ -165,7 +207,7 @@
     "USGO": 0.91132,
     "Muni": 0,
     "filingDate": "2025-02-07",
-    "timestamp": "2025-04-18T22:19:55.387Z"
+    "timestamp": "2025-05-13T03:39:44.045Z"
   },
   {
     "ticker": "MMKT",
@@ -207,7 +249,7 @@
     "USGO": 0.90405,
     "Muni": 0,
     "filingDate": "2025-01-08",
-    "timestamp": "2025-04-18T22:19:55.204Z"
+    "timestamp": "2025-05-13T03:39:43.858Z"
   },
   {
     "ticker": "MMKT",
@@ -249,7 +291,7 @@
     "USGO": 0.87717,
     "Muni": 0,
     "filingDate": "2025-01-03",
-    "timestamp": "2025-04-18T22:19:55.520Z"
+    "timestamp": "2025-05-13T03:39:44.164Z"
   },
   {
     "ticker": "MMKT",
@@ -291,7 +333,7 @@
     "USGO": 0.86728,
     "Muni": 0,
     "filingDate": "2025-01-03",
-    "timestamp": "2025-04-18T22:19:55.670Z"
+    "timestamp": "2025-05-13T03:39:44.413Z"
   },
   {
     "ticker": "MMKT",
@@ -333,6 +375,6 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-10-25",
-    "timestamp": "2025-04-18T21:48:34.127Z"
+    "timestamp": "2025-05-13T03:39:44.678Z"
   }
 ]
