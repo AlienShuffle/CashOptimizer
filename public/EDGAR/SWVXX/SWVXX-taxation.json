@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SWVXX",
+    "year": 2020,
+    "months": 2,
+    "assets": 57662408786.935,
+    "usgo": 0.14584893589113826,
+    "muni": 0.005199786533908227,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0.14614,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWVXX",
     "year": 2021,
     "months": 12,
     "assets": 47146629336.08667,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

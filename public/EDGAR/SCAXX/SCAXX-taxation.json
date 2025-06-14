@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SCAXX",
+    "year": 2020,
+    "months": 2,
+    "assets": 287817092.815,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SCAXX",
     "year": 2021,
     "months": 12,
     "assets": 657550396.5574999,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0.139,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SWKXX",
+    "year": 2020,
+    "months": 2,
+    "assets": 3555339088.885,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWKXX",
     "year": 2021,
     "months": 12,
     "assets": 2558988232.068333,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0.139,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

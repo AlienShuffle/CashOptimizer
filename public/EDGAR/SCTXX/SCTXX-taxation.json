@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SCTXX",
+    "year": 2020,
+    "months": 2,
+    "assets": 213396081.075,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SCTXX",
     "year": 2021,
     "months": 12,
     "assets": 178285969.90916663,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0.04354,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

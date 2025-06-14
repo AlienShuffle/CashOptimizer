@@ -1,6 +1,7 @@
 ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
+"SWYXX",2020,2,0,1,true,"YTD","complete",-1,-1,-1,0
 "SWYXX",2021,12,0,1,true,"complete","complete",0,0,0,0
-"SWYXX",2022,12,0.02327354966128372,0.9767264503387163,true,"complete","complete",0,0.01883,0,0.10088
+"SWYXX",2022,12,0.02327354966128372,0.9767264503387163,false,"complete","complete",0,0.01883,0,0.10088
 "SWYXX",2023,12,0.014405782676130907,0.9855942173238692,false,"complete","complete",0,0,0,0
 "SWYXX",2024,12,0,1,false,"complete","complete",0,0,0,0
 "SWYXX",2025,5,0,1,false,"YTD","current-year",0,-1,-1,-1

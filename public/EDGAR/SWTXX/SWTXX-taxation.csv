@@ -1,6 +1,7 @@
 ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
+"SWTXX",2020,2,0,1,true,"YTD","complete",-1,-1,-1,0
 "SWTXX",2021,12,0,1,true,"complete","complete",0,0,0,0
-"SWTXX",2022,12,0.01280567511613051,0.9871943248838697,true,"complete","complete",0,0.01759,0,0.07101
+"SWTXX",2022,12,0.01280567511613051,0.9871943248838697,false,"complete","complete",0,0.01759,0,0.07101
 "SWTXX",2023,12,0.009067209492898411,0.9909327905071015,false,"complete","complete",0.01436,0,0,0
 "SWTXX",2024,12,0,1,false,"complete","complete",0,0,0,0
 "SWTXX",2025,5,0,1,false,"YTD","current-year",0,-1,-1,-1
