@@ -1,0 +1,62 @@
+[
+  {
+    "ticker": "SIGXX",
+    "year": 2022,
+    "months": 5,
+    "assets": 50188.64599999999,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 1,
+    "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "SIGXX",
+    "year": 2023,
+    "months": 12,
+    "assets": 52439.29833333334,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": 1,
+    "qTwoPct": 1,
+    "qThreePct": 1,
+    "qFourPct": 1,
+    "estimateType": "complete",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "SIGXX",
+    "year": 2024,
+    "months": 12,
+    "assets": 55265.27333333334,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": 1,
+    "qTwoPct": 1,
+    "qThreePct": 1,
+    "qFourPct": 1,
+    "estimateType": "complete",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SIGXX",
+    "year": 2025,
+    "months": 5,
+    "assets": 80074777.564,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": 1,
+    "qTwoPct": 1,
+    "qThreePct": -1,
+    "qFourPct": -1,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "current-year"
+  }
+]

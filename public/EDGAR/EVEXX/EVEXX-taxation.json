@@ -1,0 +1,62 @@
+[
+  {
+    "ticker": "EVEXX",
+    "year": 2022,
+    "months": 4,
+    "assets": 2289813.99,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 1,
+    "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "EVEXX",
+    "year": 2023,
+    "months": 12,
+    "assets": 23966559.115000006,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": 1,
+    "qTwoPct": 1,
+    "qThreePct": 1,
+    "qFourPct": 1,
+    "estimateType": "complete",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "EVEXX",
+    "year": 2024,
+    "months": 12,
+    "assets": 25494969.971666664,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": 1,
+    "qTwoPct": 1,
+    "qThreePct": 1,
+    "qFourPct": 1,
+    "estimateType": "complete",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "EVEXX",
+    "year": 2025,
+    "months": 5,
+    "assets": 27579212.206,
+    "usgo": 1,
+    "muni": 0,
+    "qOnePct": 1,
+    "qTwoPct": 1,
+    "qThreePct": -1,
+    "qFourPct": -1,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "current-year"
+  }
+]

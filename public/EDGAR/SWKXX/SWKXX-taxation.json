@@ -1,0 +1,62 @@
+[
+  {
+    "ticker": "SWKXX",
+    "year": 2022,
+    "months": 12,
+    "assets": 2222433700.808333,
+    "usgo": 0.047782308621111394,
+    "muni": 0.9522176913788886,
+    "qOnePct": 0,
+    "qTwoPct": 0.05345,
+    "qThreePct": 0,
+    "qFourPct": 0.139,
+    "estimateType": "complete",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWKXX",
+    "year": 2023,
+    "months": 12,
+    "assets": 2747114743.483333,
+    "usgo": 0.03945971318959369,
+    "muni": 0.9605402868104065,
+    "qOnePct": 0.10604,
+    "qTwoPct": 0,
+    "qThreePct": 0,
+    "qFourPct": 0,
+    "estimateType": "complete",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWKXX",
+    "year": 2024,
+    "months": 12,
+    "assets": 2504200489.589167,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": 0,
+    "qTwoPct": 0,
+    "qThreePct": 0,
+    "qFourPct": 0,
+    "estimateType": "complete",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWKXX",
+    "year": 2025,
+    "months": 5,
+    "assets": 2580267894.474,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": 0,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": -1,
+    "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "current-year"
+  }
+]

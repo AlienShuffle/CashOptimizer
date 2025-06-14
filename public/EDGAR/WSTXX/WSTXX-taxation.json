@@ -1,0 +1,62 @@
+[
+  {
+    "ticker": "WSTXX",
+    "year": 2022,
+    "months": 5,
+    "assets": 2050993.7100000002,
+    "usgo": 0.24680877678852559,
+    "muni": 0,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0.24022,
+    "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "WSTXX",
+    "year": 2023,
+    "months": 12,
+    "assets": 84017519.40916668,
+    "usgo": 0.2658024038669735,
+    "muni": 0,
+    "qOnePct": 0.20726,
+    "qTwoPct": 0.18599,
+    "qThreePct": 0.25172,
+    "qFourPct": 0.29957,
+    "estimateType": "complete",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "WSTXX",
+    "year": 2024,
+    "months": 12,
+    "assets": 92989579.33749999,
+    "usgo": 0.560186859354928,
+    "muni": 0,
+    "qOnePct": 0.51384,
+    "qTwoPct": 0.57989,
+    "qThreePct": 0.5451,
+    "qFourPct": 0.61249,
+    "estimateType": "complete",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "WSTXX",
+    "year": 2025,
+    "months": 5,
+    "assets": 68186663.1,
+    "usgo": 0.5295517973669077,
+    "muni": 0,
+    "qOnePct": 0.55641,
+    "qTwoPct": 0.51455,
+    "qThreePct": -1,
+    "qFourPct": -1,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "current-year"
+  }
+]
