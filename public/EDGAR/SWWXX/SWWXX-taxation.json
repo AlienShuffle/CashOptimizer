@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SWWXX",
+    "year": 2021,
+    "months": 12,
+    "assets": 718514494.5374999,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": 0,
+    "qTwoPct": 0,
+    "qThreePct": 0,
+    "qFourPct": 0,
+    "estimateType": "complete",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWWXX",
     "year": 2022,
     "months": 12,
     "assets": 706446663.9641666,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

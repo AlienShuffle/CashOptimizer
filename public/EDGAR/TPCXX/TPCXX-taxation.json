@@ -32,7 +32,7 @@
   {
     "ticker": "TPCXX",
     "year": 2021,
-    "months": 10,
+    "months": 12,
     "assets": 0,
     "usgo": null,
     "muni": null,
@@ -40,9 +40,9 @@
     "qTwoPct": 0.00647,
     "qThreePct": 0.00714,
     "qFourPct": 0.00845,
-    "estimateType": "YTD",
+    "estimateType": "complete",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "current-year"
+    "fiftyPctHistory": "complete"
   },
   {
     "ticker": "TPCXX",

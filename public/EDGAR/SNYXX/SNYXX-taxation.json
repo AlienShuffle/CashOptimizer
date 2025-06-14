@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SNYXX",
+    "year": 2021,
+    "months": 12,
+    "assets": 91855624.31666666,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": 0,
+    "qTwoPct": 0,
+    "qThreePct": 0,
+    "qFourPct": 0,
+    "estimateType": "complete",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SNYXX",
     "year": 2022,
     "months": 12,
     "assets": 499943595.4358333,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {
