@@ -1,8 +1,8 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
-"SWYXX",2019,1,0,1,true,"YTD","complete",-1,-1,-1,0,"1231"
-"SWYXX",2020,12,0,1,true,"complete","complete",0,0,0,0,"1231"
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
+"SWYXX",2019,1,0,1,true,"YTD","incomplete",-1,-1,-1,0,"1231"
+"SWYXX",2020,12,0,1,false,"complete","complete",0,0,0,0,"1231"
 "SWYXX",2021,12,0,1,false,"complete","complete",0,0,0,0,"1231"
-"SWYXX",2022,12,0.02327354966128372,0.9767264503387163,false,"complete","complete",0,0.01883,0,0.10088,"1231"
-"SWYXX",2023,12,0.014405782676130907,0.9855942173238692,false,"complete","complete",0,0,0,0,"1231"
+"SWYXX",2022,12,0.02327,0.97673,false,"complete","complete",0,0.01883,0,0.10088,"1231"
+"SWYXX",2023,12,0.01441,0.98559,false,"complete","complete",0,0,0,0,"1231"
 "SWYXX",2024,12,0,1,false,"complete","complete",0,0,0,0,"1231"
 "SWYXX",2025,5,0,1,false,"YTD","current-year",0,-1,-1,-1,"1231"

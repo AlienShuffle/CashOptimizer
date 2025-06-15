@@ -1,8 +1,8 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
-"HTSXX",2019,1,1,0,true,"YTD","missing fiscal year",-1,-1,-1,1
-"HTSXX",2020,12,1,0,true,"complete","missing fiscal year",1,1,1,1
-"HTSXX",2021,12,1,0,true,"complete","missing fiscal year",1,1,1,1
-"HTSXX",2022,12,1,0,true,"complete","missing fiscal year",1,1,1,1
-"HTSXX",2023,12,1,0,true,"complete","missing fiscal year",1,1,1,1
-"HTSXX",2024,12,1,0,true,"complete","missing fiscal year",1,1,1,1
-"HTSXX",2025,5,1,0,true,"YTD","current-year",1,-1,-1,-1
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
+"HTSXX",2019,1,1,0,true,"YTD","incomplete",-1,-1,-1,1,
+"HTSXX",2020,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
+"HTSXX",2021,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
+"HTSXX",2022,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
+"HTSXX",2023,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
+"HTSXX",2024,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
+"HTSXX",2025,5,1,0,true,"YTD","current-year",1,-1,-1,-1,

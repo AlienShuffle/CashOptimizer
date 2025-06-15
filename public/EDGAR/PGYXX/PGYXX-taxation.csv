@@ -1,8 +1,9 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
-"PGYXX",2019,1,0.04954,0,false,"YTD","incomplete",-1,-1,-1,-1,"0331"
-"PGYXX",2020,12,0.3174953942629435,0,false,"complete","incomplete",0.3739,0.31539,-1,0.1269,"0331"
-"PGYXX",2021,12,0.3457960110161102,0,false,"complete","incomplete",0.3171,0.16382,-1,0.23828,"0331"
-"PGYXX",2022,12,0.13753368880617878,0,false,"complete","incomplete",0.13913,0.11107,-1,0.22713,"0331"
-"PGYXX",2023,12,0.0533930788191504,0,false,"complete","incomplete",0.09859,0.0442,-1,0.07113,"0331"
-"PGYXX",2024,12,0.00727401655898984,0,false,"complete","incomplete",0.02579,0,-1,0,"0331"
-"PGYXX",2025,5,0,0,false,"YTD","current-year",-1,-1,-1,0,"0331"
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
+"PGYXX",2019,1,0.04954,0,true,"YTD","incomplete",-1,-1,-1,-1,"0331"
+"PGYXX",2020,12,0.3175,0,false,"complete","incomplete",-1,-1,-1,0.1269,"0331"
+"PGYXX",2021,12,0.3458,0,false,"complete","incomplete",0.3739,0.31539,-1,0.23828,"0331"
+"PGYXX",2022,12,0.13753,0,false,"complete","incomplete",0.3171,0.16382,-1,0.22713,"0331"
+"PGYXX",2023,12,0.05339,0,false,"complete","incomplete",0.13913,0.11107,-1,0.07113,"0331"
+"PGYXX",2024,12,0.00727,0,false,"complete","incomplete",0.09859,0.0442,-1,0,"0331"
+"PGYXX",2025,5,0,0,false,"YTD","current-year",0.02579,0,-1,0,"0331"
+"PGYXX",2018,0,0,0,,,,-1,-1,-1,-1,

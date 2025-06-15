@@ -4,15 +4,16 @@
     "year": 2025,
     "months": 4,
     "assets": 39903776.11,
-    "usgo": 0.5061623556951946,
+    "usgo": 0.50616,
     "muni": 0,
-    "qOnePct": -1,
-    "qTwoPct": -1,
-    "qThreePct": 0.5931,
-    "qFourPct": -1,
+    "q1Pct": -1,
+    "q2Pct": -1,
+    "q3Pct": 0.5931,
+    "q4Pct": -1,
+    "timestamp": "2025-06-15T21:13:28.583Z",
     "fiscalYearEnd": "0731",
     "estimateType": "YTD",
-    "fiftyPctRule": false,
+    "fiftyPctRule": true,
     "fiftyPctHistory": "incomplete"
   }
 ]

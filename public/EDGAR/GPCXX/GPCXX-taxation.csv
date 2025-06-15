@@ -1,4 +1,4 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
-"GPCXX",2023,12,0.008514443639728584,0.011678335067736226,false,"complete","incomplete",0.01373,0.00063,0.01087,0.0103,"1031"
-"GPCXX",2024,12,0.015279902987448957,0.008478876604950274,false,"complete","incomplete",0.00369,0.01555,0.01159,0.01759,"1031"
-"GPCXX",2025,5,0.010692840749659632,0.0068647299666153485,false,"YTD","current-year",0.01448,0.0099,-1,-1,"1031"
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
+"GPCXX",2023,12,0.00851,0.01168,false,"complete","complete",0.01373,0.00063,0.01087,0.0103,"1031"
+"GPCXX",2024,12,0.01528,0.00848,false,"complete","complete",0.00369,0.01555,0.01159,0.01759,"1031"
+"GPCXX",2025,5,0.01069,0.00686,false,"YTD","current-year",0.01448,0.0099,-1,-1,"1031"
