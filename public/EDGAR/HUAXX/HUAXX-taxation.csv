@@ -1,7 +1,7 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
-"HUAXX",2020,1,,,false,"YTD","incomplete",-1,-1,-1,-1
-"HUAXX",2021,12,0.38884254381387245,0,false,"complete","incomplete",0.64022,0.59106,0.60877,0.38469
-"HUAXX",2022,12,0.31129024038122644,0,false,"complete","complete",0.30345,0.35968,0.30433,0.24022
-"HUAXX",2023,12,0.2564391900733327,0,false,"complete","complete",0.20726,0.18599,0.25172,0.29957
-"HUAXX",2024,12,0.5665949570875118,0,true,"complete","complete",0.51384,0.57989,0.5451,0.61249
-"HUAXX",2025,5,0.5315659024686387,0,true,"YTD","current-year",0.55641,0.51455,-1,-1
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
+"HUAXX",2020,1,,,false,"YTD","incomplete",-1,-1,-1,-1,"1031"
+"HUAXX",2021,12,0.38884254381387245,0,false,"complete","incomplete",0.64022,0.59106,0.60877,0.38469,"1031"
+"HUAXX",2022,12,0.31129024038122644,0,false,"complete","complete",0.30345,0.35968,0.30433,0.24022,"1031"
+"HUAXX",2023,12,0.2564391900733327,0,false,"complete","complete",0.20726,0.18599,0.25172,0.29957,"1031"
+"HUAXX",2024,12,0.5665949570875118,0,true,"complete","complete",0.51384,0.57989,0.5451,0.61249,"1031"
+"HUAXX",2025,5,0.5315659024686387,0,true,"YTD","current-year",0.55641,0.51455,-1,-1,"1031"

@@ -1,7 +1,7 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
-"SNYXX",2020,4,0,1,true,"YTD","complete",-1,-1,0,0
-"SNYXX",2021,12,0,1,true,"complete","complete",0,0,0,0
-"SNYXX",2022,12,0.03159352709483829,0.9684064729051618,false,"complete","complete",0,0.01883,0,0.10088
-"SNYXX",2023,12,0.01612138545948488,0.9838786145405152,false,"complete","complete",0,0,0,0
-"SNYXX",2024,12,0,1,false,"complete","complete",0,0,0,0
-"SNYXX",2025,5,0,1,false,"YTD","current-year",0,-1,-1,-1
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
+"SNYXX",2020,4,0,1,true,"YTD","complete",-1,-1,0,0,"1231"
+"SNYXX",2021,12,0,1,true,"complete","complete",0,0,0,0,"1231"
+"SNYXX",2022,12,0.03159352709483829,0.9684064729051618,false,"complete","complete",0,0.01883,0,0.10088,"1231"
+"SNYXX",2023,12,0.01612138545948488,0.9838786145405152,false,"complete","complete",0,0,0,0,"1231"
+"SNYXX",2024,12,0,1,false,"complete","complete",0,0,0,0,"1231"
+"SNYXX",2025,5,0,1,false,"YTD","current-year",0,-1,-1,-1,"1231"

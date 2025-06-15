@@ -1,8 +1,8 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
-"FTIXX",2019,1,1,0,false,"YTD","incomplete",-1,-1,-1,-1
-"FTIXX",2020,12,1,0,false,"complete","incomplete",1,1,1,1
-"FTIXX",2021,12,1,0,true,"complete","complete",1,1,1,1
-"FTIXX",2022,12,1,0,true,"complete","complete",1,1,1,1
-"FTIXX",2023,12,1,0,true,"complete","complete",1,1,1,1
-"FTIXX",2024,12,1,0,true,"complete","complete",1,1,1,1
-"FTIXX",2025,5,1,0,true,"YTD","current-year",1,1,-1,-1
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
+"FTIXX",2019,1,1,0,false,"YTD","incomplete",-1,-1,-1,-1,"1031"
+"FTIXX",2020,12,1,0,false,"complete","incomplete",1,1,1,1,"1031"
+"FTIXX",2021,12,1,0,true,"complete","complete",1,1,1,1,"1031"
+"FTIXX",2022,12,1,0,true,"complete","complete",1,1,1,1,"1031"
+"FTIXX",2023,12,1,0,true,"complete","complete",1,1,1,1,"1031"
+"FTIXX",2024,12,1,0,true,"complete","complete",1,1,1,1,"1031"
+"FTIXX",2025,5,1,0,true,"YTD","current-year",1,1,-1,-1,"1031"

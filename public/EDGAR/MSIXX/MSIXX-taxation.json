@@ -10,6 +10,7 @@
     "qTwoPct": -1,
     "qThreePct": -1,
     "qFourPct": -1,
+    "fiscalYearEnd": "0531",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -25,6 +26,7 @@
     "qTwoPct": 0.62961,
     "qThreePct": 0.62409,
     "qFourPct": 0.60004,
+    "fiscalYearEnd": "0531",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -40,6 +42,7 @@
     "qTwoPct": 0.55069,
     "qThreePct": 0.5825,
     "qFourPct": 0.66291,
+    "fiscalYearEnd": "0531",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "complete"
@@ -55,6 +58,7 @@
     "qTwoPct": 0.49893,
     "qThreePct": 0.57127,
     "qFourPct": 0.59033,
+    "fiscalYearEnd": "0531",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
@@ -70,6 +74,7 @@
     "qTwoPct": 0.49984,
     "qThreePct": 0.46043,
     "qFourPct": 0.39039,
+    "fiscalYearEnd": "0531",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
@@ -85,6 +90,7 @@
     "qTwoPct": 0.63648,
     "qThreePct": 0.506,
     "qFourPct": 0.57138,
+    "fiscalYearEnd": "0531",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
@@ -100,8 +106,9 @@
     "qTwoPct": -1,
     "qThreePct": 0.49922,
     "qFourPct": 0.59421,
+    "fiscalYearEnd": "0531",
     "estimateType": "YTD",
-    "fiftyPctRule": false,
+    "fiftyPctRule": true,
     "fiftyPctHistory": "current-year"
   }
 ]

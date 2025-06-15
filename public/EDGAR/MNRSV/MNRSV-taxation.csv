@@ -1,8 +1,8 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
-"MNRSV",2019,1,0.68355,0,true,"YTD","complete",-1,-1,-1,0.68355
-"MNRSV",2020,12,0.6682244278636141,0,true,"complete","complete",0.6888,0.66312,0.68896,0.75388
-"MNRSV",2021,12,0.6641389052920202,0,true,"complete","complete",0.70588,0.72311,0.562,0.64207
-"MNRSV",2022,12,0.5857425598789345,0,false,"complete","complete",0.63066,0.53952,0.60358,0.4958
-"MNRSV",2023,12,0.5702751017498885,0,true,"complete","complete",0.54735,0.55693,0.56526,0.64181
-"MNRSV",2024,12,0.6449494057052791,0,true,"complete","complete",0.56771,0.65989,0.67767,0.59007
-"MNRSV",2025,5,0.5877193770005641,0,true,"YTD","current-year",0.58037,-1,-1,-1
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
+"MNRSV",2019,1,0.68355,0,true,"YTD","complete",-1,-1,-1,0.68355,"1231"
+"MNRSV",2020,12,0.6682244278636141,0,true,"complete","complete",0.6888,0.66312,0.68896,0.75388,"1231"
+"MNRSV",2021,12,0.6641389052920202,0,true,"complete","complete",0.70588,0.72311,0.562,0.64207,"1231"
+"MNRSV",2022,12,0.5857425598789345,0,false,"complete","complete",0.63066,0.53952,0.60358,0.4958,"1231"
+"MNRSV",2023,12,0.5702751017498885,0,true,"complete","complete",0.54735,0.55693,0.56526,0.64181,"1231"
+"MNRSV",2024,12,0.6449494057052791,0,true,"complete","complete",0.56771,0.65989,0.67767,0.59007,"1231"
+"MNRSV",2025,5,0.5877193770005641,0,true,"YTD","current-year",0.58037,-1,-1,-1,"1231"

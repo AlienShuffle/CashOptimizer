@@ -1,8 +1,8 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
-"VMFXX",2019,1,0.86859,0,false,"YTD","incomplete",-1,-1,-1,-1
-"VMFXX",2020,12,0.9162248286219996,0,false,"complete","incomplete",0.98584,0.81349,0.89297,0.93673
-"VMFXX",2021,12,0.8128096966709426,0,false,"complete","complete",0.49767,0.98884,0.9899,0.75965
-"VMFXX",2022,12,0.4387670082546543,0,false,"complete","complete",0.4124,0.56373,0.41648,0.35974
-"VMFXX",2023,12,0.5068309649866141,0,false,"complete","complete",0.61703,0.43317,0.40386,0.58053
-"VMFXX",2024,12,0.6103589563960952,0,true,"complete","complete",0.69525,0.63814,0.59007,0.57812
-"VMFXX",2025,5,0.6724394265842563,0,true,"YTD","current-year",-1,0.66599,0.67526,-1
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
+"VMFXX",2019,1,0.86859,0,false,"YTD","incomplete",-1,-1,-1,-1,"0831"
+"VMFXX",2020,12,0.9162248286219996,0,false,"complete","incomplete",0.98584,0.81349,0.89297,0.93673,"0831"
+"VMFXX",2021,12,0.8128096966709426,0,false,"complete","complete",0.49767,0.98884,0.9899,0.75965,"0831"
+"VMFXX",2022,12,0.4387670082546543,0,false,"complete","complete",0.4124,0.56373,0.41648,0.35974,"0831"
+"VMFXX",2023,12,0.5068309649866141,0,false,"complete","complete",0.61703,0.43317,0.40386,0.58053,"0831"
+"VMFXX",2024,12,0.6103589563960952,0,false,"complete","complete",0.69525,0.63814,0.59007,0.57812,"0831"
+"VMFXX",2025,5,0.6724394265842563,0,true,"YTD","current-year",-1,0.66599,0.67526,-1,"0831"

@@ -1,5 +1,5 @@
-ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
-"FAYXX",2022,4,0,1,false,"YTD","incomplete",-1,-1,-1,0
-"FAYXX",2023,12,0,1,false,"complete","incomplete",0,0,0,0
-"FAYXX",2024,12,0,1,false,"complete","complete",0,0,0,0
-"FAYXX",2025,5,0,1,false,"YTD","current-year",0,0,-1,-1
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct,fiscalYearEnd
+"FAYXX",2022,4,0,1,false,"YTD","incomplete",-1,-1,-1,0,"1130"
+"FAYXX",2023,12,0,1,false,"complete","incomplete",0,0,0,0,"1130"
+"FAYXX",2024,12,0,1,false,"complete","complete",0,0,0,0,"1130"
+"FAYXX",2025,5,0,1,false,"YTD","current-year",0,0,-1,-1,"1130"
