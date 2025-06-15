@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SNAXX",
+    "year": 2019,
+    "months": 1,
+    "assets": 47176185683.63,
+    "usgo": 0,
+    "muni": 0.00207,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SNAXX",
     "year": 2020,
     "months": 12,
     "assets": 43300271338.49917,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

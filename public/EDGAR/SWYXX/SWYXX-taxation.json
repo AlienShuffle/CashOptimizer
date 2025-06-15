@@ -1,16 +1,31 @@
 [
   {
     "ticker": "SWYXX",
+    "year": 2019,
+    "months": 1,
+    "assets": 1451324108,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWYXX",
     "year": 2020,
-    "months": 11,
-    "assets": 928502514.7545453,
+    "months": 12,
+    "assets": 973324761.1858333,
     "usgo": 0,
     "muni": 1,
     "qOnePct": 0,
     "qTwoPct": 0,
     "qThreePct": 0,
     "qFourPct": 0,
-    "estimateType": "YTD",
+    "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "complete"
   },
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

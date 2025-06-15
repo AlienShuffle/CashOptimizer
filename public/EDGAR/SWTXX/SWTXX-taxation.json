@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SWTXX",
+    "year": 2019,
+    "months": 1,
+    "assets": 2654257739.87,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWTXX",
     "year": 2020,
     "months": 12,
     "assets": 2432690365.244167,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

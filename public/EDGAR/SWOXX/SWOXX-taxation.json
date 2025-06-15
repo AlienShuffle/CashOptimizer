@@ -1,6 +1,21 @@
 [
   {
     "ticker": "SWOXX",
+    "year": 2019,
+    "months": 1,
+    "assets": 12932044443.8,
+    "usgo": 0,
+    "muni": 1,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWOXX",
     "year": 2020,
     "months": 12,
     "assets": 11557636226.043335,
@@ -26,7 +41,7 @@
     "qThreePct": 0,
     "qFourPct": 0,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {

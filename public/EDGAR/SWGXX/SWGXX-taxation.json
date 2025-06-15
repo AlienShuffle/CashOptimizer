@@ -1,16 +1,31 @@
 [
   {
     "ticker": "SWGXX",
+    "year": 2019,
+    "months": 1,
+    "assets": 12433386643.37,
+    "usgo": 0.52534,
+    "muni": 0,
+    "qOnePct": -1,
+    "qTwoPct": -1,
+    "qThreePct": -1,
+    "qFourPct": 0.52534,
+    "estimateType": "YTD",
+    "fiftyPctRule": true,
+    "fiftyPctHistory": "complete"
+  },
+  {
+    "ticker": "SWGXX",
     "year": 2020,
-    "months": 11,
-    "assets": 17215879099.918182,
-    "usgo": 0.6556528805334402,
-    "muni": 0.023910298835988428,
+    "months": 12,
+    "assets": 16784999092.095835,
+    "usgo": 0.6505270785038622,
+    "muni": 0.022480415047944357,
     "qOnePct": 0.59441,
     "qTwoPct": 0.71649,
     "qThreePct": 0.72805,
     "qFourPct": 0.53814,
-    "estimateType": "YTD",
+    "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "complete"
   },
@@ -26,7 +41,7 @@
     "qThreePct": 0.26715,
     "qFourPct": 0.3164,
     "estimateType": "complete",
-    "fiftyPctRule": true,
+    "fiftyPctRule": false,
     "fiftyPctHistory": "complete"
   },
   {
