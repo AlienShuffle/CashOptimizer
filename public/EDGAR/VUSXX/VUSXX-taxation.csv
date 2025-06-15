@@ -1,0 +1,8 @@
+ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,qOnePct,qTwoPct,qThreePct,qFourPct
+"VUSXX",2019,1,1,0,false,"YTD","incomplete",-1,-1,-1,-1
+"VUSXX",2020,12,1,0,false,"complete","incomplete",1,1,1,1
+"VUSXX",2021,12,1,0,true,"complete","complete",1,1,1,1
+"VUSXX",2022,12,1,0,true,"complete","complete",1,1,1,1
+"VUSXX",2023,12,0.8110628210900874,0,true,"complete","complete",0.97243,0.75715,0.51264,0.9638
+"VUSXX",2024,12,1,0,true,"complete","complete",1,1,1,1
+"VUSXX",2025,5,1,0,true,"YTD","current-year",-1,1,1,-1
