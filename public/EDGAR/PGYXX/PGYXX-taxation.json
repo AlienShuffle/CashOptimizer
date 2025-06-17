@@ -1,19 +1,35 @@
 [
   {
     "ticker": "PGYXX",
-    "year": 2020,
-    "months": 9,
-    "assets": 520870877.2,
-    "usgo": 0.40079,
+    "year": 2019,
+    "months": 1,
+    "assets": 522384099.01,
+    "usgo": 0.04954,
     "muni": 0,
     "q1Pct": -1,
-    "q2Pct": 0.3739,
-    "q3Pct": 0.31539,
-    "q4Pct": 0.39644,
-    "timestamp": "2025-06-17T21:13:48.155Z",
+    "q2Pct": -1,
+    "q3Pct": -1,
+    "q4Pct": 0.04954,
+    "timestamp": "2025-06-17T21:59:25.130Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "PGYXX",
+    "year": 2020,
+    "months": 12,
+    "assets": 521807871.08,
+    "usgo": 0.3175,
+    "muni": 0,
+    "q1Pct": 0.1269,
+    "q2Pct": 0.3739,
+    "q3Pct": 0.31539,
+    "q4Pct": 0.39644,
+    "timestamp": "2025-06-17T21:59:25.130Z",
+    "estimateType": "complete",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "missing fiscal year"
   },
   {
     "ticker": "PGYXX",
@@ -26,7 +42,7 @@
     "q2Pct": 0.3171,
     "q3Pct": 0.16382,
     "q4Pct": 0.28033,
-    "timestamp": "2025-06-17T21:13:48.155Z",
+    "timestamp": "2025-06-17T21:59:25.130Z",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "missing fiscal year"
@@ -42,7 +58,7 @@
     "q2Pct": 0.13913,
     "q3Pct": 0.11107,
     "q4Pct": 0.01167,
-    "timestamp": "2025-06-17T21:13:48.155Z",
+    "timestamp": "2025-06-17T21:59:25.130Z",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "missing fiscal year"
@@ -58,7 +74,7 @@
     "q2Pct": 0.09859,
     "q3Pct": 0.0442,
     "q4Pct": 0,
-    "timestamp": "2025-06-17T21:13:48.155Z",
+    "timestamp": "2025-06-17T21:59:25.130Z",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "missing fiscal year"
@@ -74,7 +90,7 @@
     "q2Pct": 0.02579,
     "q3Pct": 0,
     "q4Pct": 0,
-    "timestamp": "2025-06-17T21:13:48.155Z",
+    "timestamp": "2025-06-17T21:59:25.130Z",
     "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "missing fiscal year"
@@ -90,7 +106,7 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2025-06-17T21:13:48.155Z",
+    "timestamp": "2025-06-17T21:59:25.130Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "current-year"
