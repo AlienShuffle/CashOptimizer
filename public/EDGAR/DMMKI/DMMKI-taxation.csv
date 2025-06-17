@@ -1,8 +1,8 @@
 ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
-"DMMKI",2019,1,0.67429,0,false,"YTD","incomplete",-1,-1,-1,0.67429,"1231"
-"DMMKI",2020,12,0.65576,0,true,"complete","complete",0.68824,0.58651,0.64829,0.77568,"1231"
-"DMMKI",2021,12,0.63466,0,false,"complete","complete",0.69221,0.71911,0.60654,0.64889,"1231"
-"DMMKI",2022,12,0.52913,0,false,"complete","complete",0.53136,0.49208,0.57804,0.52818,"1231"
-"DMMKI",2023,12,0.48487,0,false,"complete","complete",0.46597,0.42943,0.41733,0.69084,"1231"
-"DMMKI",2024,12,0.66834,0,true,"complete","complete",0.57732,0.68238,0.69267,0.63972,"1231"
-"DMMKI",2025,5,0.60584,0,true,"YTD","current-year",0.57029,-1,-1,-1,"1231"
+"DMMKI",2019,1,0.67429,0,false,"YTD","incomplete",-1,-1,-1,0.67429,
+"DMMKI",2020,12,0.65576,0,true,"complete","missing fiscal year",0.68824,0.58651,0.64829,0.77568,
+"DMMKI",2021,12,0.63466,0,false,"complete","missing fiscal year",0.69221,0.71911,0.60654,0.64889,
+"DMMKI",2022,12,0.52913,0,false,"complete","missing fiscal year",0.53136,0.49208,0.57804,0.52818,
+"DMMKI",2023,12,0.48487,0,false,"complete","missing fiscal year",0.46597,0.42943,0.41733,0.69084,
+"DMMKI",2024,12,0.66834,0,true,"complete","missing fiscal year",0.57732,0.68238,0.69267,0.63972,
+"DMMKI",2025,5,0.60584,0,true,"YTD","current-year",0.57029,-1,-1,-1,
