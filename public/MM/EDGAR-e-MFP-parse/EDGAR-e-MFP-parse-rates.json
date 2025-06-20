@@ -1,18 +1,506 @@
 [
   {
-    "asOfDate": "2019-12-31",
-    "price": 1,
-    "sevenDayYield": 0.0152,
-    "source": "EDGAR MFP-2",
-    "ticker": "BRIXX",
-    "timestamp": "2025-06-17T22:07:29.710Z"
+    "asOfDate": "2024-08-02",
+    "price": 1.0002,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
   },
   {
-    "asOfDate": "2019-12-31",
-    "price": 1,
-    "sevenDayYield": 0.0155,
-    "source": "EDGAR MFP-2",
-    "ticker": "XTSLA",
-    "timestamp": "2025-06-17T22:07:29.710Z"
+    "asOfDate": "2024-08-02",
+    "price": 1.0002,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-02",
+    "price": 1.0002,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-05",
+    "price": 1.0002,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-05",
+    "price": 1.0002,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-05",
+    "price": 1.0002,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-06",
+    "price": 1.0002,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-06",
+    "price": 1.0002,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-06",
+    "price": 1.0002,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-07",
+    "price": 1.0001,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-07",
+    "price": 1.0001,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-07",
+    "price": 1.0001,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-08",
+    "price": 1.0001,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-08",
+    "price": 1.0001,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-08",
+    "price": 1.0001,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-09",
+    "price": 1.0001,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-09",
+    "price": 1.0001,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-09",
+    "price": 1.0001,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-12",
+    "price": 1.0001,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-12",
+    "price": 1.0001,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-12",
+    "price": 1.0001,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-13",
+    "price": 1.0002,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-13",
+    "price": 1.0002,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-13",
+    "price": 1.0002,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-14",
+    "price": 1.0002,
+    "sevenDayYield": 0.0492,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-14",
+    "price": 1.0002,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-14",
+    "price": 1.0001,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-15",
+    "price": 1.0001,
+    "sevenDayYield": 0.0493,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-15",
+    "price": 1.0001,
+    "sevenDayYield": 0.0502,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-15",
+    "price": 1.0001,
+    "sevenDayYield": 0.0517,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-16",
+    "price": 1.0001,
+    "sevenDayYield": 0.0491,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-16",
+    "price": 1.0001,
+    "sevenDayYield": 0.0501,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-16",
+    "price": 1.0001,
+    "sevenDayYield": 0.0516,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-19",
+    "price": 1.0001,
+    "sevenDayYield": 0.0491,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-19",
+    "price": 1.0001,
+    "sevenDayYield": 0.0501,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-19",
+    "price": 1.0001,
+    "sevenDayYield": 0.0516,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-20",
+    "price": 1.0001,
+    "sevenDayYield": 0.0491,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-20",
+    "price": 1.0001,
+    "sevenDayYield": 0.0501,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-20",
+    "price": 1.0001,
+    "sevenDayYield": 0.0516,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-21",
+    "price": 1.0002,
+    "sevenDayYield": 0.049,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-21",
+    "price": 1.0002,
+    "sevenDayYield": 0.05,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-21",
+    "price": 1.0002,
+    "sevenDayYield": 0.0515,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-22",
+    "price": 1.0001,
+    "sevenDayYield": 0.0489,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-22",
+    "price": 1.0001,
+    "sevenDayYield": 0.0499,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-22",
+    "price": 1.0001,
+    "sevenDayYield": 0.0514,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-23",
+    "price": 1.0001,
+    "sevenDayYield": 0.0489,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-23",
+    "price": 1.0001,
+    "sevenDayYield": 0.0499,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-23",
+    "price": 1.0001,
+    "sevenDayYield": 0.0514,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-26",
+    "price": 1.0002,
+    "sevenDayYield": 0.0489,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-26",
+    "price": 1.0002,
+    "sevenDayYield": 0.0499,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-26",
+    "price": 1.0002,
+    "sevenDayYield": 0.0514,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-27",
+    "price": 1.0002,
+    "sevenDayYield": 0.0489,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-27",
+    "price": 1.0002,
+    "sevenDayYield": 0.0499,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-27",
+    "price": 1.0002,
+    "sevenDayYield": 0.0514,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-28",
+    "price": 1.0002,
+    "sevenDayYield": 0.049,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-28",
+    "price": 1.0002,
+    "sevenDayYield": 0.05,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-28",
+    "price": 1.0002,
+    "sevenDayYield": 0.0515,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-29",
+    "price": 1.0002,
+    "sevenDayYield": 0.049,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-29",
+    "price": 1.0002,
+    "sevenDayYield": 0.05,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-29",
+    "price": 1.0002,
+    "sevenDayYield": 0.0515,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-30",
+    "price": 1.0001,
+    "sevenDayYield": 0.049,
+    "source": "EDGAR MFP-3",
+    "ticker": "SWGXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-30",
+    "price": 1.0001,
+    "sevenDayYield": 0.05,
+    "source": "EDGAR MFP-3",
+    "ticker": "SNVXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
+  },
+  {
+    "asOfDate": "2024-08-30",
+    "price": 1.0001,
+    "sevenDayYield": 0.0515,
+    "source": "EDGAR MFP-3",
+    "ticker": "SGUXX",
+    "timestamp": "2025-06-20T02:38:03.866Z"
   }
 ]
