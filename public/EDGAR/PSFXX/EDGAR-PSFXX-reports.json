@@ -9,6 +9,48 @@
     "expenseRatio": 0.0017,
     "fiscalYearEnd": "1031",
     "category": "Government",
+    "totalNetAssets": 2103193.34,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 3000000,
+    "wam": 44,
+    "wal": 101,
+    "reportDate": "2025-07-31",
+    "yield": 0.0421,
+    "yieldDate": "2025-07-31",
+    "usTreasuryDebt": 0.38506,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0.1428,
+    "usGovernmentAgencyZeroCouponDebt": 0.00124,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0.33001,
+    "usGovernmentAgencyRepurchaseAgreement": 0.14089,
+    "otherRepurchaseAgreement": 0,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0,
+    "nonFinancialCompanyCommercialPaper": 0,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0,
+    "USGO": 0.5291,
+    "Muni": 0,
+    "filingDate": "2025-08-06",
+    "timestamp": "2025-08-06T18:54:39.022Z"
+  },
+  {
+    "ticker": "PSFXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Blackrock Liquidity Funds",
+    "seriesName": "Fedfund",
+    "className": "Penserra Shares",
+    "mmName": "Blackrock Liquid Fedfund Series Penserra Shares",
+    "expenseRatio": "",
+    "fiscalYearEnd": "1031",
+    "category": "Government",
     "totalNetAssets": 5101632.29,
     "investorType": "Institutional",
     "minimumInitialInvestment": 3000000,
@@ -39,7 +81,7 @@
     "USGO": 0.52872,
     "Muni": 0,
     "filingDate": "2025-07-07",
-    "timestamp": "2025-07-12T18:57:58.726Z"
+    "timestamp": "2025-07-07T17:55:13.265Z"
   },
   {
     "ticker": "PSFXX",
@@ -81,7 +123,7 @@
     "USGO": 0.53885,
     "Muni": 0,
     "filingDate": "2025-06-06",
-    "timestamp": "2025-06-16T19:50:11.374Z"
+    "timestamp": "2025-06-18T00:21:29.710Z"
   },
   {
     "ticker": "PSFXX",
@@ -123,7 +165,7 @@
     "USGO": 0.51455,
     "Muni": 0,
     "filingDate": "2025-06-26",
-    "timestamp": "2025-07-12T18:57:49.227Z"
+    "timestamp": "2025-06-27T04:34:34.811Z"
   },
   {
     "ticker": "PSFXX",
@@ -165,7 +207,7 @@
     "USGO": 0.51769,
     "Muni": 0,
     "filingDate": "2025-06-26",
-    "timestamp": "2025-07-12T18:58:12.732Z"
+    "timestamp": "2025-06-27T04:34:42.904Z"
   },
   {
     "ticker": "PSFXX",
@@ -207,7 +249,7 @@
     "USGO": 0.51923,
     "Muni": 0,
     "filingDate": "2025-03-06",
-    "timestamp": "2025-06-16T19:50:37.080Z"
+    "timestamp": "2025-06-18T00:20:28.046Z"
   },
   {
     "ticker": "PSFXX",
@@ -249,7 +291,7 @@
     "USGO": 0.55641,
     "Muni": 0,
     "filingDate": "2025-02-06",
-    "timestamp": "2025-06-16T19:49:42.241Z"
+    "timestamp": "2025-06-18T00:21:04.387Z"
   },
   {
     "ticker": "PSFXX",
@@ -291,7 +333,7 @@
     "USGO": 0.58838,
     "Muni": 0,
     "filingDate": "2025-01-07",
-    "timestamp": "2025-06-16T19:50:23.259Z"
+    "timestamp": "2025-06-18T00:21:11.083Z"
   },
   {
     "ticker": "PSFXX",
@@ -333,7 +375,7 @@
     "USGO": 0.62813,
     "Muni": 0,
     "filingDate": "2025-06-26",
-    "timestamp": "2025-07-12T18:58:07.691Z"
+    "timestamp": "2025-06-27T04:34:40.209Z"
   },
   {
     "ticker": "PSFXX",
@@ -375,7 +417,7 @@
     "USGO": 0.61249,
     "Muni": 0,
     "filingDate": "2024-11-06",
-    "timestamp": "2025-06-16T19:50:19.595Z"
+    "timestamp": "2025-06-18T00:20:19.492Z"
   },
   {
     "ticker": "PSFXX",
@@ -417,7 +459,7 @@
     "USGO": 0.58401,
     "Muni": 0,
     "filingDate": "2024-10-21",
-    "timestamp": "2025-06-16T19:49:43.108Z"
+    "timestamp": "2025-06-18T00:21:19.454Z"
   },
   {
     "ticker": "PSFXX",
@@ -459,6 +501,6 @@
     "USGO": 0.53645,
     "Muni": 0,
     "filingDate": "2024-10-21",
-    "timestamp": "2025-06-16T19:49:55.243Z"
+    "timestamp": "2025-06-18T00:20:35.604Z"
   }
 ]
