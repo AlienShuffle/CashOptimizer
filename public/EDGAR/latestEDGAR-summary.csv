@@ -22,7 +22,7 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0345,"BTRXX","T-fund Cash Reserve","Government",5000,40,93,"",50805747.74,"2025-11-28","2025-11-30",0.54099,0
 0.0375,"BUCXX","Blackrock Liquidity Funds Treasury Trust Fund Capital Shares","Government",50000,53,108,0.0022,1718765807.57,"2025-11-28","2025-11-30",1,0
 0.0386,"BUPXX","Blackrock Liquidity Funds Fedfund Premier Shares","Government",3000000,39,103,0.0017,3625987103.41,"2025-11-28","2025-11-30",0.58609,0
-0.0351,"CPFXX","American Century Capital Preservation Fund Investor Class","Government",2500,44,69,0.0048,2266782177.75,"2025-11-28","2025-11-30",1,0
+0.0351,"CPFXX","American Century Capital Preservation Fund Investor Class","Government",2500,44,69,0.0047,2266782177.75,"2025-11-28","2025-11-30",1,0
 0.0373,"DMMKI","Blackrock Government MM V.i. Fund Institutional","Government",1,39,106,"",189986267.02,"2025-11-28","2025-11-30",0.66237,0
 0.0382,"EDUXX","Blackrock Liquid Federal Trust Fund Mischler Financial Group Shares","Government",3000000,27,27,0.0017,4986706.47,"2025-11-28","2025-11-30",0.8634,0
 0.0382,"EVEXX","Blackrock Liquid Federal Trust Fund Tigress Shares","Government",3000000,27,27,0.0017,25810710.48,"2025-11-28","2025-11-30",0.8634,0
@@ -83,7 +83,7 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0359,"FZFXX","Fidelity Treasury MM","Government",1,39,105,0.0042,38877285930.65,"2025-11-28","2025-11-30",0.71161,0
 0.0332,"FZGXX","Fidelity Government MM Advisor Cl M","Government",1,38,90,0.007,219170882.74,"2025-11-28","2025-11-30",0.62219,0
 0.0388,"GABXX","Gabelli US Treasury MM Class I","Government",10000,49,52,0.0008,5488967551.06,"2025-11-28","2025-11-28",1,0
-0.038,"GMMF","Ishares Government MM ETF I","Government",0.01,37,93,"",87446138.96,"2025-11-28","2025-11-30",0.57314,0
+0.038,"GMMF","Ishares Government MM ETF","Government",0.01,37,93,0.002,87446138.96,"2025-11-28","2025-11-30",0.57314,0
 0.0387,"GOFXX","Federated Hermes Govt Obl Premier","Government",5000000,39,95,0.0015,103039431217.6,"2025-11-28","2025-11-28",0.50341,0
 0.0382,"GOIXX","Federated Hermes Govt Obl Is","Government",500000,39,95,0.002,35481410893.49,"2025-11-28","2025-11-28",0.50341,0
 0.0378,"GOTXX","Federated Hermes Govt Obl Tx-mgd Is","Government",500000,47,95,0.002,3834831998.68,"2025-11-28","2025-11-28",1,0
@@ -94,7 +94,7 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0386,"HUAXX","Blackrock Liquidity Funds Fedfund Mischler Financial Group Shares","Government",3000000,39,103,0.0017,2308308123.62,"2025-11-28","2025-11-30",0.58609,0
 0.0288,"MCBXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Investor C Shares","Government",1000,38,104,0.0117,1371614.93,"2025-11-28","2025-11-30",0.61512,0
 0.0261,"MCSXX","Blackrock Liquidity Funds Municash Institutional Shares","Muni",3000000,6,6,0.0021,3499799875.54,"2025-11-28","2025-11-30",0,1
-0.0392,"MMKT","Texas Capital Government MM ETF","Government",0.01,45,45,"",65139503.23,"2025-11-28","2025-11-30",0.86871,0
+0.0392,"MMKT","Texas Capital Government MM ETF","Government",0.01,45,45,0.002,65139503.23,"2025-11-28","2025-11-30",0.86871,0
 0.036,"MNRSV","Blackrock Government MM Portfolio","Government",1,36,108,"",109440713.59,"2025-11-28","2025-11-30",0.67026,0
 0.0363,"MSAXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Investor A Shares","Government",1000,38,104,0.0042,1017105051.78,"2025-11-28","2025-11-30",0.61512,0
 0.0363,"MSIXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Institutional","Government",2000000,38,104,0.0042,130770862.13,"2025-11-28","2025-11-30",0.61512,0
@@ -107,12 +107,14 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0366,"PNPXX","Blackrock Wealth Liquid Environmentally Aware Fund Service Shares","Prime",5000,36,62,0.005,193344317.84,"2025-11-28","2025-11-30",0.00978,0.00278
 0.0398,"POIXX","Federated Hermes Instl Prime Obl Is","Prime",500000,49,71,0.002,15616039084.24,"2025-11-28","2025-11-28",0,0.02311
 0.0386,"PSFXX","Blackrock Liquidity Funds Fedfund Penserra Shares","Government",3000000,39,103,0.0017,105442,"2025-11-28","2025-11-30",0.58609,0
+0.0532,"PVOXX",,"Prime",500000,0,0,0,0,"2024-07-19","2024-07-31",,
+0.0387,"SBIL","Simplify Government MM ETF","Government",1,46,117,0.0015,4213992234.32,"2025-11-28","2025-11-30",0.90086,0
 0.0386,"SBIXX","Blackrock Liquidity Funds Fedfund Stern Brothers Shares","Government",3000000,39,103,0.0017,13960272.26,"2025-11-28","2025-11-30",0.58609,0
 0.0215,"SCAXX","Schwab California Municipal MM Ultra Shares","SingleState",1000000,30,31,0.0019,6561441454.61,"2025-11-28","2025-11-30",0,1
 0.0385,"SCOXX","Schwab Treasury Obligations MM Ultra Shares","Government",1000000,37,86,0.0019,36018750891.01,"2025-11-28","2025-11-30",0.3874,0
 0.0263,"SCTXX","Schwab Amt Tax-free MM Ultra Shares","Muni",1000000,33,35,0.0019,2929670654.03,"2025-11-28","2025-11-30",0,1
 0.0386,"SGUXX","Schwab Government MM Ultra Shares","Government",1000000,40,105,0.0019,33625695351.52,"2025-11-28","2025-11-30",0.43876,0.00215
-0.0374,"SGVT","Schwab Government MM ETF","Government",1000000,37,86,"",408857550.13,"2025-11-28","2025-11-30",0.44411,0
+0.0374,"SGVT","Schwab Government MM ETF","Government",1000000,37,86,0.0028,408857550.13,"2025-11-28","2025-11-30",0.44411,0
 0.0382,"SIGXX","Blackrock Liquid Federal Trust Fund Stern Brothers Shares","Government",3000000,27,27,0.0017,200141765,"2025-11-28","2025-11-30",0.8634,0
 0.0398,"SNAXX","Schwab Prime Advantage MM Ultra Shares","Prime",1000000,26,51,0.0019,139928795580.99,"2025-11-28","2025-11-30",0,0.00639
 0.037,"SNOXX","Schwab Treasury Obligations MM Investor","Government",0,37,86,0.0034,37415366352.11,"2025-11-28","2025-11-30",0.3874,0
