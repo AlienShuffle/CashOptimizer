@@ -27,15 +27,6 @@
     "timestamp": "2025-12-17T05:25:23.425Z"
   },
   {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "NaN-NaN-NaN",
-    "price": 75.15,
-    "thirtyDayYield": 0,
-    "source": "Vanguard.com ETF",
-    "ticker": "BNDP",
-    "timestamp": "2025-12-17T05:25:23.425Z"
-  },
-  {
     "accountType": "Total World Bond ETF",
     "asOfDate": "2025-11-30",
     "price": 69.52,
@@ -75,6 +66,45 @@
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "MUNY",
     "timestamp": "2025-12-20T07:07:26.528Z"
+  },
+  {
+    "asOfDate": "2025-12-19",
+    "price": 100.271126,
+    "thirtyDayYield": 0.03777,
+    "twelveMonTrlYield": 0.04141,
+    "source": "BlackRock",
+    "fundName": "iShares 0-3 Month Treasury Bond ETF",
+    "blackRockId": 314116,
+    "baseUrl": "https://www.blackrock.com/us/individual/products/314116",
+    "distroUrl": "https://www.blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
+    "ticker": "SGOV",
+    "timestamp": "2025-12-21T19:27:49.733Z"
+  },
+  {
+    "asOfDate": "2025-12-19",
+    "price": 102.234789,
+    "thirtyDayYield": 0.04241,
+    "twelveMonTrlYield": 0.03937,
+    "source": "BlackRock",
+    "fundName": "iShares 0-5 Year TIPS Bond ETF",
+    "blackRockId": 239450,
+    "baseUrl": "https://www.blackrock.com/us/individual/products/239450",
+    "distroUrl": "https://www.blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
+    "ticker": "STIP",
+    "timestamp": "2025-12-21T19:27:49.733Z"
+  },
+  {
+    "asOfDate": "2025-12-19",
+    "price": 109.82693,
+    "thirtyDayYield": 0.0454,
+    "twelveMonTrlYield": 0.0328,
+    "source": "BlackRock",
+    "fundName": "iShares TIPS Bond ETF",
+    "blackRockId": 239467,
+    "baseUrl": "https://www.blackrock.com/us/individual/products/239467",
+    "distroUrl": "https://www.blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
+    "ticker": "TIP",
+    "timestamp": "2025-12-21T19:27:49.733Z"
   },
   {
     "asOfDate": "2025-12-19",
