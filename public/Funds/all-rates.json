@@ -1,12 +1,10 @@
 [
   {
-    "accountType": "Inter-Term Bond ETF",
-    "asOfDate": "2025-12-18",
-    "price": 77.85,
-    "thirtyDayYield": 0.0427,
-    "source": "Vanguard.com ETF",
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0428,
+    "source": "Vanguard.com Distro",
     "ticker": "BIV",
-    "timestamp": "2025-12-21T20:05:05.262Z"
+    "timestamp": "2025-12-23T09:22:38.765Z"
   },
   {
     "accountType": "Long-Term Bond ETF",
@@ -27,13 +25,11 @@
     "timestamp": "2025-12-21T20:05:05.262Z"
   },
   {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "NaN-NaN-NaN",
-    "price": 75.16,
-    "thirtyDayYield": 0,
-    "source": "Vanguard.com ETF",
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0433,
+    "source": "Vanguard.com Inst Price Yield History",
     "ticker": "BNDP",
-    "timestamp": "2025-12-21T20:05:05.262Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
     "accountType": "Total World Bond ETF",
@@ -45,11 +41,11 @@
     "timestamp": "2025-12-21T20:05:05.262Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0312,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0318,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "BNDX",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
     "accountType": "Short-Term Bond ETF",
@@ -70,172 +66,170 @@
     "timestamp": "2025-12-21T20:05:05.262Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0342,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0341,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "MUNY",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-19",
-    "price": 100.271126,
-    "thirtyDayYield": 0.03777,
-    "twelveMonTrlYield": 0.04141,
+    "asOfDate": "2025-12-22",
+    "price": 100.28168,
+    "thirtyDayYield": 0.03784,
+    "twelveMonTrlYield": 0.04105,
     "source": "BlackRock",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
     "blackRockId": 314116,
-    "baseUrl": "https://www.blackrock.com/us/individual/products/314116",
-    "distroUrl": "https://www.blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
+    "baseUrl": "https://blackrock.com/us/individual/products/314116/",
+    "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2025-12-21T19:27:49.733Z"
+    "timestamp": "2025-12-23T09:19:10.087Z"
   },
   {
-    "asOfDate": "2025-12-19",
-    "price": 102.234789,
-    "thirtyDayYield": 0.04241,
-    "twelveMonTrlYield": 0.03937,
+    "asOfDate": "2025-12-22",
+    "price": 102.235281,
+    "thirtyDayYield": 0.04255,
+    "twelveMonTrlYield": 0.04118,
     "source": "BlackRock",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
     "blackRockId": 239450,
-    "baseUrl": "https://www.blackrock.com/us/individual/products/239450",
-    "distroUrl": "https://www.blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
+    "baseUrl": "https://blackrock.com/us/individual/products/239450/",
+    "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2025-12-21T19:27:49.733Z"
+    "timestamp": "2025-12-23T09:19:10.087Z"
   },
   {
-    "asOfDate": "2025-12-19",
-    "price": 109.82693,
-    "thirtyDayYield": 0.0454,
-    "twelveMonTrlYield": 0.0328,
+    "asOfDate": "2025-12-22",
+    "price": 109.728177,
+    "thirtyDayYield": 0.04559,
+    "twelveMonTrlYield": 0.03462,
     "source": "BlackRock",
     "fundName": "iShares TIPS Bond ETF",
     "blackRockId": 239467,
-    "baseUrl": "https://www.blackrock.com/us/individual/products/239467",
-    "distroUrl": "https://www.blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
+    "baseUrl": "https://blackrock.com/us/individual/products/239467/",
+    "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2025-12-21T19:27:49.733Z"
+    "timestamp": "2025-12-23T09:19:10.087Z"
+  },
+  {
+    "asOfDate": "2025-12-22",
+    "price": 50.427,
+    "thirtyDayYield": 0.0375,
+    "source": "Wisdomtree yields",
+    "ticker": "USFR",
+    "timestamp": "2025-12-23T09:22:37.637Z"
   },
   {
     "asOfDate": "2025-12-19",
-    "price": 50.41,
-    "thirtyDayYield": 0.0376,
-    "source": "Wisdomtree yields",
-    "ticker": "USFR",
-    "timestamp": "2025-12-20T11:14:18.904Z"
-  },
-  {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0379,
+    "thirtyDayYield": 0.038,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VBIL",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.0466,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VCEB",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.0478,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VCIT",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.0568,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VCLT",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0439,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.044,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VCRB",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0389,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.039,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VCRM",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0419,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.042,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VCSH",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.0375,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VGIT",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.048,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0479,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VGLT",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0523,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0525,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VGMS",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0356,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0357,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VGSH",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0375,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0376,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VGUS",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.0402,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VMBS",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "accountType": "Core-Plus Bond ETF",
-    "asOfDate": "2025-12-18",
-    "price": 78.07,
-    "thirtyDayYield": 0.0439,
-    "source": "Vanguard.com ETF",
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.044,
+    "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VPLS",
-    "timestamp": "2025-12-21T20:05:05.262Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0429,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0431,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VSDB",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0314,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0315,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VSDM",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
     "accountType": "Total Corporate Bond ETF",
@@ -247,46 +241,46 @@
     "timestamp": "2025-12-21T20:05:05.262Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0349,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.035,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VTEB",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.0314,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VTEC",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0305,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0306,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VTEI",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
-    "thirtyDayYield": 0.0397,
+    "asOfDate": "2025-12-19",
+    "thirtyDayYield": 0.0398,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VTEL",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.0257,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VTES",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
-    "asOfDate": "2025-12-18",
+    "asOfDate": "2025-12-19",
     "thirtyDayYield": 0.039,
     "source": "Vanguard.com Inst Price Yield History",
     "ticker": "VTG",
-    "timestamp": "2025-12-21T20:05:37.137Z"
+    "timestamp": "2025-12-23T09:23:25.431Z"
   },
   {
     "asOfDate": "2025-12-18",
