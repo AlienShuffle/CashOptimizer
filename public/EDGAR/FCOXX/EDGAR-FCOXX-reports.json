@@ -9,6 +9,48 @@
     "expenseRatio": 0.0043,
     "fiscalYearEnd": "0331",
     "category": "Prime",
+    "totalNetAssets": 169413895.98,
+    "investorType": "Retail",
+    "minimumInitialInvestment": 1000000,
+    "wam": 30,
+    "wal": 32,
+    "reportDate": "2025-12-31",
+    "yield": 0.0346,
+    "yieldDate": "2025-12-31",
+    "usTreasuryDebt": 0.25443,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0.06784,
+    "nonNegotiableTimeDeposit": 0.00617,
+    "variableRateDemandNote": 0,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0.01498,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0.27056,
+    "usGovernmentAgencyRepurchaseAgreement": 0.14263,
+    "otherRepurchaseAgreement": 0.08467,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0.14268,
+    "nonFinancialCompanyCommercialPaper": 0,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0.01604,
+    "USGO": 0.25443,
+    "Muni": 0,
+    "filingDate": "2026-01-08",
+    "timestamp": "2026-01-08T15:14:39.439Z"
+  },
+  {
+    "ticker": "FCOXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Fidelity Colchester Street Trust",
+    "seriesName": "Fidelity Investments Money Market Money Market Portfolio",
+    "className": "Fidelity Investments Money Market - Money Market Portfolio - Class Iii",
+    "mmName": "Fidelity Investments MM Money Market Portfolio - Class Iii",
+    "expenseRatio": 0.0043,
+    "fiscalYearEnd": "0331",
+    "category": "Prime",
     "totalNetAssets": 146827441.62,
     "investorType": "Retail",
     "minimumInitialInvestment": 1000000,
@@ -39,7 +81,7 @@
     "USGO": 0.26606,
     "Muni": 0,
     "filingDate": "2025-12-05",
-    "timestamp": "2025-12-12T13:56:05.434Z"
+    "timestamp": "2025-12-21T21:10:40.531Z"
   },
   {
     "ticker": "FCOXX",
@@ -81,7 +123,7 @@
     "USGO": 0.24043,
     "Muni": 0,
     "filingDate": "2025-11-07",
-    "timestamp": "2025-12-12T13:55:54.281Z"
+    "timestamp": "2025-12-21T21:10:47.998Z"
   },
   {
     "ticker": "FCOXX",
@@ -123,7 +165,7 @@
     "USGO": 0.20697,
     "Muni": 0,
     "filingDate": "2025-10-07",
-    "timestamp": "2025-12-12T13:55:57.010Z"
+    "timestamp": "2025-12-21T21:14:05.042Z"
   },
   {
     "ticker": "FCOXX",
@@ -165,7 +207,7 @@
     "USGO": 0.23098,
     "Muni": 0,
     "filingDate": "2025-09-08",
-    "timestamp": "2025-12-12T13:56:03.420Z"
+    "timestamp": "2025-12-21T21:11:10.359Z"
   },
   {
     "ticker": "FCOXX",
@@ -207,7 +249,7 @@
     "USGO": 0.14939,
     "Muni": 0,
     "filingDate": "2025-08-07",
-    "timestamp": "2025-12-12T16:06:19.816Z"
+    "timestamp": "2025-12-21T21:16:30.525Z"
   },
   {
     "ticker": "FCOXX",
@@ -249,7 +291,7 @@
     "USGO": 0.06597,
     "Muni": 0,
     "filingDate": "2025-07-21",
-    "timestamp": "2025-12-12T16:06:21.708Z"
+    "timestamp": "2025-12-21T21:14:32.152Z"
   },
   {
     "ticker": "FCOXX",
@@ -291,7 +333,7 @@
     "USGO": 0.14924,
     "Muni": 0,
     "filingDate": "2025-06-06",
-    "timestamp": "2025-06-16T19:52:52.793Z"
+    "timestamp": "2025-12-21T21:11:58.657Z"
   },
   {
     "ticker": "FCOXX",
@@ -333,7 +375,7 @@
     "USGO": 0.17112,
     "Muni": 0,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-06-16T19:53:03.487Z"
+    "timestamp": "2025-12-21T21:15:21.689Z"
   },
   {
     "ticker": "FCOXX",
@@ -375,7 +417,7 @@
     "USGO": 0.13374,
     "Muni": 0,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-06-16T19:52:51.925Z"
+    "timestamp": "2025-12-21T21:10:44.293Z"
   },
   {
     "ticker": "FCOXX",
@@ -417,7 +459,7 @@
     "USGO": 0.18122,
     "Muni": 0,
     "filingDate": "2025-03-07",
-    "timestamp": "2025-06-16T19:52:34.703Z"
+    "timestamp": "2025-12-21T21:11:16.054Z"
   },
   {
     "ticker": "FCOXX",
@@ -459,7 +501,7 @@
     "USGO": 0.11702,
     "Muni": 0,
     "filingDate": "2025-02-07",
-    "timestamp": "2025-06-16T19:52:53.679Z"
+    "timestamp": "2025-12-21T21:15:24.342Z"
   },
   {
     "ticker": "FCOXX",
@@ -501,7 +543,7 @@
     "USGO": 0.04572,
     "Muni": 0,
     "filingDate": "2025-02-26",
-    "timestamp": "2025-06-16T19:53:04.699Z"
+    "timestamp": "2025-12-21T21:14:48.133Z"
   },
   {
     "ticker": "FCOXX",
@@ -543,7 +585,7 @@
     "USGO": 0.1058,
     "Muni": 0,
     "filingDate": "2025-02-26",
-    "timestamp": "2025-06-16T19:52:39.557Z"
+    "timestamp": "2025-12-21T21:16:29.321Z"
   },
   {
     "ticker": "FCOXX",
@@ -585,7 +627,7 @@
     "USGO": 0.13117,
     "Muni": 0,
     "filingDate": "2025-02-26",
-    "timestamp": "2025-06-16T19:52:53.190Z"
+    "timestamp": "2025-12-21T21:15:05.306Z"
   },
   {
     "ticker": "FCOXX",
@@ -627,7 +669,7 @@
     "USGO": 0.01667,
     "Muni": 0,
     "filingDate": "2025-02-26",
-    "timestamp": "2025-06-16T19:52:42.003Z"
+    "timestamp": "2025-12-21T21:11:07.895Z"
   },
   {
     "ticker": "FCOXX",
@@ -669,7 +711,7 @@
     "USGO": 0.07178,
     "Muni": 0,
     "filingDate": "2025-02-26",
-    "timestamp": "2025-06-16T19:52:58.014Z"
+    "timestamp": "2025-12-21T21:14:13.386Z"
   },
   {
     "ticker": "FCOXX",
@@ -711,7 +753,7 @@
     "USGO": 0.08052,
     "Muni": 0,
     "filingDate": "2025-02-26",
-    "timestamp": "2025-06-16T19:52:39.009Z"
+    "timestamp": "2025-12-21T21:12:30.937Z"
   },
   {
     "ticker": "FCOXX",
@@ -753,7 +795,7 @@
     "USGO": 0.17256,
     "Muni": 0,
     "filingDate": "2025-02-26",
-    "timestamp": "2025-06-16T19:53:09.990Z"
+    "timestamp": "2025-12-21T21:12:29.785Z"
   },
   {
     "ticker": "FCOXX",
@@ -795,7 +837,7 @@
     "USGO": 0.26715,
     "Muni": 0,
     "filingDate": "2024-06-07",
-    "timestamp": "2025-06-16T19:52:42.288Z"
+    "timestamp": "2025-12-21T21:13:12.825Z"
   },
   {
     "ticker": "FCOXX",
@@ -837,7 +879,7 @@
     "USGO": 0.29792,
     "Muni": 0,
     "filingDate": "2024-05-07",
-    "timestamp": "2025-06-16T19:52:51.007Z"
+    "timestamp": "2025-12-21T21:16:52.480Z"
   },
   {
     "ticker": "FCOXX",
@@ -879,7 +921,7 @@
     "USGO": 0.29903,
     "Muni": 0,
     "filingDate": "2024-04-05",
-    "timestamp": "2025-06-16T19:52:33.127Z"
+    "timestamp": "2025-12-21T21:11:17.407Z"
   },
   {
     "ticker": "FCOXX",
@@ -921,7 +963,7 @@
     "USGO": 0.30893,
     "Muni": 0,
     "filingDate": "2024-03-07",
-    "timestamp": "2025-06-16T19:52:59.250Z"
+    "timestamp": "2025-12-21T21:12:15.597Z"
   },
   {
     "ticker": "FCOXX",
@@ -963,7 +1005,7 @@
     "USGO": 0.19985,
     "Muni": 0,
     "filingDate": "2024-02-07",
-    "timestamp": "2025-06-16T19:52:36.107Z"
+    "timestamp": "2025-12-21T21:12:05.004Z"
   },
   {
     "ticker": "FCOXX",
@@ -1005,7 +1047,7 @@
     "USGO": 0.10183,
     "Muni": 0,
     "filingDate": "2024-01-08",
-    "timestamp": "2025-06-16T19:52:52.658Z"
+    "timestamp": "2025-12-21T21:12:40.849Z"
   },
   {
     "ticker": "FCOXX",
@@ -1047,7 +1089,7 @@
     "USGO": 0.11299,
     "Muni": 0,
     "filingDate": "2023-12-07",
-    "timestamp": "2025-06-16T19:53:10.190Z"
+    "timestamp": "2025-12-21T21:15:53.266Z"
   },
   {
     "ticker": "FCOXX",
@@ -1089,7 +1131,7 @@
     "USGO": 0.0981,
     "Muni": 0,
     "filingDate": "2023-11-07",
-    "timestamp": "2025-06-16T19:52:36.400Z"
+    "timestamp": "2025-12-21T21:15:20.572Z"
   },
   {
     "ticker": "FCOXX",
@@ -1131,7 +1173,7 @@
     "USGO": 0.10489,
     "Muni": 0,
     "filingDate": "2023-10-06",
-    "timestamp": "2025-06-16T19:53:03.994Z"
+    "timestamp": "2025-12-21T21:15:03.234Z"
   },
   {
     "ticker": "FCOXX",
@@ -1173,7 +1215,7 @@
     "USGO": 0.0701,
     "Muni": 0,
     "filingDate": "2023-09-08",
-    "timestamp": "2025-06-16T19:52:52.333Z"
+    "timestamp": "2025-12-21T21:15:51.091Z"
   },
   {
     "ticker": "FCOXX",
@@ -1215,7 +1257,7 @@
     "USGO": 0.00704,
     "Muni": 0,
     "filingDate": "2023-08-07",
-    "timestamp": "2025-06-16T19:53:00.361Z"
+    "timestamp": "2025-12-21T21:16:39.775Z"
   },
   {
     "ticker": "FCOXX",
@@ -1257,7 +1299,7 @@
     "USGO": 0.0012,
     "Muni": 0,
     "filingDate": "2023-07-10",
-    "timestamp": "2025-06-16T19:52:46.683Z"
+    "timestamp": "2025-12-21T21:14:15.468Z"
   },
   {
     "ticker": "FCOXX",
@@ -1299,7 +1341,7 @@
     "USGO": 0.00121,
     "Muni": 0,
     "filingDate": "2023-06-07",
-    "timestamp": "2025-06-16T19:53:01.868Z"
+    "timestamp": "2025-12-21T21:11:31.325Z"
   },
   {
     "ticker": "FCOXX",
@@ -1341,7 +1383,7 @@
     "USGO": 0.00125,
     "Muni": 0,
     "filingDate": "2023-05-05",
-    "timestamp": "2025-06-16T19:52:57.889Z"
+    "timestamp": "2025-12-21T21:16:20.154Z"
   },
   {
     "ticker": "FCOXX",
@@ -1383,7 +1425,7 @@
     "USGO": 0.00125,
     "Muni": 0,
     "filingDate": "2023-04-07",
-    "timestamp": "2025-06-16T19:52:36.005Z"
+    "timestamp": "2025-12-21T21:14:30.317Z"
   },
   {
     "ticker": "FCOXX",
@@ -1425,7 +1467,7 @@
     "USGO": 0.00783,
     "Muni": 0,
     "filingDate": "2023-03-07",
-    "timestamp": "2025-06-16T19:52:37.326Z"
+    "timestamp": "2025-12-21T21:10:23.551Z"
   },
   {
     "ticker": "FCOXX",
@@ -1467,7 +1509,7 @@
     "USGO": 0.01092,
     "Muni": 0,
     "filingDate": "2023-02-07",
-    "timestamp": "2025-06-16T19:53:02.108Z"
+    "timestamp": "2025-12-21T21:14:42.596Z"
   },
   {
     "ticker": "FCOXX",
@@ -1509,7 +1551,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2023-01-09",
-    "timestamp": "2025-06-16T19:53:02.726Z"
+    "timestamp": "2025-12-21T21:11:22.615Z"
   },
   {
     "ticker": "FCOXX",
@@ -1551,7 +1593,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-12-07",
-    "timestamp": "2025-06-16T19:52:54.162Z"
+    "timestamp": "2025-12-21T21:14:03.301Z"
   },
   {
     "ticker": "FCOXX",
@@ -1593,7 +1635,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-11-07",
-    "timestamp": "2025-06-16T19:52:43.639Z"
+    "timestamp": "2025-12-21T21:11:42.974Z"
   },
   {
     "ticker": "FCOXX",
@@ -1635,7 +1677,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-10-07",
-    "timestamp": "2025-06-16T19:52:37.478Z"
+    "timestamp": "2025-12-21T21:13:01.526Z"
   },
   {
     "ticker": "FCOXX",
@@ -1677,7 +1719,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-09-08",
-    "timestamp": "2025-06-16T19:52:37.798Z"
+    "timestamp": "2025-12-21T21:12:01.560Z"
   },
   {
     "ticker": "FCOXX",
@@ -1719,7 +1761,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-08-05",
-    "timestamp": "2025-06-16T19:52:40.817Z"
+    "timestamp": "2025-12-21T21:10:46.719Z"
   },
   {
     "ticker": "FCOXX",
@@ -1761,7 +1803,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-07-08",
-    "timestamp": "2025-06-16T19:52:56.149Z"
+    "timestamp": "2025-12-21T21:16:05.658Z"
   },
   {
     "ticker": "FCOXX",
@@ -1803,7 +1845,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-06-07",
-    "timestamp": "2025-06-16T19:52:45.187Z"
+    "timestamp": "2025-12-21T21:12:50.556Z"
   },
   {
     "ticker": "FCOXX",
@@ -1845,7 +1887,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-05-06",
-    "timestamp": "2025-06-16T19:53:09.512Z"
+    "timestamp": "2025-12-21T21:14:19.337Z"
   },
   {
     "ticker": "FCOXX",
@@ -1887,7 +1929,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-04-07",
-    "timestamp": "2025-06-16T19:53:04.200Z"
+    "timestamp": "2025-12-21T21:11:20.365Z"
   },
   {
     "ticker": "FCOXX",
@@ -1929,7 +1971,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-03-07",
-    "timestamp": "2025-06-16T19:53:03.229Z"
+    "timestamp": "2025-12-21T21:14:49.301Z"
   },
   {
     "ticker": "FCOXX",
@@ -1971,7 +2013,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-02-07",
-    "timestamp": "2025-06-16T19:53:01.958Z"
+    "timestamp": "2025-12-21T21:11:26.880Z"
   },
   {
     "ticker": "FCOXX",
@@ -2013,7 +2055,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2022-01-07",
-    "timestamp": "2025-06-16T19:53:09.071Z"
+    "timestamp": "2025-12-21T21:15:07.134Z"
   },
   {
     "ticker": "FCOXX",
@@ -2055,7 +2097,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2021-12-07",
-    "timestamp": "2025-06-16T19:53:09.361Z"
+    "timestamp": "2025-12-21T21:10:06.038Z"
   },
   {
     "ticker": "FCOXX",
@@ -2097,7 +2139,7 @@
     "USGO": 0,
     "Muni": 0,
     "filingDate": "2021-11-05",
-    "timestamp": "2025-06-16T19:52:45.915Z"
+    "timestamp": "2025-12-21T21:14:14.436Z"
   },
   {
     "ticker": "FCOXX",
@@ -2139,7 +2181,7 @@
     "USGO": 0.02353,
     "Muni": 0,
     "filingDate": "2021-10-07",
-    "timestamp": "2025-06-16T19:52:57.118Z"
+    "timestamp": "2025-12-21T21:14:11.650Z"
   },
   {
     "ticker": "FCOXX",
@@ -2181,7 +2223,7 @@
     "USGO": 0.02281,
     "Muni": 0,
     "filingDate": "2021-09-08",
-    "timestamp": "2025-06-16T19:52:52.423Z"
+    "timestamp": "2025-12-21T21:11:05.378Z"
   },
   {
     "ticker": "FCOXX",
@@ -2223,7 +2265,7 @@
     "USGO": 0.00645,
     "Muni": 0,
     "filingDate": "2021-08-06",
-    "timestamp": "2025-06-16T19:53:08.240Z"
+    "timestamp": "2025-12-21T21:15:37.048Z"
   },
   {
     "ticker": "FCOXX",
@@ -2265,7 +2307,7 @@
     "USGO": 0.01055,
     "Muni": 0,
     "filingDate": "2021-07-08",
-    "timestamp": "2025-06-16T19:52:44.392Z"
+    "timestamp": "2025-12-21T21:10:54.063Z"
   },
   {
     "ticker": "FCOXX",
@@ -2307,7 +2349,7 @@
     "USGO": 0.01036,
     "Muni": 0.00115,
     "filingDate": "2021-06-07",
-    "timestamp": "2025-06-16T19:53:01.775Z"
+    "timestamp": "2025-12-21T21:13:37.466Z"
   },
   {
     "ticker": "FCOXX",
@@ -2349,7 +2391,7 @@
     "USGO": 0.05465,
     "Muni": 0.00108,
     "filingDate": "2021-05-07",
-    "timestamp": "2025-06-16T19:52:42.178Z"
+    "timestamp": "2025-12-21T21:15:08.900Z"
   },
   {
     "ticker": "FCOXX",
@@ -2391,7 +2433,7 @@
     "USGO": 0.11884,
     "Muni": 0.00105,
     "filingDate": "2021-04-07",
-    "timestamp": "2025-06-16T19:52:58.498Z"
+    "timestamp": "2025-12-21T21:13:44.669Z"
   },
   {
     "ticker": "FCOXX",
@@ -2433,7 +2475,7 @@
     "USGO": 0.14524,
     "Muni": 0.00102,
     "filingDate": "2021-03-05",
-    "timestamp": "2025-06-16T19:52:59.871Z"
+    "timestamp": "2025-12-21T21:13:51.632Z"
   },
   {
     "ticker": "FCOXX",
@@ -2475,7 +2517,7 @@
     "USGO": 0.20563,
     "Muni": 0.00097,
     "filingDate": "2021-02-05",
-    "timestamp": "2025-06-16T19:52:48.657Z"
+    "timestamp": "2025-12-21T21:13:16.716Z"
   },
   {
     "ticker": "FCOXX",
@@ -2517,7 +2559,7 @@
     "USGO": 0.23185,
     "Muni": 0.00127,
     "filingDate": "2021-01-08",
-    "timestamp": "2025-06-16T19:52:58.327Z"
+    "timestamp": "2025-12-21T21:16:17.897Z"
   },
   {
     "ticker": "FCOXX",
@@ -2559,7 +2601,7 @@
     "USGO": 0.33426,
     "Muni": 0.00032,
     "filingDate": "2020-12-07",
-    "timestamp": "2025-06-16T19:52:45.619Z"
+    "timestamp": "2025-12-21T21:16:01.479Z"
   },
   {
     "ticker": "FCOXX",
@@ -2601,7 +2643,7 @@
     "USGO": 0.38215,
     "Muni": 0.00031,
     "filingDate": "2020-11-06",
-    "timestamp": "2025-06-16T19:53:07.090Z"
+    "timestamp": "2025-12-21T21:14:06.873Z"
   },
   {
     "ticker": "FCOXX",
@@ -2643,7 +2685,7 @@
     "USGO": 0.42048,
     "Muni": 0.0003,
     "filingDate": "2020-10-07",
-    "timestamp": "2025-06-16T19:52:42.515Z"
+    "timestamp": "2025-12-21T21:10:21.713Z"
   },
   {
     "ticker": "FCOXX",
@@ -2685,7 +2727,7 @@
     "USGO": 0.42764,
     "Muni": 0.00029,
     "filingDate": "2020-09-08",
-    "timestamp": "2025-06-16T19:52:50.073Z"
+    "timestamp": "2025-12-21T21:10:55.075Z"
   },
   {
     "ticker": "FCOXX",
@@ -2727,7 +2769,7 @@
     "USGO": 0.39953,
     "Muni": 0.00029,
     "filingDate": "2020-08-07",
-    "timestamp": "2025-06-16T19:53:04.856Z"
+    "timestamp": "2025-12-21T21:15:13.362Z"
   },
   {
     "ticker": "FCOXX",
@@ -2769,7 +2811,7 @@
     "USGO": 0.4254,
     "Muni": 0.00036,
     "filingDate": "2020-07-08",
-    "timestamp": "2025-06-16T19:52:48.897Z"
+    "timestamp": "2025-12-21T21:13:03.710Z"
   },
   {
     "ticker": "FCOXX",
@@ -2811,7 +2853,7 @@
     "USGO": 0.40332,
     "Muni": 0.00262,
     "filingDate": "2020-06-05",
-    "timestamp": "2025-06-16T19:52:45.399Z"
+    "timestamp": "2025-12-21T21:13:29.095Z"
   },
   {
     "ticker": "FCOXX",
@@ -2853,7 +2895,7 @@
     "USGO": 0.24721,
     "Muni": 0.0033,
     "filingDate": "2020-05-07",
-    "timestamp": "2025-06-16T19:53:00.032Z"
+    "timestamp": "2025-12-21T21:10:07.829Z"
   },
   {
     "ticker": "FCOXX",
@@ -2895,7 +2937,7 @@
     "USGO": 0.005,
     "Muni": 0.00401,
     "filingDate": "2020-04-07",
-    "timestamp": "2025-06-16T19:53:05.475Z"
+    "timestamp": "2025-12-21T21:11:09.009Z"
   },
   {
     "ticker": "FCOXX",
@@ -2937,7 +2979,7 @@
     "USGO": 0.00394,
     "Muni": 0,
     "filingDate": "2020-03-06",
-    "timestamp": "2025-06-16T19:53:01.536Z"
+    "timestamp": "2025-12-21T21:10:49.204Z"
   },
   {
     "ticker": "FCOXX",
@@ -2979,7 +3021,7 @@
     "USGO": 0.00404,
     "Muni": 0,
     "filingDate": "2020-02-07",
-    "timestamp": "2025-06-16T19:52:58.967Z"
+    "timestamp": "2025-12-21T21:12:32.045Z"
   },
   {
     "ticker": "FCOXX",
@@ -3021,6 +3063,6 @@
     "USGO": 0.00416,
     "Muni": 0,
     "filingDate": "2020-01-08",
-    "timestamp": "2025-06-16T19:52:41.177Z"
+    "timestamp": "2025-12-21T21:16:49.998Z"
   }
 ]

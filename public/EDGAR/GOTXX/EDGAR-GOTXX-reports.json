@@ -9,6 +9,48 @@
     "expenseRatio": 0.002,
     "fiscalYearEnd": "0731",
     "category": "Government",
+    "totalNetAssets": 3988415125.67,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 500000,
+    "wam": 46,
+    "wal": 93,
+    "reportDate": "2025-12-31",
+    "yield": 0.0359,
+    "yieldDate": "2025-12-31",
+    "usTreasuryDebt": 0.67247,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0.18858,
+    "usGovernmentAgencyZeroCouponDebt": 0.13895,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0,
+    "otherRepurchaseAgreement": 0,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0,
+    "nonFinancialCompanyCommercialPaper": 0,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0,
+    "USGO": 1,
+    "Muni": 0,
+    "filingDate": "2026-01-08",
+    "timestamp": "2026-01-08T19:21:41.884Z"
+  },
+  {
+    "ticker": "GOTXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Federated Hermes Money Market Obligations Trust",
+    "seriesName": "Federated Hermes Government Obligations Tax-managed Fund",
+    "className": "Institutional Shares",
+    "mmName": "Federated Hermes Govt Obl Tx-mgd Is",
+    "expenseRatio": 0.002,
+    "fiscalYearEnd": "0731",
+    "category": "Government",
     "totalNetAssets": 3834831998.68,
     "investorType": "Institutional",
     "minimumInitialInvestment": 500000,
@@ -39,7 +81,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-12-05",
-    "timestamp": "2025-12-12T13:56:40.732Z"
+    "timestamp": "2025-12-21T21:22:44.207Z"
   },
   {
     "ticker": "GOTXX",
@@ -81,7 +123,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-11-07",
-    "timestamp": "2025-12-12T16:06:45.389Z"
+    "timestamp": "2025-12-21T21:19:22.518Z"
   },
   {
     "ticker": "GOTXX",
@@ -123,7 +165,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-10-07",
-    "timestamp": "2025-12-12T16:06:45.060Z"
+    "timestamp": "2025-12-21T21:24:26.167Z"
   },
   {
     "ticker": "GOTXX",
@@ -165,7 +207,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-09-08",
-    "timestamp": "2025-12-12T18:13:17.499Z"
+    "timestamp": "2025-12-21T21:18:54.713Z"
   },
   {
     "ticker": "GOTXX",
@@ -207,7 +249,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-08-07",
-    "timestamp": "2025-12-12T20:21:35.639Z"
+    "timestamp": "2025-12-21T21:23:38.250Z"
   },
   {
     "ticker": "GOTXX",
@@ -249,7 +291,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-07-08",
-    "timestamp": "2025-07-12T18:58:57.133Z"
+    "timestamp": "2025-12-21T21:20:46.674Z"
   },
   {
     "ticker": "GOTXX",
@@ -291,7 +333,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-06-06",
-    "timestamp": "2025-06-16T19:55:57.205Z"
+    "timestamp": "2025-12-21T21:21:03.589Z"
   },
   {
     "ticker": "GOTXX",
@@ -333,7 +375,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-06-16T19:55:48.503Z"
+    "timestamp": "2025-12-21T21:23:43.194Z"
   },
   {
     "ticker": "GOTXX",
@@ -375,7 +417,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-06-16T19:56:50.730Z"
+    "timestamp": "2025-12-21T21:20:02.755Z"
   },
   {
     "ticker": "GOTXX",
@@ -417,7 +459,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-03-07",
-    "timestamp": "2025-06-16T19:55:36.235Z"
+    "timestamp": "2025-12-21T21:18:37.137Z"
   },
   {
     "ticker": "GOTXX",
@@ -459,7 +501,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-02-07",
-    "timestamp": "2025-06-16T19:54:45.915Z"
+    "timestamp": "2025-12-21T21:22:57.318Z"
   },
   {
     "ticker": "GOTXX",
@@ -501,7 +543,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-01-08",
-    "timestamp": "2025-06-16T19:56:25.469Z"
+    "timestamp": "2025-12-21T21:19:59.865Z"
   },
   {
     "ticker": "GOTXX",
@@ -543,7 +585,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-12-06",
-    "timestamp": "2025-06-16T19:55:07.715Z"
+    "timestamp": "2025-12-21T21:21:46.259Z"
   },
   {
     "ticker": "GOTXX",
@@ -585,7 +627,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-11-07",
-    "timestamp": "2025-06-16T19:55:01.128Z"
+    "timestamp": "2025-12-21T21:20:36.007Z"
   },
   {
     "ticker": "GOTXX",
@@ -627,7 +669,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-10-07",
-    "timestamp": "2025-06-16T19:56:10.450Z"
+    "timestamp": "2025-12-21T21:23:20.036Z"
   },
   {
     "ticker": "GOTXX",
@@ -669,7 +711,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-09-09",
-    "timestamp": "2025-06-16T19:54:41.019Z"
+    "timestamp": "2025-12-21T21:19:29.081Z"
   },
   {
     "ticker": "GOTXX",
@@ -711,7 +753,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-08-07",
-    "timestamp": "2025-06-16T19:54:56.245Z"
+    "timestamp": "2025-12-21T21:21:23.759Z"
   },
   {
     "ticker": "GOTXX",
@@ -753,7 +795,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-07-15",
-    "timestamp": "2025-06-16T19:55:52.905Z"
+    "timestamp": "2025-12-21T21:22:15.139Z"
   },
   {
     "ticker": "GOTXX",
@@ -795,7 +837,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-06-07",
-    "timestamp": "2025-06-16T19:56:36.640Z"
+    "timestamp": "2025-12-21T21:23:55.749Z"
   },
   {
     "ticker": "GOTXX",
@@ -837,7 +879,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-05-07",
-    "timestamp": "2025-06-16T19:56:29.331Z"
+    "timestamp": "2025-12-21T21:22:18.410Z"
   },
   {
     "ticker": "GOTXX",
@@ -879,7 +921,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-04-05",
-    "timestamp": "2025-06-16T19:55:05.167Z"
+    "timestamp": "2025-12-21T21:21:57.133Z"
   },
   {
     "ticker": "GOTXX",
@@ -921,7 +963,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-03-07",
-    "timestamp": "2025-06-16T19:54:41.614Z"
+    "timestamp": "2025-12-21T21:24:05.751Z"
   },
   {
     "ticker": "GOTXX",
@@ -963,7 +1005,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-02-07",
-    "timestamp": "2025-06-16T19:54:45.231Z"
+    "timestamp": "2025-12-21T21:17:20.859Z"
   },
   {
     "ticker": "GOTXX",
@@ -1005,7 +1047,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2024-01-08",
-    "timestamp": "2025-06-16T19:55:28.644Z"
+    "timestamp": "2025-12-21T21:22:34.689Z"
   },
   {
     "ticker": "GOTXX",
@@ -1047,7 +1089,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-12-07",
-    "timestamp": "2025-06-16T19:56:49.366Z"
+    "timestamp": "2025-12-21T21:18:31.943Z"
   },
   {
     "ticker": "GOTXX",
@@ -1089,7 +1131,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-11-07",
-    "timestamp": "2025-06-16T19:54:52.998Z"
+    "timestamp": "2025-12-21T21:22:14.321Z"
   },
   {
     "ticker": "GOTXX",
@@ -1131,7 +1173,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-10-06",
-    "timestamp": "2025-06-16T19:56:17.939Z"
+    "timestamp": "2025-12-21T21:20:42.650Z"
   },
   {
     "ticker": "GOTXX",
@@ -1173,7 +1215,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-09-08",
-    "timestamp": "2025-06-16T19:55:16.344Z"
+    "timestamp": "2025-12-21T21:18:10.281Z"
   },
   {
     "ticker": "GOTXX",
@@ -1215,7 +1257,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-08-07",
-    "timestamp": "2025-06-16T19:55:04.657Z"
+    "timestamp": "2025-12-21T21:24:43.123Z"
   },
   {
     "ticker": "GOTXX",
@@ -1257,7 +1299,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-07-10",
-    "timestamp": "2025-06-16T19:55:15.720Z"
+    "timestamp": "2025-12-21T21:22:45.664Z"
   },
   {
     "ticker": "GOTXX",
@@ -1299,7 +1341,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-06-07",
-    "timestamp": "2025-06-16T19:55:47.993Z"
+    "timestamp": "2025-12-21T21:18:46.445Z"
   },
   {
     "ticker": "GOTXX",
@@ -1341,7 +1383,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-05-05",
-    "timestamp": "2025-06-16T19:56:08.140Z"
+    "timestamp": "2025-12-21T21:19:19.520Z"
   },
   {
     "ticker": "GOTXX",
@@ -1383,7 +1425,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-04-06",
-    "timestamp": "2025-06-16T19:56:19.154Z"
+    "timestamp": "2025-12-21T21:24:25.806Z"
   },
   {
     "ticker": "GOTXX",
@@ -1425,7 +1467,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-03-07",
-    "timestamp": "2025-06-16T19:55:23.569Z"
+    "timestamp": "2025-12-21T21:18:55.074Z"
   },
   {
     "ticker": "GOTXX",
@@ -1467,7 +1509,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-02-07",
-    "timestamp": "2025-06-16T19:55:48.727Z"
+    "timestamp": "2025-12-21T21:19:11.172Z"
   },
   {
     "ticker": "GOTXX",
@@ -1509,7 +1551,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2023-01-09",
-    "timestamp": "2025-06-16T19:55:16.538Z"
+    "timestamp": "2025-12-21T21:21:04.199Z"
   },
   {
     "ticker": "GOTXX",
@@ -1551,7 +1593,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-12-07",
-    "timestamp": "2025-06-16T19:55:32.667Z"
+    "timestamp": "2025-12-21T21:20:02.226Z"
   },
   {
     "ticker": "GOTXX",
@@ -1593,7 +1635,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-11-07",
-    "timestamp": "2025-06-16T19:55:58.441Z"
+    "timestamp": "2025-12-21T21:21:48.851Z"
   },
   {
     "ticker": "GOTXX",
@@ -1635,7 +1677,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-10-07",
-    "timestamp": "2025-06-16T19:56:50.654Z"
+    "timestamp": "2025-12-21T21:18:28.387Z"
   },
   {
     "ticker": "GOTXX",
@@ -1677,7 +1719,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-09-08",
-    "timestamp": "2025-06-16T19:54:40.880Z"
+    "timestamp": "2025-12-21T21:21:30.345Z"
   },
   {
     "ticker": "GOTXX",
@@ -1719,7 +1761,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-08-05",
-    "timestamp": "2025-06-16T19:55:31.690Z"
+    "timestamp": "2025-12-21T21:19:38.183Z"
   },
   {
     "ticker": "GOTXX",
@@ -1761,7 +1803,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-07-08",
-    "timestamp": "2025-06-16T19:56:43.451Z"
+    "timestamp": "2025-12-21T21:17:08.518Z"
   },
   {
     "ticker": "GOTXX",
@@ -1803,7 +1845,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-06-07",
-    "timestamp": "2025-06-16T19:54:44.822Z"
+    "timestamp": "2025-12-21T21:20:07.771Z"
   },
   {
     "ticker": "GOTXX",
@@ -1845,7 +1887,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-05-06",
-    "timestamp": "2025-06-16T19:56:47.544Z"
+    "timestamp": "2025-12-21T21:21:35.693Z"
   },
   {
     "ticker": "GOTXX",
@@ -1887,7 +1929,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-04-07",
-    "timestamp": "2025-06-16T19:54:39.885Z"
+    "timestamp": "2025-12-21T21:17:40.425Z"
   },
   {
     "ticker": "GOTXX",
@@ -1929,7 +1971,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-03-07",
-    "timestamp": "2025-06-16T19:55:13.222Z"
+    "timestamp": "2025-12-21T21:18:42.409Z"
   },
   {
     "ticker": "GOTXX",
@@ -1971,7 +2013,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-02-07",
-    "timestamp": "2025-06-16T19:55:48.812Z"
+    "timestamp": "2025-12-21T21:22:09.211Z"
   },
   {
     "ticker": "GOTXX",
@@ -2013,7 +2055,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2022-01-07",
-    "timestamp": "2025-06-16T19:55:43.657Z"
+    "timestamp": "2025-12-21T21:20:10.477Z"
   },
   {
     "ticker": "GOTXX",
@@ -2055,7 +2097,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-12-07",
-    "timestamp": "2025-06-16T19:54:40.391Z"
+    "timestamp": "2025-12-21T21:21:06.421Z"
   },
   {
     "ticker": "GOTXX",
@@ -2097,7 +2139,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-11-05",
-    "timestamp": "2025-06-16T19:56:40.565Z"
+    "timestamp": "2025-12-21T21:21:40.571Z"
   },
   {
     "ticker": "GOTXX",
@@ -2139,7 +2181,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-10-07",
-    "timestamp": "2025-06-16T19:56:23.520Z"
+    "timestamp": "2025-12-21T21:21:05.545Z"
   },
   {
     "ticker": "GOTXX",
@@ -2181,7 +2223,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-09-08",
-    "timestamp": "2025-06-16T19:55:08.039Z"
+    "timestamp": "2025-12-21T21:21:52.922Z"
   },
   {
     "ticker": "GOTXX",
@@ -2223,7 +2265,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-08-06",
-    "timestamp": "2025-06-16T19:56:41.042Z"
+    "timestamp": "2025-12-21T21:22:18.042Z"
   },
   {
     "ticker": "GOTXX",
@@ -2265,7 +2307,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-07-08",
-    "timestamp": "2025-06-16T19:55:17.690Z"
+    "timestamp": "2025-12-21T21:24:00.351Z"
   },
   {
     "ticker": "GOTXX",
@@ -2307,7 +2349,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-06-07",
-    "timestamp": "2025-06-16T19:55:15.795Z"
+    "timestamp": "2025-12-21T21:16:57.356Z"
   },
   {
     "ticker": "GOTXX",
@@ -2349,7 +2391,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-05-07",
-    "timestamp": "2025-06-16T19:56:09.690Z"
+    "timestamp": "2025-12-21T21:23:12.116Z"
   },
   {
     "ticker": "GOTXX",
@@ -2391,7 +2433,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-04-08",
-    "timestamp": "2025-06-16T19:56:11.269Z"
+    "timestamp": "2025-12-21T21:17:29.223Z"
   },
   {
     "ticker": "GOTXX",
@@ -2433,7 +2475,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-03-05",
-    "timestamp": "2025-06-16T19:55:11.417Z"
+    "timestamp": "2025-12-21T21:16:58.744Z"
   },
   {
     "ticker": "GOTXX",
@@ -2475,7 +2517,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-02-05",
-    "timestamp": "2025-06-16T19:54:53.273Z"
+    "timestamp": "2025-12-21T21:16:57.732Z"
   },
   {
     "ticker": "GOTXX",
@@ -2517,7 +2559,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2021-01-08",
-    "timestamp": "2025-06-16T19:55:54.657Z"
+    "timestamp": "2025-12-21T21:24:04.970Z"
   },
   {
     "ticker": "GOTXX",
@@ -2559,7 +2601,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-12-07",
-    "timestamp": "2025-06-16T19:54:54.998Z"
+    "timestamp": "2025-12-21T21:21:27.426Z"
   },
   {
     "ticker": "GOTXX",
@@ -2601,7 +2643,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-11-06",
-    "timestamp": "2025-06-16T19:55:56.978Z"
+    "timestamp": "2025-12-21T21:23:37.484Z"
   },
   {
     "ticker": "GOTXX",
@@ -2643,7 +2685,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-10-07",
-    "timestamp": "2025-06-16T19:55:30.747Z"
+    "timestamp": "2025-12-21T21:23:32.965Z"
   },
   {
     "ticker": "GOTXX",
@@ -2685,7 +2727,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-09-08",
-    "timestamp": "2025-06-16T19:54:44.352Z"
+    "timestamp": "2025-12-21T21:17:16.034Z"
   },
   {
     "ticker": "GOTXX",
@@ -2727,7 +2769,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-08-07",
-    "timestamp": "2025-06-16T19:56:20.956Z"
+    "timestamp": "2025-12-21T21:21:47.658Z"
   },
   {
     "ticker": "GOTXX",
@@ -2769,7 +2811,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-07-08",
-    "timestamp": "2025-06-16T19:56:47.330Z"
+    "timestamp": "2025-12-21T21:23:16.288Z"
   },
   {
     "ticker": "GOTXX",
@@ -2811,7 +2853,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-06-05",
-    "timestamp": "2025-06-16T19:56:35.923Z"
+    "timestamp": "2025-12-21T21:23:27.612Z"
   },
   {
     "ticker": "GOTXX",
@@ -2853,7 +2895,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-05-07",
-    "timestamp": "2025-06-16T19:55:59.101Z"
+    "timestamp": "2025-12-21T21:18:02.115Z"
   },
   {
     "ticker": "GOTXX",
@@ -2895,7 +2937,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-04-07",
-    "timestamp": "2025-06-16T19:56:15.005Z"
+    "timestamp": "2025-12-21T21:21:39.218Z"
   },
   {
     "ticker": "GOTXX",
@@ -2937,7 +2979,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-03-06",
-    "timestamp": "2025-06-16T19:55:15.868Z"
+    "timestamp": "2025-12-21T21:17:19.935Z"
   },
   {
     "ticker": "GOTXX",
@@ -2979,7 +3021,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-02-07",
-    "timestamp": "2025-06-16T19:55:43.084Z"
+    "timestamp": "2025-12-21T21:18:12.918Z"
   },
   {
     "ticker": "GOTXX",
@@ -3021,6 +3063,6 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2020-01-08",
-    "timestamp": "2025-06-16T19:56:30.122Z"
+    "timestamp": "2025-12-21T21:17:53.843Z"
   }
 ]

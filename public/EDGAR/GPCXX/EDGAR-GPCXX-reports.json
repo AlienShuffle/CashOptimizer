@@ -9,6 +9,48 @@
     "expenseRatio": 0.0018,
     "fiscalYearEnd": "1031",
     "category": "Prime",
+    "totalNetAssets": 811891552.26,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 3000000,
+    "wam": 36,
+    "wal": 60,
+    "reportDate": "2025-12-31",
+    "yield": 0.0379,
+    "yieldDate": "2025-12-31",
+    "usTreasuryDebt": 0.00205,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0,
+    "nonUSSovereignDebt": 0.00478,
+    "certificateofDeposit": 0.19927,
+    "nonNegotiableTimeDeposit": 0.0407,
+    "variableRateDemandNote": 0.00365,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0.13094,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0.14091,
+    "usGovernmentAgencyRepurchaseAgreement": 0.1282,
+    "otherRepurchaseAgreement": 0.15649,
+    "insuranceCompanyFundingAgreement": 0.00096,
+    "financialCompanyCommercialPaper": 0.1878,
+    "nonFinancialCompanyCommercialPaper": 0,
+    "tenderOptionBond": 0.0023,
+    "otherInstrument": 0.00196,
+    "USGO": 0.00205,
+    "Muni": 0.00595,
+    "filingDate": "2026-01-07",
+    "timestamp": "2026-01-07T22:47:02.275Z"
+  },
+  {
+    "ticker": "GPCXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Blackrock Liquidity Funds",
+    "seriesName": "Tempcash",
+    "className": "Great Pacific Shares",
+    "mmName": "Blackrock Liquidity Funds Tempcash Great Pacific Shares",
+    "expenseRatio": 0.0018,
+    "fiscalYearEnd": "1031",
+    "category": "Prime",
     "totalNetAssets": 809164526.37,
     "investorType": "Institutional",
     "minimumInitialInvestment": 3000000,
@@ -39,7 +81,7 @@
     "USGO": 0.01002,
     "Muni": 0.00618,
     "filingDate": "2025-12-05",
-    "timestamp": "2025-12-12T13:54:59.840Z"
+    "timestamp": "2025-12-21T22:01:25.312Z"
   },
   {
     "ticker": "GPCXX",
@@ -81,7 +123,7 @@
     "USGO": 0.00199,
     "Muni": 0.00604,
     "filingDate": "2025-11-06",
-    "timestamp": "2025-12-12T13:55:14.140Z"
+    "timestamp": "2025-12-21T22:01:18.823Z"
   },
   {
     "ticker": "GPCXX",
@@ -123,7 +165,7 @@
     "USGO": 0.00605,
     "Muni": 0.00605,
     "filingDate": "2025-10-06",
-    "timestamp": "2025-12-12T13:55:12.398Z"
+    "timestamp": "2025-12-21T21:57:48.583Z"
   },
   {
     "ticker": "GPCXX",
@@ -165,7 +207,7 @@
     "USGO": 0.01088,
     "Muni": 0.00636,
     "filingDate": "2025-09-05",
-    "timestamp": "2025-12-12T16:06:00.047Z"
+    "timestamp": "2025-12-21T21:57:38.667Z"
   },
   {
     "ticker": "GPCXX",
@@ -207,7 +249,7 @@
     "USGO": 0.01587,
     "Muni": 0.00669,
     "filingDate": "2025-08-06",
-    "timestamp": "2025-12-12T16:05:55.504Z"
+    "timestamp": "2025-12-21T22:05:24.736Z"
   },
   {
     "ticker": "GPCXX",
@@ -249,7 +291,7 @@
     "USGO": 0.01595,
     "Muni": 0.00664,
     "filingDate": "2025-07-07",
-    "timestamp": "2025-07-12T18:57:54.035Z"
+    "timestamp": "2025-12-21T21:58:36.056Z"
   },
   {
     "ticker": "GPCXX",
@@ -291,7 +333,7 @@
     "USGO": 0.0068,
     "Muni": 0.00701,
     "filingDate": "2025-06-06",
-    "timestamp": "2025-06-16T19:50:29.978Z"
+    "timestamp": "2025-12-21T21:57:45.198Z"
   },
   {
     "ticker": "GPCXX",
@@ -333,7 +375,7 @@
     "USGO": 0.0099,
     "Muni": 0.0071,
     "filingDate": "2025-06-26",
-    "timestamp": "2025-07-12T18:57:51.343Z"
+    "timestamp": "2025-12-21T22:04:54.517Z"
   },
   {
     "ticker": "GPCXX",
@@ -375,7 +417,7 @@
     "USGO": 0.00998,
     "Muni": 0.00662,
     "filingDate": "2025-06-26",
-    "timestamp": "2025-07-12T18:58:00.900Z"
+    "timestamp": "2025-12-21T22:03:13.459Z"
   },
   {
     "ticker": "GPCXX",
@@ -417,7 +459,7 @@
     "USGO": 0.01237,
     "Muni": 0.00685,
     "filingDate": "2025-03-06",
-    "timestamp": "2025-06-16T19:50:10.616Z"
+    "timestamp": "2025-12-21T21:59:43.040Z"
   },
   {
     "ticker": "GPCXX",
@@ -459,7 +501,7 @@
     "USGO": 0.01448,
     "Muni": 0.00674,
     "filingDate": "2025-03-10",
-    "timestamp": "2025-06-16T19:49:45.832Z"
+    "timestamp": "2025-12-21T22:00:06.916Z"
   },
   {
     "ticker": "GPCXX",
@@ -501,7 +543,7 @@
     "USGO": 0.02251,
     "Muni": 0.00708,
     "filingDate": "2025-03-10",
-    "timestamp": "2025-06-16T19:50:45.620Z"
+    "timestamp": "2025-12-21T22:04:34.916Z"
   },
   {
     "ticker": "GPCXX",
@@ -543,7 +585,7 @@
     "USGO": 0.02052,
     "Muni": 0.00757,
     "filingDate": "2024-12-05",
-    "timestamp": "2025-06-16T19:49:45.618Z"
+    "timestamp": "2025-12-21T21:56:38.523Z"
   },
   {
     "ticker": "GPCXX",
@@ -585,7 +627,7 @@
     "USGO": 0.01759,
     "Muni": 0.00771,
     "filingDate": "2024-11-06",
-    "timestamp": "2025-06-16T19:49:54.815Z"
+    "timestamp": "2025-12-21T21:57:03.188Z"
   },
   {
     "ticker": "GPCXX",
@@ -627,7 +669,7 @@
     "USGO": 0.01429,
     "Muni": 0.00759,
     "filingDate": "2024-10-21",
-    "timestamp": "2025-06-16T19:50:08.688Z"
+    "timestamp": "2025-12-21T22:01:49.515Z"
   },
   {
     "ticker": "GPCXX",
@@ -669,7 +711,7 @@
     "USGO": 0.01021,
     "Muni": 0.00831,
     "filingDate": "2024-10-21",
-    "timestamp": "2025-06-16T19:50:25.936Z"
+    "timestamp": "2025-12-21T22:00:01.906Z"
   },
   {
     "ticker": "GPCXX",
@@ -711,7 +753,7 @@
     "USGO": 0.01159,
     "Muni": 0.00791,
     "filingDate": "2024-10-21",
-    "timestamp": "2025-06-16T19:50:23.487Z"
+    "timestamp": "2025-12-21T22:00:31.742Z"
   },
   {
     "ticker": "GPCXX",
@@ -753,7 +795,7 @@
     "USGO": 0.01213,
     "Muni": 0.00832,
     "filingDate": "2024-10-21",
-    "timestamp": "2025-06-16T19:50:22.310Z"
+    "timestamp": "2025-12-21T22:03:22.744Z"
   },
   {
     "ticker": "GPCXX",
@@ -795,7 +837,7 @@
     "USGO": 0.01229,
     "Muni": 0.00866,
     "filingDate": "2024-06-06",
-    "timestamp": "2025-06-16T19:50:43.908Z"
+    "timestamp": "2025-12-21T22:01:00.395Z"
   },
   {
     "ticker": "GPCXX",
@@ -837,7 +879,7 @@
     "USGO": 0.01555,
     "Muni": 0.00965,
     "filingDate": "2024-05-06",
-    "timestamp": "2025-06-16T19:50:03.238Z"
+    "timestamp": "2025-12-21T22:05:20.198Z"
   },
   {
     "ticker": "GPCXX",
@@ -879,7 +921,7 @@
     "USGO": 0.02291,
     "Muni": 0.0097,
     "filingDate": "2024-04-04",
-    "timestamp": "2025-06-16T19:50:02.250Z"
+    "timestamp": "2025-12-21T22:02:38.775Z"
   },
   {
     "ticker": "GPCXX",
@@ -921,7 +963,7 @@
     "USGO": 0.01578,
     "Muni": 0.01048,
     "filingDate": "2024-03-06",
-    "timestamp": "2025-06-16T19:50:36.082Z"
+    "timestamp": "2025-12-21T21:56:47.787Z"
   },
   {
     "ticker": "GPCXX",
@@ -963,7 +1005,7 @@
     "USGO": 0.00369,
     "Muni": 0.01222,
     "filingDate": "2024-02-06",
-    "timestamp": "2025-06-16T19:49:53.685Z"
+    "timestamp": "2025-12-21T21:56:09.599Z"
   },
   {
     "ticker": "GPCXX",
@@ -1005,7 +1047,7 @@
     "USGO": 0.00373,
     "Muni": 0.0126,
     "filingDate": "2024-01-08",
-    "timestamp": "2025-06-16T19:50:05.608Z"
+    "timestamp": "2025-12-21T22:00:42.054Z"
   },
   {
     "ticker": "GPCXX",
@@ -1047,7 +1089,7 @@
     "USGO": 0.01251,
     "Muni": 0.01235,
     "filingDate": "2023-12-06",
-    "timestamp": "2025-06-16T19:50:01.400Z"
+    "timestamp": "2025-12-21T22:04:42.799Z"
   },
   {
     "ticker": "GPCXX",
@@ -1089,7 +1131,7 @@
     "USGO": 0.0103,
     "Muni": 0.01192,
     "filingDate": "2023-11-06",
-    "timestamp": "2025-06-16T19:49:48.901Z"
+    "timestamp": "2025-12-21T22:06:16.432Z"
   },
   {
     "ticker": "GPCXX",
@@ -1131,7 +1173,7 @@
     "USGO": 0.01096,
     "Muni": 0.01025,
     "filingDate": "2023-10-05",
-    "timestamp": "2025-06-16T19:50:24.348Z"
+    "timestamp": "2025-12-21T21:57:04.210Z"
   },
   {
     "ticker": "GPCXX",
@@ -1173,7 +1215,7 @@
     "USGO": 0.01089,
     "Muni": 0.01006,
     "filingDate": "2023-09-07",
-    "timestamp": "2025-06-16T19:49:52.118Z"
+    "timestamp": "2025-12-21T22:00:58.114Z"
   },
   {
     "ticker": "GPCXX",
@@ -1215,7 +1257,7 @@
     "USGO": 0.01087,
     "Muni": 0.01085,
     "filingDate": "2023-08-04",
-    "timestamp": "2025-06-16T19:50:25.603Z"
+    "timestamp": "2025-12-21T22:00:21.715Z"
   },
   {
     "ticker": "GPCXX",
@@ -1257,7 +1299,7 @@
     "USGO": 0.01108,
     "Muni": 0.01166,
     "filingDate": "2023-07-07",
-    "timestamp": "2025-06-16T19:49:44.373Z"
+    "timestamp": "2025-12-21T22:02:22.266Z"
   },
   {
     "ticker": "GPCXX",
@@ -1299,7 +1341,7 @@
     "USGO": 0.01066,
     "Muni": 0.01234,
     "filingDate": "2023-06-07",
-    "timestamp": "2025-06-16T19:50:04.885Z"
+    "timestamp": "2025-12-21T22:06:23.576Z"
   },
   {
     "ticker": "GPCXX",
@@ -1341,7 +1383,7 @@
     "USGO": 0.00063,
     "Muni": 0.01258,
     "filingDate": "2023-05-04",
-    "timestamp": "2025-06-16T19:50:27.141Z"
+    "timestamp": "2025-12-21T22:04:14.421Z"
   },
   {
     "ticker": "GPCXX",
@@ -1383,7 +1425,7 @@
     "USGO": 0.00062,
     "Muni": 0.01138,
     "filingDate": "2023-04-06",
-    "timestamp": "2025-06-16T19:50:20.392Z"
+    "timestamp": "2025-12-21T22:01:48.557Z"
   },
   {
     "ticker": "GPCXX",
@@ -1425,7 +1467,7 @@
     "USGO": 0.00884,
     "Muni": 0.01136,
     "filingDate": "2023-03-06",
-    "timestamp": "2025-06-16T19:50:34.750Z"
+    "timestamp": "2025-12-21T22:00:18.876Z"
   },
   {
     "ticker": "GPCXX",
@@ -1467,6 +1509,6 @@
     "USGO": 0.01373,
     "Muni": 0.01211,
     "filingDate": "2023-02-07",
-    "timestamp": "2025-06-16T19:49:48.696Z"
+    "timestamp": "2025-12-21T21:55:42.569Z"
   }
 ]

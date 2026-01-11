@@ -9,6 +9,48 @@
     "expenseRatio": 0.0019,
     "fiscalYearEnd": "1231",
     "category": "SingleState",
+    "totalNetAssets": 2103819084.71,
+    "investorType": "Retail",
+    "minimumInitialInvestment": 1000000,
+    "wam": 26,
+    "wal": 29,
+    "reportDate": "2025-12-31",
+    "yield": 0.0293,
+    "yieldDate": "2025-12-31",
+    "usTreasuryDebt": 0,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0.43407,
+    "otherMunicipalSecurity": 0.12625,
+    "assetBackedCommercialPaper": 0,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0,
+    "otherRepurchaseAgreement": 0,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0,
+    "nonFinancialCompanyCommercialPaper": 0.0299,
+    "tenderOptionBond": 0.40978,
+    "otherInstrument": 0,
+    "USGO": 0,
+    "Muni": 1,
+    "filingDate": "2026-01-08",
+    "timestamp": "2026-01-08T23:29:24.447Z"
+  },
+  {
+    "ticker": "SNYXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Charles Schwab Family Of Funds",
+    "seriesName": "Schwab New York Municipal Money Fund",
+    "className": "Ultra Shares",
+    "mmName": "Schwab New York Municipal MM Ultra Shares",
+    "expenseRatio": 0.0019,
+    "fiscalYearEnd": "1231",
+    "category": "SingleState",
     "totalNetAssets": 1931169674.21,
     "investorType": "Retail",
     "minimumInitialInvestment": 1000000,
@@ -39,7 +81,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-12-05",
-    "timestamp": "2025-12-12T13:54:06.692Z"
+    "timestamp": "2025-12-21T21:33:47.360Z"
   },
   {
     "ticker": "SNYXX",
@@ -81,7 +123,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-11-07",
-    "timestamp": "2025-12-12T13:54:11.968Z"
+    "timestamp": "2025-12-21T21:34:56.796Z"
   },
   {
     "ticker": "SNYXX",
@@ -123,7 +165,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-10-07",
-    "timestamp": "2025-12-12T16:05:33.681Z"
+    "timestamp": "2025-12-21T21:35:51.910Z"
   },
   {
     "ticker": "SNYXX",
@@ -165,7 +207,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-09-08",
-    "timestamp": "2025-12-12T16:05:22.818Z"
+    "timestamp": "2025-12-21T21:31:14.962Z"
   },
   {
     "ticker": "SNYXX",
@@ -207,7 +249,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-08-07",
-    "timestamp": "2025-12-12T18:12:36.696Z"
+    "timestamp": "2025-12-21T21:29:00.156Z"
   },
   {
     "ticker": "SNYXX",
@@ -249,7 +291,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-07-08",
-    "timestamp": "2025-07-12T18:57:31.780Z"
+    "timestamp": "2025-12-21T21:35:59.388Z"
   },
   {
     "ticker": "SNYXX",
@@ -291,7 +333,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-06-06",
-    "timestamp": "2025-06-16T19:46:45.497Z"
+    "timestamp": "2025-12-21T21:29:14.612Z"
   },
   {
     "ticker": "SNYXX",
@@ -333,7 +375,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-06-16T19:48:01.641Z"
+    "timestamp": "2025-12-21T21:33:05.142Z"
   },
   {
     "ticker": "SNYXX",
@@ -375,7 +417,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-06-16T19:46:55.102Z"
+    "timestamp": "2025-12-21T21:30:14.962Z"
   },
   {
     "ticker": "SNYXX",
@@ -417,7 +459,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-03-07",
-    "timestamp": "2025-06-16T19:46:48.826Z"
+    "timestamp": "2025-12-21T21:36:15.070Z"
   },
   {
     "ticker": "SNYXX",
@@ -459,7 +501,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-02-07",
-    "timestamp": "2025-06-16T19:47:14.699Z"
+    "timestamp": "2025-12-21T21:30:21.763Z"
   },
   {
     "ticker": "SNYXX",
@@ -501,7 +543,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-01-08",
-    "timestamp": "2025-06-16T19:47:44.584Z"
+    "timestamp": "2025-12-21T21:33:32.182Z"
   },
   {
     "ticker": "SNYXX",
@@ -543,7 +585,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-12-06",
-    "timestamp": "2025-06-16T19:47:33.417Z"
+    "timestamp": "2025-12-21T21:33:59.643Z"
   },
   {
     "ticker": "SNYXX",
@@ -585,7 +627,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-11-07",
-    "timestamp": "2025-06-16T19:47:17.168Z"
+    "timestamp": "2025-12-21T21:35:36.842Z"
   },
   {
     "ticker": "SNYXX",
@@ -627,7 +669,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-10-07",
-    "timestamp": "2025-06-16T19:46:49.684Z"
+    "timestamp": "2025-12-21T21:33:34.692Z"
   },
   {
     "ticker": "SNYXX",
@@ -669,7 +711,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-10-25",
-    "timestamp": "2025-06-16T19:46:44.822Z"
+    "timestamp": "2025-12-21T21:33:11.482Z"
   },
   {
     "ticker": "SNYXX",
@@ -711,7 +753,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-10-25",
-    "timestamp": "2025-06-16T19:47:55.177Z"
+    "timestamp": "2025-12-21T21:29:03.283Z"
   },
   {
     "ticker": "SNYXX",
@@ -753,7 +795,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-10-25",
-    "timestamp": "2025-06-16T19:47:59.077Z"
+    "timestamp": "2025-12-21T21:31:57.175Z"
   },
   {
     "ticker": "SNYXX",
@@ -795,7 +837,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-06-07",
-    "timestamp": "2025-06-16T19:47:14.307Z"
+    "timestamp": "2025-12-21T21:32:06.153Z"
   },
   {
     "ticker": "SNYXX",
@@ -837,7 +879,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-05-07",
-    "timestamp": "2025-06-16T19:46:32.443Z"
+    "timestamp": "2025-12-21T21:32:48.582Z"
   },
   {
     "ticker": "SNYXX",
@@ -879,7 +921,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-04-05",
-    "timestamp": "2025-06-16T19:47:52.170Z"
+    "timestamp": "2025-12-21T21:31:31.555Z"
   },
   {
     "ticker": "SNYXX",
@@ -921,7 +963,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-03-07",
-    "timestamp": "2025-06-16T19:46:56.607Z"
+    "timestamp": "2025-12-21T21:35:49.250Z"
   },
   {
     "ticker": "SNYXX",
@@ -963,7 +1005,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-02-07",
-    "timestamp": "2025-06-16T19:46:42.436Z"
+    "timestamp": "2025-12-21T21:31:24.532Z"
   },
   {
     "ticker": "SNYXX",
@@ -1005,7 +1047,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-01-08",
-    "timestamp": "2025-06-16T19:47:18.620Z"
+    "timestamp": "2025-12-21T21:35:30.803Z"
   },
   {
     "ticker": "SNYXX",
@@ -1047,7 +1089,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-12-07",
-    "timestamp": "2025-06-16T19:46:30.127Z"
+    "timestamp": "2025-12-21T21:30:48.713Z"
   },
   {
     "ticker": "SNYXX",
@@ -1089,7 +1131,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-11-07",
-    "timestamp": "2025-06-16T19:46:38.390Z"
+    "timestamp": "2025-12-21T21:30:06.814Z"
   },
   {
     "ticker": "SNYXX",
@@ -1131,7 +1173,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-10-06",
-    "timestamp": "2025-06-16T19:46:42.007Z"
+    "timestamp": "2025-12-21T21:30:40.847Z"
   },
   {
     "ticker": "SNYXX",
@@ -1173,7 +1215,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-09-08",
-    "timestamp": "2025-06-16T19:46:39.709Z"
+    "timestamp": "2025-12-21T21:33:25.733Z"
   },
   {
     "ticker": "SNYXX",
@@ -1215,7 +1257,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-08-07",
-    "timestamp": "2025-06-16T19:47:31.965Z"
+    "timestamp": "2025-12-21T21:29:36.036Z"
   },
   {
     "ticker": "SNYXX",
@@ -1257,7 +1299,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-07-10",
-    "timestamp": "2025-06-16T19:46:40.613Z"
+    "timestamp": "2025-12-21T21:29:45.158Z"
   },
   {
     "ticker": "SNYXX",
@@ -1299,7 +1341,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-06-07",
-    "timestamp": "2025-06-16T19:46:47.030Z"
+    "timestamp": "2025-12-21T21:31:35.170Z"
   },
   {
     "ticker": "SNYXX",
@@ -1341,7 +1383,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-05-05",
-    "timestamp": "2025-06-16T19:46:42.190Z"
+    "timestamp": "2025-12-21T21:36:09.211Z"
   },
   {
     "ticker": "SNYXX",
@@ -1383,7 +1425,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-04-07",
-    "timestamp": "2025-06-16T19:47:58.476Z"
+    "timestamp": "2025-12-21T21:35:22.033Z"
   },
   {
     "ticker": "SNYXX",
@@ -1425,7 +1467,7 @@
     "USGO": 0.13427,
     "Muni": 0.86573,
     "filingDate": "2023-03-07",
-    "timestamp": "2025-06-16T19:47:53.366Z"
+    "timestamp": "2025-12-21T21:32:43.724Z"
   },
   {
     "ticker": "SNYXX",
@@ -1467,7 +1509,7 @@
     "USGO": 0.05646,
     "Muni": 0.94354,
     "filingDate": "2023-02-07",
-    "timestamp": "2025-06-16T19:46:38.915Z"
+    "timestamp": "2025-12-21T21:34:42.369Z"
   },
   {
     "ticker": "SNYXX",
@@ -1509,7 +1551,7 @@
     "USGO": 0.10088,
     "Muni": 0.89912,
     "filingDate": "2023-01-09",
-    "timestamp": "2025-06-16T19:46:47.843Z"
+    "timestamp": "2025-12-21T21:30:07.382Z"
   },
   {
     "ticker": "SNYXX",
@@ -1551,7 +1593,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-12-07",
-    "timestamp": "2025-06-16T19:47:00.755Z"
+    "timestamp": "2025-12-21T21:36:21.974Z"
   },
   {
     "ticker": "SNYXX",
@@ -1593,7 +1635,7 @@
     "USGO": 0.06713,
     "Muni": 0.93287,
     "filingDate": "2022-11-07",
-    "timestamp": "2025-06-16T19:46:56.059Z"
+    "timestamp": "2025-12-21T21:30:25.846Z"
   },
   {
     "ticker": "SNYXX",
@@ -1635,7 +1677,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-10-07",
-    "timestamp": "2025-06-16T19:47:54.460Z"
+    "timestamp": "2025-12-21T21:33:00.415Z"
   },
   {
     "ticker": "SNYXX",
@@ -1677,7 +1719,7 @@
     "USGO": 0.00601,
     "Muni": 0.99399,
     "filingDate": "2022-09-08",
-    "timestamp": "2025-06-16T19:47:12.074Z"
+    "timestamp": "2025-12-21T21:30:38.852Z"
   },
   {
     "ticker": "SNYXX",
@@ -1719,7 +1761,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-08-05",
-    "timestamp": "2025-06-16T19:46:46.768Z"
+    "timestamp": "2025-12-21T21:31:39.373Z"
   },
   {
     "ticker": "SNYXX",
@@ -1761,7 +1803,7 @@
     "USGO": 0.01883,
     "Muni": 0.98117,
     "filingDate": "2022-07-08",
-    "timestamp": "2025-06-16T19:47:20.887Z"
+    "timestamp": "2025-12-21T21:32:57.217Z"
   },
   {
     "ticker": "SNYXX",
@@ -1803,7 +1845,7 @@
     "USGO": 0.04452,
     "Muni": 0.95548,
     "filingDate": "2022-06-07",
-    "timestamp": "2025-06-16T19:47:33.499Z"
+    "timestamp": "2025-12-21T21:33:00.988Z"
   },
   {
     "ticker": "SNYXX",
@@ -1845,7 +1887,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-05-06",
-    "timestamp": "2025-06-16T19:47:53.285Z"
+    "timestamp": "2025-12-21T21:32:08.878Z"
   },
   {
     "ticker": "SNYXX",
@@ -1887,7 +1929,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-04-07",
-    "timestamp": "2025-06-16T19:47:01.781Z"
+    "timestamp": "2025-12-21T21:36:02.407Z"
   },
   {
     "ticker": "SNYXX",
@@ -1929,7 +1971,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-03-07",
-    "timestamp": "2025-06-16T19:47:00.169Z"
+    "timestamp": "2025-12-21T21:30:31.358Z"
   },
   {
     "ticker": "SNYXX",
@@ -1971,7 +2013,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-02-07",
-    "timestamp": "2025-06-16T19:47:12.492Z"
+    "timestamp": "2025-12-21T21:35:21.449Z"
   },
   {
     "ticker": "SNYXX",
@@ -2013,7 +2055,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-01-07",
-    "timestamp": "2025-06-16T19:47:16.563Z"
+    "timestamp": "2025-12-21T21:30:26.383Z"
   },
   {
     "ticker": "SNYXX",
@@ -2055,7 +2097,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-12-07",
-    "timestamp": "2025-06-16T19:46:44.609Z"
+    "timestamp": "2025-12-21T21:28:45.954Z"
   },
   {
     "ticker": "SNYXX",
@@ -2097,7 +2139,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-11-05",
-    "timestamp": "2025-06-16T19:47:52.082Z"
+    "timestamp": "2025-12-21T21:29:46.541Z"
   },
   {
     "ticker": "SNYXX",
@@ -2139,7 +2181,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-10-07",
-    "timestamp": "2025-06-16T19:46:34.957Z"
+    "timestamp": "2025-12-21T21:36:17.289Z"
   },
   {
     "ticker": "SNYXX",
@@ -2181,7 +2223,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-09-08",
-    "timestamp": "2025-06-16T19:47:16.491Z"
+    "timestamp": "2025-12-21T21:34:53.944Z"
   },
   {
     "ticker": "SNYXX",
@@ -2223,7 +2265,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-08-06",
-    "timestamp": "2025-06-16T19:47:19.859Z"
+    "timestamp": "2025-12-21T21:31:25.773Z"
   },
   {
     "ticker": "SNYXX",
@@ -2265,7 +2307,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-07-08",
-    "timestamp": "2025-06-16T19:46:31.791Z"
+    "timestamp": "2025-12-21T21:29:00.782Z"
   },
   {
     "ticker": "SNYXX",
@@ -2307,7 +2349,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-06-07",
-    "timestamp": "2025-06-16T19:47:56.097Z"
+    "timestamp": "2025-12-21T21:30:53.229Z"
   },
   {
     "ticker": "SNYXX",
@@ -2349,7 +2391,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-05-07",
-    "timestamp": "2025-06-16T19:47:04.435Z"
+    "timestamp": "2025-12-21T21:36:13.266Z"
   },
   {
     "ticker": "SNYXX",
@@ -2391,7 +2433,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-04-07",
-    "timestamp": "2025-06-16T19:47:04.509Z"
+    "timestamp": "2025-12-21T21:31:52.043Z"
   },
   {
     "ticker": "SNYXX",
@@ -2433,7 +2475,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-03-05",
-    "timestamp": "2025-06-16T19:47:46.630Z"
+    "timestamp": "2025-12-21T21:36:08.640Z"
   },
   {
     "ticker": "SNYXX",
@@ -2475,7 +2517,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-02-05",
-    "timestamp": "2025-06-16T19:47:15.660Z"
+    "timestamp": "2025-12-21T21:36:06.410Z"
   },
   {
     "ticker": "SNYXX",
@@ -2517,7 +2559,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-01-08",
-    "timestamp": "2025-06-16T19:46:41.478Z"
+    "timestamp": "2025-12-21T21:35:13.216Z"
   },
   {
     "ticker": "SNYXX",
@@ -2559,7 +2601,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-12-07",
-    "timestamp": "2025-06-16T19:47:39.172Z"
+    "timestamp": "2025-12-21T21:29:05.062Z"
   },
   {
     "ticker": "SNYXX",
@@ -2601,7 +2643,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-11-06",
-    "timestamp": "2025-06-16T19:47:13.500Z"
+    "timestamp": "2025-12-21T21:35:28.795Z"
   },
   {
     "ticker": "SNYXX",
@@ -2643,6 +2685,6 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-10-07",
-    "timestamp": "2025-06-16T19:47:42.182Z"
+    "timestamp": "2025-12-21T21:34:25.778Z"
   }
 ]

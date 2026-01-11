@@ -9,7 +9,7 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": 1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
+    "timestamp": "2026-01-11T13:12:47.065Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -24,7 +24,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
+    "timestamp": "2026-01-11T13:12:47.065Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -39,7 +39,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
+    "timestamp": "2026-01-11T13:12:47.065Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -54,7 +54,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
+    "timestamp": "2026-01-11T13:12:47.065Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -69,7 +69,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
+    "timestamp": "2026-01-11T13:12:47.065Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -84,7 +84,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
+    "timestamp": "2026-01-11T13:12:47.065Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -92,31 +92,31 @@
   {
     "ticker": "MSUXX",
     "year": 2025,
-    "months": 11,
+    "months": 12,
     "usgo": 1,
     "muni": 0,
     "q1Pct": 1,
     "q2Pct": 1,
     "q3Pct": 1,
-    "q4Pct": -1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
-    "estimateType": "YTD",
+    "q4Pct": 1,
+    "timestamp": "2026-01-11T13:12:47.065Z",
+    "estimateType": "complete",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "current-year"
+    "fiftyPctHistory": "missing fiscal year"
   },
   {
     "ticker": "MSUXX",
     "year": 2026,
-    "months": 11,
+    "months": 12,
     "usgo": 1,
     "muni": 0,
     "q1Pct": 1,
     "q2Pct": 1,
     "q3Pct": 1,
-    "q4Pct": -1,
-    "timestamp": "2026-01-04T03:26:04.620Z",
+    "q4Pct": 1,
+    "timestamp": "2026-01-11T13:12:47.065Z",
     "estimateType": "new-year-placeholder",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "current-year"
+    "fiftyPctHistory": "missing fiscal year"
   }
 ]

@@ -9,6 +9,48 @@
     "expenseRatio": 0.002,
     "fiscalYearEnd": "0731",
     "category": "Prime",
+    "totalNetAssets": 15579178310.88,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 500000,
+    "wam": 45,
+    "wal": 69,
+    "reportDate": "2025-12-31",
+    "yield": 0.0378,
+    "yieldDate": "2025-12-31",
+    "usTreasuryDebt": 0,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0.11578,
+    "nonNegotiableTimeDeposit": 0.00602,
+    "variableRateDemandNote": 0.0218,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0.06423,
+    "otherAssetBackedSecurities": 0.00144,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0.24834,
+    "otherRepurchaseAgreement": 0.27696,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0.19304,
+    "nonFinancialCompanyCommercialPaper": 0.03868,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0.03371,
+    "USGO": 0,
+    "Muni": 0.0218,
+    "filingDate": "2026-01-08",
+    "timestamp": "2026-01-08T19:21:34.035Z"
+  },
+  {
+    "ticker": "POIXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Federated Hermes Money Market Obligations Trust",
+    "seriesName": "Federated Hermes Institutional Prime Obligations Fund",
+    "className": "Institutional Shares",
+    "mmName": "Federated Hermes Instl Prime Obl Is",
+    "expenseRatio": 0.002,
+    "fiscalYearEnd": "0731",
+    "category": "Prime",
     "totalNetAssets": 15616039084.24,
     "investorType": "Institutional",
     "minimumInitialInvestment": 500000,
@@ -39,7 +81,7 @@
     "USGO": 0,
     "Muni": 0.02311,
     "filingDate": "2025-12-05",
-    "timestamp": "2025-12-12T13:56:46.793Z"
+    "timestamp": "2025-12-21T21:20:32.622Z"
   },
   {
     "ticker": "POIXX",
@@ -81,7 +123,7 @@
     "USGO": 0,
     "Muni": 0.0248,
     "filingDate": "2025-11-07",
-    "timestamp": "2025-12-12T13:56:35.021Z"
+    "timestamp": "2025-12-21T21:20:57.888Z"
   },
   {
     "ticker": "POIXX",
@@ -123,7 +165,7 @@
     "USGO": 0,
     "Muni": 0.02461,
     "filingDate": "2025-10-07",
-    "timestamp": "2025-12-12T16:06:40.985Z"
+    "timestamp": "2025-12-21T21:22:19.874Z"
   },
   {
     "ticker": "POIXX",
@@ -165,7 +207,7 @@
     "USGO": 0,
     "Muni": 0.02604,
     "filingDate": "2025-09-08",
-    "timestamp": "2025-12-12T18:13:16.187Z"
+    "timestamp": "2025-12-21T21:20:54.282Z"
   },
   {
     "ticker": "POIXX",
@@ -207,7 +249,7 @@
     "USGO": 0,
     "Muni": 0.02203,
     "filingDate": "2025-08-07",
-    "timestamp": "2025-12-12T20:21:42.816Z"
+    "timestamp": "2025-12-21T21:22:05.861Z"
   },
   {
     "ticker": "POIXX",
@@ -249,7 +291,7 @@
     "USGO": 0,
     "Muni": 0.02243,
     "filingDate": "2025-07-08",
-    "timestamp": "2025-07-12T18:58:51.157Z"
+    "timestamp": "2025-12-21T21:19:27.940Z"
   },
   {
     "ticker": "POIXX",
@@ -291,7 +333,7 @@
     "USGO": 0,
     "Muni": 0.02296,
     "filingDate": "2025-06-06",
-    "timestamp": "2025-06-16T19:55:03.386Z"
+    "timestamp": "2025-12-21T21:23:36.664Z"
   },
   {
     "ticker": "POIXX",
@@ -333,7 +375,7 @@
     "USGO": 0,
     "Muni": 0.02399,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-06-16T19:56:28.931Z"
+    "timestamp": "2025-12-21T21:24:25.067Z"
   },
   {
     "ticker": "POIXX",
@@ -375,7 +417,7 @@
     "USGO": 0,
     "Muni": 0.0237,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-06-16T19:56:25.327Z"
+    "timestamp": "2025-12-21T21:19:00.951Z"
   },
   {
     "ticker": "POIXX",
@@ -417,7 +459,7 @@
     "USGO": 0,
     "Muni": 0.02308,
     "filingDate": "2025-03-07",
-    "timestamp": "2025-06-16T19:55:56.484Z"
+    "timestamp": "2025-12-21T21:21:28.435Z"
   },
   {
     "ticker": "POIXX",
@@ -459,7 +501,7 @@
     "USGO": 0,
     "Muni": 0.02348,
     "filingDate": "2025-02-07",
-    "timestamp": "2025-06-16T19:55:40.499Z"
+    "timestamp": "2025-12-21T21:19:54.840Z"
   },
   {
     "ticker": "POIXX",
@@ -501,7 +543,7 @@
     "USGO": 0,
     "Muni": 0.02444,
     "filingDate": "2025-01-08",
-    "timestamp": "2025-06-16T19:56:00.197Z"
+    "timestamp": "2025-12-21T21:18:41.807Z"
   },
   {
     "ticker": "POIXX",
@@ -543,7 +585,7 @@
     "USGO": 0,
     "Muni": 0.0254,
     "filingDate": "2024-12-06",
-    "timestamp": "2025-06-16T19:55:02.893Z"
+    "timestamp": "2025-12-21T21:21:16.321Z"
   },
   {
     "ticker": "POIXX",
@@ -585,7 +627,7 @@
     "USGO": 0,
     "Muni": 0.02483,
     "filingDate": "2024-11-07",
-    "timestamp": "2025-06-16T19:56:01.915Z"
+    "timestamp": "2025-12-21T21:23:29.410Z"
   },
   {
     "ticker": "POIXX",
@@ -627,7 +669,7 @@
     "USGO": 0,
     "Muni": 0.02312,
     "filingDate": "2024-10-07",
-    "timestamp": "2025-06-16T19:55:57.996Z"
+    "timestamp": "2025-12-21T21:21:20.165Z"
   },
   {
     "ticker": "POIXX",
@@ -669,7 +711,7 @@
     "USGO": 0,
     "Muni": 0.02197,
     "filingDate": "2024-09-09",
-    "timestamp": "2025-06-16T19:56:09.335Z"
+    "timestamp": "2025-12-21T21:16:56.628Z"
   },
   {
     "ticker": "POIXX",
@@ -711,7 +753,7 @@
     "USGO": 0,
     "Muni": 0.02167,
     "filingDate": "2024-08-07",
-    "timestamp": "2025-06-16T19:55:42.043Z"
+    "timestamp": "2025-12-21T21:22:27.358Z"
   },
   {
     "ticker": "POIXX",
@@ -753,7 +795,7 @@
     "USGO": 0,
     "Muni": 0.02251,
     "filingDate": "2025-01-17",
-    "timestamp": "2025-06-16T19:56:51.216Z"
+    "timestamp": "2025-12-21T21:21:36.648Z"
   },
   {
     "ticker": "POIXX",
@@ -795,7 +837,7 @@
     "USGO": 0,
     "Muni": 0.02419,
     "filingDate": "2024-06-07",
-    "timestamp": "2025-06-16T19:55:09.197Z"
+    "timestamp": "2025-12-21T21:22:58.999Z"
   },
   {
     "ticker": "POIXX",
@@ -837,7 +879,7 @@
     "USGO": 0,
     "Muni": 0.01934,
     "filingDate": "2024-05-07",
-    "timestamp": "2025-06-16T19:56:43.759Z"
+    "timestamp": "2025-12-21T21:18:30.998Z"
   },
   {
     "ticker": "POIXX",
@@ -879,7 +921,7 @@
     "USGO": 0,
     "Muni": 0.01981,
     "filingDate": "2024-04-05",
-    "timestamp": "2025-06-16T19:56:10.747Z"
+    "timestamp": "2025-12-21T21:21:23.185Z"
   },
   {
     "ticker": "POIXX",
@@ -921,7 +963,7 @@
     "USGO": 0,
     "Muni": 0.0201,
     "filingDate": "2024-03-07",
-    "timestamp": "2025-06-16T19:55:50.538Z"
+    "timestamp": "2025-12-21T21:21:41.149Z"
   },
   {
     "ticker": "POIXX",
@@ -963,7 +1005,7 @@
     "USGO": 0.00714,
     "Muni": 0.01988,
     "filingDate": "2024-02-07",
-    "timestamp": "2025-06-16T19:55:26.613Z"
+    "timestamp": "2025-12-21T21:20:56.665Z"
   },
   {
     "ticker": "POIXX",
@@ -1005,7 +1047,7 @@
     "USGO": 0,
     "Muni": 0.02155,
     "filingDate": "2024-01-08",
-    "timestamp": "2025-06-16T19:56:02.837Z"
+    "timestamp": "2025-12-21T21:18:49.433Z"
   },
   {
     "ticker": "POIXX",
@@ -1047,7 +1089,7 @@
     "USGO": 0,
     "Muni": 0.02228,
     "filingDate": "2023-12-07",
-    "timestamp": "2025-06-16T19:55:28.572Z"
+    "timestamp": "2025-12-21T21:22:33.520Z"
   },
   {
     "ticker": "POIXX",
@@ -1089,7 +1131,7 @@
     "USGO": 0.03178,
     "Muni": 0.02248,
     "filingDate": "2023-11-07",
-    "timestamp": "2025-06-16T19:56:31.169Z"
+    "timestamp": "2025-12-21T21:17:06.117Z"
   },
   {
     "ticker": "POIXX",
@@ -1131,7 +1173,7 @@
     "USGO": 0.01246,
     "Muni": 0.02578,
     "filingDate": "2023-10-06",
-    "timestamp": "2025-06-16T19:56:41.925Z"
+    "timestamp": "2025-12-21T21:19:11.672Z"
   },
   {
     "ticker": "POIXX",
@@ -1173,7 +1215,7 @@
     "USGO": 0,
     "Muni": 0.02709,
     "filingDate": "2023-09-08",
-    "timestamp": "2025-06-16T19:55:30.463Z"
+    "timestamp": "2025-12-21T21:20:18.513Z"
   },
   {
     "ticker": "POIXX",
@@ -1215,7 +1257,7 @@
     "USGO": 0,
     "Muni": 0.02912,
     "filingDate": "2023-08-07",
-    "timestamp": "2025-06-16T19:55:31.957Z"
+    "timestamp": "2025-12-21T21:20:19.203Z"
   },
   {
     "ticker": "POIXX",
@@ -1257,7 +1299,7 @@
     "USGO": 0,
     "Muni": 0.03116,
     "filingDate": "2023-07-10",
-    "timestamp": "2025-06-16T19:55:18.450Z"
+    "timestamp": "2025-12-21T21:20:46.080Z"
   },
   {
     "ticker": "POIXX",
@@ -1299,7 +1341,7 @@
     "USGO": 0,
     "Muni": 0.0389,
     "filingDate": "2023-06-07",
-    "timestamp": "2025-06-16T19:56:34.331Z"
+    "timestamp": "2025-12-21T21:23:13.695Z"
   },
   {
     "ticker": "POIXX",
@@ -1341,7 +1383,7 @@
     "USGO": 0.00321,
     "Muni": 0.03969,
     "filingDate": "2023-05-05",
-    "timestamp": "2025-06-16T19:56:24.677Z"
+    "timestamp": "2025-12-21T21:20:08.809Z"
   },
   {
     "ticker": "POIXX",
@@ -1383,7 +1425,7 @@
     "USGO": 0.00331,
     "Muni": 0.03875,
     "filingDate": "2023-04-06",
-    "timestamp": "2025-06-16T19:55:33.897Z"
+    "timestamp": "2025-12-21T21:19:48.917Z"
   },
   {
     "ticker": "POIXX",
@@ -1425,7 +1467,7 @@
     "USGO": 0.00309,
     "Muni": 0.03342,
     "filingDate": "2023-03-07",
-    "timestamp": "2025-06-16T19:55:58.866Z"
+    "timestamp": "2025-12-21T21:17:54.858Z"
   },
   {
     "ticker": "POIXX",
@@ -1467,7 +1509,7 @@
     "USGO": 0.0502,
     "Muni": 0.03538,
     "filingDate": "2023-02-07",
-    "timestamp": "2025-06-16T19:56:22.957Z"
+    "timestamp": "2025-12-21T21:23:39.815Z"
   },
   {
     "ticker": "POIXX",
@@ -1509,7 +1551,7 @@
     "USGO": 0.00337,
     "Muni": 0.03524,
     "filingDate": "2023-01-09",
-    "timestamp": "2025-06-16T19:56:03.366Z"
+    "timestamp": "2025-12-21T21:18:47.243Z"
   },
   {
     "ticker": "POIXX",
@@ -1551,7 +1593,7 @@
     "USGO": 0.00342,
     "Muni": 0.04322,
     "filingDate": "2022-12-07",
-    "timestamp": "2025-06-16T19:54:46.885Z"
+    "timestamp": "2025-12-21T21:22:32.660Z"
   },
   {
     "ticker": "POIXX",
@@ -1593,7 +1635,7 @@
     "USGO": 0.00328,
     "Muni": 0.04152,
     "filingDate": "2022-11-07",
-    "timestamp": "2025-06-16T19:56:38.737Z"
+    "timestamp": "2025-12-21T21:20:00.939Z"
   },
   {
     "ticker": "POIXX",
@@ -1635,7 +1677,7 @@
     "USGO": 0.00345,
     "Muni": 0.04439,
     "filingDate": "2022-10-07",
-    "timestamp": "2025-06-16T19:54:43.442Z"
+    "timestamp": "2025-12-21T21:17:51.098Z"
   },
   {
     "ticker": "POIXX",
@@ -1677,7 +1719,7 @@
     "USGO": 0.00337,
     "Muni": 0.04301,
     "filingDate": "2022-09-08",
-    "timestamp": "2025-06-16T19:55:56.721Z"
+    "timestamp": "2025-12-21T21:23:30.238Z"
   },
   {
     "ticker": "POIXX",
@@ -1719,7 +1761,7 @@
     "USGO": 0.00351,
     "Muni": 0.04267,
     "filingDate": "2022-08-05",
-    "timestamp": "2025-06-16T19:55:40.094Z"
+    "timestamp": "2025-12-21T21:20:15.919Z"
   },
   {
     "ticker": "POIXX",
@@ -1761,7 +1803,7 @@
     "USGO": 0.00355,
     "Muni": 0.04388,
     "filingDate": "2022-07-08",
-    "timestamp": "2025-06-16T19:55:45.997Z"
+    "timestamp": "2025-12-21T21:21:40.134Z"
   },
   {
     "ticker": "POIXX",
@@ -1803,7 +1845,7 @@
     "USGO": 0.00344,
     "Muni": 0.04479,
     "filingDate": "2022-06-07",
-    "timestamp": "2025-06-16T19:56:03.873Z"
+    "timestamp": "2025-12-21T21:23:55.298Z"
   },
   {
     "ticker": "POIXX",
@@ -1845,7 +1887,7 @@
     "USGO": 0.01995,
     "Muni": 0.05162,
     "filingDate": "2022-05-06",
-    "timestamp": "2025-06-16T19:56:49.670Z"
+    "timestamp": "2025-12-21T21:21:22.570Z"
   },
   {
     "ticker": "POIXX",
@@ -1887,7 +1929,7 @@
     "USGO": 0.0206,
     "Muni": 0.05333,
     "filingDate": "2022-04-07",
-    "timestamp": "2025-06-16T19:56:37.079Z"
+    "timestamp": "2025-12-21T21:20:47.188Z"
   },
   {
     "ticker": "POIXX",
@@ -1929,7 +1971,7 @@
     "USGO": 0.02235,
     "Muni": 0.06198,
     "filingDate": "2022-03-07",
-    "timestamp": "2025-06-16T19:55:36.511Z"
+    "timestamp": "2025-12-21T21:24:06.217Z"
   },
   {
     "ticker": "POIXX",
@@ -1971,7 +2013,7 @@
     "USGO": 0.00427,
     "Muni": 0.07381,
     "filingDate": "2022-02-07",
-    "timestamp": "2025-06-16T19:55:41.684Z"
+    "timestamp": "2025-12-21T21:23:31.571Z"
   },
   {
     "ticker": "POIXX",
@@ -2013,7 +2055,7 @@
     "USGO": 0.00406,
     "Muni": 0.06925,
     "filingDate": "2022-01-07",
-    "timestamp": "2025-06-16T19:54:57.105Z"
+    "timestamp": "2025-12-21T21:23:43.664Z"
   },
   {
     "ticker": "POIXX",
@@ -2055,7 +2097,7 @@
     "USGO": 0.00392,
     "Muni": 0.06219,
     "filingDate": "2021-12-07",
-    "timestamp": "2025-06-16T19:54:54.754Z"
+    "timestamp": "2025-12-21T21:17:06.906Z"
   },
   {
     "ticker": "POIXX",
@@ -2097,7 +2139,7 @@
     "USGO": 0.03449,
     "Muni": 0.06496,
     "filingDate": "2021-11-05",
-    "timestamp": "2025-06-16T19:55:49.547Z"
+    "timestamp": "2025-12-21T21:17:49.381Z"
   },
   {
     "ticker": "POIXX",
@@ -2139,7 +2181,7 @@
     "USGO": 0.03326,
     "Muni": 0.06173,
     "filingDate": "2021-10-07",
-    "timestamp": "2025-06-16T19:55:41.535Z"
+    "timestamp": "2025-12-21T21:17:26.979Z"
   },
   {
     "ticker": "POIXX",
@@ -2181,7 +2223,7 @@
     "USGO": 0.00348,
     "Muni": 0.05258,
     "filingDate": "2021-09-08",
-    "timestamp": "2025-06-16T19:56:15.335Z"
+    "timestamp": "2025-12-21T21:19:15.838Z"
   },
   {
     "ticker": "POIXX",
@@ -2223,7 +2265,7 @@
     "USGO": 0.00326,
     "Muni": 0.04939,
     "filingDate": "2021-08-06",
-    "timestamp": "2025-06-16T19:55:05.680Z"
+    "timestamp": "2025-12-21T21:20:55.732Z"
   },
   {
     "ticker": "POIXX",
@@ -2265,7 +2307,7 @@
     "USGO": 0.01319,
     "Muni": 0.04739,
     "filingDate": "2021-07-08",
-    "timestamp": "2025-06-16T19:54:49.849Z"
+    "timestamp": "2025-12-21T21:24:10.304Z"
   },
   {
     "ticker": "POIXX",
@@ -2307,7 +2349,7 @@
     "USGO": 0.00972,
     "Muni": 0.04963,
     "filingDate": "2021-06-07",
-    "timestamp": "2025-06-16T19:56:50.994Z"
+    "timestamp": "2025-12-21T21:22:44.854Z"
   },
   {
     "ticker": "POIXX",
@@ -2349,7 +2391,7 @@
     "USGO": 0.03035,
     "Muni": 0.04559,
     "filingDate": "2021-05-07",
-    "timestamp": "2025-06-16T19:56:40.271Z"
+    "timestamp": "2025-12-21T21:19:34.903Z"
   },
   {
     "ticker": "POIXX",
@@ -2391,7 +2433,7 @@
     "USGO": 0.04687,
     "Muni": 0.0409,
     "filingDate": "2021-04-08",
-    "timestamp": "2025-06-16T19:55:51.783Z"
+    "timestamp": "2025-12-21T21:21:01.534Z"
   },
   {
     "ticker": "POIXX",
@@ -2433,7 +2475,7 @@
     "USGO": 0.05202,
     "Muni": 0.03518,
     "filingDate": "2021-03-05",
-    "timestamp": "2025-06-16T19:55:29.967Z"
+    "timestamp": "2025-12-21T21:18:30.333Z"
   },
   {
     "ticker": "POIXX",
@@ -2475,7 +2517,7 @@
     "USGO": 0.05067,
     "Muni": 0.03146,
     "filingDate": "2021-02-05",
-    "timestamp": "2025-06-16T19:55:47.236Z"
+    "timestamp": "2025-12-21T21:17:21.948Z"
   },
   {
     "ticker": "POIXX",
@@ -2517,7 +2559,7 @@
     "USGO": 0.03967,
     "Muni": 0.03445,
     "filingDate": "2021-01-08",
-    "timestamp": "2025-06-16T19:56:02.483Z"
+    "timestamp": "2025-12-21T21:24:29.688Z"
   },
   {
     "ticker": "POIXX",
@@ -2559,7 +2601,7 @@
     "USGO": 0.10824,
     "Muni": 0.02834,
     "filingDate": "2020-12-07",
-    "timestamp": "2025-06-16T19:54:44.024Z"
+    "timestamp": "2025-12-21T21:19:51.849Z"
   },
   {
     "ticker": "POIXX",
@@ -2601,7 +2643,7 @@
     "USGO": 0.11596,
     "Muni": 0.02988,
     "filingDate": "2020-11-06",
-    "timestamp": "2025-06-16T19:55:42.238Z"
+    "timestamp": "2025-12-21T21:18:24.715Z"
   },
   {
     "ticker": "POIXX",
@@ -2643,7 +2685,7 @@
     "USGO": 0.12311,
     "Muni": 0.02858,
     "filingDate": "2020-10-07",
-    "timestamp": "2025-06-16T19:56:26.840Z"
+    "timestamp": "2025-12-21T21:24:37.517Z"
   },
   {
     "ticker": "POIXX",
@@ -2685,7 +2727,7 @@
     "USGO": 0.09185,
     "Muni": 0.02293,
     "filingDate": "2020-09-08",
-    "timestamp": "2025-06-16T19:56:18.689Z"
+    "timestamp": "2025-12-21T21:20:15.038Z"
   },
   {
     "ticker": "POIXX",
@@ -2727,7 +2769,7 @@
     "USGO": 0.12226,
     "Muni": 0.02522,
     "filingDate": "2020-08-07",
-    "timestamp": "2025-06-16T19:55:46.180Z"
+    "timestamp": "2025-12-21T21:17:37.869Z"
   },
   {
     "ticker": "POIXX",
@@ -2769,7 +2811,7 @@
     "USGO": 0.14425,
     "Muni": 0.02239,
     "filingDate": "2020-07-08",
-    "timestamp": "2025-06-16T19:55:59.291Z"
+    "timestamp": "2025-12-21T21:18:20.093Z"
   },
   {
     "ticker": "POIXX",
@@ -2811,7 +2853,7 @@
     "USGO": 0.13856,
     "Muni": 0.02014,
     "filingDate": "2020-06-05",
-    "timestamp": "2025-06-16T19:55:46.370Z"
+    "timestamp": "2025-12-21T21:20:14.197Z"
   },
   {
     "ticker": "POIXX",
@@ -2853,7 +2895,7 @@
     "USGO": 0.04632,
     "Muni": 0.02437,
     "filingDate": "2020-05-07",
-    "timestamp": "2025-06-16T19:56:20.660Z"
+    "timestamp": "2025-12-21T21:18:35.989Z"
   },
   {
     "ticker": "POIXX",
@@ -2895,7 +2937,7 @@
     "USGO": 0,
     "Muni": 0.01959,
     "filingDate": "2020-04-07",
-    "timestamp": "2025-06-16T19:54:51.323Z"
+    "timestamp": "2025-12-21T21:24:36.034Z"
   },
   {
     "ticker": "POIXX",
@@ -2937,7 +2979,7 @@
     "USGO": 0,
     "Muni": 0.01313,
     "filingDate": "2020-03-06",
-    "timestamp": "2025-06-16T19:54:42.293Z"
+    "timestamp": "2025-12-21T21:18:28.945Z"
   },
   {
     "ticker": "POIXX",
@@ -2979,7 +3021,7 @@
     "USGO": 0,
     "Muni": 0.01347,
     "filingDate": "2020-02-07",
-    "timestamp": "2025-06-16T19:55:38.355Z"
+    "timestamp": "2025-12-21T21:20:40.195Z"
   },
   {
     "ticker": "POIXX",
@@ -3021,6 +3063,6 @@
     "USGO": 0,
     "Muni": 0.01429,
     "filingDate": "2020-01-08",
-    "timestamp": "2025-06-16T19:56:26.057Z"
+    "timestamp": "2025-12-21T21:19:37.309Z"
   }
 ]

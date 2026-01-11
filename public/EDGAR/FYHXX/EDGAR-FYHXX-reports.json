@@ -9,6 +9,48 @@
     "expenseRatio": 0.0018,
     "fiscalYearEnd": "0430",
     "category": "Government",
+    "totalNetAssets": 97459728.74,
+    "investorType": "Institutional",
+    "minimumInitialInvestment": 1000000,
+    "wam": 31,
+    "wal": 31,
+    "reportDate": "2025-12-31",
+    "yield": 0.0362,
+    "yieldDate": "2025-12-31",
+    "usTreasuryDebt": 1,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0,
+    "otherMunicipalSecurity": 0,
+    "assetBackedCommercialPaper": 0,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0,
+    "otherRepurchaseAgreement": 0,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0,
+    "nonFinancialCompanyCommercialPaper": 0,
+    "tenderOptionBond": 0,
+    "otherInstrument": 0,
+    "USGO": 1,
+    "Muni": 0,
+    "filingDate": "2026-01-08",
+    "timestamp": "2026-01-08T15:15:15.481Z"
+  },
+  {
+    "ticker": "FYHXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Fidelity Hereford Street Trust",
+    "seriesName": "Fidelity Treasury Digital Fund",
+    "className": "Fidelity Treasury Digital Fund - Liquidity",
+    "mmName": "Fidelity Treasury Digital Liquidity",
+    "expenseRatio": 0.0018,
+    "fiscalYearEnd": "0430",
+    "category": "Government",
     "totalNetAssets": 97155083.64,
     "investorType": "Institutional",
     "minimumInitialInvestment": 1000000,
@@ -39,7 +81,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-12-05",
-    "timestamp": "2025-12-12T13:53:47.728Z"
+    "timestamp": "2025-12-21T21:50:35.017Z"
   },
   {
     "ticker": "FYHXX",
@@ -81,7 +123,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-11-07",
-    "timestamp": "2025-12-12T13:53:48.927Z"
+    "timestamp": "2025-12-21T21:48:37.568Z"
   },
   {
     "ticker": "FYHXX",
@@ -123,7 +165,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-10-07",
-    "timestamp": "2025-12-12T13:53:55.545Z"
+    "timestamp": "2025-12-21T21:50:02.112Z"
   },
   {
     "ticker": "FYHXX",
@@ -165,7 +207,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-09-08",
-    "timestamp": "2025-12-12T13:53:52.299Z"
+    "timestamp": "2025-12-21T21:48:43.675Z"
   },
   {
     "ticker": "FYHXX",
@@ -207,7 +249,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-08-07",
-    "timestamp": "2025-12-12T16:05:17.283Z"
+    "timestamp": "2025-12-21T21:50:04.336Z"
   },
   {
     "ticker": "FYHXX",
@@ -249,7 +291,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-07-08",
-    "timestamp": "2025-07-12T18:57:23.608Z"
+    "timestamp": "2025-12-21T21:50:10.193Z"
   },
   {
     "ticker": "FYHXX",
@@ -291,7 +333,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-06-06",
-    "timestamp": "2025-06-16T19:46:05.793Z"
+    "timestamp": "2025-12-21T21:49:42.397Z"
   },
   {
     "ticker": "FYHXX",
@@ -333,7 +375,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-05-07",
-    "timestamp": "2025-06-16T19:45:49.470Z"
+    "timestamp": "2025-12-21T21:49:17.745Z"
   },
   {
     "ticker": "FYHXX",
@@ -375,7 +417,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-04-07",
-    "timestamp": "2025-06-16T19:46:05.485Z"
+    "timestamp": "2025-12-21T21:49:17.483Z"
   },
   {
     "ticker": "FYHXX",
@@ -417,7 +459,7 @@
     "USGO": 1,
     "Muni": 0,
     "filingDate": "2025-03-07",
-    "timestamp": "2025-06-16T19:45:58.869Z"
+    "timestamp": "2025-12-21T21:50:00.724Z"
   },
   {
     "ticker": "FYHXX",
@@ -459,7 +501,7 @@
     "USGO": null,
     "Muni": null,
     "filingDate": "2025-02-07",
-    "timestamp": "2025-06-16T19:45:53.390Z"
+    "timestamp": "2025-12-21T21:50:03.996Z"
   },
   {
     "ticker": "FYHXX",
@@ -501,6 +543,6 @@
     "USGO": null,
     "Muni": null,
     "filingDate": "2025-01-08",
-    "timestamp": "2025-06-16T19:45:55.073Z"
+    "timestamp": "2025-12-21T21:49:41.497Z"
   }
 ]
