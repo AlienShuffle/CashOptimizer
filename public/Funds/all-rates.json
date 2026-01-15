@@ -63,13 +63,12 @@
     "timestamp": "2026-01-15T05:46:47.287Z"
   },
   {
-    "accountType": "Ext Duration Treasury ETF",
-    "asOfDate": "2026-01-12",
-    "price": 66.31,
-    "thirtyDayYield": 0.0511,
-    "source": "Vanguard.com ETF",
     "ticker": "EDV",
-    "timestamp": "2026-01-15T05:46:47.287Z"
+    "thirtyDayYield": 0.0513,
+    "asOfDate": "2026-01-13",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-15T20:12:39.089Z"
   },
   {
     "accountType": "VG NY Tax-Exempt Bond ETF",
@@ -83,7 +82,7 @@
   {
     "asOfDate": "2026-01-14",
     "price": 100.503166,
-    "thirtyDayYield": 0.0363,
+    "thirtyDayYield": 0.03631,
     "twelveMonTrlYield": 0.04095,
     "source": "BlackRock",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
@@ -91,33 +90,33 @@
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-01-15T03:40:45.169Z"
+    "timestamp": "2026-01-15T20:09:50.400Z"
   },
   {
     "asOfDate": "2026-01-14",
     "price": 102.574467,
-    "thirtyDayYield": 0.00669,
-    "twelveMonTrlYield": 0.04106,
+    "thirtyDayYield": 0.00394,
+    "twelveMonTrlYield": 0.04105,
     "source": "BlackRock",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
     "blackRockId": 239450,
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-01-15T03:40:45.169Z"
+    "timestamp": "2026-01-15T20:09:50.400Z"
   },
   {
     "asOfDate": "2026-01-14",
     "price": 110.389242,
-    "thirtyDayYield": 0.00766,
-    "twelveMonTrlYield": 0.03448,
+    "thirtyDayYield": 0.00487,
+    "twelveMonTrlYield": 0.03444,
     "source": "BlackRock",
     "fundName": "iShares TIPS Bond ETF",
     "blackRockId": 239467,
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-01-15T03:40:45.169Z"
+    "timestamp": "2026-01-15T20:09:50.400Z"
   },
   {
     "asOfDate": "2026-01-14",
