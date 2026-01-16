@@ -1,39 +1,34 @@
 [
   {
-    "accountType": "Inter-Term Bond ETF",
-    "asOfDate": "2026-01-12",
-    "price": 78.11,
+    "asOfDate": "2026-01-13",
     "thirtyDayYield": 0.0431,
-    "source": "Vanguard.com ETF",
+    "source": "Vanguard.com Distro",
     "ticker": "BIV",
-    "timestamp": "2026-01-15T05:46:47.287Z"
+    "timestamp": "2026-01-16T00:21:11.824Z"
   },
   {
-    "accountType": "Long-Term Bond ETF",
-    "asOfDate": "2026-01-12",
-    "price": 70.32,
-    "thirtyDayYield": 0.052,
-    "source": "Vanguard.com ETF",
     "ticker": "BLV",
-    "timestamp": "2026-01-15T05:46:47.287Z"
+    "thirtyDayYield": 0.0521,
+    "asOfDate": "2026-01-13",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-16T00:20:28.140Z"
   },
   {
-    "accountType": "Total Bond Market ETF",
-    "asOfDate": "2026-01-12",
-    "price": 74.43,
-    "thirtyDayYield": 0.0413,
-    "source": "Vanguard.com ETF",
     "ticker": "BND",
-    "timestamp": "2026-01-15T05:46:47.287Z"
+    "thirtyDayYield": 0.0413,
+    "asOfDate": "2026-01-13",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-16T00:20:46.757Z"
   },
   {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "2026-01-12",
-    "price": 75.35,
-    "thirtyDayYield": 0.0433,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDP",
-    "timestamp": "2026-01-15T05:46:47.287Z"
+    "thirtyDayYield": 0.0433,
+    "asOfDate": "2026-01-13",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-16T00:21:04.559Z"
   },
   {
     "ticker": "BNDW",
@@ -117,11 +112,11 @@
   },
   {
     "asOfDate": "2026-01-14",
-    "price": "",
+    "price": 50.399,
     "thirtyDayYield": 0.0358,
     "source": "Wisdomtree yields",
     "ticker": "USFR",
-    "timestamp": "2026-01-15T05:46:45.074Z"
+    "timestamp": "2026-01-16T00:19:58.105Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
