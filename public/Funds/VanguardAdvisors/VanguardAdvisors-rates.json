@@ -1,18 +1,42 @@
 [
   {
-    "ticker": "VTP",
-    "thirtyDayYield": 0.0158,
+    "ticker": "BNDW",
+    "thirtyDayYield": 0.0415,
+    "asOfDate": "2025-12-31",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-26T05:20:35.105Z"
+  },
+  {
+    "ticker": "BNDX",
+    "thirtyDayYield": 0.0315,
+    "asOfDate": "2026-01-22",
+    "expenseRatio": 0.0007,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-26T05:20:54.166Z"
+  },
+  {
+    "ticker": "BSV",
+    "thirtyDayYield": 0.0374,
+    "asOfDate": "2026-01-22",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-26T05:21:12.696Z"
+  },
+  {
+    "ticker": "EDV",
+    "thirtyDayYield": 0.0515,
     "asOfDate": "2026-01-22",
     "expenseRatio": 0.0005,
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-01-26T03:17:59.990Z"
+    "timestamp": "2026-01-26T05:21:29.177Z"
   },
   {
-    "ticker": "VUSB",
-    "thirtyDayYield": 0.041,
+    "ticker": "VWOB",
+    "thirtyDayYield": 0.0566,
     "asOfDate": "2026-01-22",
-    "expenseRatio": 0.001,
+    "expenseRatio": 0.0015,
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-01-26T03:18:18.862Z"
+    "timestamp": "2026-01-26T05:21:48.377Z"
   }
 ]
