@@ -59,13 +59,12 @@
     "timestamp": "2026-01-29T07:48:58.143Z"
   },
   {
-    "accountType": "Ext Duration Treasury ETF",
-    "asOfDate": "2026-01-26",
-    "price": 65.49,
-    "thirtyDayYield": 0.051,
-    "source": "Vanguard.com ETF",
     "ticker": "EDV",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.0505,
+    "asOfDate": "2026-01-27",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-29T11:55:28.543Z"
   },
   {
     "accountType": "VG NY Tax-Exempt Bond ETF",
@@ -358,12 +357,11 @@
     "timestamp": "2026-01-29T05:44:42.837Z"
   },
   {
-    "accountType": "Em Mkt Gov Bond ETF",
-    "asOfDate": "2026-01-26",
-    "price": 67.67,
-    "thirtyDayYield": 0.0564,
-    "source": "Vanguard.com ETF",
     "ticker": "VWOB",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.0563,
+    "asOfDate": "2026-01-27",
+    "expenseRatio": 0.0015,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-29T11:55:47.900Z"
   }
 ]
