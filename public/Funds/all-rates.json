@@ -71,8 +71,8 @@
     "timestamp": "2026-01-29T16:05:57.665Z"
   },
   {
-    "asOfDate": "2026-01-28",
-    "price": 100.636551,
+    "asOfDate": "2026-01-29",
+    "price": 100.645853,
     "thirtyDayYield": 0.03588,
     "twelveMonTrlYield": 0.0409,
     "source": "BlackRock",
@@ -81,11 +81,11 @@
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-01-29T20:11:36.054Z"
+    "timestamp": "2026-01-30T02:25:50.077Z"
   },
   {
-    "asOfDate": "2026-01-28",
-    "price": 102.71937,
+    "asOfDate": "2026-01-29",
+    "price": 102.83829,
     "thirtyDayYield": -0.03262,
     "twelveMonTrlYield": 0.04099,
     "source": "BlackRock",
@@ -94,11 +94,11 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-01-29T20:11:36.054Z"
+    "timestamp": "2026-01-30T02:25:50.077Z"
   },
   {
-    "asOfDate": "2026-01-28",
-    "price": 110.434794,
+    "asOfDate": "2026-01-29",
+    "price": 110.469424,
     "thirtyDayYield": -0.03528,
     "twelveMonTrlYield": 0.03443,
     "source": "BlackRock",
@@ -107,7 +107,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-01-29T20:11:36.054Z"
+    "timestamp": "2026-01-30T02:25:50.077Z"
   },
   {
     "asOfDate": "2026-01-28",
@@ -198,13 +198,12 @@
     "timestamp": "2026-01-29T22:19:43.219Z"
   },
   {
-    "accountType": "ST Treasury ETF",
-    "asOfDate": "2026-01-26",
-    "price": 58.78,
-    "thirtyDayYield": 0.0356,
-    "source": "Vanguard.com ETF",
     "ticker": "VGSH",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.0356,
+    "asOfDate": "2026-01-27",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-30T02:28:51.747Z"
   },
   {
     "ticker": "VGUS",
@@ -231,40 +230,36 @@
     "timestamp": "2026-01-30T00:24:30.575Z"
   },
   {
-    "accountType": "Short Duration Bond ETF",
-    "asOfDate": "2026-01-26",
-    "price": 76.68,
-    "thirtyDayYield": 0.0424,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDB",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.0425,
+    "asOfDate": "2026-01-27",
+    "expenseRatio": 0.0015,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-30T02:29:08.775Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-01-26",
-    "price": 76.97,
-    "thirtyDayYield": 0.0304,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.0303,
+    "asOfDate": "2026-01-27",
+    "expenseRatio": 0.0012,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-30T02:29:28.108Z"
   },
   {
-    "accountType": "Total Corporate Bond ETF",
-    "asOfDate": "2025-12-31",
-    "price": 77.92,
-    "thirtyDayYield": 0.0484,
-    "source": "Vanguard.com ETF",
     "ticker": "VTC",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.0484,
+    "asOfDate": "2025-12-31",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-30T02:29:46.386Z"
   },
   {
-    "accountType": "Tax-Exempt Bond ETF",
-    "asOfDate": "2026-01-26",
-    "price": 50.57,
-    "thirtyDayYield": 0.0339,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEB",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.0338,
+    "asOfDate": "2026-01-27",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-30T02:30:05.337Z"
   },
   {
     "accountType": "CA Tax-Exempt Bond ETF",
@@ -276,13 +271,12 @@
     "timestamp": "2026-01-29T05:44:42.837Z"
   },
   {
-    "accountType": "Int-Term Tax-Ex Bd ETF",
-    "asOfDate": "2026-01-26",
-    "price": 101.62,
-    "thirtyDayYield": 0.0292,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEI",
-    "timestamp": "2026-01-29T05:44:42.837Z"
+    "thirtyDayYield": 0.029,
+    "asOfDate": "2026-01-27",
+    "expenseRatio": 0.0008,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-30T02:30:24.317Z"
   },
   {
     "accountType": "VG LT Tax Exempt Bond ETF",
