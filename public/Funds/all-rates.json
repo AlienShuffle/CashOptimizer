@@ -74,41 +74,41 @@
   {
     "asOfDate": "2026-01-29",
     "price": 100.645853,
-    "thirtyDayYield": 0.03588,
-    "twelveMonTrlYield": 0.0409,
+    "thirtyDayYield": 0.03584,
+    "twelveMonTrlYield": 0.04089,
     "source": "BlackRock",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
     "blackRockId": 314116,
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-01-30T02:25:50.077Z"
+    "timestamp": "2026-01-30T21:02:14.232Z"
   },
   {
     "asOfDate": "2026-01-29",
     "price": 102.83829,
-    "thirtyDayYield": -0.03262,
-    "twelveMonTrlYield": 0.04099,
+    "thirtyDayYield": -0.03524,
+    "twelveMonTrlYield": 0.04094,
     "source": "BlackRock",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
     "blackRockId": 239450,
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-01-30T02:25:50.077Z"
+    "timestamp": "2026-01-30T21:02:14.232Z"
   },
   {
     "asOfDate": "2026-01-29",
     "price": 110.469424,
-    "thirtyDayYield": -0.03528,
-    "twelveMonTrlYield": 0.03443,
+    "thirtyDayYield": -0.03812,
+    "twelveMonTrlYield": 0.03442,
     "source": "BlackRock",
     "fundName": "iShares TIPS Bond ETF",
     "blackRockId": 239467,
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-01-30T02:25:50.077Z"
+    "timestamp": "2026-01-30T21:02:14.232Z"
   },
   {
     "asOfDate": "2026-01-29",
@@ -159,13 +159,12 @@
     "timestamp": "2026-01-30T19:01:37.874Z"
   },
   {
-    "accountType": "Core Tax-Ex Bnd ETF",
-    "asOfDate": "2026-01-27",
-    "price": 76.01,
-    "thirtyDayYield": 0.0376,
-    "source": "Vanguard.com ETF",
     "ticker": "VCRM",
-    "timestamp": "2026-01-30T06:38:31.038Z"
+    "thirtyDayYield": 0.0376,
+    "asOfDate": "2026-01-28",
+    "expenseRatio": 0.0012,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-01-30T21:05:59.446Z"
   },
   {
     "accountType": "Short-Term Corp Bond ETF",
