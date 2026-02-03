@@ -120,12 +120,12 @@
     "timestamp": "2026-02-03T05:21:13.038Z"
   },
   {
-    "asOfDate": "2026-01-30",
-    "price": 50.342,
+    "asOfDate": "2026-02-02",
+    "price": 50.357,
     "thirtyDayYield": 0.0357,
     "source": "Wisdomtree yields",
     "ticker": "USFR",
-    "timestamp": "2026-01-31T23:53:08.201Z"
+    "timestamp": "2026-02-03T09:31:54.923Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
@@ -315,49 +315,44 @@
     "timestamp": "2026-02-03T07:28:32.692Z"
   },
   {
-    "accountType": "Short-Term Tax-Ex Bnd ETF",
-    "asOfDate": "2026-01-29",
-    "price": 102.1,
-    "thirtyDayYield": 0.0235,
-    "source": "Vanguard.com ETF",
     "ticker": "VTES",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.0234,
+    "asOfDate": "2026-01-30",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T09:32:06.196Z"
   },
   {
-    "accountType": "Total Treasury ETF",
-    "asOfDate": "2026-01-29",
-    "price": 75.81,
-    "thirtyDayYield": 0.0395,
-    "source": "Vanguard.com ETF",
     "ticker": "VTG",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.0395,
+    "asOfDate": "2026-01-30",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T09:32:25.091Z"
   },
   {
-    "accountType": "STerm InflatPro Sec ETF",
-    "asOfDate": "2026-01-29",
-    "price": 49.64,
-    "thirtyDayYield": 0.0147,
-    "source": "Vanguard.com ETF",
     "ticker": "VTIP",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.0147,
+    "asOfDate": "2026-01-29",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T09:32:44.022Z"
   },
   {
-    "accountType": "Total InflatPro Sec ETF",
-    "asOfDate": "2026-01-29",
-    "price": 75.94,
-    "thirtyDayYield": 0.0155,
-    "source": "Vanguard.com ETF",
     "ticker": "VTP",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.0155,
+    "asOfDate": "2026-01-29",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T09:33:01.401Z"
   },
   {
-    "accountType": "Ultra-Short Bond ETF",
-    "asOfDate": "2026-01-29",
-    "price": 49.84,
-    "thirtyDayYield": 0.0409,
-    "source": "Vanguard.com ETF",
     "ticker": "VUSB",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.0409,
+    "asOfDate": "2026-01-30",
+    "expenseRatio": 0.001,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T09:33:20.445Z"
   },
   {
     "accountType": "Em Mkt Gov Bond ETF",
