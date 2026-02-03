@@ -36,31 +36,28 @@
     "timestamp": "2026-02-03T05:24:53.288Z"
   },
   {
-    "accountType": "Total World Bond ETF",
-    "asOfDate": "2025-12-31",
-    "price": 68.75,
-    "thirtyDayYield": 0.0415,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDW",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.0415,
+    "asOfDate": "2025-12-31",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T11:36:02.833Z"
   },
   {
-    "accountType": "Tot Intl Bond ETF",
-    "asOfDate": "2026-01-29",
-    "price": 48.43,
-    "thirtyDayYield": 0.032,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDX",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.032,
+    "asOfDate": "2026-01-30",
+    "expenseRatio": 0.0007,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T11:36:21.717Z"
   },
   {
-    "accountType": "Short-Term Bond ETF",
-    "asOfDate": "2026-01-29",
-    "price": 78.62,
-    "thirtyDayYield": 0.0376,
-    "source": "Vanguard.com ETF",
     "ticker": "BSV",
-    "timestamp": "2026-02-03T05:24:53.288Z"
+    "thirtyDayYield": 0.0376,
+    "asOfDate": "2026-01-30",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-03T11:36:40.482Z"
   },
   {
     "accountType": "Ext Duration Treasury ETF",
