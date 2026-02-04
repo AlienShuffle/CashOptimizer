@@ -307,49 +307,44 @@
     "timestamp": "2026-02-04T08:22:09.210Z"
   },
   {
-    "accountType": "Short-Term Tax-Ex Bnd ETF",
-    "asOfDate": "2026-01-30",
-    "price": 102.17,
-    "thirtyDayYield": 0.0234,
-    "source": "Vanguard.com ETF",
     "ticker": "VTES",
-    "timestamp": "2026-02-04T06:16:53.791Z"
+    "thirtyDayYield": 0.0234,
+    "asOfDate": "2026-02-02",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-04T10:25:49.651Z"
   },
   {
-    "accountType": "Total Treasury ETF",
-    "asOfDate": "2026-01-30",
-    "price": 75.86,
-    "thirtyDayYield": 0.0395,
-    "source": "Vanguard.com ETF",
     "ticker": "VTG",
-    "timestamp": "2026-02-04T06:16:53.791Z"
+    "thirtyDayYield": 0.0396,
+    "asOfDate": "2026-02-02",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-04T10:26:08.799Z"
   },
   {
-    "accountType": "STerm InflatPro Sec ETF",
-    "asOfDate": "2026-01-29",
-    "price": 49.67,
-    "thirtyDayYield": 0.0147,
-    "source": "Vanguard.com ETF",
     "ticker": "VTIP",
-    "timestamp": "2026-02-04T06:16:53.791Z"
-  },
-  {
-    "accountType": "Total InflatPro Sec ETF",
+    "thirtyDayYield": 0.0147,
     "asOfDate": "2026-01-29",
-    "price": 76.05,
-    "thirtyDayYield": 0.0155,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTP",
-    "timestamp": "2026-02-04T06:16:53.791Z"
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-04T10:26:27.964Z"
   },
   {
-    "accountType": "Ultra-Short Bond ETF",
-    "asOfDate": "2026-01-30",
-    "price": 49.85,
-    "thirtyDayYield": 0.0409,
-    "source": "Vanguard.com ETF",
+    "ticker": "VTP",
+    "thirtyDayYield": 0.0155,
+    "asOfDate": "2026-01-29",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-04T10:26:47.415Z"
+  },
+  {
     "ticker": "VUSB",
-    "timestamp": "2026-02-04T06:16:53.791Z"
+    "thirtyDayYield": 0.0408,
+    "asOfDate": "2026-02-02",
+    "expenseRatio": 0.001,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-04T10:27:06.801Z"
   },
   {
     "accountType": "Em Mkt Gov Bond ETF",
