@@ -110,12 +110,12 @@
     "timestamp": "2026-02-05T02:54:49.433Z"
   },
   {
-    "asOfDate": "2026-02-03",
-    "price": 50.362,
+    "asOfDate": "2026-02-04",
+    "price": "",
     "thirtyDayYield": 0.0356,
     "source": "Wisdomtree yields",
     "ticker": "USFR",
-    "timestamp": "2026-02-04T12:29:40.016Z"
+    "timestamp": "2026-02-05T05:04:46.391Z"
   },
   {
     "ticker": "VBIL",
@@ -182,22 +182,20 @@
     "timestamp": "2026-02-05T02:59:27.682Z"
   },
   {
-    "accountType": "LT Treasury ETF",
-    "asOfDate": "2026-01-30",
-    "price": 55.47,
-    "thirtyDayYield": 0.0482,
-    "source": "Vanguard.com ETF",
     "ticker": "VGLT",
-    "timestamp": "2026-02-04T06:16:53.791Z"
+    "thirtyDayYield": 0.0485,
+    "asOfDate": "2026-02-02",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-05T05:04:57.847Z"
   },
   {
-    "accountType": "Multi-Sector Bond ETF",
-    "asOfDate": "2026-01-30",
-    "price": 51.64,
-    "thirtyDayYield": 0.0516,
-    "source": "Vanguard.com ETF",
     "ticker": "VGMS",
-    "timestamp": "2026-02-04T06:16:53.791Z"
+    "thirtyDayYield": 0.0519,
+    "asOfDate": "2026-02-02",
+    "expenseRatio": 0.003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-05T05:05:17.206Z"
   },
   {
     "ticker": "VGSH",
@@ -208,13 +206,12 @@
     "timestamp": "2026-02-04T06:15:42.471Z"
   },
   {
-    "accountType": "Ultra-Short Treasury ETF",
-    "asOfDate": "2026-01-30",
-    "price": 75.48,
-    "thirtyDayYield": 0.0361,
-    "source": "Vanguard.com ETF",
     "ticker": "VGUS",
-    "timestamp": "2026-02-04T06:16:53.791Z"
+    "thirtyDayYield": 0.0361,
+    "asOfDate": "2026-02-02",
+    "expenseRatio": 0.0007,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-05T05:05:36.286Z"
   },
   {
     "ticker": "VMBS",
