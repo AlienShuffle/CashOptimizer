@@ -5,4 +5,5 @@ ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2P
 "SCAXX",2023,12,0.039,0.961,false,"complete","complete",0.10604,0,0,0,"1231"
 "SCAXX",2024,12,0,1,false,"complete","complete",0,0,0,0,"1231"
 "SCAXX",2025,12,0.00043,0.99957,false,"complete","complete",0,0,0,0.00483,"1231"
-"SCAXX",2026,12,0.00043,0.99957,false,"new-year-placeholder","complete",0,0,0,0.00483,"1231"
+"SCAXX",2026,1,0,1,false,"YTD","current-year",-1,-1,-1,-1,"1231"
+"SCAXX",2026,1,0,1,false,"new-year-placeholder","current-year",-1,-1,-1,-1,"1231"

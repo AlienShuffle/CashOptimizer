@@ -1,4 +1,5 @@
 ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
 "FYHXX",2024,1,0,0,false,"YTD","incomplete",-1,-1,-1,-1,"0430"
 "FYHXX",2025,12,0.99673,0,false,"complete","incomplete",-1,-1,,1,"0430"
-"FYHXX",2026,12,0.99673,0,false,"new-year-placeholder","incomplete",-1,-1,,1,"0430"
+"FYHXX",2026,1,1,0,true,"YTD","current-year",1,1,1,-1,"0430"
+"FYHXX",2026,1,1,0,true,"new-year-placeholder","current-year",1,1,1,-1,"0430"
