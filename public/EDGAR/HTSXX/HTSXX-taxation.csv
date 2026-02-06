@@ -6,4 +6,5 @@ ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2P
 "HTSXX",2023,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
 "HTSXX",2024,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
 "HTSXX",2025,12,1,0,true,"complete","missing fiscal year",1,1,1,1,
-"HTSXX",2026,12,1,0,true,"new-year-placeholder","missing fiscal year",1,1,1,1,
+"HTSXX",2026,1,1,0,false,"YTD","current-year",-1,-1,-1,-1,
+"HTSXX",2026,1,1,0,false,"new-year-placeholder","current-year",-1,-1,-1,-1,
