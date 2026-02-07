@@ -26,62 +26,65 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0346,"DMMKI","Blackrock Government MM V.i. Fund Institutional","Government",1,49,109,"",187482561.66,"2026-01-30","2026-01-31",0.65736,0
 0.0352,"EDUXX","Blackrock Liquid Federal Trust Fund Mischler Financial Group Shares","Government",3000000,23,23,0.0017,5003011.65,"2026-01-30","2026-01-31",0.63393,0
 0.0352,"EVEXX","Blackrock Liquid Federal Trust Fund Tigress Shares","Government",3000000,23,23,0.0017,25811113.26,"2026-01-30","2026-01-31",0.63393,0
-0.0239,"FABXX","Fidelity California Municipal MM","SingleState",1,32,32,0.0042,71277570.06,"2025-12-31","2025-12-31",0,1
-0.0255,"FAUXX","Fidelity Massachusetts Municipal MM","SingleState",1,34,34,0.0042,35450205.45,"2025-12-31","2025-12-31",0,1
-0.0269,"FAWXX","Fidelity New York Municipal MM","SingleState",1,29,29,0.0042,65612771.57,"2025-12-31","2025-12-31",0,1
-0.0249,"FAYXX","Fidelity New Jersey Municipal MM","SingleState",1,40,41,0.0042,22257046.27,"2025-12-31","2025-12-31",0,1
-0.0351,"FCEXX","Fidelity Investments MM Treasury Portfolio Class Ii","Government",1000000,30,99,0.0033,673607241.99,"2025-12-31","2025-12-31",0.61889,0
-0.0342,"FCGXX","Fidelity Investments MM Government Portfolio Class Iii","Government",1000000,30,70,0.0043,6902253628.37,"2025-12-31","2025-12-31",0.57105,0
-0.0356,"FCIXX","Fidelity Investments MM Money Market Portfolio - Class Ii","Prime",1000000,30,32,0.0033,75438489.53,"2025-12-31","2025-12-31",0.25443,0
-0.0346,"FCOXX","Fidelity Investments MM Money Market Portfolio - Class Iii","Prime",1000000,30,32,0.0043,169413895.98,"2025-12-31","2025-12-31",0.25443,0
-0.0341,"FCSXX","Fidelity Investments MM Treasury Portfolio Class Iii","Government",1000000,30,99,0.0043,4590179801.66,"2025-12-31","2025-12-31",0.61889,0
-0.0352,"FCVXX","Fidelity Investments MM Government Portfolio Class Ii","Government",1000000,30,70,0.0033,1995526285.77,"2025-12-31","2025-12-31",0.57105,0
-0.0245,"FDEXX","Fidelity Tax-exempt MM Daily Money Class","Muni",1,39,39,0.007,105890955.21,"2025-12-31","2025-12-31",0,1
-0.0343,"FDLXX","Fidelity Treasury Only MM","Government",1,48,102,0.0042,11149014171.3,"2025-12-31","2025-12-31",1,0
-0.035,"FDRXX","Fidelity Government Cash Reserves","Government",1,32,85,0.0039,243451760891.52,"2025-12-31","2025-12-31",0.60744,0
-0.0315,"FDUXX","Fidelity Treasury MM Daily Money Class","Government",1,30,93,0.007,3745070950.31,"2025-12-31","2025-12-31",0.62171,0
-0.022,"FERXX","Fidelity Tax-exempt MM Capital Reserves Class","Muni",1,39,39,0.0095,25338351.51,"2025-12-31","2025-12-31",0,1
-0.0269,"FETXX","Fidelity Investments MM Tax Exempt Portfolio Class Iii","Muni",1000000,34,34,0.0043,21108292.25,"2025-12-31","2025-12-31",0,1
-0.0279,"FEXXX","Fidelity Investments MM Tax Exempt Portfolio Class Ii","Muni",1000000,34,34,0.0033,1170687.13,"2025-12-31","2025-12-31",0,1
+0.0141,"FABXX","Fidelity California Municipal MM","SingleState",1,28,28,0.0042,77011607.08,"2026-01-30","2026-01-31",0,1
+0.0155,"FAUXX","Fidelity Massachusetts Municipal MM","SingleState",1,36,36,0.0042,34598664.64,"2026-01-30","2026-01-31",0,1
+0.0155,"FAWXX","Fidelity New York Municipal MM","SingleState",1,28,29,0.0042,76701951.58,"2026-01-30","2026-01-31",0,1
+0.0155,"FAYXX","Fidelity New Jersey Municipal MM","SingleState",1,44,44,0.0042,22890100.78,"2026-01-30","2026-01-31",0,1
+0.0342,"FCEXX","Fidelity Investments MM Treasury Portfolio Class Ii","Government",1000000,38,108,0.0033,646554577.49,"2026-01-30","2026-01-31",0.61871,0
+0.0332,"FCGXX","Fidelity Investments MM Government Portfolio Class Iii","Government",1000000,38,83,0.0043,7296144572.41,"2026-01-30","2026-01-31",0.58645,0
+0.0348,"FCIXX","Fidelity Investments MM Money Market Portfolio - Class Ii","Prime",1000000,29,30,0.0033,66885885.41,"2026-01-30","2026-01-31",0.24779,0
+0.0338,"FCOXX","Fidelity Investments MM Money Market Portfolio - Class Iii","Prime",1000000,29,30,0.0043,195738784.29,"2026-01-30","2026-01-31",0.24779,0
+0.0332,"FCSXX","Fidelity Investments MM Treasury Portfolio Class Iii","Government",1000000,38,108,0.0043,4186468815.27,"2026-01-30","2026-01-31",0.61871,0
+0.0342,"FCVXX","Fidelity Investments MM Government Portfolio Class Ii","Government",1000000,38,83,0.0033,2061677529.84,"2026-01-30","2026-01-31",0.58645,0
+0.0126,"FDEXX","Fidelity Tax-exempt MM Daily Money Class","Muni",1,35,35,0.007,102111106.71,"2026-01-30","2026-01-31",0,1
+0.0333,"FDLXX","Fidelity Treasury Only MM","Government",1,51,106,0.0042,11415145143.31,"2026-01-30","2026-01-31",1,0
+0.0341,"FDRXX","Fidelity Government Cash Reserves","Government",1,43,102,0.0037,238412457972.55,"2026-01-30","2026-01-31",0.61877,0
+0.0305,"FDUXX","Fidelity Treasury MM Daily Money Class","Government",1,40,105,0.007,3761770145.06,"2026-01-30","2026-01-31",0.61683,0
+0.0101,"FERXX","Fidelity Tax-exempt MM Capital Reserves Class","Muni",1,35,35,0.0095,25176787.56,"2026-01-30","2026-01-31",0,1
+0.0153,"FETXX","Fidelity Investments MM Tax Exempt Portfolio Class Iii","Muni",1000000,33,34,0.0043,23037054.45,"2026-01-30","2026-01-31",0,1
+0.0163,"FEXXX","Fidelity Investments MM Tax Exempt Portfolio Class Ii","Muni",1000000,33,34,0.0033,1172226.24,"2026-01-30","2026-01-31",0,1
 0.0168,"FFTXX","Federated Hermes Institutional Tax-free Cash Trust Institutional Shares","Muni",500000,6,6,0.002,2065207843.04,"2026-01-30","2026-01-30",0,1
-0.0362,"FGEXX","Fidelity Investments MM Government Portfolio Select Class","Government",1000000,30,70,0.0023,176039203.92,"2025-12-31","2025-12-31",0.57105,0
-0.0361,"FGTXX","Goldman Sachs Financial Square Government Fund Institutional Shares","Government",10000000,46,116,0.0018,227056796425.21,"2025-12-31","2025-12-31",0.4344,0
-0.0367,"FIGXX","Fidelity Investments MM Government Portfolio Class I","Government",1000000,30,70,0.0018,56873188174.63,"2025-12-31","2025-12-31",0.57105,0
-0.0366,"FISXX","Fidelity Investments MM Treasury Portfolio Class I","Government",1000000,30,99,0.0018,30072331613.2,"2025-12-31","2025-12-31",0.61889,0
-0.0275,"FMAXX","Fidelity Massachusetts Municipal MM Institutional Class","SingleState",1000000,34,34,0.002,2241913119.84,"2025-12-31","2025-12-31",0,1
-0.0376,"FMJXX","Goldman Sachs Investor MM Class I","Prime",10000000,42,106,0.0018,7726218152.51,"2025-12-31","2025-12-31",0.19712,0.06635
-0.0273,"FMOXX","Fidelity Tax-exempt MM","Muni",1,39,39,0.0042,1220494204.73,"2025-12-31","2025-12-31",0,1
-0.0371,"FMPXX","Fidelity Investments MM Money Market Portfolio - Class I","Prime",1000000,30,32,0.0018,74264887402.76,"2025-12-31","2025-12-31",0.25443,0
-0.0266,"FMSXX","Fidelity Massachusetts Municipal MM Premium","SingleState",25000,34,34,0.003,1326556340.08,"2025-12-31","2025-12-31",0,1
-0.0366,"FMYXX","Fidelity Investments MM Money Market Portfolio - Select Class","Prime",1000000,30,32,0.0023,45980177.43,"2025-12-31","2025-12-31",0.25443,0
-0.029,"FNKXX","Fidelity New York Municipal MM Institutional Class","SingleState",1000000,29,29,0.002,3331194433.26,"2025-12-31","2025-12-31",0,1
-0.0375,"FNSXX","Fidelity Investments MM Money Market Portfolio - Institutional Class","Prime",10000000,30,32,0.0014,87712971049,"2025-12-31","2025-12-31",0.25443,0
-0.037,"FRBXX","Fidelity Investments MM Treasury Portfolio Institutional Class","Government",10000000,30,99,0.0014,39233661073.09,"2025-12-31","2025-12-31",0.61889,0
-0.0371,"FRGXX","Fidelity Investments MM Government Portfolio Institutional Class","Government",10000000,30,70,0.0014,203650279952.69,"2025-12-31","2025-12-31",0.57105,0
-0.037,"FRSXX","Fidelity Investments MM Treasury Only Portfolio Institutional Class","Government",10000000,49,103,0.0014,77986320486.72,"2025-12-31","2025-12-31",1,0
-0.026,"FSBXX","Fidelity California Municipal MM Institutional Class","SingleState",1000000,32,32,0.002,4252433112.49,"2025-12-31","2025-12-31",0,1
-0.0366,"FSIXX","Fidelity Investments MM Treasury Only Portfolio Class I","Government",1000000,49,103,0.0018,30144249153.2,"2025-12-31","2025-12-31",1,0
-0.0261,"FSJXX","Fidelity New Jersey Municipal MM Premium","SingleState",25000,40,41,0.003,655563311.53,"2025-12-31","2025-12-31",0,1
-0.027,"FSKXX","Fidelity New Jersey Municipal MM Institutional Class","SingleState",1000000,40,41,0.002,638941988.1,"2025-12-31","2025-12-31",0,1
-0.0281,"FSNXX","Fidelity New York Municipal MM Premium","SingleState",25000,29,29,0.003,1770998374.76,"2025-12-31","2025-12-31",0,1
-0.025,"FSPXX","Fidelity California Municipal MM Premium","SingleState",25000,32,32,0.003,1937384383.3,"2025-12-31","2025-12-31",0,1
-0.029,"FSRXX","Fidelity Treasury MM Capital Reserves Class","Government",1,30,93,0.0095,2285191220.63,"2025-12-31","2025-12-31",0.62171,0
-0.0289,"FSXXX","Fidelity Investments MM Tax Exempt Portfolio Select Class","Muni",1000000,34,34,0.0023,34432318.92,"2025-12-31","2025-12-31",0,1
-0.0294,"FTCXX","Fidelity Investments MM Tax Exempt Portfolio Class I","Muni",1000000,34,34,0.0018,11808189130.57,"2025-12-31","2025-12-31",0,1
-0.0282,"FTEXX","Fidelity Municipal MM","Muni",1,38,38,0.0039,4060610197.36,"2025-12-31","2025-12-31",0,1
+0.0352,"FGEXX","Fidelity Investments MM Government Portfolio Select Class","Government",1000000,38,83,0.0023,174041450.87,"2026-01-30","2026-01-31",0.58645,0
+0.0355,"FGTXX","Goldman Sachs Financial Square Government Fund Institutional Shares","Government",10000000,39,105,0.0018,228807742405.23,"2026-01-30","2026-01-30",0.39396,0
+0.0357,"FIGXX","Fidelity Investments MM Government Portfolio Class I","Government",1000000,38,83,0.0018,54793236228.13,"2026-01-30","2026-01-31",0.58645,0
+0.0357,"FISXX","Fidelity Investments MM Treasury Portfolio Class I","Government",1000000,38,108,0.0018,29819536554.2,"2026-01-30","2026-01-31",0.61871,0
+0.0176,"FMAXX","Fidelity Massachusetts Municipal MM Institutional Class","SingleState",1000000,36,36,0.002,2013953765.8,"2026-01-30","2026-01-31",0,1
+0.0369,"FMJXX","Goldman Sachs Investor MM Class I","Prime",10000000,39,99,0.0018,7863701675.3,"2026-01-30","2026-01-30",0.1657,0.07026
+0.0154,"FMOXX","Fidelity Tax-exempt MM","Muni",1,35,35,0.0042,1226624246.36,"2026-01-30","2026-01-31",0,1
+0.0363,"FMPXX","Fidelity Investments MM Money Market Portfolio - Class I","Prime",1000000,29,30,0.0018,74636024114.03,"2026-01-30","2026-01-31",0.24779,0
+0.0167,"FMSXX","Fidelity Massachusetts Municipal MM Premium","SingleState",25000,36,36,0.003,1276131747.85,"2026-01-30","2026-01-31",0,1
+0.0358,"FMYXX","Fidelity Investments MM Money Market Portfolio - Select Class","Prime",1000000,29,30,0.0023,44048535.89,"2026-01-30","2026-01-31",0.24779,0
+0.0176,"FNKXX","Fidelity New York Municipal MM Institutional Class","SingleState",1000000,28,29,0.002,3140373124.21,"2026-01-30","2026-01-31",0,1
+0.0367,"FNSXX","Fidelity Investments MM Money Market Portfolio - Institutional Class","Prime",10000000,29,30,0.0014,88444472967.34,"2026-01-30","2026-01-31",0.24779,0
+0.0331,"FOIXX","Fidelity Investments MM Treasury Only Portfolio Class Iii","Government",1000000,53,111,0.0043,2983687557.17,"2026-01-30","2026-01-31",1,0
+0.0306,"FOPXX","Fidelity Investments MM Treasury Only Portfolio Class Iv","Government",1000000,53,111,0.0068,1019472257.43,"2026-01-30","2026-01-31",1,0
+0.0341,"FOXXX","Fidelity Investments MM Treasury Only Portfolio Class Ii","Government",1000000,53,111,0.0033,3669043716.66,"2026-01-30","2026-01-31",1,0
+0.0361,"FRBXX","Fidelity Investments MM Treasury Portfolio Institutional Class","Government",10000000,38,108,0.0014,41822575310.55,"2026-01-30","2026-01-31",0.61871,0
+0.0361,"FRGXX","Fidelity Investments MM Government Portfolio Institutional Class","Government",10000000,38,83,0.0014,197890806482.7,"2026-01-30","2026-01-31",0.58645,0
+0.036,"FRSXX","Fidelity Investments MM Treasury Only Portfolio Institutional Class","Government",10000000,53,111,0.0014,79384186494.66,"2026-01-30","2026-01-31",1,0
+0.0162,"FSBXX","Fidelity California Municipal MM Institutional Class","SingleState",1000000,28,28,0.002,3895430480.95,"2026-01-30","2026-01-31",0,1
+0.0356,"FSIXX","Fidelity Investments MM Treasury Only Portfolio Class I","Government",1000000,53,111,0.0018,31411527223.8,"2026-01-30","2026-01-31",1,0
+0.0167,"FSJXX","Fidelity New Jersey Municipal MM Premium","SingleState",25000,44,44,0.003,645565076.72,"2026-01-30","2026-01-31",0,1
+0.0176,"FSKXX","Fidelity New Jersey Municipal MM Institutional Class","SingleState",1000000,44,44,0.002,622161400.76,"2026-01-30","2026-01-31",0,1
+0.0167,"FSNXX","Fidelity New York Municipal MM Premium","SingleState",25000,28,29,0.003,1735149993.48,"2026-01-30","2026-01-31",0,1
+0.0153,"FSPXX","Fidelity California Municipal MM Premium","SingleState",25000,28,28,0.003,1864849658.28,"2026-01-30","2026-01-31",0,1
+0.028,"FSRXX","Fidelity Treasury MM Capital Reserves Class","Government",1,40,105,0.0095,2338944680.47,"2026-01-30","2026-01-31",0.61683,0
+0.0173,"FSXXX","Fidelity Investments MM Tax Exempt Portfolio Select Class","Muni",1000000,33,34,0.0023,36910402.07,"2026-01-30","2026-01-31",0,1
+0.0178,"FTCXX","Fidelity Investments MM Tax Exempt Portfolio Class I","Muni",1000000,33,34,0.0018,10618356129.28,"2026-01-30","2026-01-31",0,1
+0.0166,"FTEXX","Fidelity Municipal MM","Muni",1,35,35,0.0039,3891579658.36,"2026-01-30","2026-01-31",0,1
 0.0173,"FTFXX","Federated Hermes Institutional Tax-free Cash Trust Premier Shares","Muni",5000000,6,6,0.0015,1080455435.92,"2026-01-30","2026-01-30",0,1
-0.0355,"FTIXX","Goldman Sachs Financial Square Treasury Instruments Fund Institutional Shares","Government",10000000,59,110,0.002,99706617290.34,"2025-12-31","2025-12-31",1,0
-0.0361,"FTUXX","Fidelity Investments MM Treasury Portfolio Select Class","Government",1000000,30,99,0.0023,395206244.55,"2025-12-31","2025-12-31",0.61889,0
-0.0316,"FTVXX","Fidelity Investments MM Treasury Portfolio Class Iv","Government",1000000,30,99,0.0068,968571242.98,"2025-12-31","2025-12-31",0.61889,0
-0.0282,"FTXXX","Goldman Sachs Investor Tax-exempt MM Institutional Shares","Muni",10000000,28,28,0.0018,3944464778.67,"2025-12-31","2025-12-31",0.01258,0.98742
-0.0361,"FTYXX","Fidelity Investments MM Treasury Only Portfolio Select Class","Government",1000000,49,103,0.0023,2715225106.16,"2025-12-31","2025-12-31",1,0
-0.0362,"FYHXX","Fidelity Treasury Digital Liquidity","Government",1000000,31,31,0.0018,97459728.74,"2025-12-31","2025-12-31",1,0
-0.029,"FZAXX","Fidelity Government MM Capital Reserves Class","Government",1,33,84,0.0095,3995185755.73,"2025-12-31","2025-12-31",0.60172,0
-0.0353,"FZCXX","Fidelity Government MM Premium","Government",100000,33,84,0.0032,14640307449.93,"2025-12-31","2025-12-31",0.60172,0
-0.0359,"FZDXX","Fidelity MM Premium","Prime",100000,31,33,0.003,124378199247.4,"2025-12-31","2025-12-31",0.24458,0
-0.0285,"FZEXX","Fidelity Tax-exempt MM Premium","Muni",25000,39,39,0.003,2787651824.94,"2025-12-31","2025-12-31",0,1
-0.0343,"FZFXX","Fidelity Treasury MM","Government",1,30,93,0.0042,40207673119.94,"2025-12-31","2025-12-31",0.62171,0
-0.0315,"FZGXX","Fidelity Government MM Advisor Cl M","Government",1,33,84,0.007,218586337.75,"2025-12-31","2025-12-31",0.60172,0
+0.035,"FTIXX","Goldman Sachs Financial Square Treasury Instruments Fund Institutional Shares","Government",10000000,52,113,0.002,91119164853.67,"2026-01-30","2026-01-30",1,0
+0.0352,"FTUXX","Fidelity Investments MM Treasury Portfolio Select Class","Government",1000000,38,108,0.0023,365711591.19,"2026-01-30","2026-01-31",0.61871,0
+0.0307,"FTVXX","Fidelity Investments MM Treasury Portfolio Class Iv","Government",1000000,38,108,0.0068,1033280861.94,"2026-01-30","2026-01-31",0.61871,0
+0.0197,"FTXXX","Goldman Sachs Investor Tax-exempt MM Institutional Shares","Muni",10000000,29,29,0.0018,3450115095.41,"2026-01-30","2026-01-30",0,1
+0.0351,"FTYXX","Fidelity Investments MM Treasury Only Portfolio Select Class","Government",1000000,53,111,0.0023,2753966428.53,"2026-01-30","2026-01-31",1,0
+0.0352,"FYHXX","Fidelity Treasury Digital Liquidity","Government",1000000,36,36,0.0018,35571389.79,"2026-01-30","2026-01-31",1,0
+0.028,"FZAXX","Fidelity Government MM Capital Reserves Class","Government",1,45,104,0.0095,3819026463.6,"2026-01-30","2026-01-31",0.64453,0
+0.0343,"FZCXX","Fidelity Government MM Premium","Government",100000,45,104,0.0032,14416262134.23,"2026-01-30","2026-01-31",0.64453,0
+0.0351,"FZDXX","Fidelity MM Premium","Prime",100000,28,29,0.003,123131218258.63,"2026-01-30","2026-01-31",0.24834,0
+0.0166,"FZEXX","Fidelity Tax-exempt MM Premium","Muni",25000,35,35,0.003,2674349655.66,"2026-01-30","2026-01-31",0,1
+0.0333,"FZFXX","Fidelity Treasury MM","Government",1,40,105,0.0042,39317337112.27,"2026-01-30","2026-01-31",0.61683,0
+0.0305,"FZGXX","Fidelity Government MM Advisor Cl M","Government",1,45,104,0.007,211423907.29,"2026-01-30","2026-01-31",0.64453,0
 0.0365,"GABXX","Gabelli US Treasury MM Class I","Government",10000,55,59,0.0008,5650943487.66,"2026-01-30","2026-01-30",1,0
 0.0352,"GMMF","Ishares Government MM ETF","Government",0.01,53,110,0.002,92477994.74,"2026-01-30","2026-01-31",0.5999,0
 0.0359,"GOFXX","Federated Hermes Govt Obl Premier","Government",5000000,43,100,0.0015,102780184643.36,"2026-01-30","2026-01-30",0.40393,0
@@ -95,11 +98,11 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0349,"JMMF","Jpmorgan 100% US Treasury Securities MM ETF","Government",0.01,49,69,0.0016,53053021.52,"2026-01-30","2026-01-30",0.98191,0
 0.0257,"MCBXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Investor C Shares","Government",1000,48,107,0.0117,1352080.97,"2026-01-30","2026-01-31",0.63145,0
 0.0166,"MCSXX","Blackrock Liquidity Funds Municash Institutional Shares","Muni",3000000,6,6,0.0021,4333037548.71,"2026-01-30","2026-01-31",0,1
-0.0372,"MMKT","Texas Capital Government MM ETF","Government",0.01,48,51,0.002,70149217.95,"2025-12-31","2025-12-31",0.82975,0
+0.0364,"MMKT","Texas Capital Government MM ETF","Government",0.01,41,53,0.002,75157155.42,"2026-01-30","2026-01-31",0.73981,0
 0.0333,"MNRSV","Blackrock Government MM Portfolio","Government",1,49,112,"",109703744.25,"2026-01-30","2026-01-31",0.69868,0
 0.0332,"MSAXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Investor A Shares","Government",1000,48,107,0.0042,1014274648.4,"2026-01-30","2026-01-31",0.63145,0
 0.0332,"MSIXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Institutional","Government",2000000,48,107,0.0042,132038354.27,"2026-01-30","2026-01-31",0.63145,0
-0.0362,"MSUXX","Morgan Stanley Institutional Liquidity Treasury Securities Portfolio Institutional Class","Government",10000000,59,115,0.002,60103496850.33,"2025-12-31","2025-12-31",1,0
+0.0353,"MSUXX","Morgan Stanley Institutional Liquidity Treasury Securities Portfolio Institutional Class","Government",10000000,56,113,0.002,59699629462.15,"2026-01-30","2026-01-31",1,0
 0.037,"PCOXX","Federated Hermes Prime Cash Obligations Fund Wealth","Prime",500000,46,69,0.002,92636468746.09,"2026-01-30","2026-01-30",0,0.01059
 0.0358,"PGYXX","Pimco Government MM Class Institutional","Government",10000,3,3,0.0018,924069939.24,"2026-01-30","2026-01-31",0,0
 0.034,"PINXX","Blackrock Wealth Liquid Environmentally Aware Fund Investor A Shares","Prime",1000,43,67,0.0055,4870611547.89,"2026-01-30","2026-01-31",0.01269,0.00275
@@ -111,27 +114,27 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0532,"PVOXX",,"Prime",500000,0,0,0,0,"2024-07-19","2024-07-31",,
 0.0368,"SBIL","Simplify Government MM ETF","Government",1,46,117,0.0015,4520404597.21,"2026-01-30","2026-01-31",0.91397,0
 0.0358,"SBIXX","Blackrock Liquidity Funds Fedfund Stern Brothers Shares","Government",3000000,49,106,0.0017,31260453.67,"2026-01-30","2026-01-31",0.57276,0
-0.024,"SCAXX","Schwab California Municipal MM Ultra Shares","SingleState",1000000,28,29,0.0019,6832725381.73,"2025-12-31","2025-12-31",0.00483,0.99517
-0.0364,"SCOXX","Schwab Treasury Obligations MM Ultra Shares","Government",1000000,36,80,0.0019,35863846154.67,"2025-12-31","2025-12-31",0.37162,0
-0.0287,"SCTXX","Schwab Amt Tax-free MM Ultra Shares","Muni",1000000,29,32,0.0019,3008346172.07,"2025-12-31","2025-12-31",0.00984,0.99016
-0.0365,"SGUXX","Schwab Government MM Ultra Shares","Government",1000000,38,95,0.0019,34165160105.83,"2025-12-31","2025-12-31",0.43904,0.00207
-0.0351,"SGVT","Schwab Government MM ETF","Government",1000000,38,83,0.0028,433048558.05,"2025-12-31","2025-12-31",0.5056,0
+0.0179,"SCAXX","Schwab California Municipal MM Ultra Shares","SingleState",1000000,28,29,0.0019,6251709214.93,"2026-01-30","2026-01-31",0,1
+0.0355,"SCOXX","Schwab Treasury Obligations MM Ultra Shares","Government",1000000,36,82,0.0019,36059709150.09,"2026-01-30","2026-01-31",0.40674,0
+0.0213,"SCTXX","Schwab Amt Tax-free MM Ultra Shares","Muni",1000000,30,33,0.0019,2593216071.58,"2026-01-30","2026-01-31",0,1
+0.0355,"SGUXX","Schwab Government MM Ultra Shares","Government",1000000,42,98,0.0019,34535047043.81,"2026-01-30","2026-01-31",0.45557,0.00206
+0.0343,"SGVT","Schwab Government MM ETF","Government",1000000,44,90,0.0028,492726110.04,"2026-01-30","2026-01-31",0.49438,0
 0.0352,"SIGXX","Blackrock Liquid Federal Trust Fund Stern Brothers Shares","Government",3000000,23,23,0.0017,200145256.76,"2026-01-30","2026-01-31",0.63393,0
-0.0376,"SNAXX","Schwab Prime Advantage MM Ultra Shares","Prime",1000000,26,50,0.0019,142002503314.16,"2025-12-31","2025-12-31",0,0.00693
-0.0349,"SNOXX","Schwab Treasury Obligations MM Investor","Government",0,36,80,0.0034,36860990738.58,"2025-12-31","2025-12-31",0.37162,0
-0.0346,"SNSXX","Schwab US Treasury MM Investor","Government",0,50,83,0.0034,39529351706.22,"2025-12-31","2025-12-31",1,0
-0.035,"SNVXX","Schwab Government MM Investor","Government",0,38,95,0.0034,32755693601.99,"2025-12-31","2025-12-31",0.43904,0.00207
-0.0293,"SNYXX","Schwab New York Municipal MM Ultra Shares","SingleState",1000000,26,29,0.0019,2103819084.71,"2025-12-31","2025-12-31",0,1
-0.0343,"SPAXX","Fidelity Government MM","Government",1,33,84,0.0042,410458752447.2,"2025-12-31","2025-12-31",0.60172,0
-0.0347,"SPRXX","Fidelity MM","Prime",1,31,33,0.0042,12551190358.16,"2025-12-31","2025-12-31",0.24458,0
-0.0361,"SUTXX","Schwab US Treasury MM Ultra Shares","Government",1000000,50,83,0.0019,59749823550.79,"2025-12-31","2025-12-31",1,0
-0.034,"SWGXX","Schwab Government MM","Government",0,38,95,0.0044,23310228146.64,"2025-12-31","2025-12-31",0.43904,0.00207
-0.0225,"SWKXX","Schwab California Municipal MM Investor","SingleState",0,28,29,0.0034,2542662488.43,"2025-12-31","2025-12-31",0.00483,0.99517
-0.0288,"SWOXX","Schwab Municipal MM Ultra Shares","Muni",1000000,28,30,0.0019,14480548378.58,"2025-12-31","2025-12-31",0,1
-0.0273,"SWTXX","Schwab Municipal MM Investor","Muni",0,28,30,0.0034,4474566766.16,"2025-12-31","2025-12-31",0,1
-0.0361,"SWVXX","Schwab Prime Advantage MM Investor","Prime",0,26,50,0.0034,250790960479.1,"2025-12-31","2025-12-31",0,0.00693
-0.0272,"SWWXX","Schwab Amt Tax-free MM Investor","Muni",0,29,32,0.0034,1320416200.35,"2025-12-31","2025-12-31",0.00984,0.99016
-0.0278,"SWYXX","Schwab New York Municipal MM Investor","SingleState",0,26,29,0.0034,1091322130.09,"2025-12-31","2025-12-31",0,1
+0.0367,"SNAXX","Schwab Prime Advantage MM Ultra Shares","Prime",1000000,30,53,0.0019,143048791695.72,"2026-01-30","2026-01-31",0,0.00684
+0.034,"SNOXX","Schwab Treasury Obligations MM Investor","Government",0,36,82,0.0034,36655182095.86,"2026-01-30","2026-01-31",0.40674,0
+0.0336,"SNSXX","Schwab US Treasury MM Investor","Government",0,51,85,0.0034,39719887185.79,"2026-01-30","2026-01-31",1,0
+0.034,"SNVXX","Schwab Government MM Investor","Government",0,42,98,0.0034,32490556401.87,"2026-01-30","2026-01-31",0.45557,0.00206
+0.0204,"SNYXX","Schwab New York Municipal MM Ultra Shares","SingleState",1000000,28,32,0.0019,1855383593.88,"2026-01-30","2026-01-31",0,1
+0.0333,"SPAXX","Fidelity Government MM","Government",1,45,104,0.0042,405667099489.5,"2026-01-30","2026-01-31",0.64453,0
+0.0339,"SPRXX","Fidelity MM","Prime",1,28,29,0.0042,12310699713.15,"2026-01-30","2026-01-31",0.24834,0
+0.0351,"SUTXX","Schwab US Treasury MM Ultra Shares","Government",1000000,51,85,0.0019,61051528926.86,"2026-01-30","2026-01-31",1,0
+0.033,"SWGXX","Schwab Government MM","Government",0,42,98,0.0044,23855749363.12,"2026-01-30","2026-01-31",0.45557,0.00206
+0.0164,"SWKXX","Schwab California Municipal MM Investor","SingleState",0,28,29,0.0034,2438531316.75,"2026-01-30","2026-01-31",0,1
+0.0216,"SWOXX","Schwab Municipal MM Ultra Shares","Muni",1000000,29,31,0.0019,13390059793.59,"2026-01-30","2026-01-31",0,1
+0.0201,"SWTXX","Schwab Municipal MM Investor","Muni",0,29,31,0.0034,4346256376.86,"2026-01-30","2026-01-31",0,1
+0.0352,"SWVXX","Schwab Prime Advantage MM Investor","Prime",0,30,53,0.0034,248718254461.14,"2026-01-30","2026-01-31",0,0.00684
+0.0198,"SWWXX","Schwab Amt Tax-free MM Investor","Muni",0,30,33,0.0034,1228773309.95,"2026-01-30","2026-01-31",0,1
+0.0189,"SWYXX","Schwab New York Municipal MM Investor","SingleState",0,28,32,0.0034,1055628553,"2026-01-30","2026-01-31",0,1
 0.0349,"TCDXX","Blackrock Liquidity Funds Tempcash Dollar Shares","Prime",5000,39,63,0.0043,18840198.04,"2026-01-30","2026-01-31",0.01308,0.00594
 0.0373,"TCPXX","Tempcash Premier","Prime",3000000,39,63,"",36499.67,"2026-01-30","2026-01-31",0.01308,0.00594
 0.0333,"TDDXX","Blackrock Liquidity Funds Fedfund Dollar Shares","Government",5000,49,106,0.0042,3756725856.69,"2026-01-30","2026-01-31",0.57276,0
@@ -149,12 +152,12 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0355,"TTTXX","Blackrock Liquidity Funds Treasury Trust Fund Institutional Shares","Government",3000000,55,104,0.0017,165470237312.12,"2026-01-30","2026-01-31",1,0
 0.0361,"USDXX","Circle Reserve Fund Institutional Shares","Government",2000000000,17,17,0.0017,59816982893.91,"2026-01-30","2026-01-31",0.31875,0
 0.0353,"UTIXX","Federated Hermes US Treasury Cash Reserves Fund Institutional Shares","Government",500000,51,101,0.002,36617596235.63,"2026-01-30","2026-01-30",1,0
-0.0257,"VCTXX","Vanguard California Municipal MM Investor","SingleState",3000,15,15,0.0012,3848345675.76,"2025-12-31","2025-12-31",0,1
-0.0371,"VMFXX","Vanguard Federal MM Investor","Government",3000,45,61,0.0011,379793819188.69,"2025-12-31","2025-12-31",0.70697,0
-0.0371,"VMRXX","Vanguard Cash Reserves Federal MM Admiral Shares","Government",3000,48,65,0.001,121865064983.77,"2025-12-31","2025-12-31",0.7667,0
-0.0307,"VMSXX","Vanguard Municipal MM Investor","Muni",3000,15,17,0.0011,18727721878.27,"2025-12-31","2025-12-31",0,1
-0.0372,"VUSXX","Vanguard Treasury MM Investor","Government",3000,47,68,0.0007,102172712756.55,"2025-12-31","2025-12-31",1,0
-0.0302,"VYFXX","Vanguard New York Municipal MM Investor","SingleState",3000,12,14,0.0011,3459648604.19,"2025-12-31","2025-12-31",0,1
+0.0172,"VCTXX","Vanguard California Municipal MM Investor","SingleState",3000,14,15,0.0012,3783645543.6,"2026-01-30","2026-01-31",0,1
+0.0362,"VMFXX","Vanguard Federal MM Investor","Government",3000,43,62,0.0011,375000892261.44,"2026-01-30","2026-01-31",0.69633,0
+0.0364,"VMRXX","Vanguard Cash Reserves Federal MM Admiral Shares","Government",3000,43,66,0.001,121069150274.3,"2026-01-30","2026-01-31",0.72979,0
+0.0209,"VMSXX","Vanguard Municipal MM Investor","Muni",3000,16,17,0.0011,17383044270.32,"2026-01-30","2026-01-31",0,1
+0.0361,"VUSXX","Vanguard Treasury MM Investor","Government",3000,45,63,0.0007,103512937968.48,"2026-01-30","2026-01-31",1,0
+0.0203,"VYFXX","Vanguard New York Municipal MM Investor","SingleState",3000,14,15,0.0011,3249903129.48,"2026-01-30","2026-01-31",0,1
 0.0374,"WMPXX","Allspring MM Class Premier","Prime",10000000,32,62,0.002,41598017905.14,"2026-01-30","2026-01-31",0,0.12015
 0.0354,"WOTXX","Allspring 100% Treasury MM Class Inst","Government",10000000,52,95,0.002,12078364713.44,"2026-01-30","2026-01-31",1,0
 0.0358,"WSTXX","Blackrock Liquidity Fedfund Westcap Shares","Government",3000000,49,106,0.0017,44523833.91,"2026-01-30","2026-01-31",0.57276,0
