@@ -300,48 +300,43 @@
     "timestamp": "2026-02-12T21:15:06.723Z"
   },
   {
-    "accountType": "Total Treasury ETF",
-    "asOfDate": "2026-02-09",
-    "price": 76.26,
-    "thirtyDayYield": 0.0397,
-    "source": "Vanguard.com ETF",
     "ticker": "VTG",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0396,
+    "asOfDate": "2026-02-10",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T22:49:00.448Z"
   },
   {
-    "accountType": "STerm InflatPro Sec ETF",
-    "asOfDate": "2026-02-05",
-    "price": 49.69,
-    "thirtyDayYield": 0.0131,
-    "source": "Vanguard.com ETF",
     "ticker": "VTIP",
-    "timestamp": "2026-02-12T05:36:02.274Z"
-  },
-  {
-    "accountType": "Total InflatPro Sec ETF",
+    "thirtyDayYield": 0.0131,
     "asOfDate": "2026-02-05",
-    "price": 76.32,
-    "thirtyDayYield": 0.0151,
-    "source": "Vanguard.com ETF",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T22:49:19.735Z"
+  },
+  {
     "ticker": "VTP",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0151,
+    "asOfDate": "2026-02-05",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T22:49:38.541Z"
   },
   {
-    "accountType": "Ultra-Short Bond ETF",
-    "asOfDate": "2026-02-09",
-    "price": 49.92,
-    "thirtyDayYield": 0.0408,
-    "source": "Vanguard.com ETF",
     "ticker": "VUSB",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0407,
+    "asOfDate": "2026-02-10",
+    "expenseRatio": 0.001,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T22:49:56.252Z"
   },
   {
-    "accountType": "Em Mkt Gov Bond ETF",
-    "asOfDate": "2026-02-09",
-    "price": 67.83,
-    "thirtyDayYield": 0.0568,
-    "source": "Vanguard.com ETF",
     "ticker": "VWOB",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0567,
+    "asOfDate": "2026-02-10",
+    "expenseRatio": 0.0015,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T22:50:16.322Z"
   }
 ]
