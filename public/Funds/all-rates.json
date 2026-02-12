@@ -79,7 +79,7 @@
   {
     "asOfDate": "2026-02-11",
     "price": 100.464821,
-    "thirtyDayYield": 0.0355,
+    "thirtyDayYield": 0.03554,
     "twelveMonTrlYield": 0.04043,
     "source": "BlackRock",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
@@ -87,33 +87,33 @@
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-02-12T02:25:33.434Z"
+    "timestamp": "2026-02-12T19:37:31.175Z"
   },
   {
     "asOfDate": "2026-02-11",
     "price": 102.871722,
-    "thirtyDayYield": -0.02208,
-    "twelveMonTrlYield": 0.04056,
+    "thirtyDayYield": -0.02048,
+    "twelveMonTrlYield": 0.04059,
     "source": "BlackRock",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
     "blackRockId": 239450,
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-02-12T02:25:33.434Z"
+    "timestamp": "2026-02-12T19:37:31.175Z"
   },
   {
     "asOfDate": "2026-02-11",
     "price": 110.773247,
-    "thirtyDayYield": -0.02435,
-    "twelveMonTrlYield": 0.03427,
+    "thirtyDayYield": -0.0226,
+    "twelveMonTrlYield": 0.03432,
     "source": "BlackRock",
     "fundName": "iShares TIPS Bond ETF",
     "blackRockId": 239467,
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-02-12T02:25:33.434Z"
+    "timestamp": "2026-02-12T19:37:31.175Z"
   },
   {
     "asOfDate": "2026-02-11",
@@ -220,40 +220,36 @@
     "timestamp": "2026-02-12T18:06:55.124Z"
   },
   {
-    "accountType": "Mortgage-Backed Sec ETF",
-    "asOfDate": "2026-02-09",
-    "price": 47.27,
-    "thirtyDayYield": 0.0411,
-    "source": "Vanguard.com ETF",
     "ticker": "VMBS",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0409,
+    "asOfDate": "2026-02-10",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T19:39:22.197Z"
   },
   {
-    "accountType": "Core-Plus Bond ETF",
-    "asOfDate": "2026-02-09",
-    "price": 78.49,
-    "thirtyDayYield": 0.0444,
-    "source": "Vanguard.com ETF",
     "ticker": "VPLS",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0441,
+    "asOfDate": "2026-02-10",
+    "expenseRatio": 0.002,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T19:39:39.931Z"
   },
   {
-    "accountType": "Short Duration Bond ETF",
-    "asOfDate": "2026-02-09",
-    "price": 76.71,
-    "thirtyDayYield": 0.0428,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDB",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0428,
+    "asOfDate": "2026-02-10",
+    "expenseRatio": 0.0015,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T19:39:57.343Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-02-09",
-    "price": 77.18,
-    "thirtyDayYield": 0.0297,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-02-12T05:36:02.274Z"
+    "thirtyDayYield": 0.0296,
+    "asOfDate": "2026-02-10",
+    "expenseRatio": 0.0012,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-12T19:40:14.446Z"
   },
   {
     "accountType": "Total Corporate Bond ETF",
