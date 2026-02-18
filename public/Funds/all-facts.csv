@@ -1,3 +1,3 @@
-asOfDate,ticker,accountType,thirtyDayYield,nav,aum,twelveMonTrlYield,yieldToMaturity,distributionYield,weightedAverageCoupon,durationYears,maturityYears,expenseRatio
-"2026-02-12","BOXX","",0.0387,"",,"",,,,0.1041,"",0.0019
-"2026-02-13","USFR",,0.0356,50.416,,,,,,,,0.0015
+asOfDate,ticker,oneDayYield,sevenDayYield,thirtyDayYield,nav,aum,twelveMonTrlYield,yieldToMaturity,distributionYield,weightedAverageCoupon,durationYears,maturityYears,expenseRatio,accountType,source
+"2026-02-12","BOXX",,,0.0387,"",,"",,,,0.1041,"",0.0019,"","alphaarchitect.com"
+"2026-02-17","USFR",,,0.0356,,,,,,,,,0.0015,,"Wisdomtree yields"
