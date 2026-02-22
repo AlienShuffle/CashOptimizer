@@ -1,18 +1,42 @@
 [
   {
-    "ticker": "BIV",
-    "thirtyDayYield": 0.0431,
+    "ticker": "VUSB",
+    "thirtyDayYield": 0.0404,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.001,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-22T09:09:55.880Z"
+  },
+  {
+    "ticker": "VGUS",
+    "thirtyDayYield": 0.0359,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0007,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-22T09:10:15.081Z"
+  },
+  {
+    "ticker": "VMBS",
+    "thirtyDayYield": 0.0419,
     "asOfDate": "2026-02-19",
     "expenseRatio": 0.0003,
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-22T07:37:20.952Z"
+    "timestamp": "2026-02-22T09:10:34.077Z"
   },
   {
-    "ticker": "BNDP",
+    "ticker": "VPLS",
     "thirtyDayYield": 0.044,
     "asOfDate": "2026-02-19",
-    "expenseRatio": 0.0005,
+    "expenseRatio": 0.002,
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-22T07:37:37.970Z"
+    "timestamp": "2026-02-22T09:10:51.385Z"
+  },
+  {
+    "ticker": "VSDB",
+    "thirtyDayYield": 0.0426,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0015,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-22T09:11:10.948Z"
   }
 ]
