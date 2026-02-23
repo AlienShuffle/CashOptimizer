@@ -82,54 +82,47 @@
   {
     "asOfDate": "2026-02-20",
     "nav": 100.574679,
-    "thirtyDayYield": 0.03544,
-    "twelveMonTrlYield": 0.04039,
+    "thirtyDayYield": 0.03542,
+    "twelveMonTrlYield": 0.04038,
     "source": "BlackRock",
     "blackRockId": 314116,
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-02-21T03:29:51.206Z"
+    "timestamp": "2026-02-23T20:15:41.207Z"
   },
   {
     "asOfDate": "2026-02-20",
     "nav": 102.934806,
-    "thirtyDayYield": -0.00889,
+    "thirtyDayYield": -0.00751,
     "twelveMonTrlYield": 0.04057,
     "source": "BlackRock",
     "blackRockId": 239450,
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-02-21T03:29:51.206Z"
+    "timestamp": "2026-02-23T20:15:41.207Z"
   },
   {
     "asOfDate": "2026-02-20",
     "nav": 111.13829,
-    "thirtyDayYield": -0.00913,
-    "twelveMonTrlYield": 0.03419,
+    "thirtyDayYield": -0.00743,
+    "twelveMonTrlYield": 0.03421,
     "source": "BlackRock",
     "blackRockId": 239467,
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-02-21T03:29:51.206Z"
+    "timestamp": "2026-02-23T20:15:41.207Z"
   },
   {
     "ticker": "USFR",
-    "source": "Wisdomtree yields",
-    "timestamp": "2026-02-23T17:19:09.697Z",
-    "accountType": "WisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-02-20",
+    "accountType": "WisdomTree Floating Rate Treasury Fund",
     "nav": 50.451,
-    "aum": 16176035480,
     "thirtyDayYield": 0.0356,
-    "yieldToMaturity": 0.0372,
-    "distributionYield": 0.0369,
-    "weightedAverageCoupon": 0.038,
-    "durationYears": 0.02,
-    "maturityYears": 1.49,
-    "expenseRatio": 0.0015
+    "source": "Wisdomtree yields",
+    "timestamp": "2026-02-23T20:11:10.118Z"
   },
   {
     "ticker": "VBIL",
