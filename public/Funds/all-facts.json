@@ -49,12 +49,12 @@
   },
   {
     "ticker": "BOXX",
-    "thirtyDayYield": 0.0391,
-    "durationYears": 0.0849,
+    "thirtyDayYield": 0.0395,
+    "asOfDate": "2026-02-23",
     "expenseRatio": 0.0019,
-    "asOfDate": "2026-02-19",
+    "durationYears": 0.074,
     "source": "alphaarchitect.com",
-    "timestamp": "2026-02-20T10:16:56.336Z"
+    "timestamp": "2026-02-24T05:36:14.612Z"
   },
   {
     "ticker": "BSV",
@@ -82,19 +82,18 @@
   },
   {
     "ticker": "USFR",
-    "asOfDate": "2026-02-20",
+    "source": "Wisdomtree yields",
+    "timestamp": "2026-02-24T05:38:17.030Z",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
-    "nav": 50.451,
-    "aum": 16176035480,
+    "asOfDate": "2026-02-23",
+    "aum": 16276639580,
     "thirtyDayYield": 0.0356,
     "yieldToMaturity": 0.0372,
     "distributionYield": 0.0369,
     "weightedAverageCoupon": 0.038,
     "durationYears": 0.02,
     "maturityYears": 1.49,
-    "expenseRatio": 0.0015,
-    "source": "Wisdomtree yields",
-    "timestamp": "2026-02-23T17:19:13.204Z"
+    "expenseRatio": 0.0015
   },
   {
     "ticker": "VBIL",
