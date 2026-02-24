@@ -1,65 +1,370 @@
 [
   {
-    "timestamp": "2026-01-16T04:49:43.481Z",
-    "exDividendDate": "2025-12-18",
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
     "recordDate": "2025-12-18",
+    "exDividendDate": "2025-12-18",
     "payableDate": "2025-12-22",
     "totalDistribution": 0.8106,
-    "source": "Vanguard.com Distro",
     "ordinaryIncome": 0.8106
   },
   {
-    "timestamp": "2026-01-16T04:49:43.481Z",
-    "exDividendDate": "2025-10-01",
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
     "recordDate": "2025-10-01",
+    "exDividendDate": "2025-10-01",
     "payableDate": "2025-10-03",
     "totalDistribution": 0.7981,
-    "source": "Vanguard.com Distro",
     "ordinaryIncome": 0.7981
   },
   {
-    "timestamp": "2026-01-16T04:49:43.481Z",
-    "exDividendDate": "2025-07-01",
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
     "recordDate": "2025-07-01",
+    "exDividendDate": "2025-07-01",
     "payableDate": "2025-07-03",
     "totalDistribution": 0.8075,
-    "source": "Vanguard.com Distro",
     "ordinaryIncome": 0.8075
   },
   {
-    "timestamp": "2026-01-16T04:49:43.481Z",
-    "exDividendDate": "2025-04-01",
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
     "recordDate": "2025-04-01",
+    "exDividendDate": "2025-04-01",
     "payableDate": "2025-04-03",
     "totalDistribution": 0.7938,
-    "source": "Vanguard.com Distro",
     "ordinaryIncome": 0.7938
   },
   {
-    "timestamp": "2026-01-16T04:49:43.481Z",
-    "exDividendDate": "2024-12-24",
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
     "recordDate": "2024-12-24",
+    "exDividendDate": "2024-12-24",
     "payableDate": "2024-12-27",
     "totalDistribution": 0.8377,
-    "source": "Vanguard.com Distro",
     "ordinaryIncome": 0.8377
   },
   {
-    "timestamp": "2026-01-16T04:49:43.481Z",
-    "exDividendDate": "2024-10-01",
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
     "recordDate": "2024-10-01",
+    "exDividendDate": "2024-10-01",
     "payableDate": "2024-10-03",
     "totalDistribution": 0.7698,
-    "source": "Vanguard.com Distro",
     "ordinaryIncome": 0.7698
   },
   {
-    "timestamp": "2026-01-16T04:49:43.481Z",
-    "exDividendDate": "2024-07-01",
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
     "recordDate": "2024-07-01",
+    "exDividendDate": "2024-07-01",
     "payableDate": "2024-07-03",
     "totalDistribution": 0.7755,
-    "source": "Vanguard.com Distro",
     "ordinaryIncome": 0.7755
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2024-04-02",
+    "exDividendDate": "2024-04-01",
+    "payableDate": "2024-04-04",
+    "totalDistribution": 0.7685,
+    "ordinaryIncome": 0.7685
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2023-12-26",
+    "exDividendDate": "2023-12-22",
+    "payableDate": "2023-12-28",
+    "totalDistribution": 0.737,
+    "ordinaryIncome": 0.737
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2023-10-03",
+    "exDividendDate": "2023-10-02",
+    "payableDate": "2023-10-05",
+    "totalDistribution": 0.7372,
+    "ordinaryIncome": 0.7372
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2023-07-05",
+    "exDividendDate": "2023-07-03",
+    "payableDate": "2023-07-07",
+    "totalDistribution": 0.7264,
+    "ordinaryIncome": 0.7264
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2023-04-04",
+    "exDividendDate": "2023-04-03",
+    "payableDate": "2023-04-06",
+    "totalDistribution": 0.6743,
+    "ordinaryIncome": 0.6743
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2022-12-27",
+    "exDividendDate": "2022-12-23",
+    "payableDate": "2022-12-29",
+    "totalDistribution": 0.6914,
+    "ordinaryIncome": 0.6914
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2022-10-04",
+    "exDividendDate": "2022-10-03",
+    "payableDate": "2022-10-06",
+    "totalDistribution": 0.6824,
+    "ordinaryIncome": 0.6824
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2022-07-05",
+    "exDividendDate": "2022-07-01",
+    "payableDate": "2022-07-07",
+    "totalDistribution": 0.7059,
+    "ordinaryIncome": 0.7059
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2022-04-04",
+    "exDividendDate": "2022-04-01",
+    "payableDate": "2022-04-06",
+    "totalDistribution": 0.6353,
+    "ordinaryIncome": 0.6353
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2021-12-27",
+    "exDividendDate": "2021-12-23",
+    "payableDate": "2021-12-29",
+    "totalDistribution": 0.6836,
+    "ordinaryIncome": 0.6836
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2021-10-04",
+    "exDividendDate": "2021-10-01",
+    "payableDate": "2021-10-06",
+    "totalDistribution": 0.7057,
+    "ordinaryIncome": 0.7057
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2021-07-02",
+    "exDividendDate": "2021-07-01",
+    "payableDate": "2021-07-07",
+    "totalDistribution": 0.7004,
+    "ordinaryIncome": 0.7004
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2021-04-05",
+    "exDividendDate": "2021-04-01",
+    "payableDate": "2021-04-07",
+    "totalDistribution": 0.6456,
+    "ordinaryIncome": 0.6456
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2020-12-24",
+    "exDividendDate": "2020-12-23",
+    "payableDate": "2020-12-29",
+    "totalDistribution": 6.1046,
+    "ordinaryIncome": 0.7703,
+    "stcg": 1.3454,
+    "ltcg": 3.9889
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2020-10-02",
+    "exDividendDate": "2020-10-01",
+    "payableDate": "2020-10-06",
+    "totalDistribution": 0.7035,
+    "ordinaryIncome": 0.7035
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2020-07-02",
+    "exDividendDate": "2020-07-01",
+    "payableDate": "2020-07-07",
+    "totalDistribution": 0.798,
+    "ordinaryIncome": 0.798
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2020-04-02",
+    "exDividendDate": "2020-04-01",
+    "payableDate": "2020-04-06",
+    "totalDistribution": 0.8378,
+    "ordinaryIncome": 0.8378
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2019-12-24",
+    "exDividendDate": "2019-12-23",
+    "payableDate": "2019-12-27",
+    "totalDistribution": 2.1096,
+    "ordinaryIncome": 0.8598,
+    "stcg": 0.5066,
+    "ltcg": 0.7432
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2019-09-27",
+    "exDividendDate": "2019-09-26",
+    "payableDate": "2019-10-01",
+    "totalDistribution": 0.8332,
+    "ordinaryIncome": 0.8332
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2019-06-24",
+    "exDividendDate": "2019-06-21",
+    "payableDate": "2019-06-26",
+    "totalDistribution": 0.7934,
+    "ordinaryIncome": 0.7934
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2019-03-22",
+    "exDividendDate": "2019-03-21",
+    "payableDate": "2019-03-26",
+    "totalDistribution": 0.8203,
+    "ordinaryIncome": 0.8203
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2018-12-14",
+    "exDividendDate": "2018-12-13",
+    "payableDate": "2018-12-18",
+    "totalDistribution": 0.8253,
+    "ordinaryIncome": 0.8253
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2018-09-25",
+    "exDividendDate": "2018-09-24",
+    "payableDate": "2018-09-27",
+    "totalDistribution": 0.84,
+    "ordinaryIncome": 0.84
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2018-06-19",
+    "exDividendDate": "2018-06-18",
+    "payableDate": "2018-06-21",
+    "totalDistribution": 0.8381,
+    "ordinaryIncome": 0.8381
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2018-03-19",
+    "exDividendDate": "2018-03-16",
+    "payableDate": "2018-03-21",
+    "totalDistribution": 0.7924,
+    "ordinaryIncome": 0.7924
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2017-12-27",
+    "exDividendDate": "2017-12-26",
+    "payableDate": "2017-12-29",
+    "totalDistribution": 1.159,
+    "ordinaryIncome": 0.8618,
+    "stcg": 0.0028,
+    "ltcg": 0.2944
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2017-09-28",
+    "exDividendDate": "2017-09-27",
+    "payableDate": "2017-10-02",
+    "totalDistribution": 0.822,
+    "ordinaryIncome": 0.822
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2017-06-30",
+    "exDividendDate": "2017-06-28",
+    "payableDate": "2017-07-05",
+    "totalDistribution": 0.85,
+    "ordinaryIncome": 0.85
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2017-03-24",
+    "exDividendDate": "2017-03-22",
+    "payableDate": "2017-03-28",
+    "totalDistribution": 0.702,
+    "ordinaryIncome": 0.702
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2016-12-16",
+    "exDividendDate": "2016-12-14",
+    "payableDate": "2016-12-20",
+    "totalDistribution": 3.4346,
+    "ordinaryIncome": 0.981,
+    "stcg": 0.0341,
+    "ltcg": 2.4195
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2016-09-22",
+    "exDividendDate": "2016-09-20",
+    "payableDate": "2016-09-26",
+    "totalDistribution": 0.869,
+    "ordinaryIncome": 0.869
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2016-06-23",
+    "exDividendDate": "2016-06-21",
+    "payableDate": "2016-06-27",
+    "totalDistribution": 0.822,
+    "ordinaryIncome": 0.822
+  },
+  {
+    "ticker": "EDV",
+    "timestamp": "2026-02-24T07:12:43.614Z",
+    "recordDate": "2016-03-23",
+    "exDividendDate": "2016-03-21",
+    "payableDate": "2016-03-28",
+    "totalDistribution": 0.696,
+    "ordinaryIncome": 0.696
   }
 ]
