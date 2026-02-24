@@ -1,5 +1,53 @@
 [
   {
+    "ticker": "BIV",
+    "thirtyDayYield": 0.0431,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-23T22:52:38.045Z"
+  },
+  {
+    "ticker": "BLV",
+    "thirtyDayYield": 0.0513,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-23T22:52:57.419Z"
+  },
+  {
+    "ticker": "BND",
+    "thirtyDayYield": 0.0417,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-23T22:53:16.302Z"
+  },
+  {
+    "ticker": "BNDP",
+    "thirtyDayYield": 0.044,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-23T22:53:35.048Z"
+  },
+  {
+    "ticker": "BNDW",
+    "thirtyDayYield": 0.0414,
+    "asOfDate": "2026-01-31",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-23T22:53:53.915Z"
+  },
+  {
+    "ticker": "BNDX",
+    "thirtyDayYield": 0.0308,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0007,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-23T22:54:12.866Z"
+  },
+  {
     "ticker": "BOXX",
     "thirtyDayYield": 0.0391,
     "durationYears": 0.0849,
@@ -7,6 +55,30 @@
     "asOfDate": "2026-02-19",
     "source": "alphaarchitect.com",
     "timestamp": "2026-02-20T10:16:56.336Z"
+  },
+  {
+    "ticker": "BSV",
+    "thirtyDayYield": 0.0373,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-23T23:00:58.528Z"
+  },
+  {
+    "ticker": "EDV",
+    "thirtyDayYield": 0.0496,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0005,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:35:46.298Z"
+  },
+  {
+    "ticker": "MUNY",
+    "thirtyDayYield": 0.0319,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0009,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:36:05.255Z"
   },
   {
     "ticker": "USFR",
@@ -23,5 +95,85 @@
     "expenseRatio": 0.0015,
     "source": "Wisdomtree yields",
     "timestamp": "2026-02-23T17:19:13.204Z"
+  },
+  {
+    "ticker": "VBIL",
+    "thirtyDayYield": 0.0354,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0006,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:36:23.998Z"
+  },
+  {
+    "ticker": "VCEB",
+    "thirtyDayYield": 0.0461,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0012,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:36:41.620Z"
+  },
+  {
+    "ticker": "VCIT",
+    "thirtyDayYield": 0.0477,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:37:00.401Z"
+  },
+  {
+    "ticker": "VCLT",
+    "thirtyDayYield": 0.056,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:37:19.505Z"
+  },
+  {
+    "ticker": "VCRB",
+    "thirtyDayYield": 0.044,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.001,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:42:56.824Z"
+  },
+  {
+    "ticker": "VCRM",
+    "thirtyDayYield": 0.0369,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0012,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:43:15.750Z"
+  },
+  {
+    "ticker": "VCSH",
+    "thirtyDayYield": 0.0414,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:43:34.682Z"
+  },
+  {
+    "ticker": "VGIT",
+    "thirtyDayYield": 0.038,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:43:53.369Z"
+  },
+  {
+    "ticker": "VGLT",
+    "thirtyDayYield": 0.0472,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.0003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:44:13.069Z"
+  },
+  {
+    "ticker": "VGMS",
+    "thirtyDayYield": 0.0515,
+    "asOfDate": "2026-02-19",
+    "expenseRatio": 0.003,
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-24T00:44:31.732Z"
   }
 ]
