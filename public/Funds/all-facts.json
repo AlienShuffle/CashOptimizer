@@ -326,27 +326,43 @@
   },
   {
     "ticker": "VTG",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T19:09:31.701Z",
     "thirtyDayYield": 0.0389,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0003,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T06:38:37.656Z"
+    "aum": 76100000,
+    "durationYears": 5.7,
+    "yieldToMaturity": 0.038,
+    "yieldToWorst": 0.038,
+    "maturityYears": 7.7,
+    "weightedAverageCoupon": 0.0337
   },
   {
     "ticker": "VTIP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T19:09:51.178Z",
     "thirtyDayYield": 0.0104,
     "asOfDate": "2026-02-19",
     "expenseRatio": 0.0003,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T06:38:56.440Z"
+    "aum": 16100000000,
+    "durationYears": 2.5,
+    "yieldToMaturity": 0.0341,
+    "maturityYears": 2.6,
+    "weightedAverageCoupon": 0.0105
   },
   {
     "ticker": "VTP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T19:10:10.016Z",
     "thirtyDayYield": 0.0141,
     "asOfDate": "2026-02-19",
     "expenseRatio": 0.0005,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T06:39:14.945Z"
+    "aum": 87400000,
+    "durationYears": 6.5,
+    "yieldToMaturity": 0.0377,
+    "maturityYears": 7.2,
+    "weightedAverageCoupon": 0.0125
   },
   {
     "ticker": "VUSB",
@@ -358,10 +374,17 @@
   },
   {
     "ticker": "VWOB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T19:10:28.865Z",
     "thirtyDayYield": 0.0559,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0015,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T06:39:52.801Z"
+    "aum": 5900000000,
+    "distributionYield": 0.04,
+    "durationYears": 6.9,
+    "yieldToMaturity": 0.057,
+    "yieldToWorst": 0.0569,
+    "maturityYears": 11.2,
+    "weightedAverageCoupon": 0.054299999999999994
   }
 ]
