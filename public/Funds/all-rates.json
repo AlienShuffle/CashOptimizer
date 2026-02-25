@@ -7,22 +7,18 @@
     "timestamp": "2026-02-25T17:36:12.367Z"
   },
   {
-    "accountType": "Long-Term Bond ETF",
-    "asOfDate": "2026-02-23",
-    "nav": 71.16,
-    "thirtyDayYield": 0.0512,
-    "source": "Vanguard.com ETF",
     "ticker": "BLV",
-    "timestamp": "2026-02-25T11:21:31.532Z"
+    "thirtyDayYield": 0.0512,
+    "asOfDate": "2026-02-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T20:43:27.577Z"
   },
   {
-    "accountType": "Total Bond Market ETF",
-    "asOfDate": "2026-02-23",
-    "nav": 74.93,
-    "thirtyDayYield": 0.0417,
-    "source": "Vanguard.com ETF",
     "ticker": "BND",
-    "timestamp": "2026-02-25T11:21:31.532Z"
+    "thirtyDayYield": 0.0417,
+    "asOfDate": "2026-02-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T20:43:27.577Z"
   },
   {
     "accountType": "Core-Plus Bond Index ETF",
@@ -88,38 +84,38 @@
   {
     "asOfDate": "2026-02-24",
     "nav": 100.593417,
-    "thirtyDayYield": 0.03536,
+    "thirtyDayYield": 0.03532,
     "twelveMonTrlYield": 0.04038,
     "source": "BlackRock",
     "blackRockId": 314116,
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-02-25T03:24:50.974Z"
+    "timestamp": "2026-02-25T20:40:57.224Z"
   },
   {
     "asOfDate": "2026-02-24",
     "nav": 102.987161,
-    "thirtyDayYield": -0.00342,
-    "twelveMonTrlYield": 0.04052,
+    "thirtyDayYield": -0.00206,
+    "twelveMonTrlYield": 0.04055,
     "source": "BlackRock",
     "blackRockId": 239450,
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-02-25T03:24:50.974Z"
+    "timestamp": "2026-02-25T20:40:57.224Z"
   },
   {
     "asOfDate": "2026-02-24",
     "nav": 111.266781,
-    "thirtyDayYield": -0.00238,
-    "twelveMonTrlYield": 0.03416,
+    "thirtyDayYield": -0.00073,
+    "twelveMonTrlYield": 0.03417,
     "source": "BlackRock",
     "blackRockId": 239467,
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-02-25T03:24:50.974Z"
+    "timestamp": "2026-02-25T20:40:57.224Z"
   },
   {
     "ticker": "USFR",

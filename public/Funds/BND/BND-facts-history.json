@@ -17,10 +17,17 @@
   },
   {
     "ticker": "BND",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T20:43:08.433Z",
     "thirtyDayYield": 0.0417,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0003,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T08:12:47.285Z"
+    "aum": 149900000000,
+    "distributionYield": 0.0263,
+    "durationYears": 5.7,
+    "yieldToMaturity": 0.0421,
+    "yieldToWorst": 0.042,
+    "maturityYears": 7.9,
+    "weightedAverageCoupon": 0.038
   }
 ]
