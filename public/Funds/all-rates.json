@@ -88,8 +88,8 @@
     "timestamp": "2026-02-25T01:24:16.807Z"
   },
   {
-    "asOfDate": "2026-02-23",
-    "nav": 100.583982,
+    "asOfDate": "2026-02-24",
+    "nav": 100.593417,
     "thirtyDayYield": 0.03536,
     "twelveMonTrlYield": 0.04038,
     "source": "BlackRock",
@@ -97,11 +97,11 @@
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-02-24T21:10:02.589Z"
+    "timestamp": "2026-02-25T03:24:50.974Z"
   },
   {
-    "asOfDate": "2026-02-23",
-    "nav": 103.048701,
+    "asOfDate": "2026-02-24",
+    "nav": 102.987161,
     "thirtyDayYield": -0.00342,
     "twelveMonTrlYield": 0.04052,
     "source": "BlackRock",
@@ -109,11 +109,11 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-02-24T21:10:02.589Z"
+    "timestamp": "2026-02-25T03:24:50.974Z"
   },
   {
-    "asOfDate": "2026-02-23",
-    "nav": 111.315811,
+    "asOfDate": "2026-02-24",
+    "nav": 111.266781,
     "thirtyDayYield": -0.00238,
     "twelveMonTrlYield": 0.03416,
     "source": "BlackRock",
@@ -121,7 +121,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-02-24T21:10:02.589Z"
+    "timestamp": "2026-02-25T03:24:50.974Z"
   },
   {
     "ticker": "USFR",
@@ -209,40 +209,32 @@
     "timestamp": "2026-02-25T01:54:25.629Z"
   },
   {
-    "accountType": "ST Treasury ETF",
-    "asOfDate": "2026-02-20",
-    "nav": 58.89,
-    "thirtyDayYield": 0.0354,
-    "source": "Vanguard.com ETF",
     "ticker": "VGSH",
-    "timestamp": "2026-02-25T01:24:16.807Z"
+    "thirtyDayYield": 0.0354,
+    "asOfDate": "2026-02-20",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T03:30:16.047Z"
   },
   {
-    "accountType": "Ultra-Short Treasury ETF",
-    "asOfDate": "2026-02-20",
-    "nav": 75.62,
-    "thirtyDayYield": 0.0359,
-    "source": "Vanguard.com ETF",
     "ticker": "VGUS",
-    "timestamp": "2026-02-25T01:24:16.807Z"
+    "thirtyDayYield": 0.0359,
+    "asOfDate": "2026-02-20",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T03:30:16.047Z"
   },
   {
-    "accountType": "Mortgage-Backed Sec ETF",
-    "asOfDate": "2026-02-20",
-    "nav": 47.7,
-    "thirtyDayYield": 0.042,
-    "source": "Vanguard.com ETF",
     "ticker": "VMBS",
-    "timestamp": "2026-02-25T01:24:16.807Z"
+    "thirtyDayYield": 0.042,
+    "asOfDate": "2026-02-20",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T03:30:16.047Z"
   },
   {
-    "accountType": "Core-Plus Bond ETF",
-    "asOfDate": "2026-02-20",
-    "nav": 79.11,
-    "thirtyDayYield": 0.0443,
-    "source": "Vanguard.com ETF",
     "ticker": "VPLS",
-    "timestamp": "2026-02-25T01:24:16.807Z"
+    "thirtyDayYield": 0.0443,
+    "asOfDate": "2026-02-20",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T03:30:16.047Z"
   },
   {
     "accountType": "Short Duration Bond ETF",
@@ -254,22 +246,18 @@
     "timestamp": "2026-02-25T01:24:16.807Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-02-20",
-    "nav": 77.4,
-    "thirtyDayYield": 0.0291,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-02-25T01:24:16.807Z"
+    "thirtyDayYield": 0.0291,
+    "asOfDate": "2026-02-20",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T03:30:16.047Z"
   },
   {
-    "accountType": "Total Corporate Bond ETF",
-    "asOfDate": "2026-01-31",
-    "nav": 78.49,
-    "thirtyDayYield": 0.0483,
-    "source": "Vanguard.com ETF",
     "ticker": "VTC",
-    "timestamp": "2026-02-25T01:24:16.807Z"
+    "thirtyDayYield": 0.0483,
+    "asOfDate": "2026-01-31",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T03:30:16.047Z"
   },
   {
     "accountType": "Tax-Exempt Bond ETF",
