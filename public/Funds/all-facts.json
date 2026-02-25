@@ -46,27 +46,47 @@
   },
   {
     "ticker": "BNDP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T22:12:51.841Z",
     "thirtyDayYield": 0.0442,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0005,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T09:46:31.610Z"
+    "aum": 107000000,
+    "durationYears": 5.5,
+    "yieldToMaturity": 0.0444,
+    "yieldToWorst": 0.0441,
+    "maturityYears": 7.6,
+    "weightedAverageCoupon": 0.0405
   },
   {
     "ticker": "BNDW",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T22:13:11.916Z",
     "thirtyDayYield": 0.0414,
     "asOfDate": "2026-01-31",
     "expenseRatio": 0.0005,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T09:46:50.876Z"
+    "aum": 1600000000,
+    "distributionYield": 0.0224,
+    "durationYears": 6.2,
+    "yieldToMaturity": 0.0443,
+    "yieldToWorst": 0.0441,
+    "maturityYears": 8.1,
+    "weightedAverageCoupon": 0.0315
   },
   {
     "ticker": "BNDX",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T22:13:30.906Z",
     "thirtyDayYield": 0.0307,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0007,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T09:47:10.224Z"
+    "aum": 75500000000,
+    "distributionYield": 0.0184,
+    "durationYears": 6.6,
+    "yieldToMaturity": 0.0465,
+    "yieldToWorst": 0.0463,
+    "maturityYears": 8.3,
+    "weightedAverageCoupon": 0.026000000000000002
   },
   {
     "ticker": "BOXX",
@@ -79,34 +99,52 @@
   },
   {
     "ticker": "BSV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T22:13:49.874Z",
     "thirtyDayYield": 0.0371,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0003,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T09:47:27.416Z"
+    "aum": 43400000000,
+    "distributionYield": 0.0268,
+    "durationYears": 2.5,
+    "yieldToMaturity": 0.0367,
+    "yieldToWorst": 0.0365,
+    "maturityYears": 2.7,
+    "weightedAverageCoupon": 0.0353
   },
   {
     "ticker": "EDV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T22:14:07.310Z",
     "thirtyDayYield": 0.0498,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0005,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T09:47:46.721Z"
+    "aum": 3900000000,
+    "durationYears": 23.9,
+    "yieldToMaturity": 0.0492,
+    "yieldToWorst": 0.0492,
+    "maturityYears": 24.5
   },
   {
     "ticker": "MUNY",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T22:14:26.886Z",
     "thirtyDayYield": 0.0319,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0009,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T09:48:05.303Z"
+    "aum": 272300000,
+    "durationYears": 6.9,
+    "yieldToWorst": 0.0322,
+    "maturityYears": 13.9,
+    "weightedAverageCoupon": 0.0466
   },
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-02-25T05:04:12.165Z",
+    "timestamp": "2026-02-25T22:17:07.351Z",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-02-24",
+    "nav": 50.325,
     "aum": 16085346170,
     "thirtyDayYield": 0.0356,
     "yieldToMaturity": 0.0371,
