@@ -1,26 +1,72 @@
 [
   {
-    "ticker": "VGIT",
-    "thirtyDayYield": 0.0379,
+    "ticker": "BIV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T17:34:17.352Z",
+    "thirtyDayYield": 0.0429,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0003,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T16:01:15.492Z"
+    "aum": 27800000000,
+    "distributionYield": 0.0279,
+    "durationYears": 6,
+    "yieldToMaturity": 0.0416,
+    "yieldToWorst": 0.0415,
+    "maturityYears": 7.1,
+    "weightedAverageCoupon": 0.0412
   },
   {
-    "ticker": "VGSH",
-    "thirtyDayYield": 0.0353,
+    "ticker": "VTEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T17:34:36.962Z",
+    "thirtyDayYield": 0.033,
     "asOfDate": "2026-02-23",
     "expenseRatio": 0.0003,
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T16:01:34.513Z"
+    "aum": 43500000000,
+    "distributionYield": 0.022,
+    "durationYears": 7.1,
+    "yieldToWorst": 0.0327,
+    "maturityYears": 14,
+    "weightedAverageCoupon": 0.043899999999999995
   },
   {
-    "ticker": "VGUS",
-    "thirtyDayYield": 0.0359,
-    "asOfDate": "2026-02-23",
-    "expenseRatio": 0.0007,
+    "ticker": "VTEI",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-25T16:01:53.742Z"
+    "timestamp": "2026-02-25T17:35:15.677Z",
+    "thirtyDayYield": 0.0278,
+    "asOfDate": "2026-02-23",
+    "expenseRatio": 0.0008,
+    "aum": 1200000000,
+    "distributionYield": 0.0198,
+    "durationYears": 5.3,
+    "yieldToWorst": 0.0276,
+    "maturityYears": 9.2,
+    "weightedAverageCoupon": 0.04190000000000001
+  },
+  {
+    "ticker": "VTEL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T17:35:34.695Z",
+    "thirtyDayYield": 0.0382,
+    "asOfDate": "2026-02-23",
+    "expenseRatio": 0.0009,
+    "aum": 200200000,
+    "durationYears": 9.4,
+    "yieldToWorst": 0.0385,
+    "maturityYears": 19.7,
+    "weightedAverageCoupon": 0.041299999999999996
+  },
+  {
+    "ticker": "VTES",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-25T17:35:53.095Z",
+    "thirtyDayYield": 0.0224,
+    "asOfDate": "2026-02-23",
+    "expenseRatio": 0.0005,
+    "aum": 1700000000,
+    "distributionYield": 0.0201,
+    "durationYears": 2.6,
+    "yieldToWorst": 0.0215,
+    "maturityYears": 3.4,
+    "weightedAverageCoupon": 0.040999999999999995
   }
 ]
