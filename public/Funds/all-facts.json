@@ -749,5 +749,28 @@
     "yieldToWorst": 0.057,
     "maturityYears": 11.2,
     "weightedAverageCoupon": 0.054299999999999994
+  },
+  {
+    "ticker": "XHLF",
+    "source": "bloxx",
+    "timestamp": "2026-02-26T22:32:53.263Z",
+    "expenseRatio": 0.0003,
+    "thirtyDayYield": 0.035,
+    "asOfDate": "2026-01-30",
+    "fundName": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
+    "durationYears": 0.44,
+    "yieldToWorst": 0.0361
+  },
+  {
+    "ticker": "XONE",
+    "source": "bloxx",
+    "timestamp": "2026-02-26T22:32:58.796Z",
+    "expenseRatio": 0.0003,
+    "thirtyDayYield": 0.0356,
+    "asOfDate": "2026-01-30",
+    "fundName": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
+    "weightedAverageCoupon": 0.0305,
+    "durationYears": 0.92,
+    "yieldToWorst": 0.0358
   }
 ]
