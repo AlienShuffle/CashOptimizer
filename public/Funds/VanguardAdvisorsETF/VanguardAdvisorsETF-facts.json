@@ -1,33 +1,17 @@
 [
   {
-    "ticker": "VGSH",
+    "ticker": "VTEC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-26T04:29:56.219Z",
-    "thirtyDayYield": 0.0353,
+    "timestamp": "2026-02-26T06:06:05.656Z",
+    "thirtyDayYield": 0.0284,
     "asOfDate": "2026-02-23",
-    "accountType": "Short-Term Treasury ETF",
-    "expenseRatio": 0.0003,
-    "aum": 27100000000,
-    "distributionYield": 0.0251,
-    "durationYears": 1.8,
-    "yieldToMaturity": 0.0347,
-    "yieldToWorst": 0.0347,
-    "maturityYears": 1.9,
-    "weightedAverageCoupon": 0.03
-  },
-  {
-    "ticker": "VGUS",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-26T04:30:15.654Z",
-    "thirtyDayYield": 0.0359,
-    "asOfDate": "2026-02-23",
-    "accountType": "Ultra-Short Treasury ETF",
-    "expenseRatio": 0.0007,
-    "aum": 633700000,
-    "durationYears": 0.3,
-    "yieldToMaturity": 0.0366,
-    "yieldToWorst": 0.0366,
-    "maturityYears": 0.3,
-    "weightedAverageCoupon": 0.0101
+    "accountType": "California Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0006,
+    "aum": 1900000000,
+    "distributionYield": 0.0228,
+    "durationYears": 6.6,
+    "yieldToWorst": 0.0293,
+    "maturityYears": 12.8,
+    "weightedAverageCoupon": 0.044000000000000004
   }
 ]
