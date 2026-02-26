@@ -1,17 +1,34 @@
 [
   {
-    "ticker": "VTEC",
+    "ticker": "VMBS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-26T18:38:47.773Z",
-    "thirtyDayYield": 0.0282,
+    "timestamp": "2026-02-26T20:12:29.610Z",
+    "thirtyDayYield": 0.0424,
     "asOfDate": "2026-02-24",
-    "accountType": "California Tax-Exempt Bond ETF",
-    "expenseRatio": 0.0006,
-    "aum": 1900000000,
-    "distributionYield": 0.0228,
-    "durationYears": 6.6,
-    "yieldToWorst": 0.0293,
-    "maturityYears": 12.8,
-    "weightedAverageCoupon": 0.044000000000000004
+    "accountType": "Mortgage-Backed Securities ETF",
+    "expenseRatio": 0.0003,
+    "aum": 14800000000,
+    "distributionYield": 0.0277,
+    "durationYears": 4.7,
+    "yieldToMaturity": 0.0451,
+    "yieldToWorst": 0.0451,
+    "maturityYears": 5.7,
+    "weightedAverageCoupon": 0.0397
+  },
+  {
+    "ticker": "VUSB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-26T20:12:49.342Z",
+    "thirtyDayYield": 0.0402,
+    "asOfDate": "2026-02-24",
+    "accountType": "Ultra-Short Bond ETF",
+    "expenseRatio": 0.001,
+    "aum": 7300000000,
+    "distributionYield": 0.029,
+    "durationYears": 0.9,
+    "yieldToMaturity": 0.0414,
+    "yieldToWorst": 0.0406,
+    "maturityYears": 1.4,
+    "weightedAverageCoupon": 0.0405
   }
 ]
