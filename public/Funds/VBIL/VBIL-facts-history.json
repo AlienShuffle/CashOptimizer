@@ -32,7 +32,7 @@
   {
     "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-26T13:57:13.456Z",
+    "timestamp": "2026-02-27T02:31:09.551Z",
     "thirtyDayYield": 0.0353,
     "asOfDate": "2026-02-24",
     "accountType": "0-3 Month Treasury Bill ETF",
@@ -41,6 +41,20 @@
     "durationYears": 0.1,
     "yieldToMaturity": 0.0366,
     "yieldToWorst": 0.0366,
+    "maturityYears": 0.1
+  },
+  {
+    "ticker": "VBIL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T18:11:35.709Z",
+    "thirtyDayYield": 0.0353,
+    "asOfDate": "2026-02-25",
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "expenseRatio": 0.0006,
+    "aum": 5100000000,
+    "durationYears": 0.1,
+    "yieldToMaturity": 0.0367,
+    "yieldToWorst": 0.0367,
     "maturityYears": 0.1
   }
 ]
