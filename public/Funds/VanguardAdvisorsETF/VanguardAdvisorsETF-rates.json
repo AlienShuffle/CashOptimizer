@@ -1,18 +1,50 @@
 [
   {
-    "ticker": "VMBS",
-    "accountType": "Mortgage-Backed Securities ETF",
+    "ticker": "VCRB",
+    "accountType": "Core Bond ETF",
+    "thirtyDayYield": 0.0442,
+    "asOfDate": "2026-02-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T05:40:02.824Z"
+  },
+  {
+    "ticker": "VCRM",
+    "accountType": "Core Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.0368,
+    "asOfDate": "2026-02-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T05:40:02.824Z"
+  },
+  {
+    "ticker": "VCLT",
+    "accountType": "Long-Term Corporate Bond ETF",
+    "thirtyDayYield": 0.0559,
+    "asOfDate": "2026-02-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T05:40:02.824Z"
+  },
+  {
+    "ticker": "VGLT",
+    "accountType": "Long-Term Treasury ETF",
+    "thirtyDayYield": 0.047,
+    "asOfDate": "2026-02-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T05:40:02.824Z"
+  },
+  {
+    "ticker": "VSDB",
+    "accountType": "Short Duration Bond ETF",
     "thirtyDayYield": 0.0424,
     "asOfDate": "2026-02-24",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-26T20:13:09.221Z"
+    "timestamp": "2026-02-27T05:40:02.824Z"
   },
   {
-    "ticker": "VUSB",
-    "accountType": "Ultra-Short Bond ETF",
-    "thirtyDayYield": 0.0402,
+    "ticker": "VCSH",
+    "accountType": "Short-Term Corporate Bond ETF",
+    "thirtyDayYield": 0.0412,
     "asOfDate": "2026-02-24",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-26T20:13:09.221Z"
+    "timestamp": "2026-02-27T05:40:02.824Z"
   }
 ]
