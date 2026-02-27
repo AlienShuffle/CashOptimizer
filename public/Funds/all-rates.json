@@ -17,16 +17,15 @@
     "thirtyDayYield": 0.0346,
     "asOfDate": "2026-02-25",
     "source": "ssga",
-    "timestamp": "2026-02-26T20:41:35.211Z"
+    "timestamp": "2026-02-27T10:22:31.936Z"
   },
   {
-    "accountType": "Inter-Term Bond ETF",
-    "asOfDate": "2026-02-25",
-    "nav": 78.82,
-    "thirtyDayYield": 0.0427,
-    "source": "Vanguard.com ETF",
     "ticker": "BIV",
-    "timestamp": "2026-02-27T07:16:23.867Z"
+    "accountType": "Intermediate-Term Bond ETF",
+    "thirtyDayYield": 0.0427,
+    "asOfDate": "2026-02-25",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T10:22:23.206Z"
   },
   {
     "accountType": "Long-Term Bond ETF",
@@ -181,11 +180,11 @@
   },
   {
     "ticker": "SPTI",
-    "nav": 29.07,
+    "nav": 29.13,
     "thirtyDayYield": 0.0377,
     "asOfDate": "2026-02-25",
     "source": "ssga",
-    "timestamp": "2026-02-26T20:41:35.211Z"
+    "timestamp": "2026-02-27T10:22:31.936Z"
   },
   {
     "asOfDate": "2026-02-26",
@@ -348,13 +347,12 @@
     "timestamp": "2026-02-27T08:49:08.316Z"
   },
   {
-    "accountType": "Core-Plus Bond ETF",
-    "asOfDate": "2026-02-25",
-    "nav": 79.18,
-    "thirtyDayYield": 0.0443,
-    "source": "Vanguard.com ETF",
     "ticker": "VPLS",
-    "timestamp": "2026-02-27T07:16:23.867Z"
+    "accountType": "Core-Plus Bond ETF",
+    "thirtyDayYield": 0.0443,
+    "asOfDate": "2026-02-25",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T10:22:23.206Z"
   },
   {
     "accountType": "Short Duration Bond ETF",
@@ -366,13 +364,12 @@
     "timestamp": "2026-02-27T07:16:23.867Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-02-25",
-    "nav": 77.4,
-    "thirtyDayYield": 0.0289,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-02-27T07:16:23.867Z"
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.0289,
+    "asOfDate": "2026-02-25",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-27T10:22:23.206Z"
   },
   {
     "accountType": "Total Corporate Bond ETF",
