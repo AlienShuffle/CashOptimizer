@@ -48,7 +48,7 @@
   {
     "ticker": "VMBS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-27T08:48:29.868Z",
+    "timestamp": "2026-02-27T21:21:18.985Z",
     "thirtyDayYield": 0.0426,
     "asOfDate": "2026-02-25",
     "accountType": "Mortgage-Backed Securities ETF",
@@ -59,6 +59,22 @@
     "yieldToMaturity": 0.0452,
     "yieldToWorst": 0.0452,
     "maturityYears": 5.8,
+    "weightedAverageCoupon": 0.0397
+  },
+  {
+    "ticker": "VMBS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-02-28T09:57:53.576Z",
+    "thirtyDayYield": 0.0427,
+    "asOfDate": "2026-02-26",
+    "accountType": "Mortgage-Backed Securities ETF",
+    "expenseRatio": 0.0003,
+    "aum": 14800000000,
+    "distributionYield": 0.0277,
+    "durationYears": 4.7,
+    "yieldToMaturity": 0.0449,
+    "yieldToWorst": 0.0449,
+    "maturityYears": 5.7,
     "weightedAverageCoupon": 0.0397
   }
 ]
