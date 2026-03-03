@@ -66,7 +66,7 @@
   {
     "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-02-28T06:48:31.549Z",
+    "timestamp": "2026-03-03T01:58:57.097Z",
     "thirtyDayYield": 0.0443,
     "asOfDate": "2026-02-26",
     "accountType": "Core Bond ETF",
@@ -78,5 +78,21 @@
     "yieldToWorst": 0.0446,
     "maturityYears": 8.2,
     "weightedAverageCoupon": 0.0423
+  },
+  {
+    "ticker": "VCRB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-03T14:35:19.456Z",
+    "thirtyDayYield": 0.0443,
+    "asOfDate": "2026-02-27",
+    "accountType": "Core Bond ETF",
+    "expenseRatio": 0.001,
+    "aum": 5900000000,
+    "distributionYield": 0.0272,
+    "durationYears": 5.7,
+    "yieldToMaturity": 0.0445,
+    "yieldToWorst": 0.0443,
+    "maturityYears": 8.2,
+    "weightedAverageCoupon": 0.0424
   }
 ]
