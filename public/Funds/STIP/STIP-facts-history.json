@@ -38,13 +38,17 @@
   {
     "ticker": "STIP",
     "source": "BlackRock",
-    "timestamp": "2026-03-03T19:13:13.906Z",
+    "timestamp": "2026-03-03T19:32:38.779Z",
     "thirtyDayYield": 0.0019,
     "asOfDate": "2026-02-27",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
     "nav": 103.22,
     "expenseRatio": 0.0003,
     "aum": 14120779324,
-    "twelveMonTrlYield": 0.0404
+    "weightedAverageCoupon": 0.0103,
+    "durationYears": 2.46,
+    "yieldToWorst": 0.0343,
+    "twelveMonTrlYield": 0.0404,
+    "maturityYears": 2.55
   }
 ]
