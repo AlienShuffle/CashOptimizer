@@ -76,9 +76,9 @@
   {
     "ticker": "BOXX",
     "thirtyDayYield": 0.0367,
-    "asOfDate": "2026-03-02",
+    "asOfDate": "2026-03-03",
     "source": "alphaarchitect.com",
-    "timestamp": "2026-03-03T08:16:41.602Z"
+    "timestamp": "2026-03-04T07:47:29.352Z"
   },
   {
     "accountType": "Short-Term Bond ETF",
@@ -250,22 +250,22 @@
     "timestamp": "2026-03-04T06:17:04.216Z"
   },
   {
-    "accountType": "Inter-Term Corp Bond ETF",
-    "asOfDate": "2026-02-27",
-    "nav": 84.1,
-    "thirtyDayYield": 0.0473,
-    "source": "Vanguard.com ETF",
     "ticker": "VCIT",
-    "timestamp": "2026-03-04T04:43:58.702Z"
+    "accountType": "Intermediate-Term Corporate Bond ETF",
+    "nav": 84.03,
+    "thirtyDayYield": 0.0472,
+    "asOfDate": "2026-03-02",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-04T07:51:03.849Z"
   },
   {
-    "accountType": "Long-Term Corp Bond ETF",
-    "asOfDate": "2026-02-27",
-    "nav": 76.55,
-    "thirtyDayYield": 0.0559,
-    "source": "Vanguard.com ETF",
     "ticker": "VCLT",
-    "timestamp": "2026-03-04T04:43:58.702Z"
+    "accountType": "Long-Term Corporate Bond ETF",
+    "nav": 76.47,
+    "thirtyDayYield": 0.0558,
+    "asOfDate": "2026-03-02",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-04T07:51:03.849Z"
   },
   {
     "accountType": "Core Bond ETF",
