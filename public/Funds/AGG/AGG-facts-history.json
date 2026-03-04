@@ -47,7 +47,7 @@
   {
     "ticker": "AGG",
     "source": "BlackRock",
-    "timestamp": "2026-03-03T19:13:31.716Z",
+    "timestamp": "2026-03-03T19:32:56.088Z",
     "thirtyDayYield": 0.041,
     "asOfDate": "2026-02-27",
     "fundName": "iShares Core U.S. Aggregate Bond ETF",
@@ -58,6 +58,22 @@
     "durationYears": 5.81,
     "yieldToWorst": 0.0426,
     "twelveMonTrlYield": 0.0383,
+    "maturityYears": 7.96
+  },
+  {
+    "ticker": "AGG",
+    "source": "BlackRock",
+    "timestamp": "2026-03-04T04:39:32.944Z",
+    "thirtyDayYield": 0.0413,
+    "asOfDate": "2026-03-02",
+    "fundName": "iShares Core U.S. Aggregate Bond ETF",
+    "nav": 100.56,
+    "expenseRatio": 0.0003,
+    "aum": 140307963099,
+    "weightedAverageCoupon": 0.0369,
+    "durationYears": 5.81,
+    "yieldToWorst": 0.0426,
+    "twelveMonTrlYield": 0.0418,
     "maturityYears": 7.96
   }
 ]
