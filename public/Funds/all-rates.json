@@ -20,13 +20,13 @@
     "timestamp": "2026-03-04T09:26:56.348Z"
   },
   {
-    "accountType": "Inter-Term Bond ETF",
-    "asOfDate": "2026-03-02",
-    "nav": 78.34,
-    "thirtyDayYield": 0.0422,
-    "source": "Vanguard.com ETF",
     "ticker": "BIV",
-    "timestamp": "2026-03-04T09:26:31.800Z"
+    "accountType": "Intermediate-Term Bond ETF",
+    "nav": 78.31,
+    "thirtyDayYield": 0.0422,
+    "asOfDate": "2026-03-02",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-04T11:00:37.192Z"
   },
   {
     "accountType": "Long-Term Bond ETF",
@@ -322,31 +322,31 @@
     "timestamp": "2026-03-04T09:26:31.800Z"
   },
   {
-    "accountType": "ST Treasury ETF",
-    "asOfDate": "2026-03-02",
-    "nav": 58.71,
-    "thirtyDayYield": 0.0349,
-    "source": "Vanguard.com ETF",
     "ticker": "VGSH",
-    "timestamp": "2026-03-04T09:26:31.800Z"
+    "accountType": "Short-Term Treasury ETF",
+    "nav": 58.69,
+    "thirtyDayYield": 0.0349,
+    "asOfDate": "2026-03-02",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-04T11:00:37.192Z"
   },
   {
+    "ticker": "VGUS",
     "accountType": "Ultra-Short Treasury ETF",
-    "asOfDate": "2026-03-02",
     "nav": 75.47,
     "thirtyDayYield": 0.0358,
-    "source": "Vanguard.com ETF",
-    "ticker": "VGUS",
-    "timestamp": "2026-03-04T09:26:31.800Z"
+    "asOfDate": "2026-03-02",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-04T11:00:37.192Z"
   },
   {
-    "accountType": "Mortgage-Backed Sec ETF",
-    "asOfDate": "2026-03-02",
+    "ticker": "VMBS",
+    "accountType": "Mortgage-Backed Securities ETF",
     "nav": 47.39,
     "thirtyDayYield": 0.043,
-    "source": "Vanguard.com ETF",
-    "ticker": "VMBS",
-    "timestamp": "2026-03-04T09:26:31.800Z"
+    "asOfDate": "2026-03-02",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-04T11:00:37.192Z"
   },
   {
     "accountType": "Core-Plus Bond ETF",
