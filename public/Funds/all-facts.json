@@ -2,7 +2,7 @@
   {
     "ticker": "AGG",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:52:43.626Z",
+    "timestamp": "2026-03-05T15:20:43.178Z",
     "thirtyDayYield": 0.0413,
     "asOfDate": "2026-03-03",
     "fundName": "iShares Core U.S. Aggregate Bond ETF",
@@ -10,8 +10,8 @@
     "expenseRatio": 0.0003,
     "aum": 140221789938,
     "weightedAverageCoupon": 0.0369,
-    "durationYears": 5.8,
-    "yieldToWorst": 0.0428,
+    "durationYears": 5.81,
+    "yieldToWorst": 0.043,
     "twelveMonTrlYield": 0.0418,
     "maturityYears": 7.97
   },
@@ -68,17 +68,17 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-05T02:45:19.888Z",
-    "thirtyDayYield": 0.0414,
-    "asOfDate": "2026-03-02",
+    "timestamp": "2026-03-05T15:24:52.179Z",
+    "thirtyDayYield": 0.0417,
+    "asOfDate": "2026-03-03",
     "nav": 74.48,
     "accountType": "Total Bond Market ETF",
     "expenseRatio": 0.0003,
     "aum": 154000000000,
     "distributionYield": 0.0263,
     "durationYears": 5.8,
-    "yieldToMaturity": 0.0426,
-    "yieldToWorst": 0.0425,
+    "yieldToMaturity": 0.0428,
+    "yieldToWorst": 0.0427,
     "maturityYears": 8,
     "weightedAverageCoupon": 0.0381
   },
@@ -179,7 +179,7 @@
   {
     "ticker": "GOVT",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:53:02.930Z",
+    "timestamp": "2026-03-05T15:21:02.986Z",
     "thirtyDayYield": 0.0383,
     "asOfDate": "2026-03-03",
     "fundName": "iShares U.S. Treasury Bond ETF",
@@ -187,15 +187,15 @@
     "expenseRatio": 0.0005,
     "aum": 35831194362,
     "weightedAverageCoupon": 0.0311,
-    "durationYears": 5.78,
-    "yieldToWorst": 0.0385,
+    "durationYears": 5.77,
+    "yieldToWorst": 0.0389,
     "twelveMonTrlYield": 0.0375,
-    "maturityYears": 7.69
+    "maturityYears": 7.68
   },
   {
     "ticker": "IEF",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:52:38.888Z",
+    "timestamp": "2026-03-05T15:20:38.620Z",
     "thirtyDayYield": 0.0386,
     "asOfDate": "2026-03-03",
     "fundName": "iShares 7-10 Year Treasury Bond ETF",
@@ -203,15 +203,15 @@
     "expenseRatio": 0.0015,
     "aum": 48388785783,
     "weightedAverageCoupon": 0.0412,
-    "durationYears": 7.08,
-    "yieldToWorst": 0.0396,
+    "durationYears": 7.07,
+    "yieldToWorst": 0.0399,
     "twelveMonTrlYield": 0.0404,
     "maturityYears": 8.54
   },
   {
     "ticker": "IUSB",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:53:13.014Z",
+    "timestamp": "2026-03-05T15:21:13.349Z",
     "thirtyDayYield": 0.0434,
     "asOfDate": "2026-03-03",
     "fundName": "iShares Core Universal USD Bond ETF",
@@ -219,15 +219,15 @@
     "expenseRatio": 0.0006,
     "aum": 36008703882,
     "weightedAverageCoupon": 0.0395,
-    "durationYears": 5.61,
-    "yieldToWorst": 0.0449,
+    "durationYears": 5.62,
+    "yieldToWorst": 0.045,
     "twelveMonTrlYield": 0.0451,
     "maturityYears": 7.77
   },
   {
     "ticker": "MBB",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:52:51.795Z",
+    "timestamp": "2026-03-05T15:20:51.782Z",
     "thirtyDayYield": 0.0404,
     "asOfDate": "2026-03-03",
     "fundName": "iShares MBS ETF",
@@ -235,15 +235,15 @@
     "expenseRatio": 0.0004,
     "aum": 39374634926,
     "weightedAverageCoupon": 0.0354,
-    "durationYears": 5.26,
-    "yieldToWorst": 0.0457,
+    "durationYears": 5.28,
+    "yieldToWorst": 0.0458,
     "twelveMonTrlYield": 0.045,
-    "maturityYears": 6.28
+    "maturityYears": 6.29
   },
   {
     "ticker": "MUB",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:53:07.454Z",
+    "timestamp": "2026-03-05T15:21:07.467Z",
     "thirtyDayYield": 0.0313,
     "asOfDate": "2026-03-03",
     "fundName": "iShares National Muni Bond ETF",
@@ -254,7 +254,7 @@
     "durationYears": 6.35,
     "yieldToWorst": 0.0321,
     "twelveMonTrlYield": 0.0341,
-    "maturityYears": 7.05
+    "maturityYears": 7.04
   },
   {
     "ticker": "MUNY",
@@ -274,7 +274,7 @@
   {
     "ticker": "SGOV",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:53:21.661Z",
+    "timestamp": "2026-03-05T15:21:22.156Z",
     "thirtyDayYield": 0.0354,
     "asOfDate": "2026-03-03",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
@@ -284,7 +284,7 @@
     "durationYears": 0.09,
     "yieldToWorst": 0.0369,
     "twelveMonTrlYield": 0.0432,
-    "maturityYears": 0.1
+    "maturityYears": 0.09
   },
   {
     "ticker": "SPTI",
@@ -306,7 +306,7 @@
   {
     "ticker": "STIP",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:52:28.008Z",
+    "timestamp": "2026-03-05T15:20:27.504Z",
     "thirtyDayYield": 0.0105,
     "asOfDate": "2026-03-03",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
@@ -314,15 +314,15 @@
     "expenseRatio": 0.0003,
     "aum": 14104792460,
     "weightedAverageCoupon": 0.0103,
-    "durationYears": 2.46,
-    "yieldToWorst": 0.0344,
+    "durationYears": 2.45,
+    "yieldToWorst": 0.0347,
     "twelveMonTrlYield": 0.0405,
-    "maturityYears": 2.55
+    "maturityYears": 2.54
   },
   {
     "ticker": "TIP",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:52:58.363Z",
+    "timestamp": "2026-03-05T15:20:58.364Z",
     "thirtyDayYield": 0.0141,
     "asOfDate": "2026-03-03",
     "fundName": "iShares TIPS Bond ETF",
@@ -330,15 +330,15 @@
     "expenseRatio": 0.0018,
     "aum": 14321113359,
     "weightedAverageCoupon": 0.0121,
-    "durationYears": 6.55,
-    "yieldToWorst": 0.0383,
+    "durationYears": 6.54,
+    "yieldToWorst": 0.0386,
     "twelveMonTrlYield": 0.0341,
-    "maturityYears": 7.33
+    "maturityYears": 7.32
   },
   {
     "ticker": "TLT",
     "source": "BlackRock",
-    "timestamp": "2026-03-05T05:52:34.114Z",
+    "timestamp": "2026-03-05T15:20:33.689Z",
     "thirtyDayYield": 0.0465,
     "asOfDate": "2026-03-03",
     "fundName": "iShares 20+ Year Treasury Bond ETF",
@@ -346,8 +346,8 @@
     "expenseRatio": 0.0015,
     "aum": 45032325126,
     "weightedAverageCoupon": 0.0313,
-    "durationYears": 15.64,
-    "yieldToWorst": 0.0475,
+    "durationYears": 15.62,
+    "yieldToWorst": 0.0477,
     "twelveMonTrlYield": 0.0468,
     "maturityYears": 25.87
   },
@@ -586,26 +586,26 @@
   {
     "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-05T02:45:39.795Z",
-    "thirtyDayYield": 0.0445,
-    "asOfDate": "2026-03-02",
+    "timestamp": "2026-03-05T15:25:10.876Z",
+    "thirtyDayYield": 0.0447,
+    "asOfDate": "2026-03-03",
     "nav": 78.43,
     "accountType": "Core-Plus Bond ETF",
     "expenseRatio": 0.002,
     "aum": 1300000000,
     "distributionYield": 0.0291,
     "durationYears": 5.6,
-    "yieldToMaturity": 0.0471,
-    "yieldToWorst": 0.0468,
+    "yieldToMaturity": 0.0474,
+    "yieldToWorst": 0.0471,
     "maturityYears": 7.8,
-    "weightedAverageCoupon": 0.0436
+    "weightedAverageCoupon": 0.0435
   },
   {
     "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-05T02:45:59.309Z",
-    "thirtyDayYield": 0.042,
-    "asOfDate": "2026-03-02",
+    "timestamp": "2026-03-05T15:25:30.001Z",
+    "thirtyDayYield": 0.0421,
+    "asOfDate": "2026-03-03",
     "nav": 76.59,
     "accountType": "Short Duration Bond ETF",
     "expenseRatio": 0.0015,
@@ -614,9 +614,9 @@
   {
     "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-05T02:46:17.975Z",
+    "timestamp": "2026-03-05T15:25:49.849Z",
     "thirtyDayYield": 0.0287,
-    "asOfDate": "2026-03-02",
+    "asOfDate": "2026-03-03",
     "nav": 76.94,
     "accountType": "Short Duration Tax-Exempt Bond ETF",
     "expenseRatio": 0.0012,
@@ -630,7 +630,7 @@
   {
     "ticker": "VTC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-05T02:46:36.926Z",
+    "timestamp": "2026-03-05T15:26:08.307Z",
     "thirtyDayYield": 0.0476,
     "asOfDate": "2026-02-28",
     "nav": 77.92,
@@ -639,7 +639,7 @@
     "aum": 1600000000,
     "distributionYield": 0.033,
     "durationYears": 6.7,
-    "yieldToMaturity": 0.0485,
+    "yieldToMaturity": 0.0486,
     "yieldToWorst": 0.0481,
     "maturityYears": 10.3,
     "weightedAverageCoupon": 0.0458
@@ -647,18 +647,18 @@
   {
     "ticker": "VTEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-05T02:46:56.051Z",
-    "thirtyDayYield": 0.0326,
-    "asOfDate": "2026-03-02",
+    "timestamp": "2026-03-05T15:26:26.976Z",
+    "thirtyDayYield": 0.0327,
+    "asOfDate": "2026-03-03",
     "nav": 50.61,
     "accountType": "Tax-Exempt Bond ETF",
     "expenseRatio": 0.0003,
     "aum": 42200000000,
     "distributionYield": 0.022,
-    "durationYears": 7,
-    "yieldToWorst": 0.0322,
+    "durationYears": 7.1,
+    "yieldToWorst": 0.0325,
     "maturityYears": 14,
-    "weightedAverageCoupon": 0.0439
+    "weightedAverageCoupon": 0.0436
   },
   {
     "ticker": "VTEC",
