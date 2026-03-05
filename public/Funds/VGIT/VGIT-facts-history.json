@@ -90,7 +90,7 @@
   {
     "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-04T09:25:33.828Z",
+    "timestamp": "2026-03-04T22:02:30.558Z",
     "thirtyDayYield": 0.0371,
     "asOfDate": "2026-03-02",
     "nav": 60.21,
@@ -101,6 +101,23 @@
     "durationYears": 4.9,
     "yieldToMaturity": 0.037,
     "yieldToWorst": 0.037,
+    "maturityYears": 5.6,
+    "weightedAverageCoupon": 0.0356
+  },
+  {
+    "ticker": "VGIT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-05T10:40:48.099Z",
+    "thirtyDayYield": 0.0373,
+    "asOfDate": "2026-03-03",
+    "nav": 60.1,
+    "accountType": "Intermediate-Term Treasury ETF",
+    "expenseRatio": 0.0003,
+    "aum": 40300000000,
+    "distributionYield": 0.0254,
+    "durationYears": 4.9,
+    "yieldToMaturity": 0.0372,
+    "yieldToWorst": 0.0372,
     "maturityYears": 5.6,
     "weightedAverageCoupon": 0.0356
   }
