@@ -1,6 +1,21 @@
 [
   {
     "ticker": "WOTXX",
+    "year": 2019,
+    "months": 1,
+    "usgo": 1,
+    "muni": 0,
+    "q1Pct": -1,
+    "q2Pct": -1,
+    "q3Pct": -1,
+    "q4Pct": 1,
+    "timestamp": "2026-03-06T15:17:54.973Z",
+    "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "WOTXX",
     "year": 2020,
     "months": 12,
     "usgo": 1,
@@ -9,7 +24,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-06T13:30:36.083Z",
+    "timestamp": "2026-03-06T15:17:54.973Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -17,17 +32,17 @@
   {
     "ticker": "WOTXX",
     "year": 2021,
-    "months": 10,
+    "months": 12,
     "usgo": 1,
     "muni": 0,
     "q1Pct": 1,
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-06T13:30:36.083Z",
-    "estimateType": "YTD",
+    "timestamp": "2026-03-06T15:17:54.973Z",
+    "estimateType": "complete",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "missing fiscal year"
   },
   {
     "ticker": "WOTXX",
@@ -39,22 +54,22 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T13:30:36.083Z",
+    "timestamp": "2026-03-06T15:17:54.973Z",
     "estimateType": "YTD",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "current-year"
   },
   {
     "ticker": "WOTXX",
     "year": 2023,
-    "months": 6,
+    "months": 9,
     "usgo": 1,
     "muni": 0,
     "q1Pct": -1,
-    "q2Pct": -1,
+    "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-06T13:30:36.083Z",
+    "timestamp": "2026-03-06T15:17:54.973Z",
     "estimateType": "YTD",
     "fiftyPctRule": true,
     "fiftyPctHistory": "incomplete"
@@ -69,7 +84,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-06T13:30:36.083Z",
+    "timestamp": "2026-03-06T15:17:54.973Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -84,7 +99,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-06T13:30:36.083Z",
+    "timestamp": "2026-03-06T15:17:54.973Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -99,7 +114,7 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T13:30:36.083Z",
+    "timestamp": "2026-03-06T15:17:54.973Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "current-year"
