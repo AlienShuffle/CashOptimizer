@@ -1,19 +1,35 @@
 [
   {
     "ticker": "SGUXX",
-    "year": 2025,
-    "months": 11,
-    "usgo": 0.40673,
-    "muni": 0.002,
-    "q1Pct": 0.39731,
-    "q2Pct": 0.37617,
-    "q3Pct": 0.40122,
-    "q4Pct": 0.43904,
-    "timestamp": "2026-03-06T15:17:52.907Z",
+    "year": 2024,
+    "months": 2,
+    "usgo": 0.40657,
+    "muni": 0.00202,
+    "q1Pct": -1,
+    "q2Pct": -1,
+    "q3Pct": -1,
+    "q4Pct": 0.42095,
+    "timestamp": "2026-03-06T19:05:21.462Z",
     "fiscalYearEnd": "1231",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "SGUXX",
+    "year": 2025,
+    "months": 12,
+    "usgo": 0.40769,
+    "muni": 0.00199,
+    "q1Pct": 0.39731,
+    "q2Pct": 0.37617,
+    "q3Pct": 0.40122,
+    "q4Pct": 0.43904,
+    "timestamp": "2026-03-06T19:05:21.462Z",
+    "fiscalYearEnd": "1231",
+    "estimateType": "complete",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "complete"
   },
   {
     "ticker": "SGUXX",
@@ -25,10 +41,10 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T15:17:52.907Z",
+    "timestamp": "2026-03-06T19:05:21.462Z",
     "fiscalYearEnd": "1231",
     "estimateType": "YTD",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "current-year"
   }
 ]

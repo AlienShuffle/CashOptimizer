@@ -1,6 +1,22 @@
 [
   {
     "ticker": "SCOXX",
+    "year": 2024,
+    "months": 2,
+    "usgo": 0.33269,
+    "muni": 0,
+    "q1Pct": -1,
+    "q2Pct": -1,
+    "q3Pct": -1,
+    "q4Pct": 0.33657,
+    "timestamp": "2026-03-06T19:05:21.367Z",
+    "fiscalYearEnd": "1231",
+    "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "SCOXX",
     "year": 2025,
     "months": 12,
     "usgo": 0.31185,
@@ -9,7 +25,7 @@
     "q2Pct": 0.24494,
     "q3Pct": 0.36155,
     "q4Pct": 0.37162,
-    "timestamp": "2026-03-06T15:17:52.813Z",
+    "timestamp": "2026-03-06T19:05:21.367Z",
     "fiscalYearEnd": "1231",
     "estimateType": "complete",
     "fiftyPctRule": false,
@@ -25,10 +41,10 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T15:17:52.813Z",
+    "timestamp": "2026-03-06T19:05:21.367Z",
     "fiscalYearEnd": "1231",
     "estimateType": "YTD",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "current-year"
   }
 ]
