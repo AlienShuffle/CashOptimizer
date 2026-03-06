@@ -1,51 +1,19 @@
 [
   {
     "ticker": "GPCXX",
-    "year": 2023,
-    "months": 12,
-    "usgo": 0.00851,
-    "muni": 0.01168,
-    "q1Pct": 0.01373,
-    "q2Pct": 0.00063,
-    "q3Pct": 0.01087,
-    "q4Pct": 0.0103,
-    "timestamp": "2026-03-05T20:56:24.088Z",
-    "fiscalYearEnd": "1031",
-    "estimateType": "complete",
-    "fiftyPctRule": false,
-    "fiftyPctHistory": "complete"
-  },
-  {
-    "ticker": "GPCXX",
-    "year": 2024,
-    "months": 12,
-    "usgo": 0.01528,
-    "muni": 0.00848,
-    "q1Pct": 0.00369,
-    "q2Pct": 0.01555,
-    "q3Pct": 0.01159,
-    "q4Pct": 0.01759,
-    "timestamp": "2026-03-05T20:56:24.088Z",
-    "fiscalYearEnd": "1031",
-    "estimateType": "complete",
-    "fiftyPctRule": false,
-    "fiftyPctHistory": "complete"
-  },
-  {
-    "ticker": "GPCXX",
     "year": 2025,
-    "months": 12,
-    "usgo": 0.00966,
-    "muni": 0.00652,
-    "q1Pct": 0.01448,
-    "q2Pct": 0.0099,
-    "q3Pct": 0.01587,
+    "months": 5,
+    "usgo": 0.00619,
+    "muni": 0.00612,
+    "q1Pct": -1,
+    "q2Pct": -1,
+    "q3Pct": -1,
     "q4Pct": 0.00199,
-    "timestamp": "2026-03-05T20:56:24.088Z",
+    "timestamp": "2026-03-06T07:05:13.940Z",
     "fiscalYearEnd": "1031",
-    "estimateType": "complete",
+    "estimateType": "YTD",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "complete"
+    "fiftyPctHistory": "incomplete"
   },
   {
     "ticker": "GPCXX",
@@ -57,10 +25,10 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-05T20:56:24.088Z",
+    "timestamp": "2026-03-06T07:05:13.940Z",
     "fiscalYearEnd": "1031",
     "estimateType": "YTD",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "current-year"
+    "fiftyPctHistory": "incomplete"
   }
 ]

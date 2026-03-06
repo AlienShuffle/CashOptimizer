@@ -1,83 +1,843 @@
 [
   {
+    "asOfDate": "2025-10-02",
+    "nav": 1,
+    "sevenDayYield": 0.0384,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-03",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0383,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-04",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0383,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-05",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0383,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-06",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0382,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-07",
+    "nav": 1,
+    "sevenDayYield": 0.0382,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-08",
+    "nav": 1,
+    "sevenDayYield": 0.0381,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-09",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0381,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-10",
+    "nav": 1,
+    "sevenDayYield": 0.0381,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-11",
+    "nav": 1,
+    "sevenDayYield": 0.0381,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-12",
+    "nav": 1,
+    "sevenDayYield": 0.0381,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-13",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0381,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-14",
+    "nav": 0.9999,
+    "sevenDayYield": 0.038,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-15",
+    "nav": 0.9999,
+    "sevenDayYield": 0.038,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-16",
+    "nav": 0.9999,
+    "sevenDayYield": 0.038,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-17",
+    "nav": 0.9999,
+    "sevenDayYield": 0.038,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-18",
+    "nav": 0.9999,
+    "sevenDayYield": 0.038,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-19",
+    "nav": 0.9999,
+    "sevenDayYield": 0.038,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-20",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0379,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-21",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0378,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-22",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0378,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-23",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0378,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-24",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0378,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-25",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0378,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-26",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0378,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-10-27",
+    "nav": 1,
+    "sevenDayYield": 0.0377,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-28",
+    "nav": 1,
+    "sevenDayYield": 0.0376,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-29",
+    "nav": 1,
+    "sevenDayYield": 0.0375,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-30",
+    "nav": 1,
+    "sevenDayYield": 0.0375,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-10-31",
+    "nav": 1,
+    "sevenDayYield": 0.0374,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:55.867Z"
+  },
+  {
+    "asOfDate": "2025-11-01",
+    "nav": 1,
+    "sevenDayYield": 0.0374,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-02",
+    "nav": 1,
+    "sevenDayYield": 0.0374,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-03",
+    "nav": 1,
+    "sevenDayYield": 0.0374,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-04",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0373,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-05",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0373,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-06",
+    "nav": 1,
+    "sevenDayYield": 0.0373,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-07",
+    "nav": 1,
+    "sevenDayYield": 0.0372,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-08",
+    "nav": 1,
+    "sevenDayYield": 0.0372,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-09",
+    "nav": 1,
+    "sevenDayYield": 0.0372,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-10",
+    "nav": 1,
+    "sevenDayYield": 0.0372,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-11",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0371,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-12",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0371,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-13",
+    "nav": 0.9999,
+    "sevenDayYield": 0.037,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-14",
+    "nav": 0.9999,
+    "sevenDayYield": 0.037,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-15",
+    "nav": 0.9999,
+    "sevenDayYield": 0.037,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-16",
+    "nav": 0.9999,
+    "sevenDayYield": 0.037,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-17",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0369,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-18",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0368,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-19",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0368,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-20",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0368,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-21",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0368,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-22",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0368,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-23",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0368,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-24",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0367,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-25",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0366,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-26",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0366,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-27",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0366,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-28",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0365,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:50.631Z"
+  },
+  {
+    "asOfDate": "2025-11-29",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0365,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-11-30",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0365,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-01",
+    "nav": 0.9999,
+    "sevenDayYield": 0.0365,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-02",
+    "nav": 1,
+    "sevenDayYield": 0.0363,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-03",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0363,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-04",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0362,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-05",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0362,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-06",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0362,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-07",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0362,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-08",
+    "nav": 1.0001,
+    "sevenDayYield": 0.036,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-09",
+    "nav": 1,
+    "sevenDayYield": 0.036,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-10",
+    "nav": 1.0001,
+    "sevenDayYield": 0.036,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-11",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0359,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-12",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0359,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-13",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0359,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-14",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0359,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-15",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0357,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-16",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0357,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-17",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0356,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-18",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0356,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-19",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0355,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-20",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0355,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-21",
+    "nav": 1.0002,
+    "sevenDayYield": 0.0355,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-22",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0354,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-23",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0354,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-24",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0353,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-25",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0353,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-26",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0353,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-27",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0353,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-28",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0353,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2025-12-29",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0352,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-30",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0351,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2025-12-31",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0351,
+    "source": "EDGAR MFP-3",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.550Z"
+  },
+  {
+    "asOfDate": "2026-01-01",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0351,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2026-01-02",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0351,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2026-01-03",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0351,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
+    "asOfDate": "2026-01-04",
+    "nav": 1.0001,
+    "sevenDayYield": 0.0351,
+    "source": "gapFiller (EDGAR MFP-3)",
+    "ticker": "FOXXX",
+    "timestamp": "2026-03-06T07:01:57.759Z"
+  },
+  {
     "asOfDate": "2026-01-05",
+    "nav": 1.0001,
     "sevenDayYield": 0.0349,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1.0001
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "asOfDate": "2026-01-06",
+    "nav": 1.0001,
     "sevenDayYield": 0.0349,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1.0001
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "asOfDate": "2026-01-07",
+    "nav": 1.0001,
     "sevenDayYield": 0.0348,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1.0001
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "asOfDate": "2026-01-08",
+    "nav": 1.0001,
     "sevenDayYield": 0.0348,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1.0001
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "asOfDate": "2026-01-09",
+    "nav": 1.0001,
     "sevenDayYield": 0.0347,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1.0001
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "asOfDate": "2026-01-10",
+    "nav": 1.0001,
     "sevenDayYield": 0.0347,
     "source": "gapFiller (EDGAR MFP-3)",
     "ticker": "FOXXX",
-    "timestamp": "2026-03-05T09:05:39.985Z",
-    "nav": 1.0001
+    "timestamp": "2026-03-06T07:01:57.759Z"
   },
   {
     "asOfDate": "2026-01-11",
+    "nav": 1.0001,
     "sevenDayYield": 0.0347,
     "source": "gapFiller (EDGAR MFP-3)",
     "ticker": "FOXXX",
-    "timestamp": "2026-03-05T09:05:39.985Z",
-    "nav": 1.0001
+    "timestamp": "2026-03-06T07:01:57.759Z"
   },
   {
     "asOfDate": "2026-01-12",
+    "nav": 1,
     "sevenDayYield": 0.0346,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "asOfDate": "2026-01-13",
+    "nav": 1,
     "sevenDayYield": 0.0346,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "asOfDate": "2026-01-14",
+    "nav": 1,
     "sevenDayYield": 0.0345,
     "source": "EDGAR MFP-3",
     "ticker": "FOXXX",
-    "timestamp": "2026-02-06T22:39:49.029Z",
-    "nav": 1
+    "timestamp": "2026-03-06T07:01:53.251Z"
   },
   {
     "accountType": "FIMM Treasury Only - II",
