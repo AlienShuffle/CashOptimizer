@@ -2,14 +2,14 @@
   {
     "ticker": "FOIXX",
     "year": 2024,
-    "months": 5,
+    "months": 7,
     "usgo": 1,
     "muni": 0,
     "q1Pct": -1,
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T11:41:12.034Z",
+    "timestamp": "2026-03-06T13:30:30.921Z",
     "fiscalYearEnd": "0331",
     "estimateType": "YTD",
     "fiftyPctRule": false,
@@ -18,18 +18,18 @@
   {
     "ticker": "FOIXX",
     "year": 2025,
-    "months": 11,
+    "months": 12,
     "usgo": 1,
     "muni": 0,
-    "q1Pct": -1,
+    "q1Pct": 1,
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-06T11:41:12.034Z",
+    "timestamp": "2026-03-06T13:30:30.921Z",
     "fiscalYearEnd": "0331",
-    "estimateType": "YTD",
+    "estimateType": "complete",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "complete"
   },
   {
     "ticker": "FOIXX",
@@ -41,10 +41,10 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T11:41:12.034Z",
+    "timestamp": "2026-03-06T13:30:30.921Z",
     "fiscalYearEnd": "0331",
     "estimateType": "YTD",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "current-year"
   }
 ]

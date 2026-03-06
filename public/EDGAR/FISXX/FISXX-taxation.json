@@ -2,14 +2,14 @@
   {
     "ticker": "FISXX",
     "year": 2024,
-    "months": 4,
-    "usgo": 0.55289,
+    "months": 7,
+    "usgo": 0.53052,
     "muni": 0,
     "q1Pct": -1,
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T11:41:11.531Z",
+    "timestamp": "2026-03-06T13:30:30.483Z",
     "fiscalYearEnd": "0331",
     "estimateType": "YTD",
     "fiftyPctRule": false,
@@ -18,18 +18,18 @@
   {
     "ticker": "FISXX",
     "year": 2025,
-    "months": 11,
-    "usgo": 0.59331,
+    "months": 12,
+    "usgo": 0.60093,
     "muni": 0,
-    "q1Pct": -1,
+    "q1Pct": 0.48532,
     "q2Pct": 0.49305,
     "q3Pct": 0.56952,
     "q4Pct": 0.46417,
-    "timestamp": "2026-03-06T11:41:11.531Z",
+    "timestamp": "2026-03-06T13:30:30.483Z",
     "fiscalYearEnd": "0331",
-    "estimateType": "YTD",
+    "estimateType": "complete",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "complete"
   },
   {
     "ticker": "FISXX",
@@ -41,10 +41,10 @@
     "q2Pct": 0.6428,
     "q3Pct": 0.61889,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T11:41:11.531Z",
+    "timestamp": "2026-03-06T13:30:30.483Z",
     "fiscalYearEnd": "0331",
     "estimateType": "YTD",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "current-year"
   }
 ]
