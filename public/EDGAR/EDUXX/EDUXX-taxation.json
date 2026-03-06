@@ -9,7 +9,7 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T09:45:07.598Z",
+    "timestamp": "2026-03-06T11:41:10.394Z",
     "fiscalYearEnd": "1031",
     "estimateType": "YTD",
     "fiftyPctRule": false,
@@ -18,18 +18,18 @@
   {
     "ticker": "EDUXX",
     "year": 2025,
-    "months": 10,
-    "usgo": 0.98646,
+    "months": 12,
+    "usgo": 0.99054,
     "muni": 0,
-    "q1Pct": -1,
+    "q1Pct": 1,
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 0.89479,
-    "timestamp": "2026-03-06T09:45:07.598Z",
+    "timestamp": "2026-03-06T11:41:10.394Z",
     "fiscalYearEnd": "1031",
-    "estimateType": "YTD",
+    "estimateType": "complete",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "complete"
   },
   {
     "ticker": "EDUXX",
@@ -41,10 +41,10 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T09:45:07.598Z",
+    "timestamp": "2026-03-06T11:41:10.394Z",
     "fiscalYearEnd": "1031",
     "estimateType": "YTD",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "current-year"
   }
 ]

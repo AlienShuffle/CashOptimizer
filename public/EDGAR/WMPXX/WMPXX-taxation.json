@@ -2,14 +2,14 @@
   {
     "ticker": "WMPXX",
     "year": 2020,
-    "months": 8,
-    "usgo": 0.08368,
-    "muni": 0.19905,
-    "q1Pct": -1,
+    "months": 10,
+    "usgo": 0.07658,
+    "muni": 0.19971,
+    "q1Pct": 0,
     "q2Pct": 0.12883,
     "q3Pct": 0.09389,
     "q4Pct": 0,
-    "timestamp": "2026-03-06T09:45:14.569Z",
+    "timestamp": "2026-03-06T11:41:17.274Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -17,14 +17,14 @@
   {
     "ticker": "WMPXX",
     "year": 2021,
-    "months": 4,
+    "months": 7,
     "usgo": 0,
-    "muni": 0.24319,
+    "muni": 0.24567,
     "q1Pct": -1,
-    "q2Pct": -1,
+    "q2Pct": 0,
     "q3Pct": 0,
     "q4Pct": 0,
-    "timestamp": "2026-03-06T09:45:14.569Z",
+    "timestamp": "2026-03-06T11:41:17.274Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -39,7 +39,7 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T09:45:14.569Z",
+    "timestamp": "2026-03-06T11:41:17.274Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -47,14 +47,14 @@
   {
     "ticker": "WMPXX",
     "year": 2023,
-    "months": 1,
+    "months": 4,
     "usgo": 0,
-    "muni": 0.10074,
+    "muni": 0.09332,
     "q1Pct": -1,
     "q2Pct": -1,
-    "q3Pct": -1,
+    "q3Pct": 0,
     "q4Pct": 0,
-    "timestamp": "2026-03-06T09:45:14.569Z",
+    "timestamp": "2026-03-06T11:41:17.274Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -62,14 +62,14 @@
   {
     "ticker": "WMPXX",
     "year": 2024,
-    "months": 9,
+    "months": 10,
     "usgo": 0,
-    "muni": 0.10468,
+    "muni": 0.10661,
     "q1Pct": 0,
     "q2Pct": 0,
     "q3Pct": 0,
-    "q4Pct": -1,
-    "timestamp": "2026-03-06T09:45:14.569Z",
+    "q4Pct": 0,
+    "timestamp": "2026-03-06T11:41:17.274Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
@@ -77,17 +77,17 @@
   {
     "ticker": "WMPXX",
     "year": 2025,
-    "months": 11,
+    "months": 12,
     "usgo": 0,
-    "muni": 0.11814,
+    "muni": 0.11775,
     "q1Pct": 0,
     "q2Pct": 0,
     "q3Pct": 0,
     "q4Pct": 0,
-    "timestamp": "2026-03-06T09:45:14.569Z",
-    "estimateType": "YTD",
+    "timestamp": "2026-03-06T11:41:17.274Z",
+    "estimateType": "complete",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "missing fiscal year"
   },
   {
     "ticker": "WMPXX",
@@ -99,9 +99,9 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T09:45:14.569Z",
+    "timestamp": "2026-03-06T11:41:17.274Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "current-year"
   }
 ]

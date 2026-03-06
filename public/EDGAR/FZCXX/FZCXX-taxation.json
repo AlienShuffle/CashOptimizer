@@ -1,17 +1,33 @@
 [
   {
     "ticker": "FZCXX",
-    "year": 2025,
-    "months": 11,
-    "usgo": 0.52299,
+    "year": 2024,
+    "months": 4,
+    "usgo": 0.57438,
     "muni": 0,
     "q1Pct": -1,
     "q2Pct": -1,
     "q3Pct": -1,
-    "q4Pct": 0.49345,
-    "timestamp": "2026-03-06T09:45:10.530Z",
+    "q4Pct": -1,
+    "timestamp": "2026-03-06T11:41:13.279Z",
     "fiscalYearEnd": "0430",
     "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "FZCXX",
+    "year": 2025,
+    "months": 12,
+    "usgo": 0.53213,
+    "muni": 0,
+    "q1Pct": -1,
+    "q2Pct": 0.61025,
+    "q3Pct": 0.6462,
+    "q4Pct": 0.49345,
+    "timestamp": "2026-03-06T11:41:13.279Z",
+    "fiscalYearEnd": "0430",
+    "estimateType": "complete",
     "fiftyPctRule": false,
     "fiftyPctHistory": "incomplete"
   },
@@ -25,10 +41,10 @@
     "q2Pct": 0.61674,
     "q3Pct": 0.64453,
     "q4Pct": -1,
-    "timestamp": "2026-03-06T09:45:10.530Z",
+    "timestamp": "2026-03-06T11:41:13.279Z",
     "fiscalYearEnd": "0430",
     "estimateType": "YTD",
-    "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "current-year"
   }
 ]

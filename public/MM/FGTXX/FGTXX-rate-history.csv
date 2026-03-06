@@ -1,4 +1,5 @@
 asOfDate,ticker,oneDayYield,sevenDayYield,thirtyDayYield,source
+"2019-12-31","FGTXX",,0.015,,"EDGAR MFP-2"
 "2020-01-02","FGTXX",,0.015105,,"deep"
 "2020-01-03","FGTXX",,0.015091,,"deep"
 "2020-01-04","FGTXX",,0.015091,,"gapFiller (deep)"
@@ -728,9 +729,9 @@ asOfDate,ticker,oneDayYield,sevenDayYield,thirtyDayYield,source
 "2021-12-28","FGTXX",,0.000261,,"deep"
 "2021-12-29","FGTXX",,0.000261,,"deep"
 "2021-12-30","FGTXX",,0.000261,,"deep"
-"2021-12-31","FGTXX",,0.000261,,"gapFiller (deep)"
-"2022-01-01","FGTXX",,0.000261,,"gapFiller (deep)"
-"2022-01-02","FGTXX",,0.000261,,"gapFiller (deep)"
+"2021-12-31","FGTXX",,0.0002,,"EDGAR MFP-2"
+"2022-01-01","FGTXX",,0.0002,,"gapFiller (EDGAR MFP-2)"
+"2022-01-02","FGTXX",,0.0002,,"gapFiller (EDGAR MFP-2)"
 "2022-01-03","FGTXX",,0.000261,,"deep"
 "2022-01-04","FGTXX",,0.000261,,"deep"
 "2022-01-05","FGTXX",,0.000261,,"deep"

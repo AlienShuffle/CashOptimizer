@@ -1,6 +1,6 @@
 ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
-"BTFXX",2020,2,1,0,false,"YTD","incomplete",-1,-1,-1,-1,"1031"
+"BTFXX",2020,4,1,0,false,"YTD","incomplete",-1,-1,-1,1,"1031"
 "BTFXX",2021,4,1,0,true,"YTD","incomplete",1,1,-1,-1,"1031"
 "BTFXX",2024,1,1,0,false,"YTD","incomplete",-1,-1,-1,-1,"1031"
-"BTFXX",2025,10,1,0,true,"YTD","incomplete",1,1,1,1,"1031"
-"BTFXX",2026,2,1,0,true,"YTD","incomplete",1,-1,-1,-1,"1031"
+"BTFXX",2025,12,1,0,true,"complete","complete",1,1,1,1,"1031"
+"BTFXX",2026,2,1,0,true,"YTD","current-year",1,-1,-1,-1,"1031"
