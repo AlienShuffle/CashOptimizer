@@ -1,6 +1,7 @@
 ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
 "BUCXX",2020,12,1,0,true,"complete","complete",1,1,1,1,"1031"
 "BUCXX",2021,4,1,0,true,"YTD","current-year",1,1,-1,-1,"1031"
+"BUCXX",2023,2,1,0,false,"YTD","incomplete",-1,-1,-1,-1,"1031"
 "BUCXX",2024,12,1,0,true,"complete","complete",1,1,1,1,"1031"
 "BUCXX",2025,12,1,0,true,"complete","complete",1,1,1,1,"1031"
 "BUCXX",2026,2,1,0,true,"YTD","current-year",1,-1,-1,-1,"1031"

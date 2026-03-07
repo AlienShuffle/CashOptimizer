@@ -1,4 +1,5 @@
 ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2Pct,q3Pct,q4Pct,fiscalYearEnd
-"EVEXX",2024,11,1,0,true,"YTD","incomplete",-1,1,1,1,"1031"
+"EVEXX",2023,1,1,0,false,"YTD","incomplete",-1,-1,-1,-1,"1031"
+"EVEXX",2024,12,1,0,true,"complete","complete",1,1,1,1,"1031"
 "EVEXX",2025,12,0.96316,0,true,"complete","complete",1,1,1,0.89479,"1031"
 "EVEXX",2026,2,0.59728,0,true,"YTD","current-year",0.63393,-1,-1,-1,"1031"
