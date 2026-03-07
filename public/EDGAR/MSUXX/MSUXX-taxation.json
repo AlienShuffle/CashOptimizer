@@ -1,18 +1,33 @@
 [
   {
     "ticker": "MSUXX",
+    "year": 2022,
+    "months": 2,
+    "usgo": 1,
+    "muni": 0,
+    "q1Pct": -1,
+    "q2Pct": -1,
+    "q3Pct": -1,
+    "q4Pct": 1,
+    "timestamp": "2026-03-07T07:52:19.028Z",
+    "estimateType": "YTD",
+    "fiftyPctRule": false,
+    "fiftyPctHistory": "incomplete"
+  },
+  {
+    "ticker": "MSUXX",
     "year": 2023,
-    "months": 11,
-    "usgo": 0.98412,
+    "months": 12,
+    "usgo": 0.98535,
     "muni": 0,
     "q1Pct": 1,
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-07T06:12:57.570Z",
-    "estimateType": "YTD",
+    "timestamp": "2026-03-07T07:52:19.028Z",
+    "estimateType": "complete",
     "fiftyPctRule": true,
-    "fiftyPctHistory": "incomplete"
+    "fiftyPctHistory": "missing fiscal year"
   },
   {
     "ticker": "MSUXX",
@@ -24,7 +39,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-07T06:12:57.570Z",
+    "timestamp": "2026-03-07T07:52:19.028Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -39,7 +54,7 @@
     "q2Pct": 1,
     "q3Pct": 1,
     "q4Pct": 1,
-    "timestamp": "2026-03-07T06:12:57.570Z",
+    "timestamp": "2026-03-07T07:52:19.028Z",
     "estimateType": "complete",
     "fiftyPctRule": true,
     "fiftyPctHistory": "missing fiscal year"
@@ -54,7 +69,7 @@
     "q2Pct": -1,
     "q3Pct": -1,
     "q4Pct": -1,
-    "timestamp": "2026-03-07T06:12:57.570Z",
+    "timestamp": "2026-03-07T07:52:19.028Z",
     "estimateType": "YTD",
     "fiftyPctRule": false,
     "fiftyPctHistory": "current-year"
