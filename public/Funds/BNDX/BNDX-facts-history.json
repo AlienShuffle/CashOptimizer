@@ -132,7 +132,7 @@
   {
     "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-06T07:49:21.171Z",
+    "timestamp": "2026-03-06T22:33:32.081Z",
     "thirtyDayYield": 0.03,
     "asOfDate": "2026-03-04",
     "nav": 48.51,
@@ -144,6 +144,23 @@
     "yieldToMaturity": 0.0483,
     "yieldToWorst": 0.0481,
     "maturityYears": 8.4,
+    "weightedAverageCoupon": 0.0261
+  },
+  {
+    "ticker": "BNDX",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-07T12:54:33.855Z",
+    "thirtyDayYield": 0.03,
+    "asOfDate": "2026-03-05",
+    "nav": 48.37,
+    "accountType": "Total International Bond ETF",
+    "expenseRatio": 0.0007,
+    "aum": 78500000000,
+    "distributionYield": 0.0267,
+    "durationYears": 6.6,
+    "yieldToMaturity": 0.0476,
+    "yieldToWorst": 0.0474,
+    "maturityYears": 8.3,
     "weightedAverageCoupon": 0.0261
   }
 ]
