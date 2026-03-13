@@ -31,7 +31,7 @@
   {
     "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-07T09:36:36.836Z",
+    "timestamp": "2026-03-09T04:23:54.854Z",
     "thirtyDayYield": 0.0083,
     "asOfDate": "2026-03-05",
     "nav": 49.95,
@@ -40,6 +40,21 @@
     "aum": 16400000000,
     "durationYears": 2.4,
     "yieldToMaturity": 0.0345,
+    "maturityYears": 2.5,
+    "weightedAverageCoupon": 0.0105
+  },
+  {
+    "ticker": "VTIP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-13T23:15:05.073Z",
+    "thirtyDayYield": 0.0076,
+    "asOfDate": "2026-03-12",
+    "nav": 49.88,
+    "accountType": "Short-Term Inflation-Protected Securities ETF",
+    "expenseRatio": 0.0003,
+    "aum": 16400000000,
+    "durationYears": 2.4,
+    "yieldToMaturity": 0.0349,
     "maturityYears": 2.5,
     "weightedAverageCoupon": 0.0105
   }

@@ -149,7 +149,7 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-07T11:15:42.046Z",
+    "timestamp": "2026-03-09T04:24:52.378Z",
     "thirtyDayYield": 0.0417,
     "asOfDate": "2026-03-05",
     "nav": 74.23,
@@ -160,6 +160,23 @@
     "durationYears": 5.8,
     "yieldToMaturity": 0.0434,
     "yieldToWorst": 0.0433,
+    "maturityYears": 8,
+    "weightedAverageCoupon": 0.0381
+  },
+  {
+    "ticker": "BND",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-13T23:14:45.569Z",
+    "thirtyDayYield": 0.0417,
+    "asOfDate": "2026-03-11",
+    "nav": 73.55,
+    "accountType": "Total Bond Market ETF",
+    "expenseRatio": 0.0003,
+    "aum": 154000000000,
+    "distributionYield": 0.0398,
+    "durationYears": 5.7,
+    "yieldToMaturity": 0.0444,
+    "yieldToWorst": 0.0443,
     "maturityYears": 8,
     "weightedAverageCoupon": 0.0381
   }
