@@ -111,17 +111,32 @@
   {
     "ticker": "MBB",
     "source": "BlackRock",
-    "timestamp": "2026-03-07T06:05:11.072Z",
+    "timestamp": "2026-03-09T16:50:26.802Z",
     "thirtyDayYield": 0.0405,
     "asOfDate": "2026-03-05",
     "fundName": "iShares MBS ETF",
     "nav": 95.68,
     "expenseRatio": 0.0004,
     "aum": 39246219284,
-    "weightedAverageCoupon": 0.0354,
-    "durationYears": 5.28,
-    "yieldToWorst": 0.0458,
+    "weightedAverageCoupon": 0.0353,
+    "durationYears": 5.27,
+    "yieldToWorst": 0.0465,
     "twelveMonTrlYield": 0.0419,
-    "maturityYears": 6.29
+    "maturityYears": 6.31
+  },
+  {
+    "ticker": "MBB",
+    "source": "BlackRock",
+    "timestamp": "2026-03-13T21:24:06.576Z",
+    "thirtyDayYield": 0.0407,
+    "asOfDate": "2026-03-11",
+    "fundName": "iShares MBS ETF",
+    "nav": 95.03,
+    "expenseRatio": 0.0004,
+    "aum": 38875635542,
+    "weightedAverageCoupon": 0.0353,
+    "durationYears": 5.36,
+    "twelveMonTrlYield": 0.042,
+    "maturityYears": 6.54
   }
 ]

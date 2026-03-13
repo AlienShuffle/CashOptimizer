@@ -104,16 +104,30 @@
   {
     "ticker": "SGOV",
     "source": "BlackRock",
-    "timestamp": "2026-03-07T06:05:41.251Z",
+    "timestamp": "2026-03-09T16:50:59.184Z",
     "thirtyDayYield": 0.0354,
     "asOfDate": "2026-03-05",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
     "nav": 100.44,
     "expenseRatio": 0.0009,
     "aum": 76654927513,
-    "durationYears": 0.09,
-    "yieldToWorst": 0.0369,
+    "durationYears": 0.1,
+    "yieldToWorst": 0.037,
     "twelveMonTrlYield": 0.04,
-    "maturityYears": 0.09
+    "maturityYears": 0.1
+  },
+  {
+    "ticker": "SGOV",
+    "source": "BlackRock",
+    "timestamp": "2026-03-13T21:24:46.942Z",
+    "thirtyDayYield": 0.0354,
+    "asOfDate": "2026-03-12",
+    "fundName": "iShares 0-3 Month Treasury Bond ETF",
+    "nav": 100.48,
+    "expenseRatio": 0.0009,
+    "aum": 78177352913,
+    "durationYears": 0.11,
+    "twelveMonTrlYield": 0.04,
+    "maturityYears": 0.12
   }
 ]

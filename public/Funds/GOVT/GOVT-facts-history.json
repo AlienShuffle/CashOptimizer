@@ -111,7 +111,7 @@
   {
     "ticker": "GOVT",
     "source": "BlackRock",
-    "timestamp": "2026-03-07T06:05:22.552Z",
+    "timestamp": "2026-03-09T16:50:38.532Z",
     "thirtyDayYield": 0.0384,
     "asOfDate": "2026-03-05",
     "fundName": "iShares U.S. Treasury Bond ETF",
@@ -119,9 +119,24 @@
     "expenseRatio": 0.0005,
     "aum": 35807126278,
     "weightedAverageCoupon": 0.0311,
-    "durationYears": 5.77,
-    "yieldToWorst": 0.0389,
+    "durationYears": 5.74,
+    "yieldToWorst": 0.0392,
     "twelveMonTrlYield": 0.035,
-    "maturityYears": 7.68
+    "maturityYears": 7.65
+  },
+  {
+    "ticker": "GOVT",
+    "source": "BlackRock",
+    "timestamp": "2026-03-13T21:24:20.086Z",
+    "thirtyDayYield": 0.0388,
+    "asOfDate": "2026-03-12",
+    "fundName": "iShares U.S. Treasury Bond ETF",
+    "nav": 22.93,
+    "expenseRatio": 0.0005,
+    "aum": 35634596303,
+    "weightedAverageCoupon": 0.0311,
+    "durationYears": 5.68,
+    "twelveMonTrlYield": 0.0353,
+    "maturityYears": 7.59
   }
 ]
