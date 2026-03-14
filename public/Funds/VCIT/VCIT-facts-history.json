@@ -149,7 +149,7 @@
   {
     "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-07T16:14:14.767Z",
+    "timestamp": "2026-03-09T10:38:16.264Z",
     "thirtyDayYield": 0.0475,
     "asOfDate": "2026-03-05",
     "nav": 83.62,
@@ -160,6 +160,23 @@
     "durationYears": 6,
     "yieldToMaturity": 0.0485,
     "yieldToWorst": 0.0482,
+    "maturityYears": 7.4,
+    "weightedAverageCoupon": 0.0488
+  },
+  {
+    "ticker": "VCIT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-14T02:23:50.490Z",
+    "thirtyDayYield": 0.0478,
+    "asOfDate": "2026-03-11",
+    "nav": 82.52,
+    "accountType": "Intermediate-Term Corporate Bond ETF",
+    "expenseRatio": 0.0003,
+    "aum": 66300000000,
+    "distributionYield": 0.0468,
+    "durationYears": 6,
+    "yieldToMaturity": 0.0499,
+    "yieldToWorst": 0.0496,
     "maturityYears": 7.4,
     "weightedAverageCoupon": 0.0488
   }
