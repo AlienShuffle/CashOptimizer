@@ -29,31 +29,31 @@
     "timestamp": "2026-03-14T10:15:37.570Z"
   },
   {
-    "accountType": "Long-Term Bond ETF",
-    "asOfDate": "2026-03-11",
-    "nav": 68.38,
-    "thirtyDayYield": 0.0519,
-    "source": "Vanguard.com ETF",
     "ticker": "BLV",
-    "timestamp": "2026-03-14T05:34:39.504Z"
+    "accountType": "Long-Term Bond ETF",
+    "nav": 68.37,
+    "thirtyDayYield": 0.0525,
+    "asOfDate": "2026-03-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-14T11:50:33.996Z"
   },
   {
-    "accountType": "Total Bond Market ETF",
-    "asOfDate": "2026-03-11",
-    "nav": 73.55,
-    "thirtyDayYield": 0.0417,
-    "source": "Vanguard.com ETF",
     "ticker": "BND",
-    "timestamp": "2026-03-14T05:34:39.504Z"
+    "accountType": "Total Bond Market ETF",
+    "nav": 73.55,
+    "thirtyDayYield": 0.0419,
+    "asOfDate": "2026-03-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-14T11:50:33.996Z"
   },
   {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "2026-03-11",
-    "nav": 74.36,
-    "thirtyDayYield": 0.044,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDP",
-    "timestamp": "2026-03-14T05:34:39.504Z"
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 74.31,
+    "thirtyDayYield": 0.0442,
+    "asOfDate": "2026-03-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-14T11:50:33.996Z"
   },
   {
     "accountType": "Total World Bond ETF",
@@ -441,31 +441,31 @@
     "timestamp": "2026-03-14T10:15:37.570Z"
   },
   {
-    "accountType": "STerm InflatPro Sec ETF",
-    "asOfDate": "2026-03-12",
-    "nav": 49.93,
-    "thirtyDayYield": 0.0076,
-    "source": "Vanguard.com ETF",
     "ticker": "VTIP",
-    "timestamp": "2026-03-14T05:34:39.504Z"
-  },
-  {
-    "accountType": "Total InflatPro Sec ETF",
+    "accountType": "Short-Term Inflation-Protected Securities ETF",
+    "nav": 49.88,
+    "thirtyDayYield": 0.0076,
     "asOfDate": "2026-03-12",
-    "nav": 76.37,
-    "thirtyDayYield": 0.0134,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTP",
-    "timestamp": "2026-03-14T05:34:39.504Z"
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-14T11:50:33.996Z"
   },
   {
-    "accountType": "Ultra-Short Bond ETF",
-    "asOfDate": "2026-03-11",
-    "nav": 49.72,
-    "thirtyDayYield": 0.0406,
-    "source": "Vanguard.com ETF",
+    "ticker": "VTP",
+    "accountType": "Total Inflation-Protected Securities ETF",
+    "nav": 76.22,
+    "thirtyDayYield": 0.0134,
+    "asOfDate": "2026-03-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-14T11:50:33.996Z"
+  },
+  {
     "ticker": "VUSB",
-    "timestamp": "2026-03-14T05:34:39.504Z"
+    "accountType": "Ultra-Short Bond ETF",
+    "nav": 49.71,
+    "thirtyDayYield": 0.0406,
+    "asOfDate": "2026-03-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-14T11:50:33.996Z"
   },
   {
     "accountType": "Em Mkt Gov Bond ETF",
