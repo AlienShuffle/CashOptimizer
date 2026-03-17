@@ -163,7 +163,7 @@
   {
     "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-14T13:24:02.651Z",
+    "timestamp": "2026-03-16T21:31:17.778Z",
     "thirtyDayYield": 0.0319,
     "asOfDate": "2026-03-12",
     "nav": 103.06,
@@ -174,5 +174,20 @@
     "yieldToWorst": 0.0346,
     "maturityYears": 13.8,
     "weightedAverageCoupon": 0.0473
+  },
+  {
+    "ticker": "MUNY",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-17T14:48:45.153Z",
+    "thirtyDayYield": 0.0321,
+    "asOfDate": "2026-03-13",
+    "nav": 103.15,
+    "accountType": "New York Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0009,
+    "aum": 320000000,
+    "durationYears": 7,
+    "yieldToWorst": 0.0352,
+    "maturityYears": 13.9,
+    "weightedAverageCoupon": 0.0474
   }
 ]

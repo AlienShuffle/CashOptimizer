@@ -176,7 +176,7 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-14T11:50:14.297Z",
+    "timestamp": "2026-03-16T18:24:33.194Z",
     "thirtyDayYield": 0.0406,
     "asOfDate": "2026-03-12",
     "nav": 49.71,
@@ -187,6 +187,23 @@
     "durationYears": 0.9,
     "yieldToMaturity": 0.0439,
     "yieldToWorst": 0.0434,
+    "maturityYears": 1.5,
+    "weightedAverageCoupon": 0.0416
+  },
+  {
+    "ticker": "VUSB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-17T14:47:47.640Z",
+    "thirtyDayYield": 0.0408,
+    "asOfDate": "2026-03-13",
+    "nav": 49.74,
+    "accountType": "Ultra-Short Bond ETF",
+    "expenseRatio": 0.001,
+    "aum": 8000000000,
+    "distributionYield": 0.0432,
+    "durationYears": 0.9,
+    "yieldToMaturity": 0.044,
+    "yieldToWorst": 0.0435,
     "maturityYears": 1.5,
     "weightedAverageCoupon": 0.0416
   }
