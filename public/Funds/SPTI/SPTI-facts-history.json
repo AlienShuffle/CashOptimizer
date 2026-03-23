@@ -104,7 +104,7 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-03-07T00:15:20.825Z",
+    "timestamp": "2026-03-07T11:16:09.998Z",
     "nav": 28.87,
     "aum": 9515070000,
     "asOfDate": "2026-03-05",
@@ -117,5 +117,22 @@
     "yieldToWorst": 0.038,
     "yieldToMaturity": 0.038,
     "distributionYield": 0.0378
+  },
+  {
+    "ticker": "SPTI",
+    "source": "ssga",
+    "timestamp": "2026-03-23T16:35:00.019Z",
+    "nav": 28.51,
+    "aum": 9723490000,
+    "asOfDate": "2026-03-20",
+    "expenseRatio": 0.0003,
+    "thirtyDayYield": 0.0386,
+    "fundName": "State Street® SPDR® Portfolio Intermediate Term Treasury ETF",
+    "weightedAverageCoupon": 0.0356,
+    "durationYears": 4.9,
+    "maturityYears": 5.55,
+    "yieldToWorst": 0.0409,
+    "yieldToMaturity": 0.0409,
+    "distributionYield": 0.0383
   }
 ]
