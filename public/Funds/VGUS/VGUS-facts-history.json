@@ -210,7 +210,7 @@
   {
     "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-22T10:48:51.270Z",
+    "timestamp": "2026-03-23T17:31:27.897Z",
     "thirtyDayYield": 0.036,
     "asOfDate": "2026-03-19",
     "nav": 75.57,
@@ -221,6 +221,23 @@
     "durationYears": 0.3,
     "yieldToMaturity": 0.0371,
     "yieldToWorst": 0.0371,
+    "maturityYears": 0.3,
+    "weightedAverageCoupon": 0.0103
+  },
+  {
+    "ticker": "VGUS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-24T10:50:55.769Z",
+    "thirtyDayYield": 0.036,
+    "asOfDate": "2026-03-20",
+    "nav": 75.58,
+    "accountType": "Ultra-Short Treasury ETF",
+    "expenseRatio": 0.0007,
+    "aum": 771600000,
+    "distributionYield": 0.0331,
+    "durationYears": 0.3,
+    "yieldToMaturity": 0.0373,
+    "yieldToWorst": 0.0373,
     "maturityYears": 0.3,
     "weightedAverageCoupon": 0.0103
   }

@@ -218,7 +218,7 @@
   {
     "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-22T10:48:34.695Z",
+    "timestamp": "2026-03-23T17:31:09.528Z",
     "thirtyDayYield": 0.0359,
     "asOfDate": "2026-03-19",
     "nav": 58.35,
@@ -229,6 +229,23 @@
     "durationYears": 1.8,
     "yieldToMaturity": 0.0381,
     "yieldToWorst": 0.0381,
+    "maturityYears": 1.9,
+    "weightedAverageCoupon": 0.0301
+  },
+  {
+    "ticker": "VGSH",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-24T10:50:37.216Z",
+    "thirtyDayYield": 0.0361,
+    "asOfDate": "2026-03-20",
+    "nav": 58.42,
+    "accountType": "Short-Term Treasury ETF",
+    "expenseRatio": 0.0003,
+    "aum": 28100000000,
+    "distributionYield": 0.0376,
+    "durationYears": 1.8,
+    "yieldToMaturity": 0.0392,
+    "yieldToWorst": 0.0392,
     "maturityYears": 1.9,
     "weightedAverageCoupon": 0.0301
   }
