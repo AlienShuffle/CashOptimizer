@@ -1,17 +1,35 @@
 [
   {
-    "ticker": "VTP",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-25T21:48:28.392Z",
-    "thirtyDayYield": 0.0133,
-    "asOfDate": "2026-03-19",
-    "nav": 75.64,
-    "accountType": "Total Inflation-Protected Securities ETF",
-    "expenseRatio": 0.0005,
-    "aum": 98200000,
-    "durationYears": 6.4,
-    "yieldToMaturity": 0.0413,
+    "timestamp": "2026-03-25T23:21:56.161Z",
+    "thirtyDayYield": 0.0442,
+    "asOfDate": "2026-03-23",
+    "nav": 77.07,
+    "accountType": "Intermediate-Term Bond ETF",
+    "expenseRatio": 0.0003,
+    "aum": 28900000000,
+    "distributionYield": 0.0419,
+    "durationYears": 6,
+    "yieldToMaturity": 0.0455,
+    "yieldToWorst": 0.0454,
     "maturityYears": 7.2,
-    "weightedAverageCoupon": 0.0125
+    "weightedAverageCoupon": 0.0415
+  },
+  {
+    "ticker": "VBIL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-25T23:22:15.718Z",
+    "thirtyDayYield": 0.0356,
+    "asOfDate": "2026-03-23",
+    "nav": 75.6,
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "expenseRatio": 0.0006,
+    "aum": 5600000000,
+    "distributionYield": 0.0343,
+    "durationYears": 0.1,
+    "yieldToMaturity": 0.0367,
+    "yieldToWorst": 0.0367,
+    "maturityYears": 0.1
   }
 ]
