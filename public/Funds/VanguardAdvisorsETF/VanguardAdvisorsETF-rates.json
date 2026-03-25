@@ -1,11 +1,29 @@
 [
   {
-    "ticker": "VBIL",
-    "accountType": "0-3 Month Treasury Bill ETF",
-    "nav": 75.59,
-    "thirtyDayYield": 0.0356,
+    "ticker": "VCEB",
+    "accountType": "ESG U.S. Corporate Bond ETF",
+    "nav": 62.5,
+    "thirtyDayYield": 0.0486,
     "asOfDate": "2026-03-23",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-25T07:40:34.556Z"
+    "timestamp": "2026-03-25T09:14:17.081Z"
+  },
+  {
+    "ticker": "VCIT",
+    "accountType": "Intermediate-Term Corporate Bond ETF",
+    "nav": 82.36,
+    "thirtyDayYield": 0.0497,
+    "asOfDate": "2026-03-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-25T09:14:17.081Z"
+  },
+  {
+    "ticker": "VCLT",
+    "accountType": "Long-Term Corporate Bond ETF",
+    "nav": 74.14,
+    "thirtyDayYield": 0.059,
+    "asOfDate": "2026-03-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-25T09:14:17.081Z"
   }
 ]
