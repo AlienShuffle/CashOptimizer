@@ -1,22 +1,8 @@
 [
   {
-    "ticker": "SGOV",
-    "source": "BlackRock",
-    "timestamp": "2026-03-25T01:17:35.281Z",
-    "thirtyDayYield": 0.0354,
-    "asOfDate": "2026-03-23",
-    "fundName": "iShares 0-3 Month Treasury Bond ETF",
-    "nav": 100.6,
-    "expenseRatio": 0.0009,
-    "aum": 81795800302,
-    "durationYears": 0.1,
-    "twelveMonTrlYield": 0.04,
-    "maturityYears": 0.1
-  },
-  {
     "ticker": "STIP",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:17:41.509Z",
+    "timestamp": "2026-03-25T06:03:02.424Z",
     "thirtyDayYield": 0.0404,
     "asOfDate": "2026-03-23",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
@@ -32,7 +18,7 @@
   {
     "ticker": "TLT",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:17:46.256Z",
+    "timestamp": "2026-03-25T06:03:08.757Z",
     "thirtyDayYield": 0.0484,
     "asOfDate": "2026-03-23",
     "fundName": "iShares 20+ Year Treasury Bond ETF",
@@ -47,7 +33,7 @@
   {
     "ticker": "IEF",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:17:51.257Z",
+    "timestamp": "2026-03-25T06:03:14.034Z",
     "thirtyDayYield": 0.04,
     "asOfDate": "2026-03-23",
     "fundName": "iShares 7-10 Year Treasury Bond ETF",
@@ -62,7 +48,7 @@
   {
     "ticker": "AGG",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:17:56.486Z",
+    "timestamp": "2026-03-25T06:03:18.842Z",
     "thirtyDayYield": 0.0426,
     "asOfDate": "2026-03-23",
     "fundName": "iShares Core U.S. Aggregate Bond ETF",
@@ -77,7 +63,7 @@
   {
     "ticker": "MBB",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:18:05.927Z",
+    "timestamp": "2026-03-25T06:03:28.342Z",
     "thirtyDayYield": 0.0411,
     "asOfDate": "2026-03-23",
     "fundName": "iShares MBS ETF",
@@ -92,7 +78,7 @@
   {
     "ticker": "TIP",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:18:13.001Z",
+    "timestamp": "2026-03-25T06:03:35.191Z",
     "thirtyDayYield": 0.0466,
     "asOfDate": "2026-03-23",
     "fundName": "iShares TIPS Bond ETF",
@@ -108,7 +94,7 @@
   {
     "ticker": "GOVT",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:18:17.869Z",
+    "timestamp": "2026-03-25T06:03:40.150Z",
     "thirtyDayYield": 0.0398,
     "asOfDate": "2026-03-23",
     "fundName": "iShares U.S. Treasury Bond ETF",
@@ -123,7 +109,7 @@
   {
     "ticker": "MUB",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:18:22.468Z",
+    "timestamp": "2026-03-25T06:03:45.007Z",
     "thirtyDayYield": 0.0326,
     "asOfDate": "2026-03-23",
     "fundName": "iShares National Muni Bond ETF",
@@ -138,7 +124,7 @@
   {
     "ticker": "IUSB",
     "source": "BlackRock",
-    "timestamp": "2026-03-25T01:18:28.670Z",
+    "timestamp": "2026-03-25T06:03:51.489Z",
     "thirtyDayYield": 0.045,
     "asOfDate": "2026-03-23",
     "fundName": "iShares Core Universal USD Bond ETF",
@@ -149,5 +135,19 @@
     "durationYears": 5.57,
     "twelveMonTrlYield": 0.0424,
     "maturityYears": 7.82
+  },
+  {
+    "ticker": "SGOV",
+    "source": "BlackRock",
+    "timestamp": "2026-03-25T06:04:02.419Z",
+    "thirtyDayYield": 0.0354,
+    "asOfDate": "2026-03-23",
+    "fundName": "iShares 0-3 Month Treasury Bond ETF",
+    "nav": 100.6,
+    "expenseRatio": 0.0009,
+    "aum": 81795800302,
+    "durationYears": 0.1,
+    "twelveMonTrlYield": 0.04,
+    "maturityYears": 0.1
   }
 ]
