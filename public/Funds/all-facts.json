@@ -17,9 +17,9 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-03-25T18:41:47.349Z",
-    "nav": 91.58,
-    "aum": 48665050000,
+    "timestamp": "2026-03-26T08:13:58.849Z",
+    "nav": 91.59,
+    "aum": 49893340000,
     "asOfDate": "2026-03-24",
     "expenseRatio": 0.001353,
     "thirtyDayYield": 0.0347,
@@ -282,9 +282,9 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-03-25T18:41:50.760Z",
-    "nav": 28.5,
-    "aum": 9739990000,
+    "timestamp": "2026-03-26T08:14:02.121Z",
+    "nav": 28.6,
+    "aum": 9772420000,
     "asOfDate": "2026-03-24",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.039,
@@ -346,9 +346,10 @@
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-03-26T03:22:43.179Z",
+    "timestamp": "2026-03-26T08:12:35.969Z",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-03-25",
+    "nav": 50.46,
     "aum": 17336025000,
     "thirtyDayYield": 0.0358,
     "yieldToMaturity": 0.0376,
@@ -804,7 +805,7 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-03-25T09:14:20.163Z",
+    "timestamp": "2026-03-26T08:12:40.454Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0352,
     "asOfDate": "2026-02-27",
@@ -815,13 +816,13 @@
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-03-25T09:14:25.660Z",
+    "timestamp": "2026-03-26T08:12:45.839Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0353,
     "asOfDate": "2026-02-27",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0303,
     "durationYears": 0.92,
-    "yieldToWorst": 0.0389
+    "yieldToWorst": 0.0385
   }
 ]
