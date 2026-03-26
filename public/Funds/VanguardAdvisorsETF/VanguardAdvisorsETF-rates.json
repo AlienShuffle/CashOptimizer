@@ -1,38 +1,47 @@
 [
   {
-    "ticker": "BNDP",
-    "accountType": "Core-Plus Bond Index ETF",
-    "nav": 74.3,
-    "thirtyDayYield": 0.0452,
+    "ticker": "VGMS",
+    "accountType": "Multi-Sector Income Bond ETF",
+    "nav": 50.9,
+    "thirtyDayYield": 0.0555,
     "asOfDate": "2026-03-24",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-26T19:13:27.766Z"
+    "timestamp": "2026-03-26T20:47:00.328Z"
   },
   {
-    "ticker": "VGIT",
-    "accountType": "Intermediate-Term Treasury ETF",
-    "nav": 59.42,
-    "thirtyDayYield": 0.0387,
+    "ticker": "VGSH",
+    "accountType": "Short-Term Treasury ETF",
+    "nav": 58.42,
+    "thirtyDayYield": 0.0366,
     "asOfDate": "2026-03-24",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-26T19:13:27.766Z"
+    "timestamp": "2026-03-26T20:47:00.328Z"
   },
   {
-    "ticker": "VGLT",
-    "accountType": "Long-Term Treasury ETF",
-    "nav": 55.38,
-    "thirtyDayYield": 0.0489,
-    "asOfDate": "2026-03-24",
+    "ticker": "BNDW",
+    "accountType": "Total World Bond ETF",
+    "nav": 68.32,
+    "thirtyDayYield": 0.041,
+    "asOfDate": "2026-02-28",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-26T19:13:27.766Z"
+    "timestamp": "2026-03-26T20:47:00.328Z"
   },
   {
-    "ticker": "VSDB",
-    "accountType": "Short Duration Bond ETF",
-    "nav": 76.05,
-    "thirtyDayYield": 0.0438,
+    "ticker": "VUSB",
+    "accountType": "Ultra-Short Bond ETF",
+    "nav": 49.72,
+    "thirtyDayYield": 0.0419,
     "asOfDate": "2026-03-24",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-26T19:13:27.766Z"
+    "timestamp": "2026-03-26T20:47:00.328Z"
+  },
+  {
+    "ticker": "VGUS",
+    "accountType": "Ultra-Short Treasury ETF",
+    "nav": 75.6,
+    "thirtyDayYield": 0.0361,
+    "asOfDate": "2026-03-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-26T20:47:00.328Z"
   }
 ]
