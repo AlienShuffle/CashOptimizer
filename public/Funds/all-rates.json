@@ -20,13 +20,13 @@
     "timestamp": "2026-03-26T08:14:05.532Z"
   },
   {
-    "accountType": "Inter-Term Bond ETF",
-    "asOfDate": "2026-03-23",
+    "ticker": "BIV",
+    "accountType": "Intermediate-Term Bond ETF",
     "nav": 77.07,
     "thirtyDayYield": 0.0442,
-    "source": "Vanguard.com ETF",
-    "ticker": "BIV",
-    "timestamp": "2026-03-26T05:02:46.163Z"
+    "asOfDate": "2026-03-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-26T12:55:47.810Z"
   },
   {
     "accountType": "Long-Term Bond ETF",
@@ -234,13 +234,13 @@
     "timestamp": "2026-03-26T05:00:42.871Z"
   },
   {
-    "accountType": "0-3 Month T-Bill ETF",
-    "asOfDate": "2026-03-23",
-    "nav": 75.61,
-    "thirtyDayYield": 0.0356,
-    "source": "Vanguard.com ETF",
     "ticker": "VBIL",
-    "timestamp": "2026-03-26T05:02:46.163Z"
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "nav": 75.6,
+    "thirtyDayYield": 0.0356,
+    "asOfDate": "2026-03-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-26T12:55:47.810Z"
   },
   {
     "accountType": "ESG U.S. Corp Bond ETF",
