@@ -217,7 +217,7 @@
   {
     "ticker": "TLT",
     "source": "BlackRock",
-    "timestamp": "2026-03-26T23:52:12.418Z",
+    "timestamp": "2026-03-27T14:10:03.620Z",
     "thirtyDayYield": 0.0483,
     "asOfDate": "2026-03-25",
     "fundName": "iShares 20+ Year Treasury Bond ETF",
@@ -227,6 +227,21 @@
     "weightedAverageCoupon": 0.0313,
     "durationYears": 15.45,
     "twelveMonTrlYield": 0.0448,
+    "maturityYears": 25.82
+  },
+  {
+    "ticker": "TLT",
+    "source": "BlackRock",
+    "timestamp": "2026-03-27T23:39:58.298Z",
+    "thirtyDayYield": 0.0487,
+    "asOfDate": "2026-03-26",
+    "fundName": "iShares 20+ Year Treasury Bond ETF",
+    "nav": 86.1,
+    "expenseRatio": 0.0015,
+    "aum": 42377786181,
+    "weightedAverageCoupon": 0.0313,
+    "durationYears": 15.42,
+    "twelveMonTrlYield": 0.0452,
     "maturityYears": 25.82
   }
 ]
