@@ -47,31 +47,31 @@
     "timestamp": "2026-03-28T09:12:24.061Z"
   },
   {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "2026-03-26",
-    "nav": 73.85,
-    "thirtyDayYield": 0.0453,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDP",
-    "timestamp": "2026-03-28T07:35:51.008Z"
-  },
-  {
-    "accountType": "Total World Bond ETF",
-    "asOfDate": "2026-02-28",
-    "nav": 67.85,
-    "thirtyDayYield": 0.041,
-    "source": "Vanguard.com ETF",
-    "ticker": "BNDW",
-    "timestamp": "2026-03-28T07:35:51.008Z"
-  },
-  {
-    "accountType": "Tot Intl Bond ETF",
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 73.83,
+    "thirtyDayYield": 0.0453,
     "asOfDate": "2026-03-26",
-    "nav": 47.66,
-    "thirtyDayYield": 0.032,
-    "source": "Vanguard.com ETF",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-28T12:22:12.327Z"
+  },
+  {
+    "ticker": "BNDW",
+    "accountType": "Total World Bond ETF",
+    "nav": 67.82,
+    "thirtyDayYield": 0.041,
+    "asOfDate": "2026-02-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-28T12:22:12.327Z"
+  },
+  {
     "ticker": "BNDX",
-    "timestamp": "2026-03-28T07:35:51.008Z"
+    "accountType": "Total International Bond ETF",
+    "nav": 47.62,
+    "thirtyDayYield": 0.032,
+    "asOfDate": "2026-03-26",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-28T12:22:12.327Z"
   },
   {
     "ticker": "BOXX",
@@ -279,22 +279,22 @@
     "timestamp": "2026-03-28T10:48:03.982Z"
   },
   {
-    "accountType": "Core Tax-Ex Bnd ETF",
-    "asOfDate": "2026-03-26",
-    "nav": 74.77,
-    "thirtyDayYield": 0.0383,
-    "source": "Vanguard.com ETF",
     "ticker": "VCRM",
-    "timestamp": "2026-03-28T07:35:51.008Z"
+    "accountType": "Core Tax-Exempt Bond ETF",
+    "nav": 74.74,
+    "thirtyDayYield": 0.0383,
+    "asOfDate": "2026-03-26",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-28T12:22:12.327Z"
   },
   {
-    "accountType": "Short-Term Corp Bond ETF",
-    "asOfDate": "2026-03-26",
-    "nav": 78.89,
-    "thirtyDayYield": 0.0438,
-    "source": "Vanguard.com ETF",
     "ticker": "VCSH",
-    "timestamp": "2026-03-28T07:35:51.008Z"
+    "accountType": "Short-Term Corporate Bond ETF",
+    "nav": 78.9,
+    "thirtyDayYield": 0.0438,
+    "asOfDate": "2026-03-26",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-28T12:22:12.327Z"
   },
   {
     "accountType": "IT Treasury ETF",
@@ -351,13 +351,13 @@
     "timestamp": "2026-03-28T07:35:51.008Z"
   },
   {
-    "accountType": "Core-Plus Bond ETF",
-    "asOfDate": "2026-03-26",
-    "nav": 76.87,
-    "thirtyDayYield": 0.046,
-    "source": "Vanguard.com ETF",
     "ticker": "VPLS",
-    "timestamp": "2026-03-28T07:35:51.008Z"
+    "accountType": "Core-Plus Bond ETF",
+    "nav": 76.8,
+    "thirtyDayYield": 0.046,
+    "asOfDate": "2026-03-26",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-28T12:22:12.327Z"
   },
   {
     "accountType": "Short Duration Bond ETF",
