@@ -2,7 +2,7 @@
   {
     "ticker": "AGG",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:15:33.486Z",
+    "timestamp": "2026-03-31T16:30:57.317Z",
     "thirtyDayYield": 0.0432,
     "asOfDate": "2026-03-27",
     "fundName": "iShares Core U.S. Aggregate Bond ETF",
@@ -10,14 +10,14 @@
     "expenseRatio": 0.0003,
     "aum": 138413504990,
     "weightedAverageCoupon": 0.0369,
-    "durationYears": 5.76,
+    "durationYears": 5.77,
     "twelveMonTrlYield": 0.0396,
-    "maturityYears": 8.06
+    "maturityYears": 8.04
   },
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-03-31T07:07:29.550Z",
+    "timestamp": "2026-03-31T16:34:38.290Z",
     "nav": 91.63,
     "aum": 49734800000,
     "asOfDate": "2026-03-27",
@@ -25,7 +25,7 @@
     "thirtyDayYield": 0.0348,
     "fundName": "State Street® SPDR® Bloomberg 1-3 Month T-Bill ETF",
     "durationYears": 0.08,
-    "maturityYears": 0.15,
+    "maturityYears": 0.16,
     "yieldToWorst": 0.0369,
     "yieldToMaturity": 0.0369,
     "distributionYield": 0.0401
@@ -50,34 +50,34 @@
   {
     "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-31T03:53:13.094Z",
-    "thirtyDayYield": 0.0532,
-    "asOfDate": "2026-03-26",
+    "timestamp": "2026-03-31T16:33:43.458Z",
+    "thirtyDayYield": 0.0537,
+    "asOfDate": "2026-03-27",
     "nav": 68.52,
     "accountType": "Long-Term Bond ETF",
     "expenseRatio": 0.0003,
     "aum": 6100000000,
     "distributionYield": 0.0464,
-    "durationYears": 12.9,
-    "yieldToMaturity": 0.0541,
-    "yieldToWorst": 0.0541,
+    "durationYears": 12.8,
+    "yieldToMaturity": 0.0545,
+    "yieldToWorst": 0.0545,
     "maturityYears": 21.9,
     "weightedAverageCoupon": 0.0409
   },
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-31T03:53:33.432Z",
-    "thirtyDayYield": 0.0426,
-    "asOfDate": "2026-03-26",
+    "timestamp": "2026-03-31T16:34:03.321Z",
+    "thirtyDayYield": 0.0429,
+    "asOfDate": "2026-03-27",
     "nav": 73.48,
     "accountType": "Total Bond Market ETF",
     "expenseRatio": 0.0003,
     "aum": 154000000000,
     "distributionYield": 0.0398,
     "durationYears": 5.7,
-    "yieldToMaturity": 0.0471,
-    "yieldToWorst": 0.047,
+    "yieldToMaturity": 0.0469,
+    "yieldToWorst": 0.0468,
     "maturityYears": 8,
     "weightedAverageCoupon": 0.0381
   },
@@ -178,7 +178,7 @@
   {
     "ticker": "GOVT",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:15:55.767Z",
+    "timestamp": "2026-03-31T16:31:20.582Z",
     "thirtyDayYield": 0.0404,
     "asOfDate": "2026-03-27",
     "fundName": "iShares U.S. Treasury Bond ETF",
@@ -186,14 +186,14 @@
     "expenseRatio": 0.0005,
     "aum": 40448950880,
     "weightedAverageCoupon": 0.0311,
-    "durationYears": 5.6,
+    "durationYears": 5.63,
     "twelveMonTrlYield": 0.0355,
-    "maturityYears": 7.51
+    "maturityYears": 7.54
   },
   {
     "ticker": "IEF",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:15:28.271Z",
+    "timestamp": "2026-03-31T16:30:52.062Z",
     "thirtyDayYield": 0.0407,
     "asOfDate": "2026-03-27",
     "fundName": "iShares 7-10 Year Treasury Bond ETF",
@@ -203,12 +203,12 @@
     "weightedAverageCoupon": 0.0413,
     "durationYears": 6.98,
     "twelveMonTrlYield": 0.0386,
-    "maturityYears": 8.48
+    "maturityYears": 8.47
   },
   {
     "ticker": "IUSB",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:16:06.318Z",
+    "timestamp": "2026-03-31T16:31:33.347Z",
     "thirtyDayYield": 0.0456,
     "asOfDate": "2026-03-27",
     "fundName": "iShares Core Universal USD Bond ETF",
@@ -218,12 +218,12 @@
     "weightedAverageCoupon": 0.0396,
     "durationYears": 5.57,
     "twelveMonTrlYield": 0.0426,
-    "maturityYears": 7.85
+    "maturityYears": 7.83
   },
   {
     "ticker": "MBB",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:15:42.987Z",
+    "timestamp": "2026-03-31T16:31:06.722Z",
     "thirtyDayYield": 0.0413,
     "asOfDate": "2026-03-27",
     "fundName": "iShares MBS ETF",
@@ -231,14 +231,14 @@
     "expenseRatio": 0.0004,
     "aum": 38645598053,
     "weightedAverageCoupon": 0.0353,
-    "durationYears": 5.5,
+    "durationYears": 5.45,
     "twelveMonTrlYield": 0.0425,
-    "maturityYears": 6.9
+    "maturityYears": 6.78
   },
   {
     "ticker": "MUB",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:16:00.609Z",
+    "timestamp": "2026-03-31T16:31:25.789Z",
     "thirtyDayYield": 0.0333,
     "asOfDate": "2026-03-27",
     "fundName": "iShares National Muni Bond ETF",
@@ -246,9 +246,9 @@
     "expenseRatio": 0.0005,
     "aum": 42437274537,
     "weightedAverageCoupon": 0.0469,
-    "durationYears": 6.74,
+    "durationYears": 6.66,
     "twelveMonTrlYield": 0.032,
-    "maturityYears": 7.43
+    "maturityYears": 7.38
   },
   {
     "ticker": "MUNY",
@@ -268,7 +268,7 @@
   {
     "ticker": "SGOV",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:16:15.107Z",
+    "timestamp": "2026-03-31T16:31:43.332Z",
     "thirtyDayYield": 0.0354,
     "asOfDate": "2026-03-27",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
@@ -282,7 +282,7 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-03-31T07:07:33.065Z",
+    "timestamp": "2026-03-31T16:34:41.561Z",
     "nav": 28.6,
     "aum": 9794200000,
     "asOfDate": "2026-03-27",
@@ -290,16 +290,16 @@
     "thirtyDayYield": 0.0394,
     "fundName": "State Street® SPDR® Portfolio Intermediate Term Treasury ETF",
     "weightedAverageCoupon": 0.0356,
-    "durationYears": 4.88,
-    "maturityYears": 5.53,
-    "yieldToWorst": 0.0414,
-    "yieldToMaturity": 0.0414,
+    "durationYears": 4.89,
+    "maturityYears": 5.58,
+    "yieldToWorst": 0.0405,
+    "yieldToMaturity": 0.0405,
     "distributionYield": 0.0383
   },
   {
     "ticker": "STIP",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:15:16.695Z",
+    "timestamp": "2026-03-31T16:30:39.627Z",
     "thirtyDayYield": 0.0467,
     "asOfDate": "2026-03-27",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
@@ -307,15 +307,15 @@
     "expenseRatio": 0.0003,
     "aum": 14617043332,
     "weightedAverageCoupon": 0.0103,
-    "durationYears": 2.38,
-    "yieldToWorst": 0.0363,
+    "durationYears": 2.37,
+    "yieldToWorst": 0.0354,
     "twelveMonTrlYield": 0.0395,
-    "maturityYears": 2.47
+    "maturityYears": 2.46
   },
   {
     "ticker": "TIP",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:15:50.755Z",
+    "timestamp": "2026-03-31T16:31:14.498Z",
     "thirtyDayYield": 0.0536,
     "asOfDate": "2026-03-27",
     "fundName": "iShares TIPS Bond ETF",
@@ -323,15 +323,15 @@
     "expenseRatio": 0.0018,
     "aum": 13950516019,
     "weightedAverageCoupon": 0.0121,
-    "durationYears": 6.36,
-    "yieldToWorst": 0.042,
+    "durationYears": 6.38,
+    "yieldToWorst": 0.0411,
     "twelveMonTrlYield": 0.0347,
-    "maturityYears": 7.15
+    "maturityYears": 7.17
   },
   {
     "ticker": "TLT",
     "source": "BlackRock",
-    "timestamp": "2026-03-31T02:15:23.040Z",
+    "timestamp": "2026-03-31T16:30:46.470Z",
     "thirtyDayYield": 0.049,
     "asOfDate": "2026-03-27",
     "fundName": "iShares 20+ Year Treasury Bond ETF",
@@ -339,7 +339,7 @@
     "expenseRatio": 0.0015,
     "aum": 42607416265,
     "weightedAverageCoupon": 0.0313,
-    "durationYears": 15.37,
+    "durationYears": 15.43,
     "twelveMonTrlYield": 0.0455,
     "maturityYears": 25.81
   },
@@ -805,18 +805,18 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-03-31T07:05:35.882Z",
+    "timestamp": "2026-03-31T16:34:26.852Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0352,
     "asOfDate": "2026-02-27",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.43,
-    "yieldToWorst": 0.037
+    "yieldToWorst": 0.0367
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-03-31T07:05:42.516Z",
+    "timestamp": "2026-03-31T16:34:31.739Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0353,
     "asOfDate": "2026-02-27",
