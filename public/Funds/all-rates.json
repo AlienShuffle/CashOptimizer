@@ -47,22 +47,22 @@
     "timestamp": "2026-03-31T03:55:09.346Z"
   },
   {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "2026-03-26",
-    "nav": 74.17,
-    "thirtyDayYield": 0.0453,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDP",
-    "timestamp": "2026-03-31T02:19:44.956Z"
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 74.18,
+    "thirtyDayYield": 0.0453,
+    "asOfDate": "2026-03-26",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-31T05:29:19.862Z"
   },
   {
-    "accountType": "Total World Bond ETF",
-    "asOfDate": "2026-02-28",
-    "nav": 68.11,
-    "thirtyDayYield": 0.041,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDW",
-    "timestamp": "2026-03-31T02:19:44.956Z"
+    "accountType": "Total World Bond ETF",
+    "nav": 68.09,
+    "thirtyDayYield": 0.041,
+    "asOfDate": "2026-02-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-31T05:29:19.862Z"
   },
   {
     "accountType": "Tot Intl Bond ETF",
@@ -227,12 +227,11 @@
   },
   {
     "ticker": "USFR",
-    "asOfDate": "2026-03-27",
+    "asOfDate": "2026-03-30",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
-    "nav": 50.321,
     "thirtyDayYield": 0.0359,
     "source": "Wisdomtree yields",
-    "timestamp": "2026-03-30T16:48:51.018Z"
+    "timestamp": "2026-03-31T05:28:20.090Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
@@ -262,13 +261,13 @@
     "timestamp": "2026-03-31T03:55:09.346Z"
   },
   {
-    "accountType": "Long-Term Corp Bond ETF",
-    "asOfDate": "2026-03-26",
+    "ticker": "VCLT",
+    "accountType": "Long-Term Corporate Bond ETF",
     "nav": 74.14,
     "thirtyDayYield": 0.0583,
-    "source": "Vanguard.com ETF",
-    "ticker": "VCLT",
-    "timestamp": "2026-03-31T02:19:44.956Z"
+    "asOfDate": "2026-03-26",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-31T05:29:19.862Z"
   },
   {
     "accountType": "Core Bond ETF",
