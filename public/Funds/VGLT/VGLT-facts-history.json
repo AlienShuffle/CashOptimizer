@@ -302,7 +302,7 @@
   {
     "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-28T13:57:22.957Z",
+    "timestamp": "2026-03-30T21:34:22.918Z",
     "thirtyDayYield": 0.0488,
     "asOfDate": "2026-03-26",
     "nav": 54.66,
@@ -313,6 +313,23 @@
     "durationYears": 13.8,
     "yieldToMaturity": 0.0496,
     "yieldToWorst": 0.0496,
+    "maturityYears": 21.9,
+    "weightedAverageCoupon": 0.0348
+  },
+  {
+    "ticker": "VGLT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-03-31T11:49:38.485Z",
+    "thirtyDayYield": 0.0492,
+    "asOfDate": "2026-03-27",
+    "nav": 55.35,
+    "accountType": "Long-Term Treasury ETF",
+    "expenseRatio": 0.0003,
+    "aum": 11200000000,
+    "distributionYield": 0.0431,
+    "durationYears": 13.8,
+    "yieldToMaturity": 0.0499,
+    "yieldToWorst": 0.0499,
     "maturityYears": 21.9,
     "weightedAverageCoupon": 0.0348
   }
