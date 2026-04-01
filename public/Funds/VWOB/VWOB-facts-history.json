@@ -319,7 +319,7 @@
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-31T07:04:10.935Z",
+    "timestamp": "2026-03-31T21:18:08.485Z",
     "thirtyDayYield": 0.0597,
     "asOfDate": "2026-03-27",
     "nav": 65.28,
@@ -330,6 +330,23 @@
     "durationYears": 6.6,
     "yieldToMaturity": 0.0642,
     "yieldToWorst": 0.0642,
+    "maturityYears": 11,
+    "weightedAverageCoupon": 0.0544
+  },
+  {
+    "ticker": "VWOB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-01T16:13:26.769Z",
+    "thirtyDayYield": 0.0602,
+    "asOfDate": "2026-03-30",
+    "nav": 65.53,
+    "accountType": "Emerging Markets Government Bond ETF",
+    "expenseRatio": 0.0015,
+    "aum": 6100000000,
+    "distributionYield": 0.0614,
+    "durationYears": 6.6,
+    "yieldToMaturity": 0.0642,
+    "yieldToWorst": 0.0641,
     "maturityYears": 11,
     "weightedAverageCoupon": 0.0544
   }
