@@ -283,7 +283,7 @@
   {
     "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-31T07:03:52.041Z",
+    "timestamp": "2026-03-31T21:17:30.070Z",
     "thirtyDayYield": 0.0396,
     "asOfDate": "2026-03-27",
     "nav": 102.13,
@@ -294,5 +294,20 @@
     "yieldToWorst": 0.0439,
     "maturityYears": 19.7,
     "weightedAverageCoupon": 0.0431
+  },
+  {
+    "ticker": "VTEL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-01T14:37:57.657Z",
+    "thirtyDayYield": 0.0398,
+    "asOfDate": "2026-03-30",
+    "nav": 102.49,
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0009,
+    "aum": 239800000,
+    "durationYears": 9.5,
+    "yieldToWorst": 0.0442,
+    "maturityYears": 19.7,
+    "weightedAverageCoupon": 0.043
   }
 ]
