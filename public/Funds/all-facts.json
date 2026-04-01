@@ -17,9 +17,9 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-04-01T02:01:18.528Z",
-    "nav": 91.63,
-    "aum": 49734800000,
+    "timestamp": "2026-04-01T06:46:49.133Z",
+    "nav": 91.64,
+    "aum": 50000150000,
     "asOfDate": "2026-03-30",
     "expenseRatio": 0.001353,
     "thirtyDayYield": 0.0349,
@@ -50,17 +50,17 @@
   {
     "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-03-31T16:33:43.458Z",
-    "thirtyDayYield": 0.0537,
-    "asOfDate": "2026-03-27",
-    "nav": 68.52,
+    "timestamp": "2026-04-01T06:46:11.866Z",
+    "thirtyDayYield": 0.0542,
+    "asOfDate": "2026-03-30",
+    "nav": 68.7,
     "accountType": "Long-Term Bond ETF",
     "expenseRatio": 0.0003,
     "aum": 6100000000,
     "distributionYield": 0.0464,
-    "durationYears": 12.8,
-    "yieldToMaturity": 0.0545,
-    "yieldToWorst": 0.0545,
+    "durationYears": 12.9,
+    "yieldToMaturity": 0.0537,
+    "yieldToWorst": 0.0536,
     "maturityYears": 21.9,
     "weightedAverageCoupon": 0.0409
   },
@@ -135,13 +135,13 @@
     "ticker": "BOXX",
     "accountType": "Alpha Architect 1-3 Month Box ETF",
     "thirtyDayYield": 0.04,
-    "asOfDate": "2026-03-30",
+    "asOfDate": "2026-03-31",
     "nav": 116.16,
     "aum": 10645140000,
     "expenseRatio": 0.0019,
-    "durationYears": 0.2274,
+    "durationYears": 0.2247,
     "source": "alphaarchitect.com",
-    "timestamp": "2026-04-01T00:21:30.173Z"
+    "timestamp": "2026-04-01T06:41:35.551Z"
   },
   {
     "ticker": "BSV",
@@ -282,9 +282,9 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-04-01T02:01:21.859Z",
-    "nav": 28.6,
-    "aum": 9794200000,
+    "timestamp": "2026-04-01T06:46:52.608Z",
+    "nav": 28.65,
+    "aum": 9808550000,
     "asOfDate": "2026-03-30",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0397,
@@ -804,24 +804,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-03-31T16:34:26.852Z",
+    "timestamp": "2026-04-01T06:46:36.081Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0352,
     "asOfDate": "2026-02-27",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.43,
-    "yieldToWorst": 0.0367
+    "durationYears": 0.4,
+    "yieldToWorst": 0.0366
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-03-31T16:34:31.739Z",
+    "timestamp": "2026-04-01T06:46:41.982Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0353,
     "asOfDate": "2026-02-27",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
-    "weightedAverageCoupon": 0.0303,
-    "durationYears": 0.91,
-    "yieldToWorst": 0.038
+    "weightedAverageCoupon": 0.0315,
+    "durationYears": 1,
+    "yieldToWorst": 0.0381
   }
 ]
