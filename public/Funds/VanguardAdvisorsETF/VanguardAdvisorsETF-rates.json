@@ -1,20 +1,29 @@
 [
   {
-    "ticker": "VCRM",
-    "accountType": "Core Tax-Exempt Bond ETF",
-    "nav": 75.17,
-    "thirtyDayYield": 0.0389,
+    "ticker": "VTEL",
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 102.64,
+    "thirtyDayYield": 0.0399,
     "asOfDate": "2026-04-01",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-03T10:26:25.653Z"
+    "timestamp": "2026-04-03T12:00:06.084Z"
   },
   {
-    "ticker": "VCSH",
-    "accountType": "Short-Term Corporate Bond ETF",
-    "nav": 79.04,
-    "thirtyDayYield": 0.0447,
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 100.98,
+    "thirtyDayYield": 0.0247,
     "asOfDate": "2026-04-01",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-03T10:26:25.653Z"
+    "timestamp": "2026-04-03T12:00:06.084Z"
+  },
+  {
+    "ticker": "VTG",
+    "accountType": "Total Treasury ETF",
+    "nav": 75.53,
+    "thirtyDayYield": 0.0408,
+    "asOfDate": "2026-04-01",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-03T12:00:06.084Z"
   }
 ]
