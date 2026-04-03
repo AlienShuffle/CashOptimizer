@@ -65,13 +65,13 @@
     "timestamp": "2026-04-03T21:27:55.131Z"
   },
   {
-    "accountType": "Tot Intl Bond ETF",
-    "asOfDate": "2026-04-01",
-    "nav": 47.96,
-    "thirtyDayYield": 0.0328,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDX",
-    "timestamp": "2026-04-03T10:26:26.976Z"
+    "accountType": "Total International Bond ETF",
+    "nav": 47.85,
+    "thirtyDayYield": 0.0328,
+    "asOfDate": "2026-04-01",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-03T23:01:01.317Z"
   },
   {
     "ticker": "BOXX",
@@ -83,13 +83,13 @@
     "timestamp": "2026-04-03T01:18:23.330Z"
   },
   {
-    "accountType": "Short-Term Bond ETF",
-    "asOfDate": "2026-04-01",
-    "nav": 78.22,
-    "thirtyDayYield": 0.0397,
-    "source": "Vanguard.com ETF",
     "ticker": "BSV",
-    "timestamp": "2026-04-03T10:26:26.976Z"
+    "accountType": "Short-Term Bond ETF",
+    "nav": 78.16,
+    "thirtyDayYield": 0.0397,
+    "asOfDate": "2026-04-01",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-03T23:01:01.317Z"
   },
   {
     "accountType": "Ext Duration Treasury ETF",
@@ -229,9 +229,10 @@
     "ticker": "USFR",
     "asOfDate": "2026-04-02",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
+    "nav": 50.348,
     "thirtyDayYield": 0.036,
     "source": "Wisdomtree yields",
-    "timestamp": "2026-04-03T04:07:09.682Z"
+    "timestamp": "2026-04-03T23:00:00.986Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
@@ -252,13 +253,13 @@
     "timestamp": "2026-04-03T21:27:55.131Z"
   },
   {
-    "accountType": "Inter-Term Corp Bond ETF",
-    "asOfDate": "2026-04-01",
-    "nav": 82.74,
-    "thirtyDayYield": 0.0505,
-    "source": "Vanguard.com ETF",
     "ticker": "VCIT",
-    "timestamp": "2026-04-03T10:26:26.976Z"
+    "accountType": "Intermediate-Term Corporate Bond ETF",
+    "nav": 82.64,
+    "thirtyDayYield": 0.0505,
+    "asOfDate": "2026-04-01",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-03T23:01:01.317Z"
   },
   {
     "accountType": "Long-Term Corp Bond ETF",
