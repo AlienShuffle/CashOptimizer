@@ -278,7 +278,7 @@
   {
     "ticker": "TIP",
     "source": "BlackRock",
-    "timestamp": "2026-04-02T01:37:10.476Z",
+    "timestamp": "2026-04-02T11:07:26.802Z",
     "thirtyDayYield": 0.0584,
     "asOfDate": "2026-03-31",
     "fundName": "iShares TIPS Bond ETF",
@@ -288,6 +288,21 @@
     "weightedAverageCoupon": 0.0122,
     "durationYears": 6.41,
     "yieldToWorst": 0.041,
+    "twelveMonTrlYield": 0.0345,
+    "maturityYears": 7.2
+  },
+  {
+    "ticker": "TIP",
+    "source": "BlackRock",
+    "timestamp": "2026-04-03T01:19:27.274Z",
+    "thirtyDayYield": 0.0591,
+    "asOfDate": "2026-04-01",
+    "nav": 110.24,
+    "expenseRatio": 0.0018,
+    "aum": 13912628219,
+    "weightedAverageCoupon": 0.0122,
+    "durationYears": 6.41,
+    "yieldToWorst": 0.0411,
     "twelveMonTrlYield": 0.0345,
     "maturityYears": 7.2
   }

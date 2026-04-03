@@ -277,7 +277,7 @@
   {
     "ticker": "IEF",
     "source": "BlackRock",
-    "timestamp": "2026-04-02T01:36:48.179Z",
+    "timestamp": "2026-04-02T11:07:01.191Z",
     "thirtyDayYield": 0.0407,
     "asOfDate": "2026-03-31",
     "fundName": "iShares 7-10 Year Treasury Bond ETF",
@@ -288,5 +288,19 @@
     "durationYears": 6.98,
     "twelveMonTrlYield": 0.0382,
     "maturityYears": 8.48
+  },
+  {
+    "ticker": "IEF",
+    "source": "BlackRock",
+    "timestamp": "2026-04-03T01:19:20.666Z",
+    "thirtyDayYield": 0.041,
+    "asOfDate": "2026-04-01",
+    "nav": 95.03,
+    "expenseRatio": 0.0015,
+    "aum": 48514596061,
+    "weightedAverageCoupon": 0.0413,
+    "durationYears": 7,
+    "twelveMonTrlYield": 0.0417,
+    "maturityYears": 8.5
   }
 ]
