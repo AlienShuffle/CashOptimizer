@@ -2,15 +2,15 @@
   {
     "accountType": "NPCD",
     "apy": 0.029,
-    "asOfDate": "2026-04-03",
+    "asOfDate": "2026-04-04",
     "source": "node-Ally-update.js text-anchor",
-    "timestamp": "2026-04-03T21:22:41.440Z"
+    "timestamp": "2026-04-04T08:29:05.055Z"
   },
   {
     "accountType": "Savings",
-    "apy": "n/a",
-    "asOfDate": "2026-04-03",
-    "source": "node-Ally-update.js not-found",
-    "timestamp": "2026-04-03T21:22:41.440Z"
+    "apy": 0.032,
+    "asOfDate": "2026-04-04",
+    "source": "node-Ally-update.js text-fallback",
+    "timestamp": "2026-04-04T08:29:05.055Z"
   }
 ]
