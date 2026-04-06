@@ -283,7 +283,7 @@
   {
     "ticker": "MUB",
     "source": "BlackRock",
-    "timestamp": "2026-04-03T15:04:56.541Z",
+    "timestamp": "2026-04-06T16:38:18.554Z",
     "thirtyDayYield": 0.0337,
     "asOfDate": "2026-04-01",
     "nav": 106.13,
@@ -292,6 +292,20 @@
     "weightedAverageCoupon": 0.0468,
     "durationYears": 6.51,
     "twelveMonTrlYield": 0.0346,
+    "maturityYears": 7.25
+  },
+  {
+    "ticker": "MUB",
+    "source": "BlackRock",
+    "timestamp": "2026-04-06T21:24:26.284Z",
+    "thirtyDayYield": 0.0337,
+    "asOfDate": "2026-04-02",
+    "nav": 106.13,
+    "expenseRatio": 0.0005,
+    "aum": 42919848899,
+    "weightedAverageCoupon": 0.0468,
+    "durationYears": 6.51,
+    "twelveMonTrlYield": 0.0319,
     "maturityYears": 7.25
   }
 ]
