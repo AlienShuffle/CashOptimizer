@@ -349,7 +349,7 @@
   {
     "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-03T11:59:26.146Z",
+    "timestamp": "2026-04-06T18:18:01.898Z",
     "thirtyDayYield": 0.0247,
     "asOfDate": "2026-04-01",
     "nav": 100.98,
@@ -361,5 +361,21 @@
     "yieldToWorst": 0.0281,
     "maturityYears": 3.4,
     "weightedAverageCoupon": 0.0448
+  },
+  {
+    "ticker": "VTES",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-07T10:04:28.614Z",
+    "thirtyDayYield": 0.0248,
+    "asOfDate": "2026-04-02",
+    "nav": 101.03,
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0005,
+    "aum": 1800000000,
+    "distributionYield": 0.0301,
+    "durationYears": 2.6,
+    "yieldToWorst": 0.0274,
+    "maturityYears": 3.4,
+    "weightedAverageCoupon": 0.0453
   }
 ]
