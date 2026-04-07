@@ -9,7 +9,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239458/",
     "distroUrl": "https://blackrock.com/us/individual/products/239458/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "AGG",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "ticker": "BIL",
@@ -110,7 +110,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239468/",
     "distroUrl": "https://blackrock.com/us/individual/products/239468/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "GOVT",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "asOfDate": "2026-04-02",
@@ -122,7 +122,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239456/",
     "distroUrl": "https://blackrock.com/us/individual/products/239456/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "IEF",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "asOfDate": "2026-04-02",
@@ -134,11 +134,11 @@
     "baseUrl": "https://blackrock.com/us/individual/products/264615/",
     "distroUrl": "https://blackrock.com/us/individual/products/264615/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "IUSB",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
-    "asOfDate": "2026-04-02",
-    "nav": 94.913933,
+    "asOfDate": "2026-04-06",
+    "nav": 94.842751,
     "thirtyDayYield": 0.04106,
     "twelveMonTrlYield": 0.04223,
     "source": "BlackRock",
@@ -146,7 +146,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239465/",
     "distroUrl": "https://blackrock.com/us/individual/products/239465/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "MBB",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "asOfDate": "2026-04-02",
@@ -158,7 +158,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239766/",
     "distroUrl": "https://blackrock.com/us/individual/products/239766/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "MUB",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "accountType": "VG NY Tax-Exempt Bond ETF",
@@ -179,7 +179,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/314116/",
     "distroUrl": "https://blackrock.com/us/individual/products/314116/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "SGOV",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "ticker": "SPTI",
@@ -199,7 +199,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239450/",
     "distroUrl": "https://blackrock.com/us/individual/products/239450/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "STIP",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "asOfDate": "2026-04-02",
@@ -211,7 +211,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239467/",
     "distroUrl": "https://blackrock.com/us/individual/products/239467/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TIP",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "asOfDate": "2026-04-02",
@@ -223,7 +223,7 @@
     "baseUrl": "https://blackrock.com/us/individual/products/239454/",
     "distroUrl": "https://blackrock.com/us/individual/products/239454/fund/1515394931018.ajax?fileType=xls&dataType=fund",
     "ticker": "TLT",
-    "timestamp": "2026-04-06T22:59:53.156Z"
+    "timestamp": "2026-04-07T00:33:19.822Z"
   },
   {
     "ticker": "USFR",
@@ -370,13 +370,13 @@
     "timestamp": "2026-04-06T23:03:11.459Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-04-01",
-    "nav": 76.3,
-    "thirtyDayYield": 0.0314,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-04-06T21:29:29.377Z"
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.25,
+    "thirtyDayYield": 0.0314,
+    "asOfDate": "2026-04-01",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-07T00:35:44.092Z"
   },
   {
     "accountType": "Total Corporate Bond ETF",
@@ -451,13 +451,13 @@
     "timestamp": "2026-04-06T21:29:29.377Z"
   },
   {
-    "accountType": "Total InflatPro Sec ETF",
-    "asOfDate": "2026-04-02",
-    "nav": 76.37,
-    "thirtyDayYield": 0.0143,
-    "source": "Vanguard.com ETF",
     "ticker": "VTP",
-    "timestamp": "2026-04-06T21:29:29.377Z"
+    "accountType": "Total Inflation-Protected Securities ETF",
+    "nav": 76.18,
+    "thirtyDayYield": 0.0143,
+    "asOfDate": "2026-04-02",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-07T00:35:44.092Z"
   },
   {
     "accountType": "Ultra-Short Bond ETF",
