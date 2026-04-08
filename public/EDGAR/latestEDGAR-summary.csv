@@ -22,7 +22,7 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0315,"BTRXX","T-fund Cash Reserve","Government",5000,50,101,"",60421642.62,"2026-03-31","2026-03-31",0.48368,0
 0.0349,"BUCXX","Blackrock Liquidity Funds Treasury Trust Fund Capital Shares","Government",50000,53,101,0.0022,1785500276.43,"2026-03-31","2026-03-31",1,0
 0.0355,"BUPXX","Blackrock Liquidity Funds Fedfund Premier Shares","Government",3000000,50,103,0.0017,3756564911.95,"2026-03-31","2026-03-31",0.57736,0
-0.0326,"CPFXX","American Century Capital Preservation Fund Investor Class","Government",2500,53,64,0.0047,2267460374.98,"2026-02-27","2026-02-28",1,0
+0.0326,"CPFXX","American Century Capital Preservation Fund Investor Class","Government",2500,53,62,0.0047,2284488516.89,"2026-03-31","2026-03-31",1,0
 0.0355,"DGLXX","Blackrock Liquidity Funds Treasury Trust Fund Dlt Shares","Government",3000000,53,101,0.0017,51331.25,"2026-03-31","2026-03-31",1,0
 0.034,"DMMKI","Blackrock Government MM V.i. Fund Institutional","Government",1,50,107,"",182688465.99,"2026-03-31","2026-03-31",0.60172,0
 0.0352,"EDUXX","Blackrock Select Treasury Based Liquidity Fund Mischler Financial Group Shares","Government",3000000,22,22,0.0017,5042284.76,"2026-03-31","2026-03-31",0.63908,0
@@ -46,11 +46,11 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0218,"FEXXX","Fidelity Investments MM Tax Exempt Portfolio Class Ii","Muni",1000000,31,31,0.0033,1175944.61,"2026-03-31","2026-03-31",0,1
 0.023,"FFTXX","Federated Hermes Institutional Tax-free Cash Trust Institutional Shares","Muni",500000,5,5,0.002,2018333304.8,"2026-03-31","2026-03-31",0,1
 0.0348,"FGEXX","Fidelity Investments MM Government Portfolio Select Class","Government",1000000,37,86,0.0023,146344443.72,"2026-03-31","2026-03-31",0.53384,0
-0.0355,"FGTXX","Goldman Sachs Financial Square Government Fund Institutional Shares","Government",10000000,40,110,0.0018,231224108480.38,"2026-02-27","2026-02-27",0.41585,0
+0.0353,"FGTXX","Goldman Sachs Financial Square Government Fund Institutional Shares","Government",10000000,43,113,0.0018,228928365099.92,"2026-03-31","2026-03-31",0.41275,0
 0.0353,"FIGXX","Fidelity Investments MM Government Portfolio Class I","Government",1000000,37,86,0.0018,54786136038.42,"2026-03-31","2026-03-31",0.53384,0
 0.0355,"FISXX","Fidelity Investments MM Treasury Portfolio Class I","Government",1000000,40,111,0.0018,30941297922.75,"2026-03-31","2026-03-31",0.57193,0
 0.0222,"FMAXX","Fidelity Massachusetts Municipal MM Institutional Class","SingleState",1000000,34,34,0.002,2270215548.56,"2026-03-31","2026-03-31",0,1
-0.0368,"FMJXX","Goldman Sachs Investor MM Class I","Prime",10000000,35,94,0.0018,8039291859.21,"2026-02-27","2026-02-27",0.16149,0.07245
+0.0365,"FMJXX","Goldman Sachs Investor MM Class I","Prime",10000000,41,95,0.0018,8129126026.46,"2026-03-31","2026-03-31",0.17204,0.09952
 0.0209,"FMOXX","Fidelity Tax-exempt MM","Muni",1,34,34,0.0042,1188743801.2,"2026-03-31","2026-03-31",0,1
 0.0358,"FMPXX","Fidelity Investments MM Money Market Portfolio - Class I","Prime",1000000,32,33,0.0018,75253398979.75,"2026-03-31","2026-03-31",0.30336,0
 0.0213,"FMSXX","Fidelity Massachusetts Municipal MM Premium","SingleState",25000,34,34,0.003,1277660441.94,"2026-03-31","2026-03-31",0,1
@@ -74,10 +74,10 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0233,"FTCXX","Fidelity Investments MM Tax Exempt Portfolio Class I","Muni",1000000,31,31,0.0018,11619067410.33,"2026-03-31","2026-03-31",0,1
 0.022,"FTEXX","Fidelity Municipal MM","Muni",1,37,37,0.0039,3925589392.9,"2026-03-31","2026-03-31",0,1
 0.0235,"FTFXX","Federated Hermes Institutional Tax-free Cash Trust Premier Shares","Muni",5000000,5,5,0.0015,921973627.1,"2026-03-31","2026-03-31",0,1
-0.0352,"FTIXX","Goldman Sachs Financial Square Treasury Instruments Fund Institutional Shares","Government",10000000,54,112,0.002,93798491595.61,"2026-02-27","2026-02-27",1,0
+0.0352,"FTIXX","Goldman Sachs Financial Square Treasury Instruments Fund Institutional Shares","Government",10000000,53,115,0.002,92459966330.81,"2026-03-31","2026-03-31",1,0
 0.035,"FTUXX","Fidelity Investments MM Treasury Portfolio Select Class","Government",1000000,40,111,0.0023,294133243.38,"2026-03-31","2026-03-31",0.57193,0
 0.0305,"FTVXX","Fidelity Investments MM Treasury Portfolio Class Iv","Government",1000000,40,111,0.0068,1087181298.44,"2026-03-31","2026-03-31",0.57193,0
-0.0229,"FTXXX","Goldman Sachs Investor Tax-exempt MM Institutional Shares","Muni",10000000,23,23,0.0018,3926719266.44,"2026-02-27","2026-02-27",0.15264,0.84736
+0.0229,"FTXXX","Goldman Sachs Investor Tax-exempt MM Institutional Shares","Muni",10000000,20,20,0.0018,4105299199.89,"2026-03-31","2026-03-31",0,1
 0.0348,"FTYXX","Fidelity Investments MM Treasury Only Portfolio Select Class","Government",1000000,55,111,0.0023,2786085529.59,"2026-03-31","2026-03-31",1,0
 0.0351,"FYHXX","Fidelity Treasury Digital Liquidity","Government",1000000,37,37,0.0018,32337658.8,"2026-03-31","2026-03-31",1,0
 0.0276,"FZAXX","Fidelity Government MM Capital Reserves Class","Government",1,44,109,0.0095,3718129139.32,"2026-03-31","2026-03-31",0.59527,0
@@ -94,16 +94,16 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0358,"GOVXX","Federated Hermes Govt Obl Advisor","Government",1000000,48,100,0.0015,8871503499.66,"2026-03-31","2026-03-31",0.46679,0
 0.0355,"GPAXX","Blackrock Liquidity Funds Fedfund Great Pacific Shares","Government",3000000,50,103,0.0017,53363.19,"2026-03-31","2026-03-31",0.57736,0
 0.0367,"GPCXX","Blackrock Liquidity Funds Tempcash Great Pacific Shares","Prime",3000000,43,73,0.0018,819128679.87,"2026-03-31","2026-03-31",0.04127,0.00576
-0.0314,"HTSXX","Jpmorgan 100% US Treasury Securities MM Morgan Class","Government",1000,54,108,0.0057,7345354761.59,"2026-02-27","2026-02-27",1,0
+0.0316,"HTSXX","Jpmorgan 100% US Treasury Securities MM Morgan Class","Government",1000,53,109,0.0057,7406798289.12,"2026-03-31","2026-03-31",1,0
 0.0355,"HUAXX","Blackrock Liquidity Funds Fedfund Mischler Financial Group Shares","Government",3000000,50,103,0.0017,3038861519.04,"2026-03-31","2026-03-31",0.57736,0
-0.0351,"JMMF","Jpmorgan 100% US Treasury Securities MM ETF Morgan","Government",0.01,50,69,"",54055099.76,"2026-02-27","2026-02-27",0.993,0
+0.0352,"JMMF","Jpmorgan 100% US Treasury Securities MM ETF","Government",0.01,50,84,0.0016,60072310.57,"2026-03-31","2026-03-31",1,0
 0.0254,"MCBXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Investor C Shares","Government",1000,46,102,0.0117,1197497.33,"2026-03-31","2026-03-31",0.57653,0
 0.0223,"MCSXX","Blackrock Liquidity Funds Municash Institutional Shares","Muni",3000000,5,5,0.0021,4177798766.54,"2026-03-31","2026-03-31",0,1
 0.0362,"MMKT","Texas Capital Government MM ETF","Government",0.01,43,53,"",77681539.6,"2026-02-27","2026-02-28",0.72118,0
 0.0328,"MNRSV","Blackrock Government MM Portfolio","Government",1,48,107,"",113721658.14,"2026-03-31","2026-03-31",0.60978,0
 0.0329,"MSAXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Investor A Shares","Government",1000,46,102,0.0042,1012920858.44,"2026-03-31","2026-03-31",0.57653,0
 0.0329,"MSIXX","Blackrock Financial Institutions Series Trust Summit Cash Reserves Fund Institutional","Government",2000000,46,102,0.0042,152872304.43,"2026-03-31","2026-03-31",0.57653,0
-0.0353,"MSUXX","Morgan Stanley Institutional Liquidity Treasury Securities Portfolio Institutional Class","Government",10000000,53,114,0.002,60605146202,"2026-02-27","2026-02-28",1,0
+0.0353,"MSUXX","Morgan Stanley Institutional Liquidity Treasury Securities Portfolio Institutional Class","Government",10000000,55,111,0.002,63149060540.74,"2026-03-31","2026-03-31",1,0
 0.0366,"PCOXX","Federated Hermes Prime Cash Obligations Fund Wealth","Prime",500000,45,65,0.002,93084161816.07,"2026-03-31","2026-03-31",0,0.01176
 0.0356,"PGYXX","Pimco Government MM Class Institutional","Government",10000,1,1,0.0018,1680740642.21,"2026-03-31","2026-03-31",0,0
 0.0334,"PINXX","Blackrock Wealth Liquid Environmentally Aware Fund Investor A Shares","Prime",1000,46,76,0.0055,4918165670.93,"2026-03-31","2026-03-31",0.02532,0.00268
@@ -152,12 +152,12 @@ yield,ticker,friendlyName,category,minimumInitialInvestment,wam,wal,expenseRatio
 0.0354,"TTTXX","Blackrock Liquidity Funds Treasury Trust Fund Institutional Shares","Government",3000000,53,101,0.0017,172146051257.41,"2026-03-31","2026-03-31",1,0
 0.0359,"USDXX","Circle Reserve Fund Institutional Shares","Government",2000000000,15,15,0.0017,66467038907.22,"2026-03-31","2026-03-31",0.37937,0
 0.0352,"UTIXX","Federated Hermes US Treasury Cash Reserves Fund Institutional Shares","Government",500000,51,102,0.002,36070432008.98,"2026-03-31","2026-03-31",1,0
-0.0159,"VCTXX","Vanguard California Municipal MM Investor","SingleState",3000,15,15,0.0012,3766468043.24,"2026-02-27","2026-02-28",0,1
-0.0359,"VMFXX","Vanguard Federal MM Investor","Government",3000,37,59,0.0011,373156283616.44,"2026-02-27","2026-02-28",0.70109,0
-0.036,"VMRXX","Vanguard Cash Reserves Federal MM Admiral Shares","Government",3000,38,63,0.001,120437227993.56,"2026-02-27","2026-02-28",0.74117,0
-0.0197,"VMSXX","Vanguard Municipal MM Investor","Muni",3000,15,18,0.0011,17453156687.01,"2026-02-27","2026-02-28",0,1
-0.0363,"VUSXX","Vanguard Treasury MM Investor","Government",3000,37,57,0.0007,105149604133.84,"2026-02-27","2026-02-28",1,0
-0.0194,"VYFXX","Vanguard New York Municipal MM Investor","SingleState",3000,13,14,0.0011,3330471580.43,"2026-02-27","2026-02-28",0,1
+0.0205,"VCTXX","Vanguard California Municipal MM Investor","SingleState",3000,15,16,0.0012,3707972783.52,"2026-03-31","2026-03-31",0,1
+0.0358,"VMFXX","Vanguard Federal MM Investor","Government",3000,34,55,0.0011,378637243253.05,"2026-03-31","2026-03-31",0.76404,0
+0.036,"VMRXX","Vanguard Cash Reserves Federal MM Admiral Shares","Government",3000,33,57,0.001,120241243053.64,"2026-03-31","2026-03-31",0.80235,0
+0.0241,"VMSXX","Vanguard Municipal MM Investor","Muni",3000,14,16,0.0011,17487389688.18,"2026-03-31","2026-03-31",0,1
+0.0363,"VUSXX","Vanguard Treasury MM Investor","Government",3000,34,59,0.0007,106832964978.65,"2026-03-31","2026-03-31",1,0
+0.0239,"VYFXX","Vanguard New York Municipal MM Investor","SingleState",3000,13,14,0.0011,3394680447.59,"2026-03-31","2026-03-31",0,1
 0.0369,"WMPXX","Allspring MM Class Premier","Prime",10000000,35,66,0.002,41798738825.59,"2026-03-31","2026-03-31",0.01162,0.12211
 0.0351,"WOTXX","Allspring 100% Treasury MM Class Inst","Government",10000000,54,98,0.002,12324142875.56,"2026-03-31","2026-03-31",1,0
 0.0355,"WSTXX","Blackrock Liquidity Fedfund Westcap Shares","Government",3000000,50,103,0.0017,42615704.57,"2026-03-31","2026-03-31",0.57736,0
