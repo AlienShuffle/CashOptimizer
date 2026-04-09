@@ -234,11 +234,11 @@
     "timestamp": "2026-04-09T04:32:16.109Z"
   },
   {
-    "asOfDate": "2026-04-07",
-    "sevenDayYield": 0.032294,
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.032262,
     "source": "cnbc",
     "ticker": "CPFXX",
-    "timestamp": "2026-04-08T08:02:42.538Z",
+    "timestamp": "2026-04-09T07:44:02.187Z",
     "nav": 1
   },
   {
@@ -278,642 +278,483 @@
     "timestamp": "2026-04-09T04:32:16.109Z"
   },
   {
-    "accountType": "CA Muni Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0179,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0171,
-    "thirtyDayYield": 0.018,
-    "source": "Fidelity.com",
-    "ticker": "FABXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "MA Muni Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.019,
-    "sevenDayYield": 0.018,
-    "thirtyDayYield": 0.0191,
-    "source": "Fidelity.com",
-    "ticker": "FAUXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "NY Muni Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0202,
-    "sevenDayYield": 0.0195,
-    "thirtyDayYield": 0.0202,
-    "source": "Fidelity.com",
-    "ticker": "FAWXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "NJ Muni Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0179,
-    "sevenDayYield": 0.017,
-    "thirtyDayYield": 0.0184,
-    "source": "Fidelity.com",
-    "ticker": "FAYXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "FIMM Treasury - II",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0339,
-    "sevenDayYield": 0.0339,
-    "thirtyDayYield": 0.0339,
-    "source": "Fidelity.com",
-    "ticker": "FCEXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "FIMM Government - III",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0327,
-    "sevenDayYield": 0.0328,
-    "thirtyDayYield": 0.0328,
-    "source": "Fidelity.com",
-    "ticker": "FCGXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "FIMM Money Market - II",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0342,
-    "sevenDayYield": 0.0342,
-    "thirtyDayYield": 0.0343,
-    "source": "Fidelity.com",
-    "ticker": "FCIXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "FIMM Money Market - III",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0332,
-    "sevenDayYield": 0.0332,
-    "thirtyDayYield": 0.0333,
-    "source": "Fidelity.com",
-    "ticker": "FCOXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "FIMM Treasury - III",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0329,
-    "sevenDayYield": 0.0329,
-    "thirtyDayYield": 0.0329,
-    "source": "Fidelity.com",
-    "ticker": "FCSXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "FIMM Government - II",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0337,
-    "sevenDayYield": 0.0338,
-    "thirtyDayYield": 0.0338,
-    "source": "Fidelity.com",
-    "ticker": "FCVXX",
-    "timestamp": "2026-04-08T08:00:47.109Z"
-  },
-  {
-    "accountType": "Tax-Exempt MM-Daily Money",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0177,
-    "sevenDayYield": 0.0171,
-    "thirtyDayYield": 0.0174,
-    "source": "Fidelity.com",
-    "ticker": "FDEXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
-  },
-  {
-    "accountType": "Treasury Only MM",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0327,
-    "sevenDayYield": 0.0327,
-    "thirtyDayYield": 0.0328,
-    "source": "Fidelity.com",
-    "ticker": "FDLXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
-  },
-  {
-    "accountType": "Government Cash Reserves",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0335,
-    "sevenDayYield": 0.0336,
-    "thirtyDayYield": 0.0337,
-    "source": "Fidelity.com",
-    "ticker": "FDRXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
-  },
-  {
-    "accountType": "Treasury MM-Daily Money",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0302,
-    "sevenDayYield": 0.0302,
-    "thirtyDayYield": 0.0302,
-    "source": "Fidelity.com",
-    "ticker": "FDUXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
-  },
-  {
-    "accountType": "Tax-Exempt MM - CRF",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0152,
-    "sevenDayYield": 0.0146,
-    "thirtyDayYield": 0.0149,
-    "source": "Fidelity.com",
-    "ticker": "FERXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
-  },
-  {
-    "accountType": "FIMM Tax-Exempt - III",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0204,
-    "sevenDayYield": 0.0194,
-    "thirtyDayYield": 0.0199,
-    "source": "Fidelity.com",
-    "ticker": "FETXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
-  },
-  {
-    "accountType": "FIMM Tax-Exempt - II",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0214,
-    "sevenDayYield": 0.0204,
-    "thirtyDayYield": 0.0209,
-    "source": "Fidelity.com",
-    "ticker": "FEXXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
-  },
-  {
-    "asOfDate": "2026-04-07",
-    "sevenDayYield": 0.0207,
     "source": "cnbc",
-    "ticker": "FFTXX",
-    "timestamp": "2026-04-08T08:02:43.113Z",
+    "ticker": "FABXX",
+    "timestamp": "2026-04-09T07:44:17.930Z",
     "nav": 1
   },
   {
-    "accountType": "FIMM Government - SEL",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0347,
-    "sevenDayYield": 0.0348,
-    "thirtyDayYield": 0.0348,
-    "source": "Fidelity.com",
-    "ticker": "FGEXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.018,
+    "source": "cnbc",
+    "ticker": "FAUXX",
+    "timestamp": "2026-04-09T07:44:18.354Z",
+    "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0195,
+    "source": "cnbc",
+    "ticker": "FAWXX",
+    "timestamp": "2026-04-09T07:44:18.729Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.017,
+    "source": "cnbc",
+    "ticker": "FAYXX",
+    "timestamp": "2026-04-09T07:44:19.066Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0339,
+    "source": "cnbc",
+    "ticker": "FCEXX",
+    "timestamp": "2026-04-09T07:44:19.445Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0328,
+    "source": "cnbc",
+    "ticker": "FCGXX",
+    "timestamp": "2026-04-09T07:44:19.923Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0342,
+    "source": "cnbc",
+    "ticker": "FCIXX",
+    "timestamp": "2026-04-09T07:44:20.354Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0332,
+    "source": "cnbc",
+    "ticker": "FCOXX",
+    "timestamp": "2026-04-09T07:44:20.751Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0329,
+    "source": "cnbc",
+    "ticker": "FCSXX",
+    "timestamp": "2026-04-09T07:44:21.086Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0338,
+    "source": "cnbc",
+    "ticker": "FCVXX",
+    "timestamp": "2026-04-09T07:44:21.392Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0171,
+    "source": "cnbc",
+    "ticker": "FDEXX",
+    "timestamp": "2026-04-09T07:44:22.047Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0327,
+    "source": "cnbc",
+    "ticker": "FDLXX",
+    "timestamp": "2026-04-09T07:44:22.342Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0336,
+    "source": "cnbc",
+    "ticker": "FDRXX",
+    "timestamp": "2026-04-09T07:44:22.541Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0302,
+    "source": "cnbc",
+    "ticker": "FDUXX",
+    "timestamp": "2026-04-09T07:44:22.880Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0146,
+    "source": "cnbc",
+    "ticker": "FERXX",
+    "timestamp": "2026-04-09T07:44:23.101Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0194,
+    "source": "cnbc",
+    "ticker": "FETXX",
+    "timestamp": "2026-04-09T07:44:26.468Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0204,
+    "source": "cnbc",
+    "ticker": "FEXXX",
+    "timestamp": "2026-04-09T07:44:26.838Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0204,
+    "source": "cnbc",
+    "ticker": "FFTXX",
+    "timestamp": "2026-04-09T07:44:27.074Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0348,
+    "source": "cnbc",
+    "ticker": "FGEXX",
+    "timestamp": "2026-04-09T07:44:27.358Z",
+    "nav": 1
+  },
+  {
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.035513,
     "source": "cnbc",
     "ticker": "FGTXX",
-    "timestamp": "2026-04-08T08:02:43.347Z",
+    "timestamp": "2026-04-09T07:44:03.122Z",
     "nav": 1
   },
   {
-    "accountType": "FIMM Government - I",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0352,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0353,
-    "thirtyDayYield": 0.0353,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FIGXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
+    "timestamp": "2026-04-09T07:44:27.680Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury - I",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0354,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0354,
-    "thirtyDayYield": 0.0354,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FISXX",
-    "timestamp": "2026-04-08T08:00:58.194Z"
+    "timestamp": "2026-04-09T07:44:27.927Z",
+    "nav": 1
   },
   {
-    "accountType": "MA Municipal MM - Inst",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0212,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0202,
-    "thirtyDayYield": 0.0212,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FMAXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:28.167Z",
+    "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.036655,
     "source": "cnbc",
     "ticker": "FMJXX",
-    "timestamp": "2026-04-08T08:02:44.116Z",
+    "timestamp": "2026-04-09T07:44:03.612Z",
     "nav": 1
   },
   {
-    "accountType": "Tax-Exempt Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0205,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0199,
-    "thirtyDayYield": 0.0202,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FMOXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:28.491Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Money Market - I",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0357,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0357,
-    "thirtyDayYield": 0.0358,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FMPXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:28.844Z",
+    "nav": 1
   },
   {
-    "accountType": "MA Municipal MM - Prem",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0202,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0192,
-    "thirtyDayYield": 0.0202,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FMSXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:29.777Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Money Market - SEL",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0352,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0352,
-    "thirtyDayYield": 0.0353,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FMYXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:30.131Z",
+    "nav": 1
   },
   {
-    "accountType": "NY Municipal MM - Inst",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0224,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0218,
-    "thirtyDayYield": 0.0223,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FNKXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:30.376Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Money Market - Inst",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0361,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0361,
-    "thirtyDayYield": 0.0362,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FNSXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:30.800Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury Only - III",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0327,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0326,
-    "thirtyDayYield": 0.0327,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FOIXX",
-    "timestamp": "2026-04-08T08:01:36.288Z"
+    "timestamp": "2026-04-09T07:44:58.585Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury Only - IV",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0302,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0301,
-    "thirtyDayYield": 0.0302,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FOPXX",
-    "timestamp": "2026-04-08T08:01:36.288Z"
+    "timestamp": "2026-04-09T07:44:58.847Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury Only - II",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0337,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0336,
-    "thirtyDayYield": 0.0337,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FOXXX",
-    "timestamp": "2026-04-08T08:01:36.288Z"
+    "timestamp": "2026-04-09T07:44:58.332Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury - Inst",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0358,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0358,
-    "thirtyDayYield": 0.0358,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FRBXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:31.035Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Government - Inst",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0356,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0357,
-    "thirtyDayYield": 0.0357,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FRGXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:31.470Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury Only - Inst",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0356,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0355,
-    "thirtyDayYield": 0.0356,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FRSXX",
-    "timestamp": "2026-04-08T08:01:08.894Z"
+    "timestamp": "2026-04-09T07:44:31.651Z",
+    "nav": 1
   },
   {
-    "accountType": "CA Muni MM - Instl",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0201,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0193,
-    "thirtyDayYield": 0.0201,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSBXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:32.346Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury Only - I",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0352,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0351,
-    "thirtyDayYield": 0.0352,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSIXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:32.781Z",
+    "nav": 1
   },
   {
-    "accountType": "NJ Municipal MM - Prem",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0191,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0182,
-    "thirtyDayYield": 0.0195,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSJXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:33.214Z",
+    "nav": 1
   },
   {
-    "accountType": "NJ Municipal MM - Inst",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0201,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0192,
-    "thirtyDayYield": 0.0205,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSKXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:37.723Z",
+    "nav": 1
   },
   {
-    "accountType": "NY Municipal MM - Prem",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0214,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0207,
-    "thirtyDayYield": 0.0214,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSNXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:37.981Z",
+    "nav": 1
   },
   {
-    "accountType": "CA Muni MM - Premium",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0191,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0183,
-    "thirtyDayYield": 0.0191,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSPXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:38.435Z",
+    "nav": 1
   },
   {
-    "accountType": "Treasury MM - CRF",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0277,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0277,
-    "thirtyDayYield": 0.0277,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSRXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:38.855Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Tax-Exempt - SEL",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0224,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0214,
-    "thirtyDayYield": 0.0219,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FSXXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:39.095Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Tax-Exempt - I",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0229,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0219,
-    "thirtyDayYield": 0.0224,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FTCXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:39.343Z",
+    "nav": 1
   },
   {
-    "accountType": "Municipal Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0214,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0206,
-    "thirtyDayYield": 0.0211,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FTEXX",
-    "timestamp": "2026-04-08T08:01:19.538Z"
+    "timestamp": "2026-04-09T07:44:39.691Z",
+    "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
-    "sevenDayYield": 0.0212,
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.0209,
     "source": "cnbc",
     "ticker": "FTFXX",
-    "timestamp": "2026-04-08T08:02:44.467Z",
+    "timestamp": "2026-04-09T07:44:39.917Z",
     "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.035268,
     "source": "cnbc",
     "ticker": "FTIXX",
-    "timestamp": "2026-04-08T08:02:45.243Z",
+    "timestamp": "2026-04-09T07:44:04.214Z",
     "nav": 1
   },
   {
-    "accountType": "FIMM Treasury - SEL",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0349,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0349,
-    "thirtyDayYield": 0.0349,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FTUXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:40.384Z",
+    "nav": 1
   },
   {
-    "accountType": "FIMM Treasury - IV",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0304,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0304,
-    "thirtyDayYield": 0.0304,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FTVXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:40.774Z",
+    "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.023001,
     "source": "cnbc",
     "ticker": "FTXXX",
-    "timestamp": "2026-04-08T08:02:45.803Z",
+    "timestamp": "2026-04-09T07:44:04.603Z",
     "nav": 1
   },
   {
-    "accountType": "FIMM Treasury Only - SEL",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0347,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0346,
-    "thirtyDayYield": 0.0347,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FTYXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:41.050Z",
+    "nav": 1
   },
   {
-    "accountType": "Fid Treasury Dig Fund",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.035,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.035,
-    "thirtyDayYield": 0.035,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FYHXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:41.892Z",
+    "nav": 1
   },
   {
-    "accountType": "Government MM - CRF",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0275,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0276,
-    "thirtyDayYield": 0.0276,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FZAXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:42.291Z",
+    "nav": 1
   },
   {
-    "accountType": "Government MM - Premium",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0338,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0339,
-    "thirtyDayYield": 0.0339,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FZCXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:42.591Z",
+    "nav": 1
   },
   {
-    "accountType": "Money Market - Pr",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0345,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0345,
-    "thirtyDayYield": 0.0346,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FZDXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:42.831Z",
+    "nav": 1
   },
   {
-    "accountType": "Tax-Exempt MM - Pr",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0217,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0211,
-    "thirtyDayYield": 0.0214,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FZEXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:43.241Z",
+    "nav": 1
   },
   {
-    "accountType": "Treasury Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.033,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.033,
-    "thirtyDayYield": 0.033,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FZFXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:43.646Z",
+    "nav": 1
   },
   {
-    "accountType": "Government MM - M",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.03,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0301,
-    "thirtyDayYield": 0.0301,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "FZGXX",
-    "timestamp": "2026-04-08T08:01:30.250Z"
+    "timestamp": "2026-04-09T07:44:43.883Z",
+    "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
-    "sevenDayYield": 0.035889,
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.035892,
     "source": "cnbc",
     "ticker": "GABXX",
-    "timestamp": "2026-04-08T08:02:46.150Z",
+    "timestamp": "2026-04-09T07:44:05.001Z",
     "nav": 1
   },
   {
@@ -925,35 +766,35 @@
     "timestamp": "2026-04-07T16:23:48.339Z"
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0356,
     "source": "cnbc",
     "ticker": "GOFXX",
-    "timestamp": "2026-04-08T08:02:46.390Z",
+    "timestamp": "2026-04-09T07:44:44.045Z",
     "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0352,
     "source": "cnbc",
     "ticker": "GOIXX",
-    "timestamp": "2026-04-08T08:02:46.713Z",
+    "timestamp": "2026-04-09T07:44:48.141Z",
     "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.034941,
     "source": "cnbc",
     "ticker": "GOTXX",
-    "timestamp": "2026-04-08T08:02:47.012Z",
+    "timestamp": "2026-04-09T07:44:06.187Z",
     "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0356,
     "source": "cnbc",
     "ticker": "GOVXX",
-    "timestamp": "2026-04-08T08:02:47.208Z",
+    "timestamp": "2026-04-09T07:44:48.320Z",
     "nav": 1
   },
   {
@@ -975,11 +816,11 @@
     "timestamp": "2026-04-09T04:32:16.109Z"
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.031441,
     "source": "cnbc",
     "ticker": "HTSXX",
-    "timestamp": "2026-04-08T08:02:47.693Z",
+    "timestamp": "2026-04-09T07:44:08.360Z",
     "nav": 1
   },
   {
@@ -1053,27 +894,27 @@
     "timestamp": "2026-04-09T04:32:16.109Z"
   },
   {
-    "asOfDate": "2026-04-07",
-    "sevenDayYield": 0.035143,
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.035147,
     "source": "cnbc",
     "ticker": "MSUXX",
-    "timestamp": "2026-04-08T08:02:48.100Z",
+    "timestamp": "2026-04-09T07:44:48.852Z",
     "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0365,
     "source": "cnbc",
     "ticker": "PCOXX",
-    "timestamp": "2026-04-08T08:02:48.233Z",
+    "timestamp": "2026-04-09T07:44:49.067Z",
     "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0012,
     "source": "cnbc",
     "ticker": "PGYXX",
-    "timestamp": "2026-04-08T08:02:48.928Z",
+    "timestamp": "2026-04-09T07:44:10.652Z",
     "nav": 1
   },
   {
@@ -1112,11 +953,11 @@
     "timestamp": "2026-04-09T04:32:16.109Z"
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.037,
     "source": "cnbc",
     "ticker": "POIXX",
-    "timestamp": "2026-04-08T08:02:48.544Z",
+    "timestamp": "2026-04-09T07:44:10.238Z",
     "nav": 1
   },
   {
@@ -1263,26 +1104,20 @@
     "timestamp": "2026-04-09T01:24:39.100Z"
   },
   {
-    "accountType": "Government Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0328,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0329,
-    "thirtyDayYield": 0.0329,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "SPAXX",
-    "timestamp": "2026-04-08T08:01:36.288Z"
+    "timestamp": "2026-04-09T07:44:51.073Z",
+    "nav": 1
   },
   {
-    "accountType": "Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "oneDayYield": 0.0333,
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0333,
-    "thirtyDayYield": 0.0334,
-    "source": "Fidelity.com",
+    "source": "cnbc",
     "ticker": "SPRXX",
-    "timestamp": "2026-04-08T08:01:36.288Z"
+    "timestamp": "2026-04-09T07:44:51.449Z",
+    "nav": 1
   },
   {
     "accountType": "Schwab U.S. Treasury Money Fund - Ultra Shares",
@@ -1437,11 +1272,11 @@
     "timestamp": "2026-04-09T04:32:16.109Z"
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.0352,
     "source": "cnbc",
     "ticker": "TOIXX",
-    "timestamp": "2026-04-08T08:02:49.135Z",
+    "timestamp": "2026-04-09T07:44:53.926Z",
     "nav": 1
   },
   {
@@ -1508,81 +1343,75 @@
     "timestamp": "2026-04-09T04:32:16.109Z"
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.035084,
     "source": "cnbc",
     "ticker": "UTIXX",
-    "timestamp": "2026-04-08T08:02:49.704Z",
+    "timestamp": "2026-04-09T07:44:11.291Z",
     "nav": 1
   },
   {
-    "accountType": "California Muni Money Mkt",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "sevenDayYield": 0.0187,
-    "source": "Vanguard.com MM",
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.019003,
+    "source": "cnbc",
     "ticker": "VCTXX",
-    "timestamp": "2026-04-08T06:28:12.906Z"
+    "timestamp": "2026-04-09T07:45:00.704Z",
+    "nav": 1
   },
   {
-    "accountType": "Federal Money Mkt Fund",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "sevenDayYield": 0.0357,
-    "source": "Vanguard.com MM",
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.035709,
+    "source": "cnbc",
     "ticker": "VMFXX",
-    "timestamp": "2026-04-08T06:28:12.906Z"
+    "timestamp": "2026-04-09T07:45:00.018Z",
+    "nav": 1
   },
   {
-    "accountType": "Cash Res Fed MM Adm",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "sevenDayYield": 0.0359,
-    "source": "Vanguard.com MM",
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.035845,
+    "source": "cnbc",
     "ticker": "VMRXX",
-    "timestamp": "2026-04-08T06:28:12.906Z"
+    "timestamp": "2026-04-09T07:44:59.676Z",
+    "nav": 1
   },
   {
-    "accountType": "Municipal Money Mkt Fund",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "sevenDayYield": 0.0225,
-    "source": "Vanguard.com MM",
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.022838,
+    "source": "cnbc",
     "ticker": "VMSXX",
-    "timestamp": "2026-04-08T06:28:12.906Z"
+    "timestamp": "2026-04-09T07:44:59.246Z",
+    "nav": 1
   },
   {
-    "accountType": "Treasury Money Market",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "sevenDayYield": 0.0362,
-    "source": "Vanguard.com MM",
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.036219,
+    "source": "cnbc",
     "ticker": "VUSXX",
-    "timestamp": "2026-04-08T06:28:12.906Z"
+    "timestamp": "2026-04-09T07:44:59.877Z",
+    "nav": 1
   },
   {
-    "accountType": "New York Muni Money Mkt",
-    "asOfDate": "2026-04-07",
-    "nav": 1,
-    "sevenDayYield": 0.0223,
-    "source": "Vanguard.com MM",
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.022547,
+    "source": "cnbc",
     "ticker": "VYFXX",
-    "timestamp": "2026-04-08T06:28:12.906Z"
+    "timestamp": "2026-04-09T07:45:00.310Z",
+    "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
+    "asOfDate": "2026-04-08",
     "sevenDayYield": 0.036871,
     "source": "cnbc",
     "ticker": "WMPXX",
-    "timestamp": "2026-04-08T08:02:50.030Z",
+    "timestamp": "2026-04-09T07:44:12.765Z",
     "nav": 1
   },
   {
-    "asOfDate": "2026-04-07",
-    "sevenDayYield": 0.034974,
+    "asOfDate": "2026-04-08",
+    "sevenDayYield": 0.034978,
     "source": "cnbc",
     "ticker": "WOTXX",
-    "timestamp": "2026-04-08T08:02:50.955Z",
+    "timestamp": "2026-04-09T07:44:13.165Z",
     "nav": 1
   },
   {
