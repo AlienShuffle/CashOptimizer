@@ -1,11 +1,29 @@
 [
   {
-    "ticker": "BLV",
-    "accountType": "Long-Term Bond ETF",
-    "nav": 68.79,
-    "thirtyDayYield": 0.0536,
+    "ticker": "VCRB",
+    "accountType": "Core Bond ETF",
+    "nav": 77.32,
+    "thirtyDayYield": 0.0462,
     "asOfDate": "2026-04-08",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-11T00:49:01.866Z"
+    "timestamp": "2026-04-11T02:22:31.476Z"
+  },
+  {
+    "ticker": "EDV",
+    "accountType": "Extended Duration Treasury ETF",
+    "nav": 64,
+    "thirtyDayYield": 0.0523,
+    "asOfDate": "2026-04-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-11T02:22:31.476Z"
+  },
+  {
+    "ticker": "BND",
+    "accountType": "Total Bond Market ETF",
+    "nav": 73.62,
+    "thirtyDayYield": 0.0435,
+    "asOfDate": "2026-04-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-11T02:22:31.476Z"
   }
 ]
