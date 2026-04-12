@@ -1,38 +1,56 @@
 [
   {
-    "ticker": "VCRM",
-    "accountType": "Core Tax-Exempt Bond ETF",
-    "nav": 75.71,
-    "thirtyDayYield": 0.039,
+    "ticker": "VCRB",
+    "accountType": "Core Bond ETF",
+    "nav": 77.32,
+    "thirtyDayYield": 0.0463,
     "asOfDate": "2026-04-09",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-12T14:14:03.099Z"
+    "timestamp": "2026-04-12T15:47:47.850Z"
   },
   {
-    "ticker": "VGIT",
-    "accountType": "Intermediate-Term Treasury ETF",
-    "nav": 59.4,
-    "thirtyDayYield": 0.0402,
+    "ticker": "EDV",
+    "accountType": "Extended Duration Treasury ETF",
+    "nav": 64,
+    "thirtyDayYield": 0.0521,
     "asOfDate": "2026-04-09",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-12T14:14:03.099Z"
+    "timestamp": "2026-04-12T15:47:47.850Z"
   },
   {
-    "ticker": "VGLT",
-    "accountType": "Long-Term Treasury ETF",
-    "nav": 55.2,
-    "thirtyDayYield": 0.0491,
+    "ticker": "BLV",
+    "accountType": "Long-Term Bond ETF",
+    "nav": 68.79,
+    "thirtyDayYield": 0.0534,
     "asOfDate": "2026-04-09",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-12T14:14:03.099Z"
+    "timestamp": "2026-04-12T15:47:47.850Z"
   },
   {
-    "ticker": "VCSH",
-    "accountType": "Short-Term Corporate Bond ETF",
-    "nav": 79.19,
-    "thirtyDayYield": 0.0454,
+    "ticker": "VGMS",
+    "accountType": "Multi-Sector Income Bond ETF",
+    "nav": 51.14,
+    "thirtyDayYield": 0.0571,
     "asOfDate": "2026-04-09",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-12T14:14:03.099Z"
+    "timestamp": "2026-04-12T15:47:47.850Z"
+  },
+  {
+    "ticker": "BND",
+    "accountType": "Total Bond Market ETF",
+    "nav": 73.62,
+    "thirtyDayYield": 0.0434,
+    "asOfDate": "2026-04-09",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-12T15:47:47.850Z"
+  },
+  {
+    "ticker": "VTP",
+    "accountType": "Total Inflation-Protected Securities ETF",
+    "nav": 76.29,
+    "thirtyDayYield": 0.0145,
+    "asOfDate": "2026-04-09",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-12T15:47:47.850Z"
   }
 ]
