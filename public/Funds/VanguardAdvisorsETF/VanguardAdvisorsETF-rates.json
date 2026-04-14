@@ -1,20 +1,29 @@
 [
   {
-    "ticker": "BNDX",
-    "accountType": "Total International Bond ETF",
-    "nav": 47.9,
-    "thirtyDayYield": 0.034,
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "nav": 75.53,
+    "thirtyDayYield": 0.036,
     "asOfDate": "2026-04-10",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-14T11:41:52.611Z"
+    "timestamp": "2026-04-14T13:15:10.512Z"
   },
   {
-    "ticker": "VUSB",
-    "accountType": "Ultra-Short Bond ETF",
-    "nav": 49.72,
-    "thirtyDayYield": 0.0435,
+    "ticker": "MUNY",
+    "accountType": "New York Tax-Exempt Bond ETF",
+    "nav": 103.24,
+    "thirtyDayYield": 0.0342,
     "asOfDate": "2026-04-10",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-14T11:41:52.611Z"
+    "timestamp": "2026-04-14T13:15:10.512Z"
+  },
+  {
+    "ticker": "BSV",
+    "accountType": "Short-Term Bond ETF",
+    "nav": 78.34,
+    "thirtyDayYield": 0.0404,
+    "asOfDate": "2026-04-10",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-14T13:15:10.512Z"
   }
 ]
