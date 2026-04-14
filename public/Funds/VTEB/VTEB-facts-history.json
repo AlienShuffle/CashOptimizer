@@ -397,7 +397,7 @@
   {
     "ticker": "VTEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-11T21:06:00.534Z",
+    "timestamp": "2026-04-13T18:18:48.386Z",
     "thirtyDayYield": 0.0353,
     "asOfDate": "2026-04-09",
     "nav": 50.26,
@@ -409,5 +409,21 @@
     "yieldToWorst": 0.0362,
     "maturityYears": 14,
     "weightedAverageCoupon": 0.0443
+  },
+  {
+    "ticker": "VTEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-14T06:57:02.747Z",
+    "thirtyDayYield": 0.0353,
+    "asOfDate": "2026-04-10",
+    "nav": 50.3,
+    "accountType": "Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0003,
+    "aum": 41700000000,
+    "distributionYield": 0.0343,
+    "durationYears": 7,
+    "yieldToWorst": 0.0362,
+    "maturityYears": 14,
+    "weightedAverageCoupon": 0.0444
   }
 ]
