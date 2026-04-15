@@ -2,7 +2,7 @@
   {
     "ticker": "STIP",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:43:12.584Z",
+    "timestamp": "2026-04-15T17:18:07.309Z",
     "thirtyDayYield": 0.0575,
     "asOfDate": "2026-04-13",
     "nav": 103.62,
@@ -10,26 +10,28 @@
     "aum": 14822456823,
     "weightedAverageCoupon": 0.0103,
     "durationYears": 2.34,
-    "yieldToWorst": 0.0373,
+    "yieldToWorst": 0.0369,
     "twelveMonTrlYield": 0.0342,
     "maturityYears": 2.43
   },
   {
     "ticker": "TLT",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:43:19.568Z",
+    "timestamp": "2026-04-15T17:18:15.306Z",
     "thirtyDayYield": 0.0486,
     "asOfDate": "2026-04-13",
     "nav": 87.17,
     "expenseRatio": 0.0015,
     "aum": 42449920231,
-    "weightedAverageCoupon": 0.0317,
-    "twelveMonTrlYield": 0.0451
+    "weightedAverageCoupon": 0.0318,
+    "durationYears": 15.39,
+    "twelveMonTrlYield": 0.0451,
+    "maturityYears": 25.89
   },
   {
     "ticker": "IEF",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:43:25.256Z",
+    "timestamp": "2026-04-15T17:18:21.138Z",
     "thirtyDayYield": 0.0412,
     "asOfDate": "2026-04-13",
     "nav": 95.78,
@@ -38,12 +40,12 @@
     "weightedAverageCoupon": 0.0413,
     "durationYears": 6.97,
     "twelveMonTrlYield": 0.0383,
-    "maturityYears": 8.47
+    "maturityYears": 8.46
   },
   {
     "ticker": "AGG",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:43:31.077Z",
+    "timestamp": "2026-04-15T17:18:27.044Z",
     "thirtyDayYield": 0.0435,
     "asOfDate": "2026-04-13",
     "nav": 99.75,
@@ -52,55 +54,55 @@
     "weightedAverageCoupon": 0.0369,
     "durationYears": 5.76,
     "twelveMonTrlYield": 0.0393,
-    "maturityYears": 7.98
+    "maturityYears": 7.97
   },
   {
     "ticker": "MBB",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:43:41.695Z",
+    "timestamp": "2026-04-15T17:18:38.471Z",
     "thirtyDayYield": 0.041,
     "asOfDate": "2026-04-13",
     "nav": 95.48,
     "expenseRatio": 0.0004,
     "aum": 38935388240,
     "weightedAverageCoupon": 0.0354,
-    "durationYears": 5.29,
+    "durationYears": 5.26,
     "twelveMonTrlYield": 0.0421,
-    "maturityYears": 6.43
+    "maturityYears": 6.36
   },
   {
     "ticker": "TIP",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:43:49.529Z",
+    "timestamp": "2026-04-15T17:18:52.088Z",
     "thirtyDayYield": 0.0648,
     "asOfDate": "2026-04-13",
     "nav": 111.43,
     "expenseRatio": 0.0018,
     "aum": 14330170922,
     "weightedAverageCoupon": 0.0122,
-    "durationYears": 6.4,
-    "yieldToWorst": 0.0409,
+    "durationYears": 6.41,
+    "yieldToWorst": 0.0404,
     "twelveMonTrlYield": 0.0278,
-    "maturityYears": 7.19
+    "maturityYears": 7.2
   },
   {
     "ticker": "GOVT",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:43:55.704Z",
+    "timestamp": "2026-04-15T17:19:01.435Z",
     "thirtyDayYield": 0.0412,
     "asOfDate": "2026-04-13",
     "nav": 22.96,
     "expenseRatio": 0.0005,
     "aum": 40945894225,
     "weightedAverageCoupon": 0.0311,
-    "durationYears": 5.66,
+    "durationYears": 5.67,
     "twelveMonTrlYield": 0.0351,
-    "maturityYears": 7.58
+    "maturityYears": 7.59
   },
   {
     "ticker": "MUB",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:44:01.376Z",
+    "timestamp": "2026-04-15T17:19:09.019Z",
     "thirtyDayYield": 0.0339,
     "asOfDate": "2026-04-13",
     "nav": 106.94,
@@ -109,12 +111,12 @@
     "weightedAverageCoupon": 0.047,
     "durationYears": 6.33,
     "twelveMonTrlYield": 0.0317,
-    "maturityYears": 7.1
+    "maturityYears": 7.13
   },
   {
     "ticker": "IUSB",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:44:11.213Z",
+    "timestamp": "2026-04-15T17:19:20.879Z",
     "thirtyDayYield": 0.0454,
     "asOfDate": "2026-04-13",
     "nav": 46.46,
@@ -123,19 +125,19 @@
     "weightedAverageCoupon": 0.0396,
     "durationYears": 5.57,
     "twelveMonTrlYield": 0.0422,
-    "maturityYears": 7.77
+    "maturityYears": 7.76
   },
   {
     "ticker": "SGOV",
     "source": "BlackRock",
-    "timestamp": "2026-04-15T01:44:22.394Z",
+    "timestamp": "2026-04-15T17:19:32.620Z",
     "thirtyDayYield": 0.0355,
     "asOfDate": "2026-04-13",
     "nav": 100.51,
     "expenseRatio": 0.0009,
     "aum": 85490715604,
-    "durationYears": 0.1,
+    "durationYears": 0.09,
     "twelveMonTrlYield": 0.0395,
-    "maturityYears": 0.1
+    "maturityYears": 0.09
   }
 ]
