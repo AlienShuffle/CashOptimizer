@@ -1,20 +1,56 @@
 [
   {
-    "ticker": "VTEI",
-    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
-    "nav": 100.64,
-    "thirtyDayYield": 0.031,
+    "ticker": "EDV",
+    "accountType": "Extended Duration Treasury ETF",
+    "nav": 64.32,
+    "thirtyDayYield": 0.0522,
     "asOfDate": "2026-04-14",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-16T15:26:44.775Z"
+    "timestamp": "2026-04-16T17:02:37.715Z"
   },
   {
-    "ticker": "BNDW",
-    "accountType": "Total World Bond ETF",
-    "nav": 68.51,
-    "thirtyDayYield": 0.0421,
-    "asOfDate": "2026-03-31",
+    "ticker": "BLV",
+    "accountType": "Long-Term Bond ETF",
+    "nav": 69.21,
+    "thirtyDayYield": 0.0534,
+    "asOfDate": "2026-04-14",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-16T15:26:44.775Z"
+    "timestamp": "2026-04-16T17:02:37.715Z"
+  },
+  {
+    "ticker": "VSDB",
+    "accountType": "Short Duration Bond ETF",
+    "nav": 76.37,
+    "thirtyDayYield": 0.0457,
+    "asOfDate": "2026-04-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-16T17:02:37.715Z"
+  },
+  {
+    "ticker": "VSDM",
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.48,
+    "thirtyDayYield": 0.0322,
+    "asOfDate": "2026-04-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-16T17:02:37.715Z"
+  },
+  {
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 101.3,
+    "thirtyDayYield": 0.0256,
+    "asOfDate": "2026-04-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-16T17:02:37.715Z"
+  },
+  {
+    "ticker": "BND",
+    "accountType": "Total Bond Market ETF",
+    "nav": 73.86,
+    "thirtyDayYield": 0.0434,
+    "asOfDate": "2026-04-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-16T17:02:37.715Z"
   }
 ]
