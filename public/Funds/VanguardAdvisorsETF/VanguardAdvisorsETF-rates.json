@@ -1,29 +1,38 @@
 [
   {
-    "ticker": "VMBS",
-    "accountType": "Mortgage-Backed Securities ETF",
-    "nav": 47.08,
-    "thirtyDayYield": 0.0403,
+    "ticker": "VTEC",
+    "accountType": "California Tax-Exempt Bond ETF",
+    "nav": 99.79,
+    "thirtyDayYield": 0.0322,
     "asOfDate": "2026-04-14",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-16T10:44:01.580Z"
+    "timestamp": "2026-04-16T12:19:50.570Z"
   },
   {
-    "ticker": "VTP",
-    "accountType": "Total Inflation-Protected Securities ETF",
-    "nav": 76.66,
-    "thirtyDayYield": 0.0145,
-    "asOfDate": "2026-04-09",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-16T10:44:01.580Z"
-  },
-  {
-    "ticker": "VGUS",
-    "accountType": "Ultra-Short Treasury ETF",
-    "nav": 75.55,
-    "thirtyDayYield": 0.0362,
+    "ticker": "BNDP",
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 74.66,
+    "thirtyDayYield": 0.0461,
     "asOfDate": "2026-04-14",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-16T10:44:01.580Z"
+    "timestamp": "2026-04-16T12:19:50.570Z"
+  },
+  {
+    "ticker": "BIV",
+    "accountType": "Intermediate-Term Bond ETF",
+    "nav": 77.42,
+    "thirtyDayYield": 0.0455,
+    "asOfDate": "2026-04-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-16T12:19:50.570Z"
+  },
+  {
+    "ticker": "VTEL",
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 103.54,
+    "thirtyDayYield": 0.0399,
+    "asOfDate": "2026-04-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-16T12:19:50.570Z"
   }
 ]
