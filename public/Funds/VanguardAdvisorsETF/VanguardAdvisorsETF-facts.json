@@ -1,18 +1,33 @@
 [
   {
-    "ticker": "VTG",
+    "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-19T01:35:20.022Z",
-    "thirtyDayYield": 0.0415,
+    "timestamp": "2026-04-19T03:07:38.664Z",
+    "thirtyDayYield": 0.0343,
     "asOfDate": "2026-04-16",
-    "nav": 75.91,
-    "accountType": "Total Treasury ETF",
-    "expenseRatio": 0.0003,
-    "aum": 85200000,
-    "durationYears": 5.6,
-    "yieldToMaturity": 0.0411,
-    "yieldToWorst": 0.0411,
-    "maturityYears": 7.7,
-    "weightedAverageCoupon": 0.0338
+    "nav": 103.37,
+    "accountType": "New York Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0009,
+    "aum": 345500000,
+    "durationYears": 6.9,
+    "yieldToWorst": 0.0351,
+    "maturityYears": 13.8,
+    "weightedAverageCoupon": 0.047
+  },
+  {
+    "ticker": "VBIL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-19T03:07:58.433Z",
+    "thirtyDayYield": 0.036,
+    "asOfDate": "2026-04-16",
+    "nav": 75.58,
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "expenseRatio": 0.0006,
+    "aum": 6700000000,
+    "distributionYield": 0.0339,
+    "durationYears": 0.1,
+    "yieldToMaturity": 0.0367,
+    "yieldToWorst": 0.0367,
+    "maturityYears": 0.1
   }
 ]
