@@ -509,7 +509,7 @@
   {
     "ticker": "VTEI",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-18T19:23:04.563Z",
+    "timestamp": "2026-04-20T21:16:56.591Z",
     "thirtyDayYield": 0.0311,
     "asOfDate": "2026-04-16",
     "nav": 100.84,
@@ -521,5 +521,21 @@
     "yieldToWorst": 0.0325,
     "maturityYears": 9.2,
     "weightedAverageCoupon": 0.045
+  },
+  {
+    "ticker": "VTEI",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-21T11:32:17.318Z",
+    "thirtyDayYield": 0.0311,
+    "asOfDate": "2026-04-17",
+    "nav": 100.9,
+    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0008,
+    "aum": 1300000000,
+    "distributionYield": 0.0313,
+    "durationYears": 5.3,
+    "yieldToWorst": 0.0327,
+    "maturityYears": 9.2,
+    "weightedAverageCoupon": 0.0449
   }
 ]
