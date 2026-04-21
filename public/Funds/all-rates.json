@@ -288,13 +288,13 @@
     "timestamp": "2026-04-21T13:06:06.059Z"
   },
   {
-    "accountType": "Short-Term Corp Bond ETF",
-    "asOfDate": "2026-04-17",
+    "ticker": "VCSH",
+    "accountType": "Short-Term Corporate Bond ETF",
     "nav": 79.5,
     "thirtyDayYield": 0.0453,
-    "source": "Vanguard.com ETF",
-    "ticker": "VCSH",
-    "timestamp": "2026-04-21T06:47:22.130Z"
+    "asOfDate": "2026-04-17",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-21T14:38:59.866Z"
   },
   {
     "accountType": "IT Treasury ETF",
@@ -369,13 +369,13 @@
     "timestamp": "2026-04-21T11:32:57.074Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-04-17",
-    "nav": 76.61,
-    "thirtyDayYield": 0.0324,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-04-21T06:47:22.130Z"
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.57,
+    "thirtyDayYield": 0.0324,
+    "asOfDate": "2026-04-17",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-21T14:38:59.866Z"
   },
   {
     "accountType": "Total Corporate Bond ETF",
