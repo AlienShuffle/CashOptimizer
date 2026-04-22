@@ -77,10 +77,10 @@
     "ticker": "BOXX",
     "accountType": "Alpha Architect 1-3 Month Box ETF",
     "nav": 116.42,
-    "thirtyDayYield": 0.0402,
-    "asOfDate": "2026-04-20",
+    "thirtyDayYield": 0.0399,
+    "asOfDate": "2026-04-21",
     "source": "alphaarchitect.com",
-    "timestamp": "2026-04-21T22:30:36.472Z"
+    "timestamp": "2026-04-22T04:45:21.028Z"
   },
   {
     "accountType": "Short-Term Bond ETF",
@@ -227,12 +227,11 @@
   },
   {
     "ticker": "USFR",
-    "asOfDate": "2026-04-20",
+    "asOfDate": "2026-04-21",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
-    "nav": 50.438,
     "thirtyDayYield": 0.0361,
     "source": "Wisdomtree yields",
-    "timestamp": "2026-04-22T00:05:41.440Z"
+    "timestamp": "2026-04-22T04:47:36.148Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
@@ -406,22 +405,22 @@
     "timestamp": "2026-04-22T03:15:01.210Z"
   },
   {
-    "accountType": "Int-Term Tax-Ex Bd ETF",
-    "asOfDate": "2026-04-17",
+    "ticker": "VTEI",
+    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
     "nav": 100.87,
     "thirtyDayYield": 0.0311,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTEI",
-    "timestamp": "2026-04-22T03:15:01.210Z"
+    "asOfDate": "2026-04-17",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-22T04:48:17.326Z"
   },
   {
-    "accountType": "VG LT Tax Exempt Bond ETF",
-    "asOfDate": "2026-04-17",
-    "nav": 103.96,
-    "thirtyDayYield": 0.0399,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEL",
-    "timestamp": "2026-04-22T03:15:01.210Z"
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 103.92,
+    "thirtyDayYield": 0.0399,
+    "asOfDate": "2026-04-17",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-22T04:48:17.326Z"
   },
   {
     "accountType": "Short-Term Tax-Ex Bnd ETF",
