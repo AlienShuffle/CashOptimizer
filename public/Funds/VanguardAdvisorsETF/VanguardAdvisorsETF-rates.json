@@ -1,38 +1,56 @@
 [
   {
-    "ticker": "VCEB",
-    "accountType": "ESG U.S. Corporate Bond ETF",
-    "nav": 63.17,
+    "ticker": "VCIT",
+    "accountType": "Intermediate-Term Corporate Bond ETF",
+    "nav": 83.29,
+    "thirtyDayYield": 0.0503,
+    "asOfDate": "2026-04-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-23T10:41:13.666Z"
+  },
+  {
+    "ticker": "BLV",
+    "accountType": "Long-Term Bond ETF",
+    "nav": 69.17,
+    "thirtyDayYield": 0.0531,
+    "asOfDate": "2026-04-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-23T10:41:13.666Z"
+  },
+  {
+    "ticker": "VGLT",
+    "accountType": "Long-Term Treasury ETF",
+    "nav": 55.4,
     "thirtyDayYield": 0.049,
     "asOfDate": "2026-04-21",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-23T09:06:35.432Z"
+    "timestamp": "2026-04-23T10:41:13.666Z"
   },
   {
-    "ticker": "VGIT",
-    "accountType": "Intermediate-Term Treasury ETF",
-    "nav": 59.53,
-    "thirtyDayYield": 0.0401,
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 101.38,
+    "thirtyDayYield": 0.0259,
     "asOfDate": "2026-04-21",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-23T09:06:35.432Z"
+    "timestamp": "2026-04-23T10:41:13.666Z"
   },
   {
-    "ticker": "VTEB",
-    "accountType": "Tax-Exempt Bond ETF",
-    "nav": 50.42,
-    "thirtyDayYield": 0.0354,
+    "ticker": "BND",
+    "accountType": "Total Bond Market ETF",
+    "nav": 73.83,
+    "thirtyDayYield": 0.0433,
     "asOfDate": "2026-04-21",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-23T09:06:35.432Z"
+    "timestamp": "2026-04-23T10:41:13.666Z"
   },
   {
-    "ticker": "VTC",
-    "accountType": "Total Corporate Bond ETF",
-    "nav": 77.25,
-    "thirtyDayYield": 0.0508,
+    "ticker": "BNDW",
+    "accountType": "Total World Bond ETF",
+    "nav": 68.54,
+    "thirtyDayYield": 0.0421,
     "asOfDate": "2026-03-31",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-23T09:06:35.432Z"
+    "timestamp": "2026-04-23T10:41:13.666Z"
   }
 ]
