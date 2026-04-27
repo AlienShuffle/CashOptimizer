@@ -1,47 +1,56 @@
 [
   {
-    "ticker": "VBIL",
-    "accountType": "0-3 Month Treasury Bill ETF",
-    "nav": 75.63,
-    "thirtyDayYield": 0.036,
+    "ticker": "VTEC",
+    "accountType": "California Tax-Exempt Bond ETF",
+    "nav": 100.1,
+    "thirtyDayYield": 0.0323,
     "asOfDate": "2026-04-23",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-27T07:21:53.927Z"
+    "timestamp": "2026-04-27T08:56:08.131Z"
   },
   {
-    "ticker": "VCRB",
-    "accountType": "Core Bond ETF",
-    "nav": 77.6,
+    "ticker": "BNDP",
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 74.65,
     "thirtyDayYield": 0.046,
     "asOfDate": "2026-04-23",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-27T07:21:53.927Z"
+    "timestamp": "2026-04-27T08:56:08.131Z"
   },
   {
-    "ticker": "VPLS",
-    "accountType": "Core-Plus Bond ETF",
-    "nav": 77.85,
-    "thirtyDayYield": 0.0464,
+    "ticker": "VCEB",
+    "accountType": "ESG U.S. Corporate Bond ETF",
+    "nav": 63.11,
+    "thirtyDayYield": 0.0491,
     "asOfDate": "2026-04-23",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-27T07:21:53.927Z"
+    "timestamp": "2026-04-27T08:56:08.131Z"
   },
   {
-    "ticker": "VMBS",
-    "accountType": "Mortgage-Backed Securities ETF",
-    "nav": 47.07,
-    "thirtyDayYield": 0.0406,
+    "ticker": "BIV",
+    "accountType": "Intermediate-Term Bond ETF",
+    "nav": 77.39,
+    "thirtyDayYield": 0.0453,
     "asOfDate": "2026-04-23",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-27T07:21:53.927Z"
+    "timestamp": "2026-04-27T08:56:08.131Z"
   },
   {
-    "ticker": "VGUS",
-    "accountType": "Ultra-Short Treasury ETF",
-    "nav": 75.63,
-    "thirtyDayYield": 0.0361,
+    "ticker": "VTEI",
+    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
+    "nav": 100.9,
+    "thirtyDayYield": 0.031,
     "asOfDate": "2026-04-23",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-27T07:21:53.927Z"
+    "timestamp": "2026-04-27T08:56:08.131Z"
+  },
+  {
+    "ticker": "VSDB",
+    "accountType": "Short Duration Bond ETF",
+    "nav": 76.42,
+    "thirtyDayYield": 0.0453,
+    "asOfDate": "2026-04-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-27T08:56:08.131Z"
   }
 ]
