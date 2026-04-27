@@ -262,13 +262,13 @@
     "timestamp": "2026-04-27T16:45:40.303Z"
   },
   {
-    "accountType": "Long-Term Corp Bond ETF",
-    "asOfDate": "2026-04-23",
-    "nav": 75.31,
-    "thirtyDayYield": 0.0579,
-    "source": "Vanguard.com ETF",
     "ticker": "VCLT",
-    "timestamp": "2026-04-27T16:45:40.303Z"
+    "accountType": "Long-Term Corporate Bond ETF",
+    "nav": 75.34,
+    "thirtyDayYield": 0.0579,
+    "asOfDate": "2026-04-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-27T18:23:49.726Z"
   },
   {
     "accountType": "Core Bond ETF",
@@ -370,31 +370,31 @@
     "timestamp": "2026-04-27T16:45:40.303Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-04-23",
-    "nav": 76.6,
-    "thirtyDayYield": 0.0323,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-04-27T16:45:40.303Z"
-  },
-  {
-    "accountType": "Total Corporate Bond ETF",
-    "asOfDate": "2026-03-31",
-    "nav": 77.21,
-    "thirtyDayYield": 0.0508,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTC",
-    "timestamp": "2026-04-27T16:45:40.303Z"
-  },
-  {
-    "accountType": "Tax-Exempt Bond ETF",
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.57,
+    "thirtyDayYield": 0.0323,
     "asOfDate": "2026-04-23",
-    "nav": 50.47,
-    "thirtyDayYield": 0.0353,
-    "source": "Vanguard.com ETF",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-27T18:23:49.726Z"
+  },
+  {
+    "ticker": "VTC",
+    "accountType": "Total Corporate Bond ETF",
+    "nav": 77.19,
+    "thirtyDayYield": 0.0508,
+    "asOfDate": "2026-03-31",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-27T18:23:49.726Z"
+  },
+  {
     "ticker": "VTEB",
-    "timestamp": "2026-04-27T16:45:40.303Z"
+    "accountType": "Tax-Exempt Bond ETF",
+    "nav": 50.42,
+    "thirtyDayYield": 0.0353,
+    "asOfDate": "2026-04-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-27T18:23:49.726Z"
   },
   {
     "accountType": "CA Tax-Exempt Bond ETF",
@@ -424,13 +424,13 @@
     "timestamp": "2026-04-27T16:45:40.303Z"
   },
   {
-    "accountType": "Short-Term Tax-Ex Bnd ETF",
-    "asOfDate": "2026-04-23",
-    "nav": 101.38,
-    "thirtyDayYield": 0.0259,
-    "source": "Vanguard.com ETF",
     "ticker": "VTES",
-    "timestamp": "2026-04-27T16:45:40.303Z"
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 101.35,
+    "thirtyDayYield": 0.0259,
+    "asOfDate": "2026-04-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-27T18:23:49.726Z"
   },
   {
     "accountType": "Total Treasury ETF",
