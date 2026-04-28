@@ -586,7 +586,7 @@
   {
     "ticker": "VTEC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-25T14:44:21.584Z",
+    "timestamp": "2026-04-27T08:55:30.008Z",
     "thirtyDayYield": 0.0323,
     "asOfDate": "2026-04-23",
     "nav": 100.1,
@@ -596,6 +596,22 @@
     "distributionYield": 0.0315,
     "durationYears": 6.6,
     "yieldToWorst": 0.0327,
+    "maturityYears": 12.8,
+    "weightedAverageCoupon": 0.0444
+  },
+  {
+    "ticker": "VTEC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-28T15:08:04.393Z",
+    "thirtyDayYield": 0.0323,
+    "asOfDate": "2026-04-24",
+    "nav": 100.11,
+    "accountType": "California Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0006,
+    "aum": 2300000000,
+    "distributionYield": 0.0315,
+    "durationYears": 6.6,
+    "yieldToWorst": 0.0329,
     "maturityYears": 12.8,
     "weightedAverageCoupon": 0.0444
   }
