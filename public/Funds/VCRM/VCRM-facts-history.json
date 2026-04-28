@@ -573,7 +573,7 @@
   {
     "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-25T17:52:42.187Z",
+    "timestamp": "2026-04-27T10:28:57.133Z",
     "thirtyDayYield": 0.0391,
     "asOfDate": "2026-04-23",
     "nav": 76.01,
@@ -585,5 +585,21 @@
     "yieldToWorst": 0.0439,
     "maturityYears": 16.5,
     "weightedAverageCoupon": 0.0479
+  },
+  {
+    "ticker": "VCRM",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-28T16:44:55.645Z",
+    "thirtyDayYield": 0.0391,
+    "asOfDate": "2026-04-24",
+    "nav": 76.03,
+    "accountType": "Core Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0012,
+    "aum": 1200000000,
+    "distributionYield": 0.0393,
+    "durationYears": 7.3,
+    "yieldToWorst": 0.0433,
+    "maturityYears": 16.6,
+    "weightedAverageCoupon": 0.0477
   }
 ]
