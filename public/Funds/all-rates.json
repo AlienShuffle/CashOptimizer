@@ -15,9 +15,9 @@
     "ticker": "BIL",
     "nav": 91.62,
     "thirtyDayYield": 0.0351,
-    "asOfDate": "2026-04-24",
+    "asOfDate": "2026-04-27",
     "source": "ssga",
-    "timestamp": "2026-04-28T12:02:23.642Z"
+    "timestamp": "2026-04-28T21:29:05.483Z"
   },
   {
     "accountType": "Inter-Term Bond ETF",
@@ -92,13 +92,13 @@
     "timestamp": "2026-04-28T12:00:42.404Z"
   },
   {
-    "accountType": "Ext Duration Treasury ETF",
-    "asOfDate": "2026-04-24",
-    "nav": 63.93,
-    "thirtyDayYield": 0.0523,
-    "source": "Vanguard.com ETF",
     "ticker": "EDV",
-    "timestamp": "2026-04-28T12:00:42.404Z"
+    "accountType": "Extended Duration Treasury ETF",
+    "nav": 63.66,
+    "thirtyDayYield": 0.0523,
+    "asOfDate": "2026-04-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-28T21:28:42.842Z"
   },
   {
     "asOfDate": "2026-04-27",
@@ -184,10 +184,10 @@
   {
     "ticker": "SPTI",
     "nav": 28.64,
-    "thirtyDayYield": 0.0402,
-    "asOfDate": "2026-04-24",
+    "thirtyDayYield": 0.0401,
+    "asOfDate": "2026-04-27",
     "source": "ssga",
-    "timestamp": "2026-04-28T12:02:23.642Z"
+    "timestamp": "2026-04-28T21:29:05.483Z"
   },
   {
     "asOfDate": "2026-04-27",
@@ -253,13 +253,13 @@
     "timestamp": "2026-04-28T15:09:20.895Z"
   },
   {
-    "accountType": "Inter-Term Corp Bond ETF",
-    "asOfDate": "2026-04-24",
-    "nav": 83.08,
-    "thirtyDayYield": 0.0504,
-    "source": "Vanguard.com ETF",
     "ticker": "VCIT",
-    "timestamp": "2026-04-28T12:00:42.404Z"
+    "accountType": "Intermediate-Term Corporate Bond ETF",
+    "nav": 83.06,
+    "thirtyDayYield": 0.0504,
+    "asOfDate": "2026-04-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-28T21:28:42.842Z"
   },
   {
     "accountType": "Long-Term Corp Bond ETF",
