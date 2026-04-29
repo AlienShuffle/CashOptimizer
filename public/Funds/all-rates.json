@@ -20,58 +20,58 @@
     "timestamp": "2026-04-28T21:29:05.483Z"
   },
   {
-    "ticker": "BIV",
-    "accountType": "Intermediate-Term Bond ETF",
-    "nav": 77.17,
+    "accountType": "Inter-Term Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 77.22,
     "thirtyDayYield": 0.0454,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T03:49:31.465Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "BIV",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "BLV",
     "accountType": "Long-Term Bond ETF",
-    "nav": 68.8,
+    "asOfDate": "2026-04-24",
+    "nav": 68.87,
     "thirtyDayYield": 0.0534,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T03:49:31.465Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "BLV",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "BND",
     "accountType": "Total Bond Market ETF",
-    "nav": 73.67,
+    "asOfDate": "2026-04-24",
+    "nav": 73.72,
     "thirtyDayYield": 0.0434,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T03:49:31.465Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "BND",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "BNDP",
     "accountType": "Core-Plus Bond Index ETF",
-    "nav": 74.49,
-    "thirtyDayYield": 0.046,
     "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T03:49:31.465Z"
+    "nav": 74.55,
+    "thirtyDayYield": 0.046,
+    "source": "Vanguard.com ETF",
+    "ticker": "BNDP",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "BNDW",
     "accountType": "Total World Bond ETF",
-    "nav": 68.39,
-    "thirtyDayYield": 0.0421,
     "asOfDate": "2026-03-31",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T19:54:50.328Z"
+    "nav": 68.34,
+    "thirtyDayYield": 0.0421,
+    "source": "Vanguard.com ETF",
+    "ticker": "BNDW",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "BNDX",
-    "accountType": "Total International Bond ETF",
+    "accountType": "Tot Intl Bond ETF",
+    "asOfDate": "2026-04-24",
     "nav": 48,
     "thirtyDayYield": 0.0345,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T19:54:50.328Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "BNDX",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
     "ticker": "BOXX",
@@ -83,22 +83,22 @@
     "timestamp": "2026-04-29T02:09:12.683Z"
   },
   {
-    "ticker": "BSV",
     "accountType": "Short-Term Bond ETF",
-    "nav": 78.35,
-    "thirtyDayYield": 0.0402,
     "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T23:03:27.967Z"
+    "nav": 78.36,
+    "thirtyDayYield": 0.0402,
+    "source": "Vanguard.com ETF",
+    "ticker": "BSV",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "EDV",
-    "accountType": "Extended Duration Treasury ETF",
-    "nav": 63.66,
-    "thirtyDayYield": 0.0523,
+    "accountType": "Ext Duration Treasury ETF",
     "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T21:28:42.842Z"
+    "nav": 64.11,
+    "thirtyDayYield": 0.0523,
+    "source": "Vanguard.com ETF",
+    "ticker": "EDV",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
     "asOfDate": "2026-04-28",
@@ -161,13 +161,13 @@
     "timestamp": "2026-04-29T02:09:14.723Z"
   },
   {
-    "ticker": "MUNY",
-    "accountType": "New York Tax-Exempt Bond ETF",
-    "nav": 103.37,
-    "thirtyDayYield": 0.0342,
+    "accountType": "VG NY Tax-Exempt Bond ETF",
     "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T00:38:43.225Z"
+    "nav": 103.54,
+    "thirtyDayYield": 0.0342,
+    "source": "Vanguard.com ETF",
+    "ticker": "MUNY",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
     "asOfDate": "2026-04-28",
@@ -227,255 +227,254 @@
   },
   {
     "ticker": "USFR",
-    "asOfDate": "2026-04-27",
+    "asOfDate": "2026-04-28",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
-    "nav": 50.316,
-    "thirtyDayYield": 0.0361,
+    "thirtyDayYield": 0.0362,
     "source": "Wisdomtree yields",
-    "timestamp": "2026-04-28T19:24:51.933Z"
+    "timestamp": "2026-04-29T05:21:59.524Z"
   },
   {
-    "ticker": "VBIL",
-    "accountType": "0-3 Month Treasury Bill ETF",
-    "nav": 75.65,
+    "accountType": "0-3 Month T-Bill ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 75.64,
     "thirtyDayYield": 0.036,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T02:15:00.116Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VBIL",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
+    "accountType": "ESG U.S. Corp Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 63,
+    "thirtyDayYield": 0.0492,
+    "source": "Vanguard.com ETF",
     "ticker": "VCEB",
-    "accountType": "ESG U.S. Corporate Bond ETF",
-    "nav": 62.97,
-    "thirtyDayYield": 0.0492,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T15:09:20.895Z"
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VCIT",
-    "accountType": "Intermediate-Term Corporate Bond ETF",
-    "nav": 83.06,
+    "accountType": "Inter-Term Corp Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 83.03,
     "thirtyDayYield": 0.0504,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T21:28:42.842Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VCIT",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VCLT",
-    "accountType": "Long-Term Corporate Bond ETF",
-    "nav": 74.98,
+    "accountType": "Long-Term Corp Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 75.11,
     "thirtyDayYield": 0.0581,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T23:03:27.967Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VCLT",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VCRB",
     "accountType": "Core Bond ETF",
-    "nav": 77.42,
+    "asOfDate": "2026-04-24",
+    "nav": 77.52,
     "thirtyDayYield": 0.046,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T02:15:00.116Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VCRB",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VCRM",
-    "accountType": "Core Tax-Exempt Bond ETF",
-    "nav": 76.03,
+    "accountType": "Core Tax-Ex Bnd ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 75.91,
     "thirtyDayYield": 0.0391,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T16:45:37.956Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VCRM",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VCSH",
-    "accountType": "Short-Term Corporate Bond ETF",
-    "nav": 79.38,
+    "accountType": "Short-Term Corp Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 79.36,
     "thirtyDayYield": 0.0449,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T16:45:37.956Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VCSH",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VGIT",
-    "accountType": "Intermediate-Term Treasury ETF",
-    "nav": 59.5,
+    "accountType": "IT Treasury ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 59.44,
     "thirtyDayYield": 0.0402,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T19:54:50.328Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VGIT",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VGLT",
-    "accountType": "Long-Term Treasury ETF",
-    "nav": 55.17,
+    "accountType": "LT Treasury ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 55.22,
     "thirtyDayYield": 0.0492,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T23:03:27.967Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VGLT",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VGMS",
-    "accountType": "Multi-Sector Income Bond ETF",
-    "nav": 51.28,
+    "accountType": "Multi-Sector Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 51.39,
     "thirtyDayYield": 0.0551,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T00:38:43.225Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VGMS",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VGSH",
-    "accountType": "Short-Term Treasury ETF",
-    "nav": 58.49,
+    "accountType": "ST Treasury ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 58.5,
     "thirtyDayYield": 0.0384,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T00:38:43.225Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VGSH",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VGUS",
     "accountType": "Ultra-Short Treasury ETF",
-    "nav": 75.65,
+    "asOfDate": "2026-04-24",
+    "nav": 75.66,
     "thirtyDayYield": 0.0361,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T02:15:00.116Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VGUS",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VMBS",
-    "accountType": "Mortgage-Backed Securities ETF",
-    "nav": 46.97,
+    "accountType": "Mortgage-Backed Sec ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 47,
     "thirtyDayYield": 0.0407,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T03:49:31.465Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VMBS",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VPLS",
     "accountType": "Core-Plus Bond ETF",
-    "nav": 77.66,
+    "asOfDate": "2026-04-24",
+    "nav": 77.79,
     "thirtyDayYield": 0.0464,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T03:49:31.465Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VPLS",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VSDB",
     "accountType": "Short Duration Bond ETF",
-    "nav": 76.4,
+    "asOfDate": "2026-04-24",
+    "nav": 76.47,
     "thirtyDayYield": 0.0453,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T15:09:20.895Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VSDB",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
+    "accountType": "Short Dura Tax-Ex Bnd ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 76.55,
+    "thirtyDayYield": 0.0323,
+    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "accountType": "Short Duration Tax-Exempt Bond ETF",
-    "nav": 76.52,
-    "thirtyDayYield": 0.0323,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T23:03:27.967Z"
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTC",
     "accountType": "Total Corporate Bond ETF",
-    "nav": 76.96,
-    "thirtyDayYield": 0.0508,
     "asOfDate": "2026-03-31",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T23:03:27.967Z"
+    "nav": 77.05,
+    "thirtyDayYield": 0.0508,
+    "source": "Vanguard.com ETF",
+    "ticker": "VTC",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTEB",
     "accountType": "Tax-Exempt Bond ETF",
-    "nav": 50.35,
+    "asOfDate": "2026-04-24",
+    "nav": 50.39,
     "thirtyDayYield": 0.0353,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T00:38:43.225Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTEB",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTEC",
-    "accountType": "California Tax-Exempt Bond ETF",
-    "nav": 100.11,
+    "accountType": "CA Tax-Exempt Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 100.1,
     "thirtyDayYield": 0.0323,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T15:09:20.895Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTEC",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTEI",
-    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
-    "nav": 100.92,
+    "accountType": "Int-Term Tax-Ex Bd ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 100.86,
     "thirtyDayYield": 0.031,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T15:09:20.895Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTEI",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTEL",
-    "accountType": "Long-Term Tax-Exempt Bond ETF",
-    "nav": 104.06,
+    "accountType": "VG LT Tax Exempt Bond ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 104.01,
     "thirtyDayYield": 0.0396,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T19:54:50.328Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTEL",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTES",
-    "accountType": "Short-Term Tax-Exempt Bond ETF",
-    "nav": 101.28,
+    "accountType": "Short-Term Tax-Ex Bnd ETF",
+    "asOfDate": "2026-04-24",
+    "nav": 101.32,
     "thirtyDayYield": 0.0259,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T00:38:43.225Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTES",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTG",
     "accountType": "Total Treasury ETF",
-    "nav": 75.58,
+    "asOfDate": "2026-04-24",
+    "nav": 75.61,
     "thirtyDayYield": 0.0414,
-    "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T00:38:43.225Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTG",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTIP",
-    "accountType": "Short-Term Inflation-Protected Securities ETF",
-    "nav": 50.33,
+    "accountType": "STerm InflatPro Sec ETF",
+    "asOfDate": "2026-04-23",
+    "nav": 50.37,
     "thirtyDayYield": 0.0062,
-    "asOfDate": "2026-04-23",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T02:15:00.116Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTIP",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VTP",
-    "accountType": "Total Inflation-Protected Securities ETF",
-    "nav": 76.86,
+    "accountType": "Total InflatPro Sec ETF",
+    "asOfDate": "2026-04-23",
+    "nav": 76.94,
     "thirtyDayYield": 0.0146,
-    "asOfDate": "2026-04-23",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T02:15:00.116Z"
+    "source": "Vanguard.com ETF",
+    "ticker": "VTP",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VUSB",
     "accountType": "Ultra-Short Bond ETF",
-    "nav": 49.8,
-    "thirtyDayYield": 0.0431,
     "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-28T23:03:27.967Z"
+    "nav": 49.83,
+    "thirtyDayYield": 0.0431,
+    "source": "Vanguard.com ETF",
+    "ticker": "VUSB",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
-    "ticker": "VWOB",
-    "accountType": "Emerging Markets Government Bond ETF",
-    "nav": 66.87,
-    "thirtyDayYield": 0.0592,
+    "accountType": "Em Mkt Gov Bond ETF",
     "asOfDate": "2026-04-24",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-04-29T02:15:00.116Z"
+    "nav": 66.99,
+    "thirtyDayYield": 0.0592,
+    "source": "Vanguard.com ETF",
+    "ticker": "VWOB",
+    "timestamp": "2026-04-29T05:23:08.422Z"
   },
   {
     "ticker": "XHLF",
