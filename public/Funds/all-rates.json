@@ -65,22 +65,22 @@
     "timestamp": "2026-04-30T03:29:48.381Z"
   },
   {
-    "accountType": "Tot Intl Bond ETF",
-    "asOfDate": "2026-04-27",
-    "nav": 47.86,
-    "thirtyDayYield": 0.0346,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDX",
-    "timestamp": "2026-04-30T01:55:04.628Z"
+    "accountType": "Total International Bond ETF",
+    "nav": 47.83,
+    "thirtyDayYield": 0.0346,
+    "asOfDate": "2026-04-27",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-30T05:03:03.676Z"
   },
   {
     "ticker": "BOXX",
     "accountType": "Alpha Architect 1-3 Month Box ETF",
     "nav": 116.5,
-    "thirtyDayYield": 0.0395,
-    "asOfDate": "2026-04-27",
+    "thirtyDayYield": 0.0407,
+    "asOfDate": "2026-04-29",
     "source": "alphaarchitect.com",
-    "timestamp": "2026-04-29T22:40:59.371Z"
+    "timestamp": "2026-04-30T05:00:08.864Z"
   },
   {
     "accountType": "Short-Term Bond ETF",
@@ -227,12 +227,11 @@
   },
   {
     "ticker": "USFR",
-    "asOfDate": "2026-04-28",
+    "asOfDate": "2026-04-29",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
-    "nav": 50.323,
     "thirtyDayYield": 0.0362,
     "source": "Wisdomtree yields",
-    "timestamp": "2026-04-30T00:17:18.686Z"
+    "timestamp": "2026-04-30T05:02:18.706Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
@@ -298,13 +297,13 @@
     "timestamp": "2026-04-30T03:29:48.381Z"
   },
   {
-    "accountType": "IT Treasury ETF",
-    "asOfDate": "2026-04-27",
-    "nav": 59.23,
-    "thirtyDayYield": 0.0401,
-    "source": "Vanguard.com ETF",
     "ticker": "VGIT",
-    "timestamp": "2026-04-30T01:55:04.628Z"
+    "accountType": "Intermediate-Term Treasury ETF",
+    "nav": 59.21,
+    "thirtyDayYield": 0.0401,
+    "asOfDate": "2026-04-27",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-04-30T05:03:03.676Z"
   },
   {
     "accountType": "LT Treasury ETF",
