@@ -369,31 +369,31 @@
     "timestamp": "2026-05-01T07:39:23.303Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-04-29",
-    "nav": 76.49,
-    "thirtyDayYield": 0.0322,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-05-01T07:39:23.303Z"
-  },
-  {
-    "accountType": "Total Corporate Bond ETF",
-    "asOfDate": "2026-03-31",
-    "nav": 76.82,
-    "thirtyDayYield": 0.0508,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTC",
-    "timestamp": "2026-05-01T07:39:23.303Z"
-  },
-  {
-    "accountType": "Tax-Exempt Bond ETF",
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.47,
+    "thirtyDayYield": 0.0322,
     "asOfDate": "2026-04-29",
-    "nav": 50.31,
-    "thirtyDayYield": 0.0352,
-    "source": "Vanguard.com ETF",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T13:55:34.769Z"
+  },
+  {
+    "ticker": "VTC",
+    "accountType": "Total Corporate Bond ETF",
+    "nav": 76.73,
+    "thirtyDayYield": 0.0508,
+    "asOfDate": "2026-03-31",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T13:55:34.769Z"
+  },
+  {
     "ticker": "VTEB",
-    "timestamp": "2026-05-01T07:39:23.303Z"
+    "accountType": "Tax-Exempt Bond ETF",
+    "nav": 50.28,
+    "thirtyDayYield": 0.0352,
+    "asOfDate": "2026-04-29",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T13:55:34.769Z"
   },
   {
     "accountType": "CA Tax-Exempt Bond ETF",
@@ -423,13 +423,13 @@
     "timestamp": "2026-05-01T09:14:33.992Z"
   },
   {
-    "accountType": "Short-Term Tax-Ex Bnd ETF",
-    "asOfDate": "2026-04-29",
-    "nav": 101.29,
-    "thirtyDayYield": 0.0258,
-    "source": "Vanguard.com ETF",
     "ticker": "VTES",
-    "timestamp": "2026-05-01T07:39:23.303Z"
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 101.2,
+    "thirtyDayYield": 0.0258,
+    "asOfDate": "2026-04-29",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T13:55:34.769Z"
   },
   {
     "accountType": "Total Treasury ETF",
