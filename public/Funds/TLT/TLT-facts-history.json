@@ -558,7 +558,7 @@
   {
     "ticker": "TLT",
     "source": "BlackRock",
-    "timestamp": "2026-05-01T04:27:44.887Z",
+    "timestamp": "2026-05-01T13:50:20.343Z",
     "thirtyDayYield": 0.0493,
     "asOfDate": "2026-04-29",
     "nav": 85.59,
@@ -568,5 +568,19 @@
     "durationYears": 15.26,
     "twelveMonTrlYield": 0.0457,
     "maturityYears": 25.92
+  },
+  {
+    "ticker": "TLT",
+    "source": "BlackRock",
+    "timestamp": "2026-05-01T18:31:38.784Z",
+    "thirtyDayYield": 0.0493,
+    "asOfDate": "2026-04-30",
+    "nav": 85.59,
+    "expenseRatio": 0.0015,
+    "aum": 42905041871,
+    "weightedAverageCoupon": 0.0321,
+    "durationYears": 15.18,
+    "twelveMonTrlYield": 0.0457,
+    "maturityYears": 25.88
   }
 ]

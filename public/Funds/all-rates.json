@@ -14,10 +14,10 @@
   {
     "ticker": "BIL",
     "nav": 91.65,
-    "thirtyDayYield": 0.0351,
-    "asOfDate": "2026-04-29",
+    "thirtyDayYield": 0.035,
+    "asOfDate": "2026-04-30",
     "source": "ssga",
-    "timestamp": "2026-05-01T09:14:57.234Z"
+    "timestamp": "2026-05-01T18:35:54.958Z"
   },
   {
     "accountType": "Inter-Term Bond ETF",
@@ -185,9 +185,9 @@
     "ticker": "SPTI",
     "nav": 28.55,
     "thirtyDayYield": 0.0403,
-    "asOfDate": "2026-04-29",
+    "asOfDate": "2026-04-30",
     "source": "ssga",
-    "timestamp": "2026-05-01T09:14:57.234Z"
+    "timestamp": "2026-05-01T18:35:54.958Z"
   },
   {
     "asOfDate": "2026-04-30",
@@ -270,13 +270,13 @@
     "timestamp": "2026-05-01T09:14:33.992Z"
   },
   {
-    "accountType": "Core Bond ETF",
-    "asOfDate": "2026-04-29",
-    "nav": 77.28,
-    "thirtyDayYield": 0.0459,
-    "source": "Vanguard.com ETF",
     "ticker": "VCRB",
-    "timestamp": "2026-05-01T07:39:23.303Z"
+    "accountType": "Core Bond ETF",
+    "nav": 77.23,
+    "thirtyDayYield": 0.0459,
+    "asOfDate": "2026-04-29",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T18:35:32.826Z"
   },
   {
     "accountType": "Core Tax-Ex Bnd ETF",
@@ -333,13 +333,13 @@
     "timestamp": "2026-05-01T12:20:01.845Z"
   },
   {
+    "ticker": "VGUS",
     "accountType": "Ultra-Short Treasury ETF",
-    "asOfDate": "2026-04-29",
     "nav": 75.67,
     "thirtyDayYield": 0.0361,
-    "source": "Vanguard.com ETF",
-    "ticker": "VGUS",
-    "timestamp": "2026-05-01T07:39:23.303Z"
+    "asOfDate": "2026-04-29",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T18:35:32.826Z"
   },
   {
     "accountType": "Mortgage-Backed Sec ETF",
@@ -432,13 +432,13 @@
     "timestamp": "2026-05-01T13:55:34.769Z"
   },
   {
-    "accountType": "Total Treasury ETF",
-    "asOfDate": "2026-04-29",
-    "nav": 75.36,
-    "thirtyDayYield": 0.0413,
-    "source": "Vanguard.com ETF",
     "ticker": "VTG",
-    "timestamp": "2026-05-01T07:39:23.303Z"
+    "accountType": "Total Treasury ETF",
+    "nav": 75.39,
+    "thirtyDayYield": 0.0413,
+    "asOfDate": "2026-04-29",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T18:35:32.826Z"
   },
   {
     "accountType": "STerm InflatPro Sec ETF",

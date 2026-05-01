@@ -579,7 +579,7 @@
   {
     "ticker": "STIP",
     "source": "BlackRock",
-    "timestamp": "2026-05-01T04:27:37.057Z",
+    "timestamp": "2026-05-01T13:50:13.107Z",
     "thirtyDayYield": 0.064,
     "asOfDate": "2026-04-29",
     "nav": 104.06,
@@ -590,5 +590,20 @@
     "yieldToWorst": 0.0369,
     "twelveMonTrlYield": 0.034,
     "maturityYears": 2.39
+  },
+  {
+    "ticker": "STIP",
+    "source": "BlackRock",
+    "timestamp": "2026-05-01T18:31:30.658Z",
+    "thirtyDayYield": 0.0644,
+    "asOfDate": "2026-04-30",
+    "nav": 104.06,
+    "expenseRatio": 0.0003,
+    "aum": 14994641658,
+    "weightedAverageCoupon": 0.0106,
+    "durationYears": 2.44,
+    "yieldToWorst": 0.0367,
+    "twelveMonTrlYield": 0.034,
+    "maturityYears": 2.53
   }
 ]

@@ -1,20 +1,29 @@
 [
   {
-    "ticker": "VBIL",
-    "accountType": "0-3 Month Treasury Bill ETF",
-    "nav": 75.66,
-    "thirtyDayYield": 0.036,
+    "ticker": "VCRB",
+    "accountType": "Core Bond ETF",
+    "nav": 77.23,
+    "thirtyDayYield": 0.0459,
     "asOfDate": "2026-04-29",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-01T17:01:02.394Z"
+    "timestamp": "2026-05-01T18:35:32.826Z"
   },
   {
-    "ticker": "VUSB",
-    "accountType": "Ultra-Short Bond ETF",
-    "nav": 49.8,
-    "thirtyDayYield": 0.0429,
+    "ticker": "VTG",
+    "accountType": "Total Treasury ETF",
+    "nav": 75.39,
+    "thirtyDayYield": 0.0413,
     "asOfDate": "2026-04-29",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-01T17:01:02.394Z"
+    "timestamp": "2026-05-01T18:35:32.826Z"
+  },
+  {
+    "ticker": "VGUS",
+    "accountType": "Ultra-Short Treasury ETF",
+    "nav": 75.67,
+    "thirtyDayYield": 0.0361,
+    "asOfDate": "2026-04-29",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-01T18:35:32.826Z"
   }
 ]

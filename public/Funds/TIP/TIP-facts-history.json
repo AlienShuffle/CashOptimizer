@@ -579,7 +579,7 @@
   {
     "ticker": "TIP",
     "source": "BlackRock",
-    "timestamp": "2026-05-01T04:28:19.110Z",
+    "timestamp": "2026-05-01T13:50:54.755Z",
     "thirtyDayYield": 0.0724,
     "asOfDate": "2026-04-29",
     "nav": 111.5,
@@ -590,5 +590,20 @@
     "yieldToWorst": 0.042,
     "twelveMonTrlYield": 0.0278,
     "maturityYears": 7.11
+  },
+  {
+    "ticker": "TIP",
+    "source": "BlackRock",
+    "timestamp": "2026-05-01T18:32:10.716Z",
+    "thirtyDayYield": 0.0727,
+    "asOfDate": "2026-04-30",
+    "nav": 111.5,
+    "expenseRatio": 0.0018,
+    "aum": 14751854604,
+    "weightedAverageCoupon": 0.0125,
+    "durationYears": 6.44,
+    "yieldToWorst": 0.0419,
+    "twelveMonTrlYield": 0.0277,
+    "maturityYears": 7.24
   }
 ]
