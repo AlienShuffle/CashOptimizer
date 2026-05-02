@@ -518,19 +518,19 @@
   {
     "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-01T12:19:40.257Z",
-    "thirtyDayYield": 0.0381,
-    "asOfDate": "2026-04-29",
-    "nav": 58.46,
+    "timestamp": "2026-05-02T08:48:33.395Z",
+    "thirtyDayYield": 0.0382,
+    "asOfDate": "2026-04-30",
+    "nav": 58.29,
     "accountType": "Short-Term Treasury ETF",
     "expenseRatio": 0.0003,
     "aum": 29000000000,
     "distributionYield": 0.0386,
-    "durationYears": 1.8,
-    "yieldToMaturity": 0.0392,
-    "yieldToWorst": 0.0392,
-    "maturityYears": 1.9,
-    "weightedAverageCoupon": 0.0304
+    "durationYears": 1.9,
+    "yieldToMaturity": 0.0388,
+    "yieldToWorst": 0.0388,
+    "maturityYears": 2,
+    "weightedAverageCoupon": 0.0307
   },
   {
     "ticker": "VGUS",
@@ -795,24 +795,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-05-01T09:14:39.276Z",
+    "timestamp": "2026-05-02T08:48:57.344Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.036,
     "asOfDate": "2026-03-31",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.41,
-    "yieldToWorst": 0.0366
+    "durationYears": 0.48,
+    "yieldToWorst": 0.0359
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-05-01T09:14:44.607Z",
+    "timestamp": "2026-05-02T08:49:02.978Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0372,
     "asOfDate": "2026-03-31",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
-    "weightedAverageCoupon": 0.031,
+    "weightedAverageCoupon": 0.0311,
     "durationYears": 0.99,
-    "yieldToWorst": 0.0378
+    "yieldToWorst": 0.0379
   }
 ]
