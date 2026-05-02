@@ -1,56 +1,56 @@
 [
   {
-    "ticker": "VBIL",
-    "accountType": "0-3 Month Treasury Bill ETF",
+    "ticker": "BIV",
+    "accountType": "Intermediate-Term Bond ETF",
+    "nav": 76.77,
+    "thirtyDayYield": 0.0454,
+    "asOfDate": "2026-04-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-02T13:31:33.583Z"
+  },
+  {
+    "ticker": "BLV",
+    "accountType": "Long-Term Bond ETF",
+    "nav": 68.26,
+    "thirtyDayYield": 0.0538,
+    "asOfDate": "2026-04-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-02T13:31:33.583Z"
+  },
+  {
+    "ticker": "VTIP",
+    "accountType": "Short-Term Inflation-Protected Securities ETF",
+    "nav": 50.36,
+    "thirtyDayYield": 0.0059,
+    "asOfDate": "2026-04-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-02T13:31:33.583Z"
+  },
+  {
+    "ticker": "BND",
+    "accountType": "Total Bond Market ETF",
+    "nav": 73.3,
+    "thirtyDayYield": 0.0435,
+    "asOfDate": "2026-04-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-02T13:31:33.583Z"
+  },
+  {
+    "ticker": "VTG",
+    "accountType": "Total Treasury ETF",
+    "nav": 75.22,
+    "thirtyDayYield": 0.0414,
+    "asOfDate": "2026-04-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-02T13:31:33.583Z"
+  },
+  {
+    "ticker": "VGUS",
+    "accountType": "Ultra-Short Treasury ETF",
     "nav": 75.47,
-    "thirtyDayYield": 0.036,
+    "thirtyDayYield": 0.0361,
     "asOfDate": "2026-04-30",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-02T11:56:28.556Z"
-  },
-  {
-    "ticker": "VCRB",
-    "accountType": "Core Bond ETF",
-    "nav": 77.01,
-    "thirtyDayYield": 0.0462,
-    "asOfDate": "2026-04-30",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-02T11:56:28.556Z"
-  },
-  {
-    "ticker": "VTES",
-    "accountType": "Short-Term Tax-Exempt Bond ETF",
-    "nav": 100.96,
-    "thirtyDayYield": 0.0258,
-    "asOfDate": "2026-04-30",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-02T11:56:28.556Z"
-  },
-  {
-    "ticker": "VTEB",
-    "accountType": "Tax-Exempt Bond ETF",
-    "nav": 50.13,
-    "thirtyDayYield": 0.0352,
-    "asOfDate": "2026-04-30",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-02T11:56:28.556Z"
-  },
-  {
-    "ticker": "VTC",
-    "accountType": "Total Corporate Bond ETF",
-    "nav": 76.52,
-    "thirtyDayYield": 0.0508,
-    "asOfDate": "2026-03-31",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-02T11:56:28.556Z"
-  },
-  {
-    "ticker": "VUSB",
-    "accountType": "Ultra-Short Bond ETF",
-    "nav": 49.63,
-    "thirtyDayYield": 0.0429,
-    "asOfDate": "2026-04-30",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-02T11:56:28.556Z"
+    "timestamp": "2026-05-02T13:31:33.583Z"
   }
 ]
