@@ -5,5 +5,5 @@ ticker,year,months,usgo,muni,fiftyPctRule,estimateType,fiftyPctHistory,q1Pct,q2P
 "BFTXX",2022,12,1,0,true,"complete","complete",1,1,1,1,"1031"
 "BFTXX",2023,12,1,0,true,"complete","complete",1,1,1,1,"1031"
 "BFTXX",2024,12,1,0,true,"complete","complete",1,1,1,1,"1031"
-"BFTXX",2025,12,0.95484,0,true,"complete","complete",1,1,1,0.89479,"1031"
-"BFTXX",2026,3,0.61211,0,true,"YTD","current-year",0.63393,-1,-1,-1,"1031"
+"BFTXX",2025,12,0.95484,0,false,"complete","complete",1,1,1,0.89479,"1031"
+"BFTXX",2026,4,0.58295,0,false,"YTD","current-year",0.63393,0.46315,-1,-1,"1031"
