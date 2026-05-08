@@ -1,20 +1,56 @@
 [
   {
-    "ticker": "VGIT",
-    "accountType": "Intermediate-Term Treasury ETF",
-    "nav": 59.14,
-    "thirtyDayYield": 0.0405,
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "nav": 75.5,
+    "thirtyDayYield": 0.0359,
     "asOfDate": "2026-05-06",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-08T08:23:44.157Z"
+    "timestamp": "2026-05-08T09:59:42.848Z"
   },
   {
-    "ticker": "VCLT",
-    "accountType": "Long-Term Corporate Bond ETF",
-    "nav": 74.61,
-    "thirtyDayYield": 0.0586,
+    "ticker": "VPLS",
+    "accountType": "Core-Plus Bond ETF",
+    "nav": 77.36,
+    "thirtyDayYield": 0.0466,
     "asOfDate": "2026-05-06",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-08T08:23:44.157Z"
+    "timestamp": "2026-05-08T09:59:42.848Z"
+  },
+  {
+    "ticker": "BIV",
+    "accountType": "Intermediate-Term Bond ETF",
+    "nav": 76.8,
+    "thirtyDayYield": 0.0456,
+    "asOfDate": "2026-05-06",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-08T09:59:42.848Z"
+  },
+  {
+    "ticker": "VMBS",
+    "accountType": "Mortgage-Backed Securities ETF",
+    "nav": 46.74,
+    "thirtyDayYield": 0.0411,
+    "asOfDate": "2026-05-06",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-08T09:59:42.848Z"
+  },
+  {
+    "ticker": "VSDB",
+    "accountType": "Short Duration Bond ETF",
+    "nav": 76.08,
+    "thirtyDayYield": 0.0452,
+    "asOfDate": "2026-05-06",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-08T09:59:42.848Z"
+  },
+  {
+    "ticker": "VTP",
+    "accountType": "Total Inflation-Protected Securities ETF",
+    "nav": 76.77,
+    "thirtyDayYield": 0.0141,
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-08T09:59:42.848Z"
   }
 ]
