@@ -1,20 +1,29 @@
 [
   {
-    "ticker": "VSDM",
-    "accountType": "Short Duration Tax-Exempt Bond ETF",
-    "nav": 76.35,
-    "thirtyDayYield": 0.0323,
+    "ticker": "BNDP",
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 74.16,
+    "thirtyDayYield": 0.0463,
     "asOfDate": "2026-05-06",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-08T16:16:15.183Z"
+    "timestamp": "2026-05-08T17:50:09.346Z"
   },
   {
-    "ticker": "VTC",
-    "accountType": "Total Corporate Bond ETF",
-    "nav": 76.62,
-    "thirtyDayYield": 0.0508,
-    "asOfDate": "2026-04-30",
+    "ticker": "VTEI",
+    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
+    "nav": 100.54,
+    "thirtyDayYield": 0.0309,
+    "asOfDate": "2026-05-06",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-08T16:16:15.183Z"
+    "timestamp": "2026-05-08T17:50:09.346Z"
+  },
+  {
+    "ticker": "VTEB",
+    "accountType": "Tax-Exempt Bond ETF",
+    "nav": 50.22,
+    "thirtyDayYield": 0.0353,
+    "asOfDate": "2026-05-06",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-08T17:50:09.346Z"
   }
 ]
