@@ -32,14 +32,19 @@
   {
     "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-09T06:24:49.125Z",
+    "timestamp": "2026-05-10T02:25:24.630Z",
     "thirtyDayYield": 0.0454,
     "asOfDate": "2026-05-07",
     "nav": 76.95,
     "accountType": "Intermediate-Term Bond ETF",
     "expenseRatio": 0.0003,
     "aum": 28400000000,
-    "distributionYield": 0.0431
+    "distributionYield": 0.0431,
+    "durationYears": 6,
+    "yieldToMaturity": 0.0458,
+    "yieldToWorst": 0.0457,
+    "maturityYears": 7.3,
+    "weightedAverageCoupon": 0.0422
   },
   {
     "ticker": "BLV",
@@ -346,7 +351,7 @@
   {
     "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-09T06:25:08.670Z",
+    "timestamp": "2026-05-10T02:25:44.142Z",
     "thirtyDayYield": 0.0359,
     "asOfDate": "2026-05-07",
     "nav": 75.52,
@@ -726,7 +731,7 @@
   {
     "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-09T03:14:08.339Z",
+    "timestamp": "2026-05-10T02:24:45.819Z",
     "thirtyDayYield": 0.0057,
     "asOfDate": "2026-05-07",
     "nav": 50.32,
@@ -734,7 +739,7 @@
     "expenseRatio": 0.0003,
     "aum": 18000000000,
     "durationYears": 2.4,
-    "yieldToMaturity": 0.0363,
+    "yieldToMaturity": 0.0366,
     "maturityYears": 2.5,
     "weightedAverageCoupon": 0.0108
   },
@@ -756,17 +761,17 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-09T03:14:27.450Z",
-    "thirtyDayYield": 0.043,
-    "asOfDate": "2026-05-06",
+    "timestamp": "2026-05-10T02:25:05.708Z",
+    "thirtyDayYield": 0.0429,
+    "asOfDate": "2026-05-07",
     "nav": 49.68,
     "accountType": "Ultra-Short Bond ETF",
     "expenseRatio": 0.001,
     "aum": 8300000000,
     "distributionYield": 0.0431,
     "durationYears": 0.9,
-    "yieldToMaturity": 0.0442,
-    "yieldToWorst": 0.0436,
+    "yieldToMaturity": 0.0443,
+    "yieldToWorst": 0.0438,
     "maturityYears": 1.4,
     "weightedAverageCoupon": 0.0409
   },
