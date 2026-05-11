@@ -47,13 +47,13 @@
     "timestamp": "2026-05-11T17:17:56.162Z"
   },
   {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "2026-05-07",
-    "nav": 74.35,
-    "thirtyDayYield": 0.0461,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDP",
-    "timestamp": "2026-05-11T17:17:56.162Z"
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 74.3,
+    "thirtyDayYield": 0.0461,
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-11T20:25:53.158Z"
   },
   {
     "accountType": "Total World Bond ETF",
@@ -65,13 +65,13 @@
     "timestamp": "2026-05-11T17:17:56.162Z"
   },
   {
-    "accountType": "Tot Intl Bond ETF",
-    "asOfDate": "2026-05-07",
-    "nav": 48.14,
-    "thirtyDayYield": 0.0349,
-    "source": "Vanguard.com ETF",
     "ticker": "BNDX",
-    "timestamp": "2026-05-11T17:17:56.162Z"
+    "accountType": "Total International Bond ETF",
+    "nav": 48.06,
+    "thirtyDayYield": 0.0349,
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-11T20:25:53.158Z"
   },
   {
     "ticker": "BOXX",
@@ -370,40 +370,40 @@
     "timestamp": "2026-05-11T17:17:56.162Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-05-07",
-    "nav": 76.37,
-    "thirtyDayYield": 0.0323,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-05-11T17:17:56.162Z"
-  },
-  {
-    "accountType": "Total Corporate Bond ETF",
-    "asOfDate": "2026-04-30",
-    "nav": 76.93,
-    "thirtyDayYield": 0.0508,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTC",
-    "timestamp": "2026-05-11T17:17:56.162Z"
-  },
-  {
-    "accountType": "Tax-Exempt Bond ETF",
-    "asOfDate": "2026-05-07",
-    "nav": 50.25,
-    "thirtyDayYield": 0.0352,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTEB",
-    "timestamp": "2026-05-11T17:17:56.162Z"
-  },
-  {
-    "accountType": "CA Tax-Exempt Bond ETF",
-    "asOfDate": "2026-05-07",
-    "nav": 99.75,
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.35,
     "thirtyDayYield": 0.0323,
-    "source": "Vanguard.com ETF",
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-11T20:25:53.158Z"
+  },
+  {
+    "ticker": "VTC",
+    "accountType": "Total Corporate Bond ETF",
+    "nav": 76.81,
+    "thirtyDayYield": 0.0508,
+    "asOfDate": "2026-04-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-11T20:25:53.158Z"
+  },
+  {
+    "ticker": "VTEB",
+    "accountType": "Tax-Exempt Bond ETF",
+    "nav": 50.22,
+    "thirtyDayYield": 0.0352,
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-11T20:25:53.158Z"
+  },
+  {
     "ticker": "VTEC",
-    "timestamp": "2026-05-11T17:17:56.162Z"
+    "accountType": "California Tax-Exempt Bond ETF",
+    "nav": 99.7,
+    "thirtyDayYield": 0.0323,
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-11T20:25:53.158Z"
   },
   {
     "accountType": "Int-Term Tax-Ex Bd ETF",
