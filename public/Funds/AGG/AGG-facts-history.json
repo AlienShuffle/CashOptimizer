@@ -643,7 +643,7 @@
   {
     "ticker": "AGG",
     "source": "BlackRock",
-    "timestamp": "2026-05-09T00:03:27.666Z",
+    "timestamp": "2026-05-09T04:46:40.354Z",
     "thirtyDayYield": 0.0437,
     "asOfDate": "2026-05-07",
     "nav": 99.11,
@@ -653,5 +653,19 @@
     "durationYears": 5.77,
     "twelveMonTrlYield": 0.0396,
     "maturityYears": 8.04
+  },
+  {
+    "ticker": "AGG",
+    "source": "BlackRock",
+    "timestamp": "2026-05-12T02:37:50.439Z",
+    "thirtyDayYield": 0.0436,
+    "asOfDate": "2026-05-08",
+    "nav": 98.9,
+    "expenseRatio": 0.0003,
+    "aum": 135645437141,
+    "weightedAverageCoupon": 0.037,
+    "durationYears": 5.76,
+    "twelveMonTrlYield": 0.0396,
+    "maturityYears": 8.02
   }
 ]
