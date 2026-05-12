@@ -227,12 +227,11 @@
   },
   {
     "ticker": "USFR",
-    "asOfDate": "2026-05-08",
+    "asOfDate": "2026-05-11",
     "accountType": "WisdomTree Floating Rate Treasury Fund",
-    "nav": 50.388,
     "thirtyDayYield": 0.036,
     "source": "Wisdomtree yields",
-    "timestamp": "2026-05-11T17:16:13.957Z"
+    "timestamp": "2026-05-12T04:14:36.263Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
@@ -289,13 +288,13 @@
     "timestamp": "2026-05-12T02:42:05.403Z"
   },
   {
-    "accountType": "Short-Term Corp Bond ETF",
-    "asOfDate": "2026-05-07",
-    "nav": 79.08,
-    "thirtyDayYield": 0.0448,
-    "source": "Vanguard.com ETF",
     "ticker": "VCSH",
-    "timestamp": "2026-05-12T02:42:05.403Z"
+    "accountType": "Short-Term Corporate Bond ETF",
+    "nav": 79.03,
+    "thirtyDayYield": 0.0448,
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-12T04:15:17.827Z"
   },
   {
     "accountType": "IT Treasury ETF",
@@ -415,13 +414,13 @@
     "timestamp": "2026-05-12T02:42:05.403Z"
   },
   {
-    "accountType": "VG LT Tax Exempt Bond ETF",
-    "asOfDate": "2026-05-07",
-    "nav": 103.71,
-    "thirtyDayYield": 0.0395,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEL",
-    "timestamp": "2026-05-12T02:42:05.403Z"
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 103.58,
+    "thirtyDayYield": 0.0395,
+    "asOfDate": "2026-05-07",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-12T04:15:17.827Z"
   },
   {
     "accountType": "Short-Term Tax-Ex Bnd ETF",
