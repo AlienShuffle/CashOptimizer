@@ -1,29 +1,47 @@
 [
   {
-    "ticker": "BLV",
-    "accountType": "Long-Term Bond ETF",
-    "nav": 68,
-    "thirtyDayYield": 0.0542,
+    "ticker": "VCRB",
+    "accountType": "Core Bond ETF",
+    "nav": 76.87,
+    "thirtyDayYield": 0.0465,
     "asOfDate": "2026-05-13",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-15T08:05:08.064Z"
+    "timestamp": "2026-05-15T11:15:12.345Z"
   },
   {
-    "ticker": "VTEL",
-    "accountType": "Long-Term Tax-Exempt Bond ETF",
-    "nav": 103.15,
-    "thirtyDayYield": 0.0396,
+    "ticker": "BNDP",
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 73.95,
+    "thirtyDayYield": 0.0467,
     "asOfDate": "2026-05-13",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-15T08:05:08.064Z"
+    "timestamp": "2026-05-15T11:15:12.345Z"
   },
   {
-    "ticker": "BND",
-    "accountType": "Total Bond Market ETF",
-    "nav": 73.12,
-    "thirtyDayYield": 0.0439,
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 100.86,
+    "thirtyDayYield": 0.0263,
     "asOfDate": "2026-05-13",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-15T08:05:08.064Z"
+    "timestamp": "2026-05-15T11:15:12.345Z"
+  },
+  {
+    "ticker": "VTG",
+    "accountType": "Total Treasury ETF",
+    "nav": 74.95,
+    "thirtyDayYield": 0.0419,
+    "asOfDate": "2026-05-13",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-15T11:15:12.345Z"
+  },
+  {
+    "ticker": "BNDW",
+    "accountType": "Total World Bond ETF",
+    "nav": 68.06,
+    "thirtyDayYield": 0.0422,
+    "asOfDate": "2026-04-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-15T11:15:12.345Z"
   }
 ]
