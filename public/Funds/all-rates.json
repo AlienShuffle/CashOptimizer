@@ -334,22 +334,22 @@
     "timestamp": "2026-05-14T14:49:41.775Z"
   },
   {
+    "ticker": "VGUS",
     "accountType": "Ultra-Short Treasury ETF",
-    "asOfDate": "2026-05-12",
     "nav": 75.55,
     "thirtyDayYield": 0.0361,
-    "source": "Vanguard.com ETF",
-    "ticker": "VGUS",
-    "timestamp": "2026-05-14T10:03:55.575Z"
+    "asOfDate": "2026-05-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-15T03:24:03.838Z"
   },
   {
-    "accountType": "Mortgage-Backed Sec ETF",
-    "asOfDate": "2026-05-12",
-    "nav": 46.69,
-    "thirtyDayYield": 0.0414,
-    "source": "Vanguard.com ETF",
     "ticker": "VMBS",
-    "timestamp": "2026-05-14T10:03:55.575Z"
+    "accountType": "Mortgage-Backed Securities ETF",
+    "nav": 46.6,
+    "thirtyDayYield": 0.0414,
+    "asOfDate": "2026-05-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-15T03:24:03.838Z"
   },
   {
     "ticker": "VPLS",
