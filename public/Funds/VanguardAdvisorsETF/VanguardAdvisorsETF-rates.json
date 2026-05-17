@@ -1,38 +1,56 @@
 [
   {
-    "ticker": "BIV",
-    "accountType": "Intermediate-Term Bond ETF",
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "nav": 75.57,
+    "thirtyDayYield": 0.0358,
+    "asOfDate": "2026-05-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-17T04:13:33.980Z"
+  },
+  {
+    "ticker": "VTEC",
+    "accountType": "California Tax-Exempt Bond ETF",
+    "nav": 98.88,
+    "thirtyDayYield": 0.0326,
+    "asOfDate": "2026-05-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-17T04:13:33.980Z"
+  },
+  {
+    "ticker": "VWOB",
+    "accountType": "Emerging Markets Government Bond ETF",
+    "nav": 66.1,
+    "thirtyDayYield": 0.0589,
+    "asOfDate": "2026-05-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-17T04:13:33.980Z"
+  },
+  {
+    "ticker": "VSDM",
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.07,
+    "thirtyDayYield": 0.0325,
+    "asOfDate": "2026-05-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-17T04:13:33.980Z"
+  },
+  {
+    "ticker": "VTEB",
+    "accountType": "Tax-Exempt Bond ETF",
+    "nav": 49.78,
+    "thirtyDayYield": 0.0354,
+    "asOfDate": "2026-05-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-17T04:13:33.980Z"
+  },
+  {
+    "ticker": "VTC",
+    "accountType": "Total Corporate Bond ETF",
     "nav": 76.01,
-    "thirtyDayYield": 0.0458,
-    "asOfDate": "2026-05-14",
+    "thirtyDayYield": 0.0508,
+    "asOfDate": "2026-04-30",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-17T02:39:42.055Z"
-  },
-  {
-    "ticker": "MUNY",
-    "accountType": "New York Tax-Exempt Bond ETF",
-    "nav": 102.21,
-    "thirtyDayYield": 0.0343,
-    "asOfDate": "2026-05-14",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-17T02:39:42.055Z"
-  },
-  {
-    "ticker": "VSDB",
-    "accountType": "Short Duration Bond ETF",
-    "nav": 75.8,
-    "thirtyDayYield": 0.0454,
-    "asOfDate": "2026-05-14",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-17T02:39:42.055Z"
-  },
-  {
-    "ticker": "VTP",
-    "accountType": "Total Inflation-Protected Securities ETF",
-    "nav": 76.38,
-    "thirtyDayYield": 0.0142,
-    "asOfDate": "2026-05-14",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-17T02:39:42.055Z"
+    "timestamp": "2026-05-17T04:13:33.980Z"
   }
 ]
