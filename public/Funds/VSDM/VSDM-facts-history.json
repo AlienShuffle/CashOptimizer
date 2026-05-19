@@ -828,7 +828,7 @@
   {
     "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-16T12:37:26.676Z",
+    "timestamp": "2026-05-18T14:22:09.297Z",
     "thirtyDayYield": 0.0325,
     "asOfDate": "2026-05-14",
     "nav": 76.07,
@@ -840,5 +840,21 @@
     "yieldToWorst": 0.034,
     "maturityYears": 5.2,
     "weightedAverageCoupon": 0.0456
+  },
+  {
+    "ticker": "VSDM",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T12:29:39.625Z",
+    "thirtyDayYield": 0.0325,
+    "asOfDate": "2026-05-15",
+    "nav": 76.1,
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0012,
+    "aum": 610200000,
+    "distributionYield": 0.0313,
+    "durationYears": 2.9,
+    "yieldToWorst": 0.0339,
+    "maturityYears": 5.2,
+    "weightedAverageCoupon": 0.0455
   }
 ]
