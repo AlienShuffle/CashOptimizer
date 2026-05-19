@@ -234,13 +234,13 @@
     "timestamp": "2026-05-16T04:34:20.867Z"
   },
   {
-    "accountType": "0-3 Month T-Bill ETF",
-    "asOfDate": "2026-05-15",
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
     "nav": 75.58,
     "thirtyDayYield": 0.0358,
-    "source": "Vanguard.com ETF",
-    "ticker": "VBIL",
-    "timestamp": "2026-05-19T07:46:21.657Z"
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T10:55:34.608Z"
   },
   {
     "accountType": "ESG U.S. Corp Bond ETF",
@@ -351,22 +351,22 @@
     "timestamp": "2026-05-19T07:46:21.657Z"
   },
   {
-    "accountType": "Core-Plus Bond ETF",
-    "asOfDate": "2026-05-15",
-    "nav": 76.78,
-    "thirtyDayYield": 0.0471,
-    "source": "Vanguard.com ETF",
     "ticker": "VPLS",
-    "timestamp": "2026-05-19T07:46:21.657Z"
+    "accountType": "Core-Plus Bond ETF",
+    "nav": 76.68,
+    "thirtyDayYield": 0.0471,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T10:55:34.608Z"
   },
   {
-    "accountType": "Short Duration Bond ETF",
-    "asOfDate": "2026-05-15",
-    "nav": 75.93,
-    "thirtyDayYield": 0.0455,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDB",
-    "timestamp": "2026-05-19T07:46:21.657Z"
+    "accountType": "Short Duration Bond ETF",
+    "nav": 75.82,
+    "thirtyDayYield": 0.0455,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T10:55:34.608Z"
   },
   {
     "accountType": "Short Dura Tax-Ex Bnd ETF",
