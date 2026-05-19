@@ -1,20 +1,47 @@
 [
   {
-    "ticker": "VGMS",
-    "accountType": "Multi-Sector Income Bond ETF",
-    "nav": 50.82,
-    "thirtyDayYield": 0.0552,
+    "ticker": "EDV",
+    "accountType": "Extended Duration Treasury ETF",
+    "nav": 60.48,
+    "thirtyDayYield": 0.0534,
     "asOfDate": "2026-05-15",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-19T21:55:44.383Z"
+    "timestamp": "2026-05-19T23:30:03.337Z"
   },
   {
-    "ticker": "VUSB",
-    "accountType": "Ultra-Short Bond ETF",
-    "nav": 49.7,
-    "thirtyDayYield": 0.0429,
+    "ticker": "VTEL",
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 102.04,
+    "thirtyDayYield": 0.0397,
     "asOfDate": "2026-05-15",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-19T21:55:44.383Z"
+    "timestamp": "2026-05-19T23:30:03.337Z"
+  },
+  {
+    "ticker": "MUNY",
+    "accountType": "New York Tax-Exempt Bond ETF",
+    "nav": 101.92,
+    "thirtyDayYield": 0.0343,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T23:30:03.337Z"
+  },
+  {
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 100.6,
+    "thirtyDayYield": 0.0264,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T23:30:03.337Z"
+  },
+  {
+    "ticker": "VGSH",
+    "accountType": "Short-Term Treasury ETF",
+    "nav": 58.15,
+    "thirtyDayYield": 0.0388,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T23:30:03.337Z"
   }
 ]
