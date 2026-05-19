@@ -880,7 +880,7 @@
   {
     "ticker": "VCSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-16T14:14:23.818Z",
+    "timestamp": "2026-05-18T15:59:13.198Z",
     "thirtyDayYield": 0.0451,
     "asOfDate": "2026-05-14",
     "nav": 78.76,
@@ -891,6 +891,23 @@
     "durationYears": 2.7,
     "yieldToMaturity": 0.047,
     "yieldToWorst": 0.0464,
+    "maturityYears": 3,
+    "weightedAverageCoupon": 0.0425
+  },
+  {
+    "ticker": "VCSH",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T15:37:58.032Z",
+    "thirtyDayYield": 0.0452,
+    "asOfDate": "2026-05-15",
+    "nav": 78.79,
+    "accountType": "Short-Term Corporate Bond ETF",
+    "expenseRatio": 0.0003,
+    "aum": 42500000000,
+    "distributionYield": 0.0446,
+    "durationYears": 2.7,
+    "yieldToMaturity": 0.0478,
+    "yieldToWorst": 0.0472,
     "maturityYears": 3,
     "weightedAverageCoupon": 0.0425
   }
