@@ -1,11 +1,56 @@
 [
   {
-    "ticker": "VGSH",
-    "accountType": "Short-Term Treasury ETF",
-    "nav": 58.19,
-    "thirtyDayYield": 0.0387,
+    "ticker": "EDV",
+    "accountType": "Extended Duration Treasury ETF",
+    "nav": 61.04,
+    "thirtyDayYield": 0.0534,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T09:22:31.578Z"
+  },
+  {
+    "ticker": "VTEL",
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 102.41,
+    "thirtyDayYield": 0.0397,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T09:22:31.578Z"
+  },
+  {
+    "ticker": "MUNY",
+    "accountType": "New York Tax-Exempt Bond ETF",
+    "nav": 102.22,
+    "thirtyDayYield": 0.0343,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T09:22:31.578Z"
+  },
+  {
+    "ticker": "VTIP",
+    "accountType": "Short-Term Inflation-Protected Securities ETF",
+    "nav": 50.36,
+    "thirtyDayYield": 0.0056,
     "asOfDate": "2026-05-14",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-19T03:07:40.918Z"
+    "timestamp": "2026-05-19T09:22:31.578Z"
+  },
+  {
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 100.71,
+    "thirtyDayYield": 0.0264,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T09:22:31.578Z"
+  },
+  {
+    "ticker": "VTG",
+    "accountType": "Total Treasury ETF",
+    "nav": 74.53,
+    "thirtyDayYield": 0.0421,
+    "asOfDate": "2026-05-15",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-19T09:22:31.578Z"
   }
 ]
