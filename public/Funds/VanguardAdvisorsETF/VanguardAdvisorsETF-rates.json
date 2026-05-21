@@ -1,20 +1,47 @@
 [
   {
-    "ticker": "VCRM",
-    "accountType": "Core Tax-Exempt Bond ETF",
-    "nav": 75.05,
-    "thirtyDayYield": 0.0393,
+    "ticker": "VCRB",
+    "accountType": "Core Bond ETF",
+    "nav": 76.54,
+    "thirtyDayYield": 0.047,
     "asOfDate": "2026-05-19",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-21T13:13:28.168Z"
+    "timestamp": "2026-05-21T14:48:07.441Z"
   },
   {
-    "ticker": "VCLT",
-    "accountType": "Long-Term Corporate Bond ETF",
-    "nav": 73.82,
-    "thirtyDayYield": 0.0595,
+    "ticker": "BIV",
+    "accountType": "Intermediate-Term Bond ETF",
+    "nav": 76.16,
+    "thirtyDayYield": 0.0466,
     "asOfDate": "2026-05-19",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-21T13:13:28.168Z"
+    "timestamp": "2026-05-21T14:48:07.441Z"
+  },
+  {
+    "ticker": "VGIT",
+    "accountType": "Intermediate-Term Treasury ETF",
+    "nav": 58.71,
+    "thirtyDayYield": 0.0415,
+    "asOfDate": "2026-05-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-21T14:48:07.441Z"
+  },
+  {
+    "ticker": "VCSH",
+    "accountType": "Short-Term Corporate Bond ETF",
+    "nav": 78.87,
+    "thirtyDayYield": 0.0456,
+    "asOfDate": "2026-05-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-21T14:48:07.441Z"
+  },
+  {
+    "ticker": "VTP",
+    "accountType": "Total Inflation-Protected Securities ETF",
+    "nav": 76.34,
+    "thirtyDayYield": 0.0142,
+    "asOfDate": "2026-05-14",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-21T14:48:07.441Z"
   }
 ]
