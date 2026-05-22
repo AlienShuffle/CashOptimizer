@@ -1,19 +1,33 @@
 [
   {
-    "ticker": "VPLS",
+    "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-22T00:12:31.137Z",
-    "thirtyDayYield": 0.0474,
+    "timestamp": "2026-05-22T01:45:10.418Z",
+    "thirtyDayYield": 0.0401,
     "asOfDate": "2026-05-19",
-    "nav": 76.88,
-    "accountType": "Core-Plus Bond ETF",
-    "expenseRatio": 0.002,
-    "aum": 1500000000,
-    "distributionYield": 0.0445,
-    "durationYears": 5.6,
-    "yieldToMaturity": 0.0533,
-    "yieldToWorst": 0.0531,
-    "maturityYears": 8.1,
-    "weightedAverageCoupon": 0.0441
+    "nav": 102.22,
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0009,
+    "aum": 259300000,
+    "durationYears": 9.3,
+    "yieldToWorst": 0.0423,
+    "maturityYears": 19.7,
+    "weightedAverageCoupon": 0.045
+  },
+  {
+    "ticker": "VTES",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-22T01:45:31.029Z",
+    "thirtyDayYield": 0.0267,
+    "asOfDate": "2026-05-19",
+    "nav": 100.7,
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0005,
+    "aum": 1900000000,
+    "distributionYield": 0.0276,
+    "durationYears": 2.6,
+    "yieldToWorst": 0.0283,
+    "maturityYears": 3.3,
+    "weightedAverageCoupon": 0.0479
   }
 ]
