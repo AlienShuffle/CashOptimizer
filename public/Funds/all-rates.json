@@ -234,13 +234,13 @@
     "timestamp": "2026-05-16T04:34:20.867Z"
   },
   {
-    "accountType": "0-3 Month T-Bill ETF",
-    "asOfDate": "2026-05-21",
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
     "nav": 75.63,
     "thirtyDayYield": 0.0358,
-    "source": "Vanguard.com ETF",
-    "ticker": "VBIL",
-    "timestamp": "2026-05-23T10:40:38.354Z"
+    "asOfDate": "2026-05-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-23T23:06:25.453Z"
   },
   {
     "accountType": "ESG U.S. Corp Bond ETF",
@@ -324,13 +324,13 @@
     "timestamp": "2026-05-23T18:25:13.466Z"
   },
   {
-    "accountType": "ST Treasury ETF",
-    "asOfDate": "2026-05-21",
-    "nav": 58.22,
-    "thirtyDayYield": 0.0394,
-    "source": "Vanguard.com ETF",
     "ticker": "VGSH",
-    "timestamp": "2026-05-23T10:40:38.354Z"
+    "accountType": "Short-Term Treasury ETF",
+    "nav": 58.17,
+    "thirtyDayYield": 0.0394,
+    "asOfDate": "2026-05-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-23T23:06:25.453Z"
   },
   {
     "ticker": "VGUS",
@@ -351,13 +351,13 @@
     "timestamp": "2026-05-23T19:59:07.266Z"
   },
   {
-    "accountType": "Core-Plus Bond ETF",
-    "asOfDate": "2026-05-21",
-    "nav": 77.13,
-    "thirtyDayYield": 0.0475,
-    "source": "Vanguard.com ETF",
     "ticker": "VPLS",
-    "timestamp": "2026-05-23T10:40:38.354Z"
+    "accountType": "Core-Plus Bond ETF",
+    "nav": 76.95,
+    "thirtyDayYield": 0.0475,
+    "asOfDate": "2026-05-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-23T23:06:25.453Z"
   },
   {
     "accountType": "Short Duration Bond ETF",
@@ -459,13 +459,13 @@
     "timestamp": "2026-05-23T18:25:13.466Z"
   },
   {
-    "accountType": "Ultra-Short Bond ETF",
-    "asOfDate": "2026-05-21",
-    "nav": 49.74,
-    "thirtyDayYield": 0.0431,
-    "source": "Vanguard.com ETF",
     "ticker": "VUSB",
-    "timestamp": "2026-05-23T10:40:38.354Z"
+    "accountType": "Ultra-Short Bond ETF",
+    "nav": 49.72,
+    "thirtyDayYield": 0.0431,
+    "asOfDate": "2026-05-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-23T23:06:25.453Z"
   },
   {
     "ticker": "VWOB",
