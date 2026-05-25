@@ -16,17 +16,17 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-05-22T20:32:32.449Z",
+    "timestamp": "2026-05-25T17:10:15.509Z",
     "nav": 91.57,
     "aum": 46429510000,
     "asOfDate": "2026-05-21",
     "expenseRatio": 0.001353,
     "thirtyDayYield": 0.035,
     "fundName": "State Street® SPDR® Bloomberg 1-3 Month T-Bill ETF",
-    "durationYears": 0.1,
+    "durationYears": 0.09,
     "maturityYears": 0.1,
-    "yieldToWorst": 0.0363,
-    "yieldToMaturity": 0.0363,
+    "yieldToWorst": 0.0365,
+    "yieldToMaturity": 0.0365,
     "distributionYield": 0.039
   },
   {
@@ -275,7 +275,7 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-05-22T20:32:36.394Z",
+    "timestamp": "2026-05-25T17:10:18.790Z",
     "nav": 28.27,
     "aum": 10023990000,
     "asOfDate": "2026-05-21",
@@ -283,10 +283,10 @@
     "thirtyDayYield": 0.0418,
     "fundName": "State Street® SPDR® Portfolio Intermediate Term Treasury ETF",
     "weightedAverageCoupon": 0.0358,
-    "durationYears": 4.86,
+    "durationYears": 4.85,
     "maturityYears": 5.51,
-    "yieldToWorst": 0.0429,
-    "yieldToMaturity": 0.0429,
+    "yieldToWorst": 0.0432,
+    "yieldToMaturity": 0.0432,
     "distributionYield": 0.0386
   },
   {
@@ -796,18 +796,18 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-05-23T05:59:10.738Z",
+    "timestamp": "2026-05-25T17:08:55.851Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.036,
     "asOfDate": "2026-04-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.45,
-    "yieldToWorst": 0.0367
+    "durationYears": 0.44,
+    "yieldToWorst": 0.0374
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-05-23T05:59:16.395Z",
+    "timestamp": "2026-05-25T17:09:01.333Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0377,
     "asOfDate": "2026-04-30",
