@@ -1,35 +1,19 @@
 [
   {
-    "ticker": "VBIL",
+    "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-26T08:54:47.404Z",
-    "thirtyDayYield": 0.0358,
+    "timestamp": "2026-05-26T12:01:26.830Z",
+    "thirtyDayYield": 0.0361,
     "asOfDate": "2026-05-21",
-    "nav": 75.63,
-    "accountType": "0-3 Month Treasury Bill ETF",
-    "expenseRatio": 0.0006,
-    "aum": 7300000000,
-    "distributionYield": 0.0348,
-    "durationYears": 0.1,
-    "yieldToMaturity": 0.0362,
-    "yieldToWorst": 0.0362,
-    "maturityYears": 0.1
-  },
-  {
-    "ticker": "VGSH",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-26T08:55:06.410Z",
-    "thirtyDayYield": 0.0394,
-    "asOfDate": "2026-05-21",
-    "nav": 58.17,
-    "accountType": "Short-Term Treasury ETF",
-    "expenseRatio": 0.0003,
-    "aum": 29200000000,
-    "distributionYield": 0.0372,
-    "durationYears": 1.8,
-    "yieldToMaturity": 0.0405,
-    "yieldToWorst": 0.0405,
-    "maturityYears": 1.9,
-    "weightedAverageCoupon": 0.0307
+    "nav": 75.62,
+    "accountType": "Ultra-Short Treasury ETF",
+    "expenseRatio": 0.0007,
+    "aum": 928700000,
+    "distributionYield": 0.0349,
+    "durationYears": 0.3,
+    "yieldToMaturity": 0.0369,
+    "yieldToWorst": 0.0369,
+    "maturityYears": 0.3,
+    "weightedAverageCoupon": 0.0103
   }
 ]
