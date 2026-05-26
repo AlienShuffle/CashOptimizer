@@ -234,13 +234,13 @@
     "timestamp": "2026-05-16T04:34:20.867Z"
   },
   {
-    "accountType": "0-3 Month T-Bill ETF",
-    "asOfDate": "2026-05-21",
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
     "nav": 75.63,
     "thirtyDayYield": 0.0358,
-    "source": "Vanguard.com ETF",
-    "ticker": "VBIL",
-    "timestamp": "2026-05-26T07:20:55.410Z"
+    "asOfDate": "2026-05-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-26T08:55:26.419Z"
   },
   {
     "accountType": "ESG U.S. Corp Bond ETF",
@@ -324,13 +324,13 @@
     "timestamp": "2026-05-26T07:20:55.410Z"
   },
   {
-    "accountType": "ST Treasury ETF",
-    "asOfDate": "2026-05-21",
-    "nav": 58.22,
-    "thirtyDayYield": 0.0394,
-    "source": "Vanguard.com ETF",
     "ticker": "VGSH",
-    "timestamp": "2026-05-26T07:20:55.410Z"
+    "accountType": "Short-Term Treasury ETF",
+    "nav": 58.17,
+    "thirtyDayYield": 0.0394,
+    "asOfDate": "2026-05-21",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-26T08:55:26.419Z"
   },
   {
     "accountType": "Ultra-Short Treasury ETF",
