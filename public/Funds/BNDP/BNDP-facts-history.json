@@ -909,7 +909,7 @@
   {
     "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-24T02:12:24.296Z",
+    "timestamp": "2026-05-26T16:40:23.843Z",
     "thirtyDayYield": 0.0473,
     "asOfDate": "2026-05-21",
     "nav": 73.75,
@@ -919,6 +919,22 @@
     "durationYears": 5.5,
     "yieldToMaturity": 0.0498,
     "yieldToWorst": 0.0496,
+    "maturityYears": 7.8,
+    "weightedAverageCoupon": 0.0406
+  },
+  {
+    "ticker": "BNDP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-27T09:57:27.998Z",
+    "thirtyDayYield": 0.0473,
+    "asOfDate": "2026-05-22",
+    "nav": 74.01,
+    "accountType": "Core-Plus Bond Index ETF",
+    "expenseRatio": 0.0005,
+    "aum": 117100000,
+    "durationYears": 5.5,
+    "yieldToMaturity": 0.05,
+    "yieldToWorst": 0.0498,
     "maturityYears": 7.8,
     "weightedAverageCoupon": 0.0406
   }
