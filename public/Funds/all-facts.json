@@ -16,7 +16,7 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-05-27T06:48:57.825Z",
+    "timestamp": "2026-05-27T16:12:13.033Z",
     "nav": 91.61,
     "aum": 46239150000,
     "asOfDate": "2026-05-22",
@@ -24,9 +24,9 @@
     "thirtyDayYield": 0.035,
     "fundName": "State Street® SPDR® Bloomberg 1-3 Month T-Bill ETF",
     "durationYears": 0.09,
-    "maturityYears": 0.1,
-    "yieldToWorst": 0.0365,
-    "yieldToMaturity": 0.0365,
+    "maturityYears": 0.09,
+    "yieldToWorst": 0.0366,
+    "yieldToMaturity": 0.0366,
     "distributionYield": 0.039
   },
   {
@@ -99,7 +99,7 @@
   {
     "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-26T22:54:51.597Z",
+    "timestamp": "2026-05-27T16:11:30.744Z",
     "thirtyDayYield": 0.0422,
     "asOfDate": "2026-04-30",
     "nav": 68.26,
@@ -108,25 +108,25 @@
     "aum": 1600000000,
     "distributionYield": 0.0345,
     "durationYears": 6.1,
-    "yieldToMaturity": 0.0489,
-    "yieldToWorst": 0.0488,
+    "yieldToMaturity": 0.0488,
+    "yieldToWorst": 0.0487,
     "maturityYears": 8.1,
-    "weightedAverageCoupon": 0.0321
+    "weightedAverageCoupon": 0.0322
   },
   {
     "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-26T22:55:11.115Z",
-    "thirtyDayYield": 0.0349,
-    "asOfDate": "2026-05-21",
+    "timestamp": "2026-05-27T16:11:50.327Z",
+    "thirtyDayYield": 0.0348,
+    "asOfDate": "2026-05-22",
     "nav": 48.13,
     "accountType": "Total International Bond ETF",
     "expenseRatio": 0.0007,
     "aum": 78600000000,
     "distributionYield": 0.0285,
     "durationYears": 6.5,
-    "yieldToMaturity": 0.0503,
-    "yieldToWorst": 0.0501,
+    "yieldToMaturity": 0.0498,
+    "yieldToWorst": 0.0497,
     "maturityYears": 8.2,
     "weightedAverageCoupon": 0.0267
   },
@@ -275,7 +275,7 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-05-27T06:49:01.013Z",
+    "timestamp": "2026-05-27T16:12:16.571Z",
     "nav": 28.36,
     "aum": 10122750000,
     "asOfDate": "2026-05-22",
@@ -284,9 +284,9 @@
     "fundName": "State Street® SPDR® Portfolio Intermediate Term Treasury ETF",
     "weightedAverageCoupon": 0.0358,
     "durationYears": 4.85,
-    "maturityYears": 5.51,
-    "yieldToWorst": 0.0432,
-    "yieldToMaturity": 0.0432,
+    "maturityYears": 5.5,
+    "yieldToWorst": 0.0424,
+    "yieldToMaturity": 0.0424,
     "distributionYield": 0.0386
   },
   {
