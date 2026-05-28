@@ -16,9 +16,9 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-05-28T01:38:47.932Z",
-    "nav": 91.61,
-    "aum": 46239150000,
+    "timestamp": "2026-05-28T06:19:33.924Z",
+    "nav": 91.62,
+    "aum": 45987660000,
     "asOfDate": "2026-05-26",
     "expenseRatio": 0.001353,
     "thirtyDayYield": 0.035,
@@ -275,9 +275,9 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-05-28T01:38:51.444Z",
-    "nav": 28.36,
-    "aum": 10122750000,
+    "timestamp": "2026-05-28T06:19:37.192Z",
+    "nav": 28.37,
+    "aum": 10126360000,
     "asOfDate": "2026-05-26",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0421,
@@ -553,18 +553,18 @@
   {
     "ticker": "VMBS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-27T09:57:08.435Z",
-    "thirtyDayYield": 0.0413,
-    "asOfDate": "2026-05-22",
-    "nav": 46.64,
+    "timestamp": "2026-05-28T06:18:56.774Z",
+    "thirtyDayYield": 0.0411,
+    "asOfDate": "2026-05-26",
+    "nav": 46.65,
     "accountType": "Mortgage-Backed Securities ETF",
     "expenseRatio": 0.0003,
     "aum": 15200000000,
     "distributionYield": 0.0417,
-    "durationYears": 5.2,
-    "yieldToMaturity": 0.051,
-    "yieldToWorst": 0.051,
-    "maturityYears": 6.8,
+    "durationYears": 5.1,
+    "yieldToMaturity": 0.0502,
+    "yieldToWorst": 0.0502,
+    "maturityYears": 6.7,
     "weightedAverageCoupon": 0.04
   },
   {
@@ -796,24 +796,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-05-27T11:31:29.083Z",
+    "timestamp": "2026-05-28T06:19:20.422Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.036,
     "asOfDate": "2026-04-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.44,
-    "yieldToWorst": 0.0368
+    "durationYears": 0.43,
+    "yieldToWorst": 0.0375
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-05-27T11:31:34.761Z",
+    "timestamp": "2026-05-28T06:19:26.129Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0377,
     "asOfDate": "2026-04-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0311,
-    "durationYears": 0.93,
+    "durationYears": 0.92,
     "yieldToWorst": 0.0389
   }
 ]
