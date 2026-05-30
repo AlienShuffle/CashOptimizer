@@ -270,22 +270,22 @@
     "timestamp": "2026-05-30T13:13:13.267Z"
   },
   {
-    "accountType": "Core Bond ETF",
-    "asOfDate": "2026-05-28",
-    "nav": 77.28,
-    "thirtyDayYield": 0.047,
-    "source": "Vanguard.com ETF",
     "ticker": "VCRB",
-    "timestamp": "2026-05-30T10:02:50.899Z"
+    "accountType": "Core Bond ETF",
+    "nav": 77.21,
+    "thirtyDayYield": 0.047,
+    "asOfDate": "2026-05-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-30T19:24:51.406Z"
   },
   {
-    "accountType": "Core Tax-Ex Bnd ETF",
-    "asOfDate": "2026-05-28",
-    "nav": 75.94,
-    "thirtyDayYield": 0.0391,
-    "source": "Vanguard.com ETF",
     "ticker": "VCRM",
-    "timestamp": "2026-05-30T10:02:50.899Z"
+    "accountType": "Core Tax-Exempt Bond ETF",
+    "nav": 75.96,
+    "thirtyDayYield": 0.0391,
+    "asOfDate": "2026-05-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-30T19:24:51.406Z"
   },
   {
     "accountType": "Short-Term Corp Bond ETF",
@@ -414,13 +414,13 @@
     "timestamp": "2026-05-30T10:02:50.899Z"
   },
   {
-    "accountType": "VG LT Tax Exempt Bond ETF",
-    "asOfDate": "2026-05-28",
-    "nav": 103.86,
-    "thirtyDayYield": 0.04,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEL",
-    "timestamp": "2026-05-30T10:02:50.899Z"
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 103.85,
+    "thirtyDayYield": 0.04,
+    "asOfDate": "2026-05-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-05-30T19:24:51.406Z"
   },
   {
     "accountType": "Short-Term Tax-Ex Bnd ETF",
