@@ -713,7 +713,7 @@
   {
     "ticker": "MBB",
     "source": "BlackRock",
-    "timestamp": "2026-05-15T23:49:58.930Z",
+    "timestamp": "2026-05-16T04:30:48.270Z",
     "thirtyDayYield": 0.0417,
     "asOfDate": "2026-05-14",
     "nav": 93.56,
@@ -723,5 +723,17 @@
     "durationYears": 5.4,
     "twelveMonTrlYield": 0.0426,
     "maturityYears": 6.69
+  },
+  {
+    "ticker": "MBB",
+    "asOfDate": "2026-05-29",
+    "thirtyDayYield": "0.04173",
+    "source": "BlackRock",
+    "timestamp": "2026-06-01T03:52:42.868Z",
+    "fundName": "iShares MBS ETF",
+    "nav": 94.72,
+    "durationYears": 5.46,
+    "yieldToWorst": 0.0493,
+    "maturityYears": 6.76
   }
 ]
