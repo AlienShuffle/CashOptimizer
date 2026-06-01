@@ -1,29 +1,56 @@
 [
   {
-    "ticker": "VTEC",
-    "accountType": "California Tax-Exempt Bond ETF",
-    "nav": 99.92,
+    "ticker": "VTEI",
+    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
+    "nav": 100.68,
+    "thirtyDayYield": 0.0317,
+    "asOfDate": "2026-05-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-01T03:51:17.189Z"
+  },
+  {
+    "ticker": "VSDM",
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.48,
     "thirtyDayYield": 0.033,
     "asOfDate": "2026-05-28",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-01T03:16:43.681Z"
+    "timestamp": "2026-06-01T03:51:17.189Z"
   },
   {
-    "ticker": "VTP",
-    "accountType": "Total Inflation-Protected Securities ETF",
-    "nav": 76.89,
-    "thirtyDayYield": 0.0155,
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 101.15,
+    "thirtyDayYield": 0.0271,
     "asOfDate": "2026-05-28",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-01T03:16:43.681Z"
+    "timestamp": "2026-06-01T03:51:17.189Z"
   },
   {
-    "ticker": "BNDW",
-    "accountType": "Total World Bond ETF",
-    "nav": 68.45,
-    "thirtyDayYield": 0.0422,
-    "asOfDate": "2026-04-30",
+    "ticker": "BNDX",
+    "accountType": "Total International Bond ETF",
+    "nav": 48.26,
+    "thirtyDayYield": 0.0345,
+    "asOfDate": "2026-05-28",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-01T03:16:43.681Z"
+    "timestamp": "2026-06-01T03:51:17.189Z"
+  },
+  {
+    "ticker": "VTG",
+    "accountType": "Total Treasury ETF",
+    "nav": 75.23,
+    "thirtyDayYield": 0.043,
+    "asOfDate": "2026-05-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-01T03:51:17.189Z"
+  },
+  {
+    "ticker": "VUSB",
+    "accountType": "Ultra-Short Bond ETF",
+    "nav": 49.8,
+    "thirtyDayYield": 0.0431,
+    "asOfDate": "2026-05-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-01T03:51:17.189Z"
   }
 ]
