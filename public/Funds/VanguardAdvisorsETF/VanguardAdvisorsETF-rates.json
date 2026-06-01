@@ -1,20 +1,29 @@
 [
   {
-    "ticker": "VGLT",
-    "accountType": "Long-Term Treasury ETF",
-    "nav": 54.82,
-    "thirtyDayYield": 0.0502,
+    "ticker": "BNDP",
+    "accountType": "Core-Plus Bond Index ETF",
+    "nav": 74.28,
+    "thirtyDayYield": 0.0473,
     "asOfDate": "2026-05-28",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-01T19:26:01.560Z"
+    "timestamp": "2026-06-01T21:01:46.889Z"
   },
   {
-    "ticker": "VGMS",
-    "accountType": "Multi-Sector Income Bond ETF",
-    "nav": 51.27,
-    "thirtyDayYield": 0.0552,
+    "ticker": "VGSH",
+    "accountType": "Short-Term Treasury ETF",
+    "nav": 58.34,
+    "thirtyDayYield": 0.0399,
     "asOfDate": "2026-05-28",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-01T19:26:01.560Z"
+    "timestamp": "2026-06-01T21:01:46.889Z"
+  },
+  {
+    "ticker": "VGUS",
+    "accountType": "Ultra-Short Treasury ETF",
+    "nav": 75.67,
+    "thirtyDayYield": 0.0361,
+    "asOfDate": "2026-05-28",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-01T21:01:46.889Z"
   }
 ]
