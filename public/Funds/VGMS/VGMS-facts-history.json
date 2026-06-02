@@ -957,7 +957,7 @@
   {
     "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-05-31T01:33:59.861Z",
+    "timestamp": "2026-06-01T19:25:40.671Z",
     "thirtyDayYield": 0.0552,
     "asOfDate": "2026-05-28",
     "nav": 51.27,
@@ -969,5 +969,21 @@
     "yieldToWorst": 0.0591,
     "maturityYears": 4.8,
     "weightedAverageCoupon": 0.0552
+  },
+  {
+    "ticker": "VGMS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-02T22:05:29.853Z",
+    "thirtyDayYield": 0.0551,
+    "asOfDate": "2026-05-29",
+    "nav": 51.02,
+    "accountType": "Multi-Sector Income Bond ETF",
+    "expenseRatio": 0.003,
+    "aum": 215200000,
+    "durationYears": 3.7,
+    "yieldToMaturity": 0.06,
+    "yieldToWorst": 0.0589,
+    "maturityYears": 4.8,
+    "weightedAverageCoupon": 0.0553
   }
 ]
