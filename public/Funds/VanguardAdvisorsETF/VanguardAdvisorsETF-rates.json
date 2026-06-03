@@ -1,56 +1,38 @@
 [
   {
-    "ticker": "VTEC",
-    "accountType": "California Tax-Exempt Bond ETF",
-    "nav": 99.85,
+    "ticker": "VTEI",
+    "accountType": "Intermediate-Term Tax-Exempt Bond ETF",
+    "nav": 100.6,
+    "thirtyDayYield": 0.0316,
+    "asOfDate": "2026-05-29",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-03T01:18:03.420Z"
+  },
+  {
+    "ticker": "VSDM",
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.37,
     "thirtyDayYield": 0.033,
     "asOfDate": "2026-05-29",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-02T23:42:36.031Z"
+    "timestamp": "2026-06-03T01:18:03.420Z"
   },
   {
-    "ticker": "VPLS",
-    "accountType": "Core-Plus Bond ETF",
-    "nav": 77.21,
-    "thirtyDayYield": 0.0473,
+    "ticker": "BND",
+    "accountType": "Total Bond Market ETF",
+    "nav": 73.18,
+    "thirtyDayYield": 0.0444,
     "asOfDate": "2026-05-29",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-02T23:42:36.031Z"
+    "timestamp": "2026-06-03T01:18:03.420Z"
   },
   {
-    "ticker": "BIV",
-    "accountType": "Intermediate-Term Bond ETF",
-    "nav": 76.47,
-    "thirtyDayYield": 0.0467,
+    "ticker": "BNDX",
+    "accountType": "Total International Bond ETF",
+    "nav": 48.11,
+    "thirtyDayYield": 0.0345,
     "asOfDate": "2026-05-29",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-02T23:42:36.031Z"
-  },
-  {
-    "ticker": "VTEL",
-    "accountType": "Long-Term Tax-Exempt Bond ETF",
-    "nav": 103.8,
-    "thirtyDayYield": 0.0399,
-    "asOfDate": "2026-05-29",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-02T23:42:36.031Z"
-  },
-  {
-    "ticker": "VTIP",
-    "accountType": "Short-Term Inflation-Protected Securities ETF",
-    "nav": 50.42,
-    "thirtyDayYield": 0.0063,
-    "asOfDate": "2026-05-28",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-02T23:42:36.031Z"
-  },
-  {
-    "ticker": "VTP",
-    "accountType": "Total Inflation-Protected Securities ETF",
-    "nav": 76.96,
-    "thirtyDayYield": 0.0155,
-    "asOfDate": "2026-05-28",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-02T23:42:36.031Z"
+    "timestamp": "2026-06-03T01:18:03.420Z"
   }
 ]
