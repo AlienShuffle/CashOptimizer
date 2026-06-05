@@ -1,20 +1,29 @@
 [
   {
-    "ticker": "VCEB",
-    "accountType": "ESG U.S. Corporate Bond ETF",
-    "nav": 62.62,
-    "thirtyDayYield": 0.0501,
-    "asOfDate": "2026-06-02",
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "nav": 75.49,
+    "thirtyDayYield": 0.0356,
+    "asOfDate": "2026-06-03",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-05T04:00:13.833Z"
+    "timestamp": "2026-06-05T07:11:51.179Z"
   },
   {
-    "ticker": "MUNY",
-    "accountType": "New York Tax-Exempt Bond ETF",
-    "nav": 103.34,
-    "thirtyDayYield": 0.0347,
-    "asOfDate": "2026-06-02",
+    "ticker": "VTES",
+    "accountType": "Short-Term Tax-Exempt Bond ETF",
+    "nav": 101.11,
+    "thirtyDayYield": 0.027,
+    "asOfDate": "2026-06-03",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-05T04:00:13.833Z"
+    "timestamp": "2026-06-05T07:11:51.179Z"
+  },
+  {
+    "ticker": "VTG",
+    "accountType": "Total Treasury ETF",
+    "nav": 74.97,
+    "thirtyDayYield": 0.0432,
+    "asOfDate": "2026-06-03",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-05T07:11:51.179Z"
   }
 ]
