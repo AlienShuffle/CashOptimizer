@@ -2,11 +2,11 @@
   {
     "ticker": "STIP",
     "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.13416",
+    "thirtyDayYield": "0.13364",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:01:43.482Z",
+    "timestamp": "2026-06-06T00:31:28.532Z",
     "fundName": "iShares 0-5 Year TIPS Bond ETF",
-    "nav": 102.43,
+    "nav": 102.15,
     "durationYears": 2.35,
     "yieldToWorst": 0.0175,
     "maturityYears": 2.44
@@ -14,11 +14,11 @@
   {
     "ticker": "TLT",
     "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.04962",
+    "thirtyDayYield": "0.04951",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:01:55.290Z",
+    "timestamp": "2026-06-06T00:31:40.515Z",
     "fundName": "iShares 20+ Year Treasury Bond ETF",
-    "nav": 85.48,
+    "nav": 85.04,
     "durationYears": 15.37,
     "yieldToWorst": 0.0504,
     "maturityYears": 26.11
@@ -26,9 +26,9 @@
   {
     "ticker": "IEF",
     "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.04306",
+    "thirtyDayYield": "0.04303",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:02:06.224Z",
+    "timestamp": "2026-06-06T00:31:51.281Z",
     "fundName": "iShares 7-10 Year Treasury Bond ETF",
     "nav": 94.11,
     "durationYears": 7.01,
@@ -36,35 +36,11 @@
     "maturityYears": 8.5
   },
   {
-    "ticker": "AGG",
-    "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.04488",
-    "source": "BlackRock",
-    "timestamp": "2026-06-05T15:02:17.441Z",
-    "fundName": "iShares Core U.S. Aggregate Bond ETF",
-    "nav": 98.61,
-    "durationYears": 5.81,
-    "yieldToWorst": 0.0471,
-    "maturityYears": 8.1
-  },
-  {
-    "ticker": "MBB",
-    "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.04205",
-    "source": "BlackRock",
-    "timestamp": "2026-06-05T15:02:28.579Z",
-    "fundName": "iShares MBS ETF",
-    "nav": 94.21,
-    "durationYears": 5.42,
-    "yieldToWorst": 0.0498,
-    "maturityYears": 6.75
-  },
-  {
     "ticker": "TIP",
     "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.14639",
+    "thirtyDayYield": "0.14572",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:02:40.008Z",
+    "timestamp": "2026-06-06T00:32:02.038Z",
     "fundName": "iShares TIPS Bond ETF",
     "nav": 109.69,
     "durationYears": 6.43,
@@ -74,11 +50,11 @@
   {
     "ticker": "GOVT",
     "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.04301",
+    "thirtyDayYield": "0.04299",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:02:50.785Z",
+    "timestamp": "2026-06-06T00:32:13.144Z",
     "fundName": "iShares U.S. Treasury Bond ETF",
-    "nav": 22.68,
+    "nav": 22.6,
     "durationYears": 5.68,
     "yieldToWorst": 0.0432,
     "maturityYears": 7.61
@@ -86,11 +62,11 @@
   {
     "ticker": "MUB",
     "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.03406",
+    "thirtyDayYield": "0.03398",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:03:02.124Z",
+    "timestamp": "2026-06-06T00:32:23.743Z",
     "fundName": "iShares National Muni Bond ETF",
-    "nav": 107,
+    "nav": 106.89,
     "durationYears": 6.25,
     "yieldToWorst": 0.0342,
     "maturityYears": 7.04
@@ -98,11 +74,11 @@
   {
     "ticker": "IUSB",
     "asOfDate": "2026-06-04",
-    "thirtyDayYield": "0.04644",
+    "thirtyDayYield": "0.04639",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:03:13.093Z",
+    "timestamp": "2026-06-06T00:32:34.646Z",
     "fundName": "iShares Core Universal USD Bond ETF",
-    "nav": 45.97,
+    "nav": 45.78,
     "durationYears": 5.63,
     "yieldToWorst": 0.049,
     "maturityYears": 7.9
@@ -112,12 +88,36 @@
     "asOfDate": "2026-06-04",
     "thirtyDayYield": "0.03546",
     "source": "BlackRock",
-    "timestamp": "2026-06-05T15:03:23.826Z",
+    "timestamp": "2026-06-06T00:32:47.049Z",
     "fundName": "iShares 0-3 Month Treasury Bond ETF",
     "nav": 100.42,
     "weightedAverageCoupon": 0,
     "durationYears": 0.11,
     "yieldToWorst": 0.0367,
     "maturityYears": 0.11
+  },
+  {
+    "ticker": "AGG",
+    "asOfDate": "2026-06-05",
+    "thirtyDayYield": "0.04484",
+    "source": "BlackRock",
+    "timestamp": "2026-06-06T00:32:58.423Z",
+    "fundName": "iShares Core U.S. Aggregate Bond ETF",
+    "nav": 98.19,
+    "durationYears": 5.81,
+    "yieldToWorst": 0.0471,
+    "maturityYears": 8.1
+  },
+  {
+    "ticker": "MBB",
+    "asOfDate": "2026-06-05",
+    "thirtyDayYield": "0.04201",
+    "source": "BlackRock",
+    "timestamp": "2026-06-06T00:33:10.072Z",
+    "fundName": "iShares MBS ETF",
+    "nav": 93.76,
+    "durationYears": 5.42,
+    "yieldToWorst": 0.0498,
+    "maturityYears": 6.75
   }
 ]
