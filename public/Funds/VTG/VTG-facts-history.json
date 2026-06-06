@@ -1005,7 +1005,7 @@
   {
     "ticker": "VTG",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-05T07:11:12.337Z",
+    "timestamp": "2026-06-05T19:54:24.197Z",
     "thirtyDayYield": 0.0432,
     "asOfDate": "2026-06-03",
     "nav": 74.97,
@@ -1015,6 +1015,22 @@
     "durationYears": 5.7,
     "yieldToMaturity": 0.0435,
     "yieldToWorst": 0.0435,
+    "maturityYears": 7.7,
+    "weightedAverageCoupon": 0.0342
+  },
+  {
+    "ticker": "VTG",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-06T11:48:19.017Z",
+    "thirtyDayYield": 0.0433,
+    "asOfDate": "2026-06-04",
+    "nav": 74.68,
+    "accountType": "Total Treasury ETF",
+    "expenseRatio": 0.0003,
+    "aum": 122300000,
+    "durationYears": 5.7,
+    "yieldToMaturity": 0.0433,
+    "yieldToWorst": 0.0433,
     "maturityYears": 7.7,
     "weightedAverageCoupon": 0.0342
   }
