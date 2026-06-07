@@ -1,47 +1,56 @@
 [
   {
-    "ticker": "VTEC",
-    "accountType": "California Tax-Exempt Bond ETF",
-    "nav": 99.84,
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "nav": 75.51,
+    "thirtyDayYield": 0.0356,
+    "asOfDate": "2026-06-04",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-07T12:56:13.949Z"
+  },
+  {
+    "ticker": "VCEB",
+    "accountType": "ESG U.S. Corporate Bond ETF",
+    "nav": 62.33,
+    "thirtyDayYield": 0.0503,
+    "asOfDate": "2026-06-04",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-07T12:56:13.949Z"
+  },
+  {
+    "ticker": "VTEL",
+    "accountType": "Long-Term Tax-Exempt Bond ETF",
+    "nav": 103.76,
+    "thirtyDayYield": 0.0397,
+    "asOfDate": "2026-06-04",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-07T12:56:13.949Z"
+  },
+  {
+    "ticker": "MUNY",
+    "accountType": "New York Tax-Exempt Bond ETF",
+    "nav": 103.21,
+    "thirtyDayYield": 0.0346,
+    "asOfDate": "2026-06-04",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-07T12:56:13.949Z"
+  },
+  {
+    "ticker": "VSDM",
+    "accountType": "Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.38,
     "thirtyDayYield": 0.0329,
     "asOfDate": "2026-06-04",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-07T11:14:05.592Z"
+    "timestamp": "2026-06-07T12:56:13.949Z"
   },
   {
-    "ticker": "VPLS",
-    "accountType": "Core-Plus Bond ETF",
-    "nav": 76.83,
-    "thirtyDayYield": 0.0476,
+    "ticker": "VTIP",
+    "accountType": "Short-Term Inflation-Protected Securities ETF",
+    "nav": 50.25,
+    "thirtyDayYield": 0.0074,
     "asOfDate": "2026-06-04",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-07T11:14:05.592Z"
-  },
-  {
-    "ticker": "EDV",
-    "accountType": "Extended Duration Treasury ETF",
-    "nav": 63.4,
-    "thirtyDayYield": 0.0525,
-    "asOfDate": "2026-06-04",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-07T11:14:05.592Z"
-  },
-  {
-    "ticker": "VMBS",
-    "accountType": "Mortgage-Backed Securities ETF",
-    "nav": 46.33,
-    "thirtyDayYield": 0.041,
-    "asOfDate": "2026-06-04",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-07T11:14:05.592Z"
-  },
-  {
-    "ticker": "BSV",
-    "accountType": "Short-Term Bond ETF",
-    "nav": 77.56,
-    "thirtyDayYield": 0.0422,
-    "asOfDate": "2026-06-04",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-07T11:14:05.592Z"
+    "timestamp": "2026-06-07T12:56:13.949Z"
   }
 ]
