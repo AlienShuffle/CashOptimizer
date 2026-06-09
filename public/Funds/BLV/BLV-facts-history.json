@@ -1118,7 +1118,7 @@
   {
     "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-06T06:58:44.386Z",
+    "timestamp": "2026-06-08T10:41:29.203Z",
     "thirtyDayYield": 0.0542,
     "asOfDate": "2026-06-04",
     "nav": 68,
@@ -1129,6 +1129,23 @@
     "durationYears": 13,
     "yieldToMaturity": 0.0536,
     "yieldToWorst": 0.0536,
+    "maturityYears": 22,
+    "weightedAverageCoupon": 0.0413
+  },
+  {
+    "ticker": "BLV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-09T08:45:32.699Z",
+    "thirtyDayYield": 0.054,
+    "asOfDate": "2026-06-05",
+    "nav": 67.76,
+    "accountType": "Long-Term Bond ETF",
+    "expenseRatio": 0.0003,
+    "aum": 5800000000,
+    "distributionYield": 0.0488,
+    "durationYears": 13,
+    "yieldToMaturity": 0.0541,
+    "yieldToWorst": 0.0541,
     "maturityYears": 22,
     "weightedAverageCoupon": 0.0413
   }
