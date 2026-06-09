@@ -988,7 +988,7 @@
   {
     "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-06T08:35:04.704Z",
+    "timestamp": "2026-06-08T13:53:25.413Z",
     "thirtyDayYield": 0.0525,
     "asOfDate": "2026-06-04",
     "nav": 63.4,
@@ -998,6 +998,21 @@
     "durationYears": 24.1,
     "yieldToMaturity": 0.0517,
     "yieldToWorst": 0.0517,
+    "maturityYears": 24.7
+  },
+  {
+    "ticker": "EDV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-09T10:20:13.565Z",
+    "thirtyDayYield": 0.0524,
+    "asOfDate": "2026-06-05",
+    "nav": 62.87,
+    "accountType": "Extended Duration Treasury ETF",
+    "expenseRatio": 0.0005,
+    "aum": 3700000000,
+    "durationYears": 24.1,
+    "yieldToMaturity": 0.052,
+    "yieldToWorst": 0.052,
     "maturityYears": 24.7
   }
 ]
