@@ -1118,7 +1118,7 @@
   {
     "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-06T10:14:33.192Z",
+    "timestamp": "2026-06-08T18:37:54.476Z",
     "thirtyDayYield": 0.0503,
     "asOfDate": "2026-06-04",
     "nav": 62.33,
@@ -1129,6 +1129,23 @@
     "durationYears": 6.4,
     "yieldToMaturity": 0.0517,
     "yieldToWorst": 0.0512,
+    "maturityYears": 10,
+    "weightedAverageCoupon": 0.0457
+  },
+  {
+    "ticker": "VCEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-09T16:40:02.934Z",
+    "thirtyDayYield": 0.0503,
+    "asOfDate": "2026-06-05",
+    "nav": 62.27,
+    "accountType": "ESG U.S. Corporate Bond ETF",
+    "expenseRatio": 0.0012,
+    "aum": 1200000000,
+    "distributionYield": 0.0474,
+    "durationYears": 6.4,
+    "yieldToMaturity": 0.0525,
+    "yieldToWorst": 0.0521,
     "maturityYears": 10,
     "weightedAverageCoupon": 0.0457
   }
