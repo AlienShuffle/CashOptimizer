@@ -1,29 +1,38 @@
 [
   {
-    "ticker": "BSV",
-    "accountType": "Short-Term Bond ETF",
-    "nav": 77.86,
-    "thirtyDayYield": 0.0426,
+    "ticker": "VBIL",
+    "accountType": "0-3 Month Treasury Bill ETF",
+    "nav": 75.58,
+    "thirtyDayYield": 0.0356,
     "asOfDate": "2026-06-12",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-16T21:45:26.067Z"
+    "timestamp": "2026-06-16T23:19:27.859Z"
   },
   {
-    "ticker": "BNDX",
-    "accountType": "Total International Bond ETF",
-    "nav": 48.23,
-    "thirtyDayYield": 0.0342,
+    "ticker": "EDV",
+    "accountType": "Extended Duration Treasury ETF",
+    "nav": 64.5,
+    "thirtyDayYield": 0.0519,
     "asOfDate": "2026-06-12",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-16T21:45:26.067Z"
+    "timestamp": "2026-06-16T23:19:27.859Z"
   },
   {
-    "ticker": "BNDW",
-    "accountType": "Total World Bond ETF",
-    "nav": 68.33,
-    "thirtyDayYield": 0.0422,
-    "asOfDate": "2026-05-31",
+    "ticker": "VGLT",
+    "accountType": "Long-Term Treasury ETF",
+    "nav": 55.04,
+    "thirtyDayYield": 0.05,
+    "asOfDate": "2026-06-12",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-16T21:45:26.067Z"
+    "timestamp": "2026-06-16T23:19:27.859Z"
+  },
+  {
+    "ticker": "MUNY",
+    "accountType": "New York Tax-Exempt Bond ETF",
+    "nav": 103.38,
+    "thirtyDayYield": 0.0345,
+    "asOfDate": "2026-06-12",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-16T23:19:27.859Z"
   }
 ]
