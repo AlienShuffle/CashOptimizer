@@ -30,14 +30,19 @@
   {
     "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-20T07:49:27.324Z",
+    "timestamp": "2026-06-21T07:07:02.056Z",
     "thirtyDayYield": 0.0472,
     "asOfDate": "2026-06-17",
     "nav": 76.5,
     "accountType": "Intermediate-Term Bond ETF",
     "expenseRatio": 0.0003,
     "aum": 28800000000,
-    "distributionYield": 0.0434
+    "distributionYield": 0.0434,
+    "durationYears": 6,
+    "yieldToMaturity": 0.0473,
+    "yieldToWorst": 0.0472,
+    "maturityYears": 7.3,
+    "weightedAverageCoupon": 0.0426
   },
   {
     "ticker": "BLV",
@@ -343,7 +348,7 @@
   {
     "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-20T07:48:27.699Z",
+    "timestamp": "2026-06-21T07:07:22.875Z",
     "thirtyDayYield": 0.0502,
     "asOfDate": "2026-06-17",
     "nav": 62.74,
@@ -360,7 +365,7 @@
   {
     "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-20T07:48:47.077Z",
+    "timestamp": "2026-06-21T07:07:42.618Z",
     "thirtyDayYield": 0.0517,
     "asOfDate": "2026-06-17",
     "nav": 82.44,
@@ -377,7 +382,7 @@
   {
     "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-20T07:49:46.624Z",
+    "timestamp": "2026-06-21T07:08:02.417Z",
     "thirtyDayYield": 0.0583,
     "asOfDate": "2026-06-17",
     "nav": 75.37,
@@ -494,7 +499,7 @@
   {
     "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-20T07:49:06.738Z",
+    "timestamp": "2026-06-21T07:08:22.538Z",
     "thirtyDayYield": 0.0409,
     "asOfDate": "2026-06-17",
     "nav": 58.09,
