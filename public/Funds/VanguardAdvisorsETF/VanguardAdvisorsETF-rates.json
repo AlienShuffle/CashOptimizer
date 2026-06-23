@@ -1,47 +1,56 @@
 [
   {
-    "ticker": "VBIL",
-    "accountType": "0-3 Month Treasury Bill ETF",
-    "nav": 75.62,
-    "thirtyDayYield": 0.0356,
+    "ticker": "VCEB",
+    "accountType": "ESG U.S. Corporate Bond ETF",
+    "nav": 62.57,
+    "thirtyDayYield": 0.0505,
     "asOfDate": "2026-06-18",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-23T07:13:25.988Z"
+    "timestamp": "2026-06-23T08:50:07.046Z"
   },
   {
-    "ticker": "EDV",
-    "accountType": "Extended Duration Treasury ETF",
-    "nav": 64.58,
-    "thirtyDayYield": 0.0517,
+    "ticker": "VCIT",
+    "accountType": "Intermediate-Term Corporate Bond ETF",
+    "nav": 82.23,
+    "thirtyDayYield": 0.052,
     "asOfDate": "2026-06-18",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-23T07:13:25.988Z"
+    "timestamp": "2026-06-23T08:50:07.046Z"
   },
   {
-    "ticker": "BIV",
-    "accountType": "Intermediate-Term Bond ETF",
-    "nav": 76.29,
-    "thirtyDayYield": 0.0475,
+    "ticker": "BLV",
+    "accountType": "Long-Term Bond ETF",
+    "nav": 68.63,
+    "thirtyDayYield": 0.0538,
     "asOfDate": "2026-06-18",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-23T07:13:25.988Z"
+    "timestamp": "2026-06-23T08:50:07.046Z"
   },
   {
-    "ticker": "VGLT",
-    "accountType": "Long-Term Treasury ETF",
-    "nav": 54.91,
-    "thirtyDayYield": 0.0499,
+    "ticker": "VCLT",
+    "accountType": "Long-Term Corporate Bond ETF",
+    "nav": 74.97,
+    "thirtyDayYield": 0.0583,
     "asOfDate": "2026-06-18",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-23T07:13:25.988Z"
+    "timestamp": "2026-06-23T08:50:07.046Z"
   },
   {
-    "ticker": "MUNY",
-    "accountType": "New York Tax-Exempt Bond ETF",
-    "nav": 103.52,
-    "thirtyDayYield": 0.0342,
+    "ticker": "VGSH",
+    "accountType": "Short-Term Treasury ETF",
+    "nav": 58.06,
+    "thirtyDayYield": 0.0411,
     "asOfDate": "2026-06-18",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-23T07:13:25.988Z"
+    "timestamp": "2026-06-23T08:50:07.046Z"
+  },
+  {
+    "ticker": "VGUS",
+    "accountType": "Ultra-Short Treasury ETF",
+    "nav": 75.58,
+    "thirtyDayYield": 0.0364,
+    "asOfDate": "2026-06-18",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-23T08:50:07.046Z"
   }
 ]
