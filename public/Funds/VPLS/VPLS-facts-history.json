@@ -1219,7 +1219,7 @@
   {
     "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-06-20T10:59:42.295Z",
+    "timestamp": "2026-06-21T13:17:57.087Z",
     "thirtyDayYield": 0.0475,
     "asOfDate": "2026-06-17",
     "nav": 77.36,
@@ -1231,6 +1231,23 @@
     "yieldToMaturity": 0.0526,
     "yieldToWorst": 0.0524,
     "maturityYears": 7.9,
+    "weightedAverageCoupon": 0.0457
+  },
+  {
+    "ticker": "VPLS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-06-23T10:23:02.520Z",
+    "thirtyDayYield": 0.0478,
+    "asOfDate": "2026-06-18",
+    "nav": 77.19,
+    "accountType": "Core-Plus Bond ETF",
+    "expenseRatio": 0.002,
+    "aum": 1600000000,
+    "distributionYield": 0.0444,
+    "durationYears": 5.5,
+    "yieldToMaturity": 0.0522,
+    "yieldToWorst": 0.0521,
+    "maturityYears": 7.8,
     "weightedAverageCoupon": 0.0457
   }
 ]
