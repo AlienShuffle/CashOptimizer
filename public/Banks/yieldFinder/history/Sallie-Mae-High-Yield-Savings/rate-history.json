@@ -130,14 +130,14 @@
     "apy": 0.0375,
     "asOfDate": "2026-06-14",
     "source": "gapFiller",
-    "timestamp": "2026-07-01T08:23:47.007Z"
+    "timestamp": "2026-07-02T08:00:03.259Z"
   },
   {
     "accountType": "Sallie Mae High-Yield Savings",
     "apy": 0.0375,
     "asOfDate": "2026-06-15",
     "source": "gapFiller",
-    "timestamp": "2026-07-01T08:23:47.007Z"
+    "timestamp": "2026-07-02T08:00:03.259Z"
   },
   {
     "accountType": "Sallie Mae High-Yield Savings",
@@ -250,5 +250,12 @@
     "asOfDate": "2026-07-01",
     "source": "node-yieldFinder-json-update.js",
     "timestamp": "2026-07-01T08:23:43.141Z"
+  },
+  {
+    "accountType": "Sallie Mae High-Yield Savings",
+    "apy": 0.0375,
+    "asOfDate": "2026-07-02",
+    "source": "node-yieldFinder-json-update.js",
+    "timestamp": "2026-07-02T07:59:59.342Z"
   }
 ]
