@@ -59,7 +59,7 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T18:58:59.130Z",
+    "timestamp": "2026-07-09T20:51:08.531Z",
     "thirtyDayYield": 0.0454,
     "asOfDate": "2026-07-07",
     "nav": 72.71,
@@ -83,7 +83,7 @@
   {
     "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T19:40:15.279Z",
+    "timestamp": "2026-07-09T20:51:26.946Z",
     "thirtyDayYield": 0.0423,
     "asOfDate": "2026-06-30",
     "nav": 67.75,
@@ -349,13 +349,15 @@
   {
     "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T18:50:13.883Z",
+    "timestamp": "2026-07-09T20:50:50.172Z",
     "thirtyDayYield": 0.0518,
     "asOfDate": "2026-07-07",
     "nav": 81.8,
     "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
     "expenseRatio": 0.0003,
-    "aum": 67300000000
+    "aum": 67300000000,
+    "durationYears": 6,
+    "maturityYears": 6
   },
   {
     "ticker": "VCLT",
@@ -648,7 +650,7 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T18:44:15.645Z",
+    "timestamp": "2026-07-09T20:50:31.439Z",
     "thirtyDayYield": 0.0437,
     "asOfDate": "2026-07-07",
     "nav": 49.61,

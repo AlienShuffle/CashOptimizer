@@ -2,7 +2,7 @@
   {
     "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T19:40:15.279Z",
+    "timestamp": "2026-07-09T20:51:26.946Z",
     "thirtyDayYield": 0.0423,
     "asOfDate": "2026-06-30",
     "nav": 67.75,
@@ -11,16 +11,42 @@
     "aum": 1900000000
   },
   {
-    "ticker": "VPLS",
+    "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T19:39:57.043Z",
-    "thirtyDayYield": 0.0485,
+    "timestamp": "2026-07-09T20:50:31.439Z",
+    "thirtyDayYield": 0.0437,
     "asOfDate": "2026-07-07",
-    "nav": 76.74,
-    "accountType": "Vanguard Core-Plus Bond ETF",
-    "expenseRatio": 0.002,
-    "aum": 1700000000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 49.61,
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "expenseRatio": 0.001,
+    "aum": 8900000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
+  },
+  {
+    "ticker": "VCIT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-09T20:50:50.172Z",
+    "thirtyDayYield": 0.0518,
+    "asOfDate": "2026-07-07",
+    "nav": 81.8,
+    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
+    "expenseRatio": 0.0003,
+    "aum": 67300000000,
+    "durationYears": 6,
+    "maturityYears": 6
+  },
+  {
+    "ticker": "BND",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-09T20:51:08.531Z",
+    "thirtyDayYield": 0.0454,
+    "asOfDate": "2026-07-07",
+    "nav": 72.71,
+    "accountType": "Vanguard Total Bond Market ETF",
+    "expenseRatio": 0.0003,
+    "aum": 159800000000,
+    "durationYears": 5.7,
+    "maturityYears": 5.7
   }
 ]
