@@ -1,46 +1,67 @@
 [
   {
-    "ticker": "VGUS",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T17:44:32.838Z",
-    "thirtyDayYield": 0.0369,
+    "timestamp": "2026-07-09T18:57:46.456Z",
+    "thirtyDayYield": 0.05,
     "asOfDate": "2026-07-07",
-    "nav": 75.48,
-    "accountType": "Vanguard Ultra-Short Treasury ETF",
-    "expenseRatio": 0.0007,
-    "aum": 1000000000
-  },
-  {
-    "ticker": "BNDP",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T17:44:50.627Z",
-    "thirtyDayYield": 0.0479,
-    "asOfDate": "2026-07-07",
-    "nav": 73.53,
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "expenseRatio": 0.0005,
-    "aum": 128000000
-  },
-  {
-    "ticker": "VMBS",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T17:45:09.250Z",
-    "thirtyDayYield": 0.0423,
-    "asOfDate": "2026-07-07",
-    "nav": 46.35,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
+    "nav": 53.95,
+    "accountType": "Vanguard Long-Term Treasury ETF",
     "expenseRatio": 0.0003,
-    "aum": 15600000000
+    "aum": 10500000000,
+    "durationYears": 13.6,
+    "maturityYears": 13.6
   },
   {
-    "ticker": "VPLS",
+    "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T17:45:27.756Z",
-    "thirtyDayYield": 0.0485,
+    "timestamp": "2026-07-09T18:58:04.785Z",
+    "thirtyDayYield": 0.0587,
     "asOfDate": "2026-07-07",
-    "nav": 76.74,
-    "accountType": "Vanguard Core-Plus Bond ETF",
-    "expenseRatio": 0.002,
-    "aum": 1700000000
+    "nav": 73.68,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "expenseRatio": 0.0003,
+    "aum": 9200000000,
+    "durationYears": 12,
+    "maturityYears": 12
+  },
+  {
+    "ticker": "VGSH",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-09T18:58:23.184Z",
+    "thirtyDayYield": 0.0416,
+    "asOfDate": "2026-07-07",
+    "nav": 58.01,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "expenseRatio": 0.0003,
+    "aum": 29400000000,
+    "durationYears": 1.9,
+    "maturityYears": 1.9
+  },
+  {
+    "ticker": "VTES",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-09T18:58:41.199Z",
+    "thirtyDayYield": 0.0264,
+    "asOfDate": "2026-07-07",
+    "nav": 101.02,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "expenseRatio": 0.0005,
+    "aum": 2100000000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
+  },
+  {
+    "ticker": "BND",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-09T18:58:59.130Z",
+    "thirtyDayYield": 0.0454,
+    "asOfDate": "2026-07-07",
+    "nav": 72.71,
+    "accountType": "Vanguard Total Bond Market ETF",
+    "expenseRatio": 0.0003,
+    "aum": 159800000000,
+    "durationYears": 5.7,
+    "maturityYears": 5.7
   }
 ]
