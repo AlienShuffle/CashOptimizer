@@ -29,13 +29,13 @@
     "timestamp": "2026-07-10T13:36:02.677Z"
   },
   {
-    "accountType": "Long-Term Bond ETF",
-    "asOfDate": "2026-07-08",
+    "ticker": "BLV",
+    "accountType": "Vanguard Long-Term Bond ETF",
     "nav": 67.54,
     "thirtyDayYield": 0.0546,
-    "source": "Vanguard.com ETF",
-    "ticker": "BLV",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T16:47:03.912Z"
   },
   {
     "accountType": "Total Bond Market ETF",
@@ -234,22 +234,22 @@
     "timestamp": "2026-07-10T00:51:23.997Z"
   },
   {
-    "accountType": "0-3 Month T-Bill ETF",
-    "asOfDate": "2026-07-08",
+    "ticker": "VBIL",
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
     "nav": 75.54,
     "thirtyDayYield": 0.0359,
-    "source": "Vanguard.com ETF",
-    "ticker": "VBIL",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T16:47:03.912Z"
   },
   {
-    "accountType": "ESG U.S. Corp Bond ETF",
-    "asOfDate": "2026-07-08",
-    "nav": 62.18,
-    "thirtyDayYield": 0.0509,
-    "source": "Vanguard.com ETF",
     "ticker": "VCEB",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "nav": 62.13,
+    "thirtyDayYield": 0.0509,
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T16:47:03.912Z"
   },
   {
     "ticker": "VCIT",
@@ -449,13 +449,13 @@
     "timestamp": "2026-07-10T07:14:17.209Z"
   },
   {
-    "accountType": "Total InflatPro Sec ETF",
-    "asOfDate": "2026-07-09",
-    "nav": 75.46,
-    "thirtyDayYield": 0.0204,
-    "source": "Vanguard.com ETF",
     "ticker": "VTP",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "nav": 75.36,
+    "thirtyDayYield": 0.0204,
+    "asOfDate": "2026-07-09",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T16:47:03.912Z"
   },
   {
     "ticker": "VUSB",
