@@ -17,10 +17,10 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-07-10T08:50:31.072Z",
+    "timestamp": "2026-07-10T18:20:59.950Z",
     "nav": 91.46,
     "aum": 46753020000,
-    "asOfDate": "2026-07-08",
+    "asOfDate": "2026-07-09",
     "expenseRatio": 0.001353,
     "thirtyDayYield": 0.0352,
     "fundName": "State Street® SPDR® Bloomberg 1-3 Month T-Bill ETF",
@@ -28,7 +28,7 @@
     "maturityYears": 0.13,
     "yieldToWorst": 0.0367,
     "yieldToMaturity": 0.0367,
-    "distributionYield": 0.0382
+    "distributionYield": 0.0381
   },
   {
     "ticker": "BIV",
@@ -250,10 +250,10 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-07-10T08:50:34.300Z",
+    "timestamp": "2026-07-10T18:21:03.191Z",
     "nav": 28.2,
     "aum": 10370050000,
-    "asOfDate": "2026-07-08",
+    "asOfDate": "2026-07-09",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0431,
     "fundName": "State Street® SPDR® Portfolio Intermediate Term Treasury ETF",
@@ -364,12 +364,11 @@
   {
     "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T18:58:04.785Z",
-    "thirtyDayYield": 0.0587,
-    "asOfDate": "2026-07-07",
-    "nav": 73.68,
+    "timestamp": "2026-07-10T18:19:31.580Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-09",
+    "nav": 73.75,
     "accountType": "Vanguard Long-Term Corporate Bond ETF",
-    "expenseRatio": 0.0003,
     "aum": 9200000000,
     "durationYears": 12,
     "maturityYears": 12
@@ -377,12 +376,11 @@
   {
     "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T04:00:34.569Z",
-    "thirtyDayYield": 0.0481,
-    "asOfDate": "2026-07-07",
+    "timestamp": "2026-07-10T18:20:07.320Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-09",
     "nav": 76.5,
     "accountType": "Vanguard Core Bond ETF",
-    "expenseRatio": 0.001,
     "aum": 7300000000,
     "durationYears": 5.7,
     "maturityYears": 5.7
@@ -429,12 +427,11 @@
   {
     "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T03:59:34.196Z",
-    "thirtyDayYield": 0.05,
-    "asOfDate": "2026-07-07",
+    "timestamp": "2026-07-10T18:20:25.199Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-09",
     "nav": 54.02,
     "accountType": "Vanguard Long-Term Treasury ETF",
-    "expenseRatio": 0.0003,
     "aum": 10500000000,
     "durationYears": 13.6,
     "maturityYears": 13.6
@@ -455,15 +452,14 @@
   {
     "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T03:59:52.887Z",
-    "thirtyDayYield": 0.0416,
-    "asOfDate": "2026-07-07",
+    "timestamp": "2026-07-10T18:20:42.879Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-09",
     "nav": 58.05,
     "accountType": "Vanguard Short-Term Treasury ETF",
-    "expenseRatio": 0.0003,
     "aum": 29400000000,
-    "durationYears": 1.9,
-    "maturityYears": 1.9
+    "durationYears": 1.8,
+    "maturityYears": 1.8
   },
   {
     "ticker": "VGUS",
@@ -660,15 +656,14 @@
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T02:26:28.717Z",
-    "thirtyDayYield": 0.0592,
-    "asOfDate": "2026-07-07",
+    "timestamp": "2026-07-10T18:19:49.611Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-09",
     "nav": 66.59,
     "accountType": "Vanguard Emerging Markets Government Bond ETF",
-    "expenseRatio": 0.0015,
     "aum": 6300000000,
-    "durationYears": 6.7,
-    "maturityYears": 6.7
+    "durationYears": 6.6,
+    "maturityYears": 6.6
   },
   {
     "ticker": "XHLF",
