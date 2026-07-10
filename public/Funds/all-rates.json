@@ -315,13 +315,13 @@
     "timestamp": "2026-07-10T07:14:17.209Z"
   },
   {
-    "accountType": "Multi-Sector Bond ETF",
-    "asOfDate": "2026-07-08",
-    "nav": 51.12,
-    "thirtyDayYield": 0.0551,
-    "source": "Vanguard.com ETF",
     "ticker": "VGMS",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "nav": 50.95,
+    "thirtyDayYield": 0.0551,
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
     "accountType": "ST Treasury ETF",
@@ -333,22 +333,22 @@
     "timestamp": "2026-07-10T07:14:17.209Z"
   },
   {
-    "accountType": "Ultra-Short Treasury ETF",
-    "asOfDate": "2026-07-08",
+    "ticker": "VGUS",
+    "accountType": "Vanguard Ultra-Short Treasury ETF",
     "nav": 75.5,
     "thirtyDayYield": 0.0369,
-    "source": "Vanguard.com ETF",
-    "ticker": "VGUS",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
-    "accountType": "Mortgage-Backed Sec ETF",
-    "asOfDate": "2026-07-08",
-    "nav": 46.47,
-    "thirtyDayYield": 0.0424,
-    "source": "Vanguard.com ETF",
     "ticker": "VMBS",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "accountType": "Vanguard Mortgage-Backed Securities ETF",
+    "nav": 46.42,
+    "thirtyDayYield": 0.0424,
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
     "accountType": "Core-Plus Bond ETF",
@@ -360,22 +360,22 @@
     "timestamp": "2026-07-10T07:14:17.209Z"
   },
   {
-    "accountType": "Short Duration Bond ETF",
-    "asOfDate": "2026-07-08",
-    "nav": 76.03,
-    "thirtyDayYield": 0.0476,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDB",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "nav": 75.91,
+    "thirtyDayYield": 0.0476,
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-07-08",
+    "ticker": "VSDM",
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
     "nav": 76.37,
     "thirtyDayYield": 0.0324,
-    "source": "Vanguard.com ETF",
-    "ticker": "VSDM",
-    "timestamp": "2026-07-10T07:14:17.209Z"
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
     "accountType": "Total Corporate Bond ETF",

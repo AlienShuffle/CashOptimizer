@@ -1,38 +1,47 @@
 [
   {
-    "ticker": "BNDP",
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "nav": 73.62,
-    "thirtyDayYield": 0.0481,
+    "ticker": "VMBS",
+    "accountType": "Vanguard Mortgage-Backed Securities ETF",
+    "nav": 46.42,
+    "thirtyDayYield": 0.0424,
     "asOfDate": "2026-07-08",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T08:50:28.651Z"
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
-    "ticker": "VCIT",
-    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
-    "nav": 81.93,
-    "thirtyDayYield": 0.0521,
+    "ticker": "VGMS",
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "nav": 50.95,
+    "thirtyDayYield": 0.0551,
     "asOfDate": "2026-07-08",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T08:50:28.651Z"
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
-    "ticker": "VTEB",
-    "accountType": "Vanguard Tax-Exempt Bond ETF",
-    "nav": 50.31,
-    "thirtyDayYield": 0.0349,
+    "ticker": "VSDB",
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "nav": 75.91,
+    "thirtyDayYield": 0.0476,
     "asOfDate": "2026-07-08",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T08:50:28.651Z"
+    "timestamp": "2026-07-10T10:25:19.708Z"
   },
   {
-    "ticker": "VUSB",
-    "accountType": "Vanguard Ultra-Short Bond ETF",
-    "nav": 49.63,
-    "thirtyDayYield": 0.0437,
+    "ticker": "VSDM",
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "nav": 76.37,
+    "thirtyDayYield": 0.0324,
     "asOfDate": "2026-07-08",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-10T08:50:28.651Z"
+    "timestamp": "2026-07-10T10:25:19.708Z"
+  },
+  {
+    "ticker": "VGUS",
+    "accountType": "Vanguard Ultra-Short Treasury ETF",
+    "nav": 75.5,
+    "thirtyDayYield": 0.0369,
+    "asOfDate": "2026-07-08",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-10T10:25:19.708Z"
   }
 ]

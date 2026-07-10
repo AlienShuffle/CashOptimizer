@@ -442,15 +442,15 @@
   {
     "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T21:47:56.825Z",
+    "timestamp": "2026-07-10T10:24:27.596Z",
     "thirtyDayYield": 0.0551,
-    "asOfDate": "2026-07-07",
-    "nav": 50.89,
+    "asOfDate": "2026-07-08",
+    "nav": 50.95,
     "accountType": "Vanguard Multi-Sector Income Bond ETF",
     "expenseRatio": 0.003,
     "aum": 235000000,
-    "durationYears": 3.6,
-    "maturityYears": 3.6
+    "durationYears": 3.7,
+    "maturityYears": 3.7
   },
   {
     "ticker": "VGSH",
@@ -468,23 +468,23 @@
   {
     "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T21:47:19.592Z",
+    "timestamp": "2026-07-10T10:24:45.753Z",
     "thirtyDayYield": 0.0369,
-    "asOfDate": "2026-07-07",
-    "nav": 75.48,
+    "asOfDate": "2026-07-08",
+    "nav": 75.5,
     "accountType": "Vanguard Ultra-Short Treasury ETF",
     "expenseRatio": 0.0007,
     "aum": 1000000000,
-    "durationYears": 0.4,
-    "maturityYears": 0.4
+    "durationYears": 0.3,
+    "maturityYears": 0.3
   },
   {
     "ticker": "VMBS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T21:47:38.386Z",
-    "thirtyDayYield": 0.0423,
-    "asOfDate": "2026-07-07",
-    "nav": 46.35,
+    "timestamp": "2026-07-10T10:25:04.173Z",
+    "thirtyDayYield": 0.0424,
+    "asOfDate": "2026-07-08",
+    "nav": 46.42,
     "accountType": "Vanguard Mortgage-Backed Securities ETF",
     "expenseRatio": 0.0003,
     "aum": 15600000000,
@@ -507,10 +507,10 @@
   {
     "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T21:38:06.751Z",
-    "thirtyDayYield": 0.0475,
-    "asOfDate": "2026-07-07",
-    "nav": 75.84,
+    "timestamp": "2026-07-10T10:23:50.645Z",
+    "thirtyDayYield": 0.0476,
+    "asOfDate": "2026-07-08",
+    "nav": 75.91,
     "accountType": "Vanguard Short Duration Bond ETF",
     "expenseRatio": 0.0015,
     "aum": 895700000,
@@ -520,10 +520,10 @@
   {
     "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-09T21:38:25.291Z",
+    "timestamp": "2026-07-10T10:24:09.380Z",
     "thirtyDayYield": 0.0324,
-    "asOfDate": "2026-07-07",
-    "nav": 76.36,
+    "asOfDate": "2026-07-08",
+    "nav": 76.37,
     "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
     "expenseRatio": 0.0012,
     "aum": 763100000,
@@ -676,24 +676,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-07-09T14:43:16.417Z",
+    "timestamp": "2026-07-10T10:25:25.088Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0371,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.48,
-    "yieldToWorst": 0.0393
+    "yieldToWorst": 0.038
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-07-09T14:43:21.703Z",
+    "timestamp": "2026-07-10T10:25:30.855Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.04,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0311,
     "durationYears": 0.97,
-    "yieldToWorst": 0.0412
+    "yieldToWorst": 0.0409
   }
 ]
