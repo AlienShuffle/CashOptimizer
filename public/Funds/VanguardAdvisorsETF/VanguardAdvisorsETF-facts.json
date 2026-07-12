@@ -1,50 +1,48 @@
 [
   {
-    "ticker": "VTG",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-12T14:09:24.950Z",
+    "timestamp": "2026-07-12T15:45:23.637Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 74.61,
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 146700000,
-    "durationYears": 5.6,
-    "maturityYears": 5.6
+    "nav": 54.01,
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "aum": 10500000000,
+    "durationYears": 13.6,
+    "maturityYears": 13.6
   },
   {
-    "ticker": "VCRB",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-12T14:09:42.689Z",
+    "timestamp": "2026-07-12T15:45:41.755Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 76.42,
-    "accountType": "Vanguard Core Bond ETF",
-    "aum": 7300000000,
+    "nav": 75.37,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 159000000,
+    "durationYears": 86.3,
+    "maturityYears": 86.3
+  },
+  {
+    "ticker": "BND",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-12T15:45:59.410Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-10",
+    "nav": 72.74,
+    "accountType": "Vanguard Total Bond Market ETF",
+    "aum": 159800000000,
     "durationYears": 5.7,
     "maturityYears": 5.7
   },
   {
-    "ticker": "VCRM",
+    "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-12T14:10:00.320Z",
+    "timestamp": "2026-07-12T15:46:17.252Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 75.9,
-    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
-    "aum": 1700000000,
-    "durationYears": 7.2,
-    "maturityYears": 7.2
-  },
-  {
-    "ticker": "VCSH",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-12T14:10:18.139Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-07-10",
-    "nav": 78.61,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 44900000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 67.95,
+    "accountType": "Vanguard Total World Bond ETF",
+    "aum": 1900000000
   }
 ]
