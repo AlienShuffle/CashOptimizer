@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "BSV",
+    "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-12T11:03:41.186Z",
+    "timestamp": "2026-07-12T12:36:17.149Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 77.56,
-    "accountType": "Vanguard Short-Term Bond ETF",
-    "aum": 44800000000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 61.97,
+    "accountType": "Vanguard Extended Duration Treasury ETF",
+    "aum": 3500000000,
+    "durationYears": 24,
+    "maturityYears": 24
   },
   {
-    "ticker": "VTEL",
+    "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-12T11:03:59.285Z",
+    "timestamp": "2026-07-12T12:36:35.431Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 103.83,
-    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "aum": 287800000,
-    "durationYears": 9.2,
-    "maturityYears": 9.2
+    "nav": 103.22,
+    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
+    "aum": 446600000,
+    "durationYears": 6.8,
+    "maturityYears": 6.8
+  },
+  {
+    "ticker": "VCEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-12T12:36:53.357Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-10",
+    "nav": 62.02,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1200000000,
+    "durationYears": 6.3,
+    "maturityYears": 6.3
+  },
+  {
+    "ticker": "VCLT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-12T12:37:11.076Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-10",
+    "nav": 73.57,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 9200000000,
+    "durationYears": 12,
+    "maturityYears": 12
   }
 ]
