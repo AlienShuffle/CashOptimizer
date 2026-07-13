@@ -1,48 +1,62 @@
 [
   {
-    "ticker": "VCRB",
+    "ticker": "VCSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-13T18:21:22.823Z",
+    "timestamp": "2026-07-13T19:54:33.439Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 76.42,
-    "accountType": "Vanguard Core Bond ETF",
-    "aum": 7300000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 78.61,
+    "accountType": "Vanguard Short-Term Corporate Bond ETF",
+    "aum": 44900000000,
+    "durationYears": 2.7,
+    "maturityYears": 2.7
   },
   {
-    "ticker": "VCRM",
+    "ticker": "VTG",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-13T18:21:40.634Z",
+    "timestamp": "2026-07-13T19:54:51.579Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 75.9,
-    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
-    "aum": 1700000000,
-    "durationYears": 7.2,
-    "maturityYears": 7.2
+    "nav": 74.61,
+    "accountType": "Vanguard Total Treasury ETF",
+    "aum": 146700000,
+    "durationYears": 5.6,
+    "maturityYears": 5.6
   },
   {
-    "ticker": "BND",
+    "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-13T18:21:58.804Z",
+    "timestamp": "2026-07-13T19:55:09.482Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 72.74,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 159800000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 58.54,
+    "accountType": "Vanguard Intermediate-Term Treasury ETF",
+    "aum": 42100000000,
+    "durationYears": 4.9,
+    "maturityYears": 4.9
   },
   {
-    "ticker": "BNDW",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-13T18:22:16.363Z",
+    "timestamp": "2026-07-13T19:55:27.184Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-10",
-    "nav": 67.95,
-    "accountType": "Vanguard Total World Bond ETF",
-    "aum": 1900000000
+    "nav": 54.01,
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "aum": 10500000000,
+    "durationYears": 13.6,
+    "maturityYears": 13.6
+  },
+  {
+    "ticker": "VGSH",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-13T19:55:44.677Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-10",
+    "nav": 58.03,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "aum": 29400000000,
+    "durationYears": 1.8,
+    "maturityYears": 1.8
   }
 ]
