@@ -1298,7 +1298,7 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-07-10T18:20:59.950Z",
+    "timestamp": "2026-07-11T13:18:13.377Z",
     "nav": 91.46,
     "aum": 46753020000,
     "asOfDate": "2026-07-09",
@@ -1309,6 +1309,22 @@
     "maturityYears": 0.13,
     "yieldToWorst": 0.0367,
     "yieldToMaturity": 0.0367,
+    "distributionYield": 0.0381
+  },
+  {
+    "ticker": "BIL",
+    "source": "ssga",
+    "timestamp": "2026-07-13T16:49:03.160Z",
+    "nav": 91.49,
+    "aum": 46776480000,
+    "asOfDate": "2026-07-10",
+    "expenseRatio": 0.001353,
+    "thirtyDayYield": 0.0352,
+    "fundName": "State Street® SPDR® Bloomberg 1-3 Month T-Bill ETF",
+    "durationYears": 0.12,
+    "maturityYears": 0.13,
+    "yieldToWorst": 0.0368,
+    "yieldToMaturity": 0.0368,
     "distributionYield": 0.0381
   }
 ]
