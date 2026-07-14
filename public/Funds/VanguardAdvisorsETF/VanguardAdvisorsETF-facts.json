@@ -1,23 +1,62 @@
 [
   {
-    "ticker": "VGSH",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-14T13:17:18.480Z",
+    "timestamp": "2026-07-14T14:49:39.821Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-13",
-    "nav": 57.97,
-    "accountType": "Vanguard Short-Term Treasury ETF",
-    "aum": 29400000000,
-    "durationYears": 1.8,
-    "maturityYears": 1.8
+    "nav": 73.35,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 128000000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   },
   {
-    "ticker": "VTG",
+    "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-14T13:17:36.235Z",
+    "timestamp": "2026-07-14T14:49:57.724Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-13",
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 146700000
+    "nav": 81.51,
+    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
+    "aum": 67300000000,
+    "durationYears": 6,
+    "maturityYears": 6
+  },
+  {
+    "ticker": "VPLS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-14T14:50:15.542Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-13",
+    "nav": 76.54,
+    "accountType": "Vanguard Core-Plus Bond ETF",
+    "aum": 1700000000,
+    "durationYears": 5.6,
+    "maturityYears": 5.6
+  },
+  {
+    "ticker": "VTP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-14T14:50:33.561Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-13",
+    "nav": 75.21,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 159000000,
+    "durationYears": 86.3,
+    "maturityYears": 86.3
+  },
+  {
+    "ticker": "BIV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-14T14:50:51.459Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-13",
+    "nav": 75.72,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 29300000000,
+    "durationYears": 6,
+    "maturityYears": 6
   }
 ]
