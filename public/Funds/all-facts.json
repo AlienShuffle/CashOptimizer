@@ -57,7 +57,7 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-15T01:54:03.434Z",
+    "timestamp": "2026-07-15T14:33:34.459Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-14",
     "nav": 72.66,
@@ -81,7 +81,7 @@
   {
     "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-15T01:54:21.243Z",
+    "timestamp": "2026-07-15T14:33:53.607Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-14",
     "nav": 67.83,
@@ -541,7 +541,7 @@
   {
     "ticker": "VTEI",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-15T00:19:04.883Z",
+    "timestamp": "2026-07-15T14:32:58.728Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-14",
     "nav": 100.37,
@@ -613,11 +613,14 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-15T00:19:24.709Z",
+    "timestamp": "2026-07-15T14:33:16.575Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-14",
+    "nav": 49.66,
     "accountType": "Vanguard Ultra-Short Bond ETF",
-    "aum": 8900000000
+    "aum": 8900000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
   },
   {
     "ticker": "VWOB",
@@ -634,24 +637,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-07-14T21:10:39.381Z",
+    "timestamp": "2026-07-15T14:34:07.027Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0371,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.47,
-    "yieldToWorst": 0.0384
+    "durationYears": 0.46,
+    "yieldToWorst": 0.0378
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-07-14T21:10:44.150Z",
+    "timestamp": "2026-07-15T14:34:12.449Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.04,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.031,
-    "durationYears": 0.96,
-    "yieldToWorst": 0.0416
+    "durationYears": 0.95,
+    "yieldToWorst": 0.0408
   }
 ]
