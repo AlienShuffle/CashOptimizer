@@ -1,26 +1,48 @@
 [
   {
-    "ticker": "VWOB",
+    "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-16T06:53:41.076Z",
+    "timestamp": "2026-07-16T08:31:15.904Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-15",
-    "nav": 66.52,
-    "accountType": "Vanguard Emerging Markets Government Bond ETF",
-    "aum": 6300000000,
+    "nav": 62.01,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1200000000,
+    "durationYears": 6.2,
+    "maturityYears": 6.2
+  },
+  {
+    "ticker": "VTEC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-16T08:31:34.301Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-15",
+    "nav": 99.8,
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "aum": 2800000000,
     "durationYears": 6.6,
     "maturityYears": 6.6
   },
   {
-    "ticker": "MUNY",
+    "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-16T06:54:00.562Z",
+    "timestamp": "2026-07-16T08:31:51.895Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-15",
-    "nav": 103.11,
-    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
-    "aum": 446600000,
-    "durationYears": 6.8,
-    "maturityYears": 6.8
+    "nav": 72.81,
+    "accountType": "Vanguard Total Bond Market ETF",
+    "aum": 159800000000,
+    "durationYears": 5.7,
+    "maturityYears": 5.7
+  },
+  {
+    "ticker": "BNDW",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-16T08:32:09.508Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-15",
+    "nav": 67.94,
+    "accountType": "Vanguard Total World Bond ETF",
+    "aum": 1900000000
   }
 ]
