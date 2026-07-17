@@ -1,24 +1,38 @@
 [
   {
-    "ticker": "BND",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-17T15:17:38.542Z",
+    "timestamp": "2026-07-17T16:52:22.690Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-16",
-    "nav": 72.79,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 159800000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 66.45,
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "aum": 6300000000,
+    "durationYears": 6.6,
+    "maturityYears": 6.6
   },
   {
-    "ticker": "BNDW",
+    "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-17T15:17:56.283Z",
+    "timestamp": "2026-07-17T16:52:40.568Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-16",
-    "nav": 67.89,
-    "accountType": "Vanguard Total World Bond ETF",
-    "aum": 1900000000
+    "nav": 67.37,
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "aum": 6000000000,
+    "durationYears": 12.8,
+    "maturityYears": 12.8
+  },
+  {
+    "ticker": "VCEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-17T16:52:58.296Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-16",
+    "nav": 62.04,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1200000000,
+    "durationYears": 6.2,
+    "maturityYears": 6.2
   }
 ]
