@@ -1,60 +1,48 @@
 [
   {
-    "ticker": "VGUS",
+    "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-18T00:45:53.559Z",
+    "timestamp": "2026-07-18T02:22:51.148Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 75.57,
-    "accountType": "Vanguard Ultra-Short Treasury ETF",
-    "aum": 1000000000,
-    "durationYears": 0.3,
-    "maturityYears": 0.3
+    "nav": 75.95,
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "aum": 895700000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
   },
   {
-    "ticker": "VMBS",
+    "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-18T00:46:11.821Z",
+    "timestamp": "2026-07-18T02:23:09.157Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 46.42,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15600000000,
-    "durationYears": 5.2,
-    "maturityYears": 5.2
+    "nav": 76.25,
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "aum": 763100000,
+    "durationYears": 2.9,
+    "maturityYears": 2.9
   },
   {
-    "ticker": "VTEB",
+    "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-18T00:46:49.359Z",
+    "timestamp": "2026-07-18T02:23:26.791Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 50.09,
-    "accountType": "Vanguard Tax-Exempt Bond ETF",
-    "aum": 46000000000,
-    "durationYears": 6.9,
-    "maturityYears": 6.9
+    "nav": 100.84,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2100000000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
   },
   {
-    "ticker": "VTG",
+    "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-18T00:47:26.759Z",
+    "timestamp": "2026-07-18T02:23:44.370Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 74.72,
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 146700000,
-    "durationYears": 5.6,
-    "maturityYears": 5.6
-  },
-  {
-    "ticker": "BSV",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-18T00:47:44.600Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-07-17",
-    "nav": 77.67,
-    "accountType": "Vanguard Short-Term Bond ETF",
-    "aum": 44800000000
+    "nav": 61.88,
+    "accountType": "Vanguard Extended Duration Treasury ETF",
+    "aum": 3500000000
   }
 ]
