@@ -1,24 +1,62 @@
 [
   {
-    "ticker": "BND",
+    "ticker": "VTC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-18T19:00:35.641Z",
+    "timestamp": "2026-07-18T20:34:55.084Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 72.82,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 159800000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 75.96,
+    "accountType": "Vanguard Total Corporate Bond ETF",
+    "aum": 1800000000,
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   },
   {
-    "ticker": "BNDW",
+    "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-18T19:00:53.254Z",
+    "timestamp": "2026-07-18T20:35:12.932Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 67.89,
-    "accountType": "Vanguard Total World Bond ETF",
-    "aum": 1900000000
+    "nav": 49.65,
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "aum": 19300000000,
+    "durationYears": 72.3,
+    "maturityYears": 72.3
+  },
+  {
+    "ticker": "BLV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-18T20:35:30.582Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-17",
+    "nav": 67.47,
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "aum": 6000000000,
+    "durationYears": 12.8,
+    "maturityYears": 12.8
+  },
+  {
+    "ticker": "VCEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-18T20:35:48.509Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-17",
+    "nav": 62.04,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1200000000,
+    "durationYears": 6.2,
+    "maturityYears": 6.2
+  },
+  {
+    "ticker": "VCLT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-18T20:36:06.026Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-17",
+    "nav": 73.52,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 9200000000,
+    "durationYears": 11.9,
+    "maturityYears": 11.9
   }
 ]
