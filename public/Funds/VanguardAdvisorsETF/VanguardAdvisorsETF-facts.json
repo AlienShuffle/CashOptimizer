@@ -1,48 +1,50 @@
 [
   {
-    "ticker": "VSDB",
+    "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-20T09:58:36.974Z",
+    "timestamp": "2026-07-20T11:31:33.390Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 75.95,
-    "accountType": "Vanguard Short Duration Bond ETF",
-    "aum": 895700000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 76.25,
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "aum": 763100000,
+    "durationYears": 2.9,
+    "maturityYears": 2.9
   },
   {
-    "ticker": "VTG",
+    "ticker": "VTEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-20T09:58:55.136Z",
+    "timestamp": "2026-07-20T11:31:51.538Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 74.72,
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 146700000,
-    "durationYears": 5.6,
-    "maturityYears": 5.6
+    "nav": 50.09,
+    "accountType": "Vanguard Tax-Exempt Bond ETF",
+    "aum": 46000000000,
+    "durationYears": 6.9,
+    "maturityYears": 6.9
   },
   {
-    "ticker": "BND",
+    "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-20T09:59:12.930Z",
+    "timestamp": "2026-07-20T11:32:09.559Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 72.82,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 159800000000,
+    "nav": 76.49,
+    "accountType": "Vanguard Core Bond ETF",
+    "aum": 7300000000,
     "durationYears": 5.7,
     "maturityYears": 5.7
   },
   {
-    "ticker": "BNDW",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-20T09:59:30.695Z",
+    "timestamp": "2026-07-20T11:32:27.302Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 67.89,
-    "accountType": "Vanguard Total World Bond ETF",
-    "aum": 1900000000
+    "nav": 76.11,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 29300000000,
+    "durationYears": 6,
+    "maturityYears": 6
   }
 ]
