@@ -1,36 +1,60 @@
 [
   {
-    "ticker": "VTEB",
+    "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-19T21:32:11.796Z",
+    "timestamp": "2026-07-20T00:38:01.392Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 50.09,
-    "accountType": "Vanguard Tax-Exempt Bond ETF",
-    "aum": 46000000000,
-    "durationYears": 6.9,
-    "maturityYears": 6.9
+    "nav": 100.84,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2100000000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
   },
   {
-    "ticker": "BND",
+    "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-19T21:32:30.065Z",
+    "timestamp": "2026-07-20T00:38:20.172Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 72.82,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 159800000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 67.47,
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "aum": 6000000000,
+    "durationYears": 12.8,
+    "maturityYears": 12.8
   },
   {
-    "ticker": "BNDW",
+    "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-19T21:32:47.953Z",
+    "timestamp": "2026-07-20T00:38:37.893Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-17",
-    "nav": 67.89,
-    "accountType": "Vanguard Total World Bond ETF",
-    "aum": 1900000000
+    "nav": 62.04,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1200000000,
+    "durationYears": 6.2,
+    "maturityYears": 6.2
+  },
+  {
+    "ticker": "VCLT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-20T00:38:55.473Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-17",
+    "nav": 73.52,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 9200000000,
+    "durationYears": 11.9,
+    "maturityYears": 11.9
+  },
+  {
+    "ticker": "VCRB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-20T00:39:12.968Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-17",
+    "nav": 76.49,
+    "accountType": "Vanguard Core Bond ETF",
+    "aum": 7300000000
   }
 ]
