@@ -127,10 +127,10 @@
   {
     "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-21T22:19:01.036Z",
+    "timestamp": "2026-07-22T10:59:02.573Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-20",
-    "nav": 61.18,
+    "asOfDate": "2026-07-21",
+    "nav": 60.94,
     "accountType": "Vanguard Extended Duration Treasury ETF",
     "aum": 3500000000,
     "durationYears": 23.9,
@@ -340,10 +340,10 @@
   {
     "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-21T22:19:19.225Z",
+    "timestamp": "2026-07-22T10:59:20.647Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-20",
-    "nav": 81.73,
+    "asOfDate": "2026-07-21",
+    "nav": 81.53,
     "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
     "aum": 67300000000,
     "durationYears": 6,
@@ -424,10 +424,10 @@
   {
     "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-21T22:19:37.107Z",
+    "timestamp": "2026-07-22T10:59:38.195Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-20",
-    "nav": 50.91,
+    "asOfDate": "2026-07-21",
+    "nav": 50.84,
     "accountType": "Vanguard Multi-Sector Income Bond ETF",
     "aum": 235000000,
     "durationYears": 3.6,
@@ -592,10 +592,10 @@
   {
     "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-21T06:28:56.625Z",
+    "timestamp": "2026-07-22T10:58:44.317Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-20",
-    "nav": 49.65,
+    "asOfDate": "2026-07-21",
+    "nav": 49.61,
     "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
     "aum": 19300000000,
     "durationYears": 72.3,
@@ -640,24 +640,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-07-21T11:18:11.404Z",
+    "timestamp": "2026-07-22T11:01:01.889Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0371,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.45,
-    "yieldToWorst": 0.0385
+    "yieldToWorst": 0.0384
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-07-21T11:18:17.247Z",
+    "timestamp": "2026-07-22T11:01:07.939Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.04,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
-    "weightedAverageCoupon": 0.031,
+    "weightedAverageCoupon": 0.0311,
     "durationYears": 0.94,
-    "yieldToWorst": 0.041
+    "yieldToWorst": 0.0415
   }
 ]
