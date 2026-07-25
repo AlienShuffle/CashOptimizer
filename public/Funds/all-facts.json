@@ -57,10 +57,10 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-24T03:29:53.040Z",
+    "timestamp": "2026-07-25T11:09:48.445Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-23",
-    "nav": 72.22,
+    "asOfDate": "2026-07-24",
+    "nav": 72.29,
     "accountType": "Vanguard Total Bond Market ETF",
     "aum": 159800000000,
     "durationYears": 5.7,
@@ -312,10 +312,10 @@
   {
     "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-24T03:28:41.193Z",
+    "timestamp": "2026-07-25T11:10:06.388Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-23",
-    "nav": 75.64,
+    "asOfDate": "2026-07-24",
+    "nav": 75.66,
     "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
     "aum": 9400000000,
     "durationYears": 0.1,
@@ -396,10 +396,10 @@
   {
     "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-24T03:28:59.403Z",
+    "timestamp": "2026-07-25T11:10:27.876Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-23",
-    "nav": 58.21,
+    "asOfDate": "2026-07-24",
+    "nav": 58.28,
     "accountType": "Vanguard Intermediate-Term Treasury ETF",
     "aum": 42100000000,
     "durationYears": 4.8,
@@ -502,10 +502,10 @@
   {
     "ticker": "VTC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-24T03:29:17.252Z",
+    "timestamp": "2026-07-25T11:10:45.488Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-23",
-    "nav": 75.24,
+    "asOfDate": "2026-07-24",
+    "nav": 75.26,
     "accountType": "Vanguard Total Corporate Bond ETF",
     "aum": 1800000000,
     "durationYears": 6.5,
@@ -562,10 +562,10 @@
   {
     "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-24T03:29:35.166Z",
+    "timestamp": "2026-07-25T11:11:03.334Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-23",
-    "nav": 100.35,
+    "asOfDate": "2026-07-24",
+    "nav": 100.38,
     "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
     "aum": 2100000000,
     "durationYears": 2.6,
@@ -632,24 +632,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-07-24T11:23:59.853Z",
+    "timestamp": "2026-07-25T11:11:20.876Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0371,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.44,
-    "yieldToWorst": 0.0392
+    "yieldToWorst": 0.039
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-07-24T11:24:05.784Z",
+    "timestamp": "2026-07-25T11:11:28.163Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.04,
     "asOfDate": "2026-06-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0311,
     "durationYears": 0.93,
-    "yieldToWorst": 0.0422
+    "yieldToWorst": 0.042
   }
 ]
