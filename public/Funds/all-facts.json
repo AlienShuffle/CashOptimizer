@@ -322,7 +322,7 @@
   {
     "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-25T01:34:08.095Z",
+    "timestamp": "2026-07-25T17:25:44.108Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
     "nav": 61.45,
@@ -346,7 +346,7 @@
   {
     "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-25T01:34:45.305Z",
+    "timestamp": "2026-07-25T17:26:01.745Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
     "nav": 72.25,
@@ -442,7 +442,7 @@
   {
     "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-25T01:35:03.153Z",
+    "timestamp": "2026-07-25T17:26:20.110Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
     "nav": 75.6,
@@ -466,12 +466,14 @@
   {
     "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-25T00:00:11.681Z",
+    "timestamp": "2026-07-25T17:25:26.258Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
     "nav": 76.26,
     "accountType": "Vanguard Core-Plus Bond ETF",
-    "aum": 1700000000
+    "aum": 1700000000,
+    "durationYears": 5.6,
+    "maturityYears": 5.6
   },
   {
     "ticker": "VSDB",
