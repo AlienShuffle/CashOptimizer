@@ -1,50 +1,62 @@
 [
   {
-    "ticker": "VTES",
+    "ticker": "VTEI",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-27T11:28:28.327Z",
+    "timestamp": "2026-07-27T13:02:51.503Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
-    "nav": 100.38,
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "aum": 2100000000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 99.02,
+    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
+    "aum": 1500000000,
+    "durationYears": 5.4,
+    "maturityYears": 5.4
   },
   {
-    "ticker": "VCEB",
+    "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-27T11:28:46.408Z",
+    "timestamp": "2026-07-27T13:03:09.469Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
-    "nav": 61.45,
-    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
-    "aum": 1200000000,
-    "durationYears": 6.2,
-    "maturityYears": 6.2
+    "nav": 47.7,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83000000000,
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   },
   {
-    "ticker": "VCLT",
+    "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-27T11:29:04.268Z",
+    "timestamp": "2026-07-27T13:03:27.208Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
-    "nav": 72.25,
-    "accountType": "Vanguard Long-Term Corporate Bond ETF",
-    "aum": 9200000000,
-    "durationYears": 11.9,
-    "maturityYears": 11.9
+    "nav": 74.91,
+    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
+    "aum": 1700000000,
+    "durationYears": 7.3,
+    "maturityYears": 7.3
   },
   {
-    "ticker": "VGSH",
+    "ticker": "VMBS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-27T11:29:21.994Z",
+    "timestamp": "2026-07-27T13:03:44.610Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-24",
-    "nav": 57.99,
-    "accountType": "Vanguard Short-Term Treasury ETF",
-    "aum": 29400000000,
-    "durationYears": 1.8,
-    "maturityYears": 1.8
+    "nav": 46.07,
+    "accountType": "Vanguard Mortgage-Backed Securities ETF",
+    "aum": 15600000000,
+    "durationYears": 5.3,
+    "maturityYears": 5.3
+  },
+  {
+    "ticker": "VTIP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-27T13:04:02.081Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-24",
+    "nav": 49.54,
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "aum": 19300000000,
+    "durationYears": 72.3,
+    "maturityYears": 72.3
   }
 ]
