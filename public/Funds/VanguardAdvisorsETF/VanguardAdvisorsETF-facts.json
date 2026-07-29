@@ -1,24 +1,62 @@
 [
   {
-    "ticker": "BNDP",
+    "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-29T01:27:47.152Z",
+    "timestamp": "2026-07-29T03:00:42.055Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-28",
-    "nav": 73.43,
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "aum": 128000000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 102.13,
+    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
+    "aum": 446600000,
+    "durationYears": 6.9,
+    "maturityYears": 6.9
   },
   {
-    "ticker": "VTEL",
+    "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-29T01:28:04.782Z",
+    "timestamp": "2026-07-29T03:01:00.689Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-28",
-    "nav": 102.44,
-    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "aum": 287800000
+    "nav": 75.68,
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
+    "aum": 9400000000,
+    "durationYears": 0.1,
+    "maturityYears": 0.1
+  },
+  {
+    "ticker": "VGIT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-29T03:01:18.801Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-28",
+    "nav": 58.52,
+    "accountType": "Vanguard Intermediate-Term Treasury ETF",
+    "aum": 42100000000,
+    "durationYears": 4.8,
+    "maturityYears": 4.8
+  },
+  {
+    "ticker": "VUSB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-29T03:01:37.669Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-28",
+    "nav": 49.7,
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "aum": 8900000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
+  },
+  {
+    "ticker": "BNDX",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-07-29T03:01:55.993Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-28",
+    "nav": 47.92,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83000000000,
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   }
 ]
