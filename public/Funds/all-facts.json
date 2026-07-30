@@ -352,10 +352,10 @@
   {
     "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-30T09:10:38.572Z",
+    "timestamp": "2026-07-30T23:24:26.690Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-29",
-    "nav": 72.02,
+    "asOfDate": "2026-07-30",
+    "nav": 72.15,
     "accountType": "Vanguard Long-Term Corporate Bond ETF",
     "aum": 9200000000,
     "durationYears": 11.9,
@@ -412,10 +412,10 @@
   {
     "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-30T07:32:40.504Z",
+    "timestamp": "2026-07-30T23:23:33.131Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-29",
-    "nav": 53.11,
+    "asOfDate": "2026-07-30",
+    "nav": 53.07,
     "accountType": "Vanguard Long-Term Treasury ETF",
     "aum": 10500000000,
     "durationYears": 13.6,
@@ -424,12 +424,14 @@
   {
     "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-30T07:32:58.303Z",
+    "timestamp": "2026-07-30T23:23:51.162Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-29",
-    "nav": 50.67,
+    "asOfDate": "2026-07-30",
+    "nav": 50.71,
     "accountType": "Vanguard Multi-Sector Income Bond ETF",
-    "aum": 235000000
+    "aum": 235000000,
+    "durationYears": 3.6,
+    "maturityYears": 3.6
   },
   {
     "ticker": "VGSH",
@@ -506,14 +508,12 @@
   {
     "ticker": "VTC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-30T09:10:19.275Z",
+    "timestamp": "2026-07-30T23:24:44.557Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-29",
-    "nav": 75.26,
+    "asOfDate": "2026-07-30",
+    "nav": 75.36,
     "accountType": "Vanguard Total Corporate Bond ETF",
-    "aum": 1800000000,
-    "durationYears": 6.5,
-    "maturityYears": 6.5
+    "aum": 1800000000
   },
   {
     "ticker": "VTEB",
@@ -614,10 +614,10 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-30T07:31:44.130Z",
+    "timestamp": "2026-07-30T23:24:09.042Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-07-29",
-    "nav": 49.73,
+    "asOfDate": "2026-07-30",
+    "nav": 49.74,
     "accountType": "Vanguard Ultra-Short Bond ETF",
     "aum": 8900000000,
     "durationYears": 0.9,
