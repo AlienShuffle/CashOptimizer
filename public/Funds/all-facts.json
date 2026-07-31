@@ -214,10 +214,10 @@
   {
     "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-31T09:43:31.355Z",
+    "timestamp": "2026-07-31T22:21:34.966Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-30",
-    "nav": 101.84,
+    "nav": 101.74,
     "accountType": "Vanguard New York Tax-Exempt Bond ETF",
     "aum": 446600000,
     "durationYears": 6.9,
@@ -316,7 +316,7 @@
   {
     "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-31T09:43:49.467Z",
+    "timestamp": "2026-07-31T22:21:52.983Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-30",
     "nav": 75.7,
@@ -328,7 +328,7 @@
   {
     "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-31T09:44:07.129Z",
+    "timestamp": "2026-07-31T22:22:13.420Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-30",
     "nav": 61.54,
@@ -592,12 +592,14 @@
   {
     "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-07-31T08:07:38.481Z",
+    "timestamp": "2026-07-31T22:21:16.984Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-30",
     "nav": 49.63,
     "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
-    "aum": 19300000000
+    "aum": 19300000000,
+    "durationYears": 72.3,
+    "maturityYears": 72.3
   },
   {
     "ticker": "VTP",
