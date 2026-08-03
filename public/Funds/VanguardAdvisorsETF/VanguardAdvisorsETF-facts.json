@@ -1,38 +1,62 @@
 [
   {
-    "ticker": "VTG",
+    "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T05:37:52.713Z",
+    "timestamp": "2026-08-03T07:12:18.997Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-31",
-    "nav": 74.16,
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 146700000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 76,
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "aum": 763100000,
+    "durationYears": 3,
+    "maturityYears": 3
   },
   {
-    "ticker": "MUNY",
+    "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T05:38:10.768Z",
+    "timestamp": "2026-08-03T07:12:37.141Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-31",
-    "nav": 101.74,
-    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
-    "aum": 446600000,
-    "durationYears": 6.9,
-    "maturityYears": 6.9
+    "nav": 100.51,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2100000000,
+    "durationYears": 2.7,
+    "maturityYears": 2.7
   },
   {
-    "ticker": "VSDB",
+    "ticker": "BSV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T05:38:29.272Z",
+    "timestamp": "2026-08-03T07:12:54.897Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-31",
-    "nav": 75.82,
-    "accountType": "Vanguard Short Duration Bond ETF",
-    "aum": 895700000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 77.56,
+    "accountType": "Vanguard Short-Term Bond ETF",
+    "aum": 44800000000,
+    "durationYears": 2.5,
+    "maturityYears": 2.5
+  },
+  {
+    "ticker": "VBIL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-03T07:13:12.702Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-31",
+    "nav": 75.72,
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
+    "aum": 9400000000,
+    "durationYears": 0.1,
+    "maturityYears": 0.1
+  },
+  {
+    "ticker": "VCEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-03T07:13:30.417Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-07-31",
+    "nav": 61.46,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1200000000,
+    "durationYears": 6.1,
+    "maturityYears": 6.1
   }
 ]
