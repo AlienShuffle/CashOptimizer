@@ -1,58 +1,50 @@
 [
   {
-    "ticker": "BIV",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T02:30:16.837Z",
+    "timestamp": "2026-08-03T04:03:43.142Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-31",
-    "nav": 75.51,
-    "accountType": "Vanguard Intermediate-Term Bond ETF",
-    "aum": 29300000000,
-    "durationYears": 5.9,
-    "maturityYears": 5.9
+    "nav": 73.07,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 128000000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   },
   {
-    "ticker": "BND",
+    "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T02:30:34.861Z",
+    "timestamp": "2026-08-03T04:04:01.334Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-31",
-    "nav": 72.22,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 159800000000,
-    "durationYears": 5.6,
-    "maturityYears": 5.6
+    "nav": 47.72,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83000000000,
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   },
   {
-    "ticker": "VCSH",
+    "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T02:30:52.460Z",
+    "timestamp": "2026-08-03T04:04:19.562Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-31",
-    "nav": 78.6,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 44900000000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 75.68,
+    "accountType": "Vanguard Ultra-Short Treasury ETF",
+    "aum": 1000000000,
+    "durationYears": 0.3,
+    "maturityYears": 0.3
   },
   {
-    "ticker": "VMBS",
+    "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T02:31:10.235Z",
+    "timestamp": "2026-08-03T04:04:37.406Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-07-31",
-    "nav": 46.02,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15600000000
-  },
-  {
-    "ticker": "VTEI",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-03T02:31:28.052Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-07-31",
-    "nav": 99.13,
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "aum": 1500000000
+    "nav": 76.18,
+    "accountType": "Vanguard Core-Plus Bond ETF",
+    "aum": 1700000000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   }
 ]
