@@ -1,50 +1,62 @@
 [
   {
-    "ticker": "VTC",
+    "ticker": "VCSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-04T08:28:02.873Z",
+    "timestamp": "2026-08-04T10:03:53.189Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-03",
-    "nav": 75.12,
-    "accountType": "Vanguard Total Corporate Bond ETF",
-    "aum": 1800000000,
+    "nav": 78.4,
+    "accountType": "Vanguard Short-Term Corporate Bond ETF",
+    "aum": 44900000000,
+    "durationYears": 2.7,
+    "maturityYears": 2.7
+  },
+  {
+    "ticker": "VTEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-04T10:04:11.517Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-03",
+    "nav": 49.47,
+    "accountType": "Vanguard Tax-Exempt Bond ETF",
+    "aum": 46000000000,
+    "durationYears": 7.1,
+    "maturityYears": 7.1
+  },
+  {
+    "ticker": "VTEC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-04T10:04:29.311Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-03",
+    "nav": 98.32,
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "aum": 2800000000,
+    "durationYears": 6.8,
+    "maturityYears": 6.8
+  },
+  {
+    "ticker": "BNDP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-04T10:04:47.278Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-03",
+    "nav": 72.94,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 128000000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
+  },
+  {
+    "ticker": "BNDX",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-04T10:05:04.996Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-03",
+    "nav": 47.74,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83000000000,
     "durationYears": 6.5,
     "maturityYears": 6.5
-  },
-  {
-    "ticker": "VUSB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-04T08:28:21.091Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-03",
-    "nav": 49.59,
-    "accountType": "Vanguard Ultra-Short Bond ETF",
-    "aum": 8900000000,
-    "durationYears": 0.9,
-    "maturityYears": 0.9
-  },
-  {
-    "ticker": "BIV",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-04T08:28:39.155Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-03",
-    "nav": 75.4,
-    "accountType": "Vanguard Intermediate-Term Bond ETF",
-    "aum": 29300000000,
-    "durationYears": 6,
-    "maturityYears": 6
-  },
-  {
-    "ticker": "BND",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-04T08:28:56.864Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-03",
-    "nav": 72.12,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 159800000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
   }
 ]
