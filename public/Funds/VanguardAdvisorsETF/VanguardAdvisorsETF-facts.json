@@ -1,50 +1,60 @@
 [
   {
-    "ticker": "BLV",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-06T00:03:08.549Z",
+    "timestamp": "2026-08-06T01:41:09.921Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-05",
-    "nav": 66.54,
-    "accountType": "Vanguard Long-Term Bond ETF",
-    "aum": 5700000000,
-    "durationYears": 12.6,
-    "maturityYears": 12.6
+    "nav": 75.19,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 191400000,
+    "durationYears": 86.3,
+    "maturityYears": 86.3
   },
   {
-    "ticker": "EDV",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-06T00:03:26.822Z",
+    "timestamp": "2026-08-06T01:41:28.005Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-05",
-    "nav": 60.11,
-    "accountType": "Vanguard Extended Duration Treasury ETF",
-    "aum": 3400000000,
-    "durationYears": 23.9,
-    "maturityYears": 23.9
+    "nav": 75.76,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 28800000000,
+    "durationYears": 6,
+    "maturityYears": 6
   },
   {
-    "ticker": "VTEL",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-06T00:03:44.598Z",
+    "timestamp": "2026-08-06T01:41:45.845Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-05",
-    "nav": 102.08,
-    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "aum": 326100000,
-    "durationYears": 9.4,
-    "maturityYears": 9.4
+    "nav": 53.22,
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "aum": 10300000000,
+    "durationYears": 13.4,
+    "maturityYears": 13.4
   },
   {
-    "ticker": "VTES",
+    "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-06T00:04:02.187Z",
+    "timestamp": "2026-08-06T01:42:03.278Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-05",
-    "nav": 100.66,
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "aum": 2200000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 50.79,
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "aum": 249400000,
+    "durationYears": 3.7,
+    "maturityYears": 3.7
+  },
+  {
+    "ticker": "VWOB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-06T01:42:21.355Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-05",
+    "nav": 66.09,
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "aum": 6200000000
   }
 ]
