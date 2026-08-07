@@ -1,50 +1,62 @@
 [
   {
-    "ticker": "VTES",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-07T12:37:19.301Z",
+    "timestamp": "2026-08-07T14:13:51.439Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-06",
-    "nav": 100.68,
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "aum": 2200000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 75.09,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 191400000,
+    "durationYears": 86.4,
+    "maturityYears": 86.4
   },
   {
-    "ticker": "BND",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-07T12:37:37.764Z",
+    "timestamp": "2026-08-07T14:14:12.108Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-06",
-    "nav": 72.25,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 160900000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 65.97,
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "aum": 6200000000,
+    "durationYears": 6.6,
+    "maturityYears": 6.6
   },
   {
-    "ticker": "VGLT",
+    "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-07T12:37:56.770Z",
+    "timestamp": "2026-08-07T14:14:30.302Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-06",
-    "nav": 52.93,
-    "accountType": "Vanguard Long-Term Treasury ETF",
-    "aum": 10300000000,
-    "durationYears": 13.5,
-    "maturityYears": 13.5
+    "nav": 75.06,
+    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
+    "aum": 1800000000,
+    "durationYears": 7.2,
+    "maturityYears": 7.2
   },
   {
-    "ticker": "VGMS",
+    "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-07T12:38:14.801Z",
+    "timestamp": "2026-08-07T14:14:48.311Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-06",
-    "nav": 50.72,
-    "accountType": "Vanguard Multi-Sector Income Bond ETF",
-    "aum": 249400000,
-    "durationYears": 3.7,
-    "maturityYears": 3.7
+    "nav": 57.98,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "aum": 30200000000,
+    "durationYears": 1.8,
+    "maturityYears": 1.8
+  },
+  {
+    "ticker": "VGUS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-07T14:15:07.268Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-06",
+    "nav": 75.48,
+    "accountType": "Vanguard Ultra-Short Treasury ETF",
+    "aum": 1000000000,
+    "durationYears": 0.3,
+    "maturityYears": 0.3
   }
 ]
