@@ -1,62 +1,38 @@
 [
   {
-    "ticker": "VBIL",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-08T12:30:09.227Z",
+    "timestamp": "2026-08-08T14:03:30.617Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-07",
-    "nav": 75.55,
-    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
-    "aum": 10100000000,
-    "durationYears": 0.1,
-    "maturityYears": 0.1
+    "nav": 75.66,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 28800000000,
+    "durationYears": 6,
+    "maturityYears": 6
   },
   {
-    "ticker": "VCSH",
+    "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-08T12:30:27.247Z",
+    "timestamp": "2026-08-08T14:03:48.762Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-07",
-    "nav": 78.58,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 45000000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 81.4,
+    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
+    "aum": 67700000000,
+    "durationYears": 6,
+    "maturityYears": 6
   },
   {
-    "ticker": "VMBS",
+    "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-08T12:30:45.057Z",
+    "timestamp": "2026-08-08T14:04:06.460Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-07",
-    "nav": 46.14,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15600000000,
-    "durationYears": 5.4,
-    "maturityYears": 5.4
-  },
-  {
-    "ticker": "VTEB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-08T12:31:02.811Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-07",
-    "nav": 49.79,
-    "accountType": "Vanguard Tax-Exempt Bond ETF",
-    "aum": 45800000000,
-    "durationYears": 7.1,
-    "maturityYears": 7.1
-  },
-  {
-    "ticker": "VCEB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-08T12:31:20.392Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-07",
-    "nav": 61.58,
-    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
-    "aum": 1100000000,
-    "durationYears": 6.2,
-    "maturityYears": 6.2
+    "nav": 72.34,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 8800000000,
+    "durationYears": 11.8,
+    "maturityYears": 11.8
   }
 ]
