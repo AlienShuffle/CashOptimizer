@@ -1,50 +1,60 @@
 [
   {
-    "ticker": "VBIL",
+    "ticker": "VMBS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-10T10:25:22.613Z",
+    "timestamp": "2026-08-10T11:59:37.663Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-07",
-    "nav": 75.55,
-    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
-    "aum": 10100000000,
-    "durationYears": 0.1,
-    "maturityYears": 0.1
+    "nav": 46.14,
+    "accountType": "Vanguard Mortgage-Backed Securities ETF",
+    "aum": 15600000000,
+    "durationYears": 5.4,
+    "maturityYears": 5.4
   },
   {
-    "ticker": "VWOB",
+    "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-10T10:25:40.616Z",
+    "timestamp": "2026-08-10T11:59:55.871Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-07",
-    "nav": 66.07,
-    "accountType": "Vanguard Emerging Markets Government Bond ETF",
-    "aum": 6200000000,
-    "durationYears": 6.6,
-    "maturityYears": 6.6
+    "nav": 49.65,
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "aum": 9300000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
   },
   {
-    "ticker": "VCEB",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-10T10:25:58.795Z",
+    "timestamp": "2026-08-10T12:00:13.694Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-07",
-    "nav": 61.58,
-    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
-    "aum": 1100000000,
-    "durationYears": 6.2,
-    "maturityYears": 6.2
+    "nav": 75.66,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 28800000000,
+    "durationYears": 6,
+    "maturityYears": 6
   },
   {
-    "ticker": "VCSH",
+    "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-10T10:26:16.596Z",
+    "timestamp": "2026-08-10T12:00:33.111Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-07",
-    "nav": 78.58,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 45000000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 81.4,
+    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
+    "aum": 67700000000,
+    "durationYears": 6,
+    "maturityYears": 6
+  },
+  {
+    "ticker": "VCLT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-10T12:00:51.037Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-07",
+    "nav": 72.34,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 8800000000
   }
 ]
