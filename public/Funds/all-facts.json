@@ -69,10 +69,10 @@
   {
     "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-11T11:44:23.138Z",
+    "timestamp": "2026-08-12T01:25:38.134Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-10",
-    "nav": 72.98,
+    "asOfDate": "2026-08-11",
+    "nav": 73.03,
     "accountType": "Vanguard Core-Plus Bond Index ETF",
     "aum": 131500000,
     "durationYears": 5.5,
@@ -412,21 +412,22 @@
   {
     "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-11T08:31:18.437Z",
+    "timestamp": "2026-08-12T01:24:44.810Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-10",
-    "nav": 52.64,
+    "asOfDate": "2026-08-11",
+    "nav": 52.74,
     "accountType": "Vanguard Long-Term Treasury ETF",
     "aum": 10300000000,
-    "durationYears": 13.4
+    "durationYears": 13.4,
+    "maturityYears": 13.4
   },
   {
     "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-11T11:44:41.268Z",
+    "timestamp": "2026-08-12T01:25:55.062Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-10",
-    "nav": 50.73,
+    "asOfDate": "2026-08-11",
+    "nav": 50.74,
     "accountType": "Vanguard Multi-Sector Income Bond ETF",
     "aum": 249400000,
     "durationYears": 3.7,
@@ -495,9 +496,9 @@
   {
     "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-11T08:30:42.338Z",
+    "timestamp": "2026-08-12T01:25:02.846Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-10",
+    "asOfDate": "2026-08-11",
     "nav": 76.17,
     "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
     "aum": 834500000,
@@ -531,13 +532,14 @@
   {
     "ticker": "VTEC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-11T08:31:36.257Z",
+    "timestamp": "2026-08-12T01:25:20.287Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-10",
+    "asOfDate": "2026-08-11",
     "nav": 99,
     "accountType": "Vanguard California Tax-Exempt Bond ETF",
     "aum": 3100000000,
-    "durationYears": 6.8
+    "durationYears": 6.8,
+    "maturityYears": 6.8
   },
   {
     "ticker": "VTEI",
