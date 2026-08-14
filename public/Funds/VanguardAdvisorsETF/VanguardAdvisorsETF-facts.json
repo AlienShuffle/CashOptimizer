@@ -1,38 +1,50 @@
 [
   {
-    "ticker": "VCEB",
+    "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-14T02:48:34.386Z",
+    "timestamp": "2026-08-14T04:24:10.253Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-13",
-    "nav": 61.62,
-    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
-    "aum": 1100000000,
-    "durationYears": 6.2,
-    "maturityYears": 6.2
+    "nav": 59.66,
+    "accountType": "Vanguard Extended Duration Treasury ETF",
+    "aum": 3400000000,
+    "durationYears": 23.8,
+    "maturityYears": 23.8
   },
   {
-    "ticker": "VCIT",
+    "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-14T02:48:52.335Z",
+    "timestamp": "2026-08-14T04:24:28.069Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-13",
-    "nav": 81.47,
-    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
-    "aum": 67700000000,
-    "durationYears": 6,
-    "maturityYears": 6
+    "nav": 72.24,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 8800000000,
+    "durationYears": 11.8,
+    "maturityYears": 11.8
   },
   {
-    "ticker": "VTP",
+    "ticker": "VCSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-14T02:49:09.931Z",
+    "timestamp": "2026-08-14T04:24:45.814Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-13",
-    "nav": 75.27,
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 191400000,
-    "durationYears": 96.3,
-    "maturityYears": 96.3
+    "nav": 78.7,
+    "accountType": "Vanguard Short-Term Corporate Bond ETF",
+    "aum": 45000000000,
+    "durationYears": 2.7,
+    "maturityYears": 2.7
+  },
+  {
+    "ticker": "VTC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-14T04:25:03.492Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-13",
+    "nav": 75.42,
+    "accountType": "Vanguard Total Corporate Bond ETF",
+    "aum": 1700000000,
+    "durationYears": 6.4,
+    "maturityYears": 6.4
   }
 ]
