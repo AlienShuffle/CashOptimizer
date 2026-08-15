@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "VSDB",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T14:32:49.212Z",
+    "timestamp": "2026-08-15T15:35:20.265Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 75.9,
-    "accountType": "Vanguard Short Duration Bond ETF",
-    "aum": 920100000,
+    "nav": 75.57,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 28800000000,
+    "durationYears": 6,
+    "maturityYears": 6
+  },
+  {
+    "ticker": "BSV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-15T15:35:38.595Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 77.6,
+    "accountType": "Vanguard Short-Term Bond ETF",
+    "aum": 45600000000,
     "durationYears": 2.6,
     "maturityYears": 2.6
   },
   {
-    "ticker": "VWOB",
+    "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T14:33:06.876Z",
+    "timestamp": "2026-08-15T15:35:56.218Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 66.05,
-    "accountType": "Vanguard Emerging Markets Government Bond ETF",
-    "aum": 6200000000,
-    "durationYears": 6.6,
-    "maturityYears": 6.6
+    "nav": 102.12,
+    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
+    "aum": 473100000,
+    "durationYears": 6.9,
+    "maturityYears": 6.9
+  },
+  {
+    "ticker": "VTEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-15T15:36:13.884Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 49.76,
+    "accountType": "Vanguard Tax-Exempt Bond ETF",
+    "aum": 45800000000,
+    "durationYears": 7.1,
+    "maturityYears": 7.1
   }
 ]
