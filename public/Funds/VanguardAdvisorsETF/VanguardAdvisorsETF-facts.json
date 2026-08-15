@@ -1,50 +1,50 @@
 [
   {
-    "ticker": "BIV",
+    "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T15:35:20.265Z",
+    "timestamp": "2026-08-15T18:42:51.885Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 65.83,
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "aum": 5700000000,
+    "durationYears": 12.6,
+    "maturityYears": 12.6
+  },
+  {
+    "ticker": "VGUS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-15T18:43:09.708Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
     "nav": 75.57,
-    "accountType": "Vanguard Intermediate-Term Bond ETF",
-    "aum": 28800000000,
-    "durationYears": 6,
-    "maturityYears": 6
+    "accountType": "Vanguard Ultra-Short Treasury ETF",
+    "aum": 1000000000,
+    "durationYears": 0.3,
+    "maturityYears": 0.3
   },
   {
-    "ticker": "BSV",
+    "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T15:35:38.595Z",
+    "timestamp": "2026-08-15T18:43:27.332Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 77.6,
-    "accountType": "Vanguard Short-Term Bond ETF",
-    "aum": 45600000000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 76.21,
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "aum": 834500000,
+    "durationYears": 2.9,
+    "maturityYears": 2.9
   },
   {
-    "ticker": "MUNY",
+    "ticker": "VTEC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T15:35:56.218Z",
+    "timestamp": "2026-08-15T18:43:44.727Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 102.12,
-    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
-    "aum": 473100000,
-    "durationYears": 6.9,
-    "maturityYears": 6.9
-  },
-  {
-    "ticker": "VTEB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T15:36:13.884Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-14",
-    "nav": 49.76,
-    "accountType": "Vanguard Tax-Exempt Bond ETF",
-    "aum": 45800000000,
-    "durationYears": 7.1,
-    "maturityYears": 7.1
+    "nav": 98.97,
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "aum": 3100000000,
+    "durationYears": 6.8,
+    "maturityYears": 6.8
   }
 ]
