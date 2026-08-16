@@ -1,50 +1,50 @@
 [
   {
-    "ticker": "VTC",
+    "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-16T02:04:18.186Z",
+    "timestamp": "2026-08-16T03:08:24.729Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 75.17,
-    "accountType": "Vanguard Total Corporate Bond ETF",
-    "aum": 1700000000,
+    "nav": 100.82,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2200000000,
+    "durationYears": 2.7,
+    "maturityYears": 2.7
+  },
+  {
+    "ticker": "BNDX",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-16T03:08:42.489Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 47.65,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 82700000000,
     "durationYears": 6.5,
     "maturityYears": 6.5
   },
   {
-    "ticker": "VGLT",
+    "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-16T02:04:36.292Z",
+    "timestamp": "2026-08-16T03:09:00.504Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 52.67,
-    "accountType": "Vanguard Long-Term Treasury ETF",
-    "aum": 10300000000,
-    "durationYears": 13.4,
-    "maturityYears": 13.4
+    "nav": 58.11,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "aum": 30200000000,
+    "durationYears": 1.8,
+    "maturityYears": 1.8
   },
   {
-    "ticker": "VGMS",
+    "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-16T02:04:54.063Z",
+    "timestamp": "2026-08-16T03:09:18.106Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 50.85,
-    "accountType": "Vanguard Multi-Sector Income Bond ETF",
-    "aum": 249400000,
-    "durationYears": 3.6,
-    "maturityYears": 3.6
-  },
-  {
-    "ticker": "VMBS",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-16T02:05:11.883Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-14",
-    "nav": 46.13,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15600000000,
-    "durationYears": 5.3,
-    "maturityYears": 5.3
+    "nav": 76.29,
+    "accountType": "Vanguard Core-Plus Bond ETF",
+    "aum": 1800000000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   }
 ]
