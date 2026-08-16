@@ -1,50 +1,50 @@
 [
   {
-    "ticker": "BND",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T22:54:20.235Z",
+    "timestamp": "2026-08-16T00:59:34.185Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 72.28,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 160900000000,
+    "nav": 73.12,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 131500000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
+  },
+  {
+    "ticker": "VCRB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-16T00:59:52.024Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 75.9,
+    "accountType": "Vanguard Core Bond ETF",
+    "aum": 7500000000,
     "durationYears": 5.7,
     "maturityYears": 5.7
   },
   {
-    "ticker": "VCLT",
+    "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T22:54:37.949Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-14",
-    "nav": 71.75,
-    "accountType": "Vanguard Long-Term Corporate Bond ETF",
-    "aum": 8800000000,
-    "durationYears": 11.8,
-    "maturityYears": 11.8
-  },
-  {
-    "ticker": "VCSH",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T22:54:55.783Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-14",
-    "nav": 78.62,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 45000000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
-  },
-  {
-    "ticker": "VTP",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T22:55:13.882Z",
+    "timestamp": "2026-08-16T01:00:09.644Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
     "nav": 75.2,
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 191400000,
-    "durationYears": 96.3,
-    "maturityYears": 96.3
+    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
+    "aum": 1800000000,
+    "durationYears": 7.5,
+    "maturityYears": 7.5
+  },
+  {
+    "ticker": "VGIT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-16T01:00:27.780Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 58.4,
+    "accountType": "Vanguard Intermediate-Term Treasury ETF",
+    "aum": 42400000000,
+    "durationYears": 4.8,
+    "maturityYears": 4.8
   }
 ]

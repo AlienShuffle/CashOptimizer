@@ -69,7 +69,7 @@
   {
     "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T12:10:26.272Z",
+    "timestamp": "2026-08-16T00:59:34.185Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
     "nav": 73.12,
@@ -364,7 +364,7 @@
   {
     "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T12:09:32.884Z",
+    "timestamp": "2026-08-16T00:59:52.024Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
     "nav": 75.9,
@@ -376,12 +376,14 @@
   {
     "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T12:10:43.833Z",
+    "timestamp": "2026-08-16T01:00:09.644Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
     "nav": 75.2,
     "accountType": "Vanguard Core Tax-Exempt Bond ETF",
-    "aum": 1800000000
+    "aum": 1800000000,
+    "durationYears": 7.5,
+    "maturityYears": 7.5
   },
   {
     "ticker": "VCSH",
@@ -398,7 +400,7 @@
   {
     "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-15T12:09:50.884Z",
+    "timestamp": "2026-08-16T01:00:27.780Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
     "nav": 58.4,
