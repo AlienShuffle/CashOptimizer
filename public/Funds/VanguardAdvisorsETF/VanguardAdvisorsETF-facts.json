@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "VTES",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-17T06:16:54.832Z",
+    "timestamp": "2026-08-17T09:24:41.057Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
-    "nav": 100.82,
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "aum": 2200000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 75.57,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 28800000000,
+    "durationYears": 6,
+    "maturityYears": 6
   },
   {
-    "ticker": "VTIP",
+    "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-17T06:17:12.815Z",
+    "timestamp": "2026-08-17T09:24:59.058Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 75.9,
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "aum": 920100000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
+  },
+  {
+    "ticker": "VUSB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-17T09:25:16.977Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-14",
     "nav": 49.7,
-    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
-    "aum": 19800000000,
-    "durationYears": 82.4,
-    "maturityYears": 82.4
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "aum": 9300000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
+  },
+  {
+    "ticker": "VWOB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-17T09:25:34.898Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-14",
+    "nav": 66.05,
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "aum": 6200000000,
+    "durationYears": 6.6,
+    "maturityYears": 6.6
   }
 ]
