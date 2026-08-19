@@ -1,50 +1,62 @@
 [
   {
-    "ticker": "VTC",
+    "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-19T18:51:12.791Z",
+    "timestamp": "2026-08-19T19:55:36.422Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-18",
-    "nav": 75.02,
-    "accountType": "Vanguard Total Corporate Bond ETF",
-    "aum": 1700000000,
-    "durationYears": 6.4,
-    "maturityYears": 6.4
+    "nav": 76.11,
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "aum": 834500000,
+    "durationYears": 2.9,
+    "maturityYears": 2.9
   },
   {
-    "ticker": "VTES",
+    "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-19T18:51:30.633Z",
+    "timestamp": "2026-08-19T19:55:54.183Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-18",
-    "nav": 100.71,
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "aum": 2200000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 101.53,
+    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
+    "aum": 473100000,
+    "durationYears": 6.9,
+    "maturityYears": 6.9
   },
   {
-    "ticker": "VTIP",
+    "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-19T18:51:48.197Z",
+    "timestamp": "2026-08-19T19:56:11.861Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-18",
-    "nav": 49.72,
-    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
-    "aum": 19800000000,
-    "durationYears": 82.4,
-    "maturityYears": 82.4
-  },
-  {
-    "ticker": "BSV",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-19T18:52:05.883Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-18",
-    "nav": 77.62,
-    "accountType": "Vanguard Short-Term Bond ETF",
-    "aum": 45600000000,
+    "nav": 75.89,
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "aum": 920100000,
     "durationYears": 2.6,
     "maturityYears": 2.6
+  },
+  {
+    "ticker": "VUSB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-19T19:56:29.388Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-18",
+    "nav": 49.71,
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "aum": 9300000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
+  },
+  {
+    "ticker": "BLV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-19T19:56:46.809Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-18",
+    "nav": 65.58,
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "aum": 5700000000,
+    "durationYears": 12.5,
+    "maturityYears": 12.5
   }
 ]
