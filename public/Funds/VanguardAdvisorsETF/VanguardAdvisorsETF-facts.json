@@ -1,26 +1,49 @@
 [
   {
-    "ticker": "BLV",
+    "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-19T22:05:29.105Z",
+    "timestamp": "2026-08-20T02:16:36.001Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-18",
-    "nav": 65.58,
-    "accountType": "Vanguard Long-Term Bond ETF",
-    "aum": 5700000000,
-    "durationYears": 12.5,
-    "maturityYears": 12.5
+    "asOfDate": "2026-08-19",
+    "nav": 60.27,
+    "accountType": "Vanguard Extended Duration Treasury ETF",
+    "aum": 3400000000,
+    "durationYears": 23.8,
+    "maturityYears": 23.8
   },
   {
-    "ticker": "VWOB",
+    "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-19T22:05:47.279Z",
+    "timestamp": "2026-08-20T02:16:54.259Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-18",
-    "nav": 65.7,
-    "accountType": "Vanguard Emerging Markets Government Bond ETF",
-    "aum": 6200000000,
-    "durationYears": 6.5,
-    "maturityYears": 6.5
+    "asOfDate": "2026-08-19",
+    "nav": 61.63,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1100000000,
+    "durationYears": 6.1,
+    "maturityYears": 6.1
+  },
+  {
+    "ticker": "VCIT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-20T02:17:12.446Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-19",
+    "nav": 81.43,
+    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
+    "aum": 67700000000,
+    "durationYears": 5.9,
+    "maturityYears": 5.9
+  },
+  {
+    "ticker": "VTEC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-20T02:17:30.356Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-19",
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "aum": 3100000000,
+    "durationYears": 6.8,
+    "maturityYears": 6.8
   }
 ]
