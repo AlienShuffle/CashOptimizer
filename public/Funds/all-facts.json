@@ -57,7 +57,7 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-22T09:11:34.938Z",
+    "timestamp": "2026-08-22T21:58:17.025Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
     "nav": 72.2,
@@ -69,12 +69,14 @@
   {
     "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-22T09:11:53.007Z",
+    "timestamp": "2026-08-22T21:58:34.984Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
     "nav": 73.04,
     "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "aum": 131500000
+    "aum": 131500000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   },
   {
     "ticker": "BNDW",
@@ -113,7 +115,7 @@
   {
     "ticker": "BSV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-21T23:23:06.614Z",
+    "timestamp": "2026-08-22T21:58:52.902Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
     "nav": 77.55,
