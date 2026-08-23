@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "VCRB",
+    "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-23T11:10:13.020Z",
+    "timestamp": "2026-08-23T13:14:53.620Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
-    "nav": 75.83,
-    "accountType": "Vanguard Core Bond ETF",
-    "aum": 7500000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 50.79,
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "aum": 249400000,
+    "durationYears": 3.6,
+    "maturityYears": 3.6
   },
   {
-    "ticker": "VTG",
+    "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-23T11:10:30.760Z",
+    "timestamp": "2026-08-23T13:15:11.770Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
-    "nav": 74.15,
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 179800000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 75.62,
+    "accountType": "Vanguard Ultra-Short Treasury ETF",
+    "aum": 1000000000,
+    "durationYears": 0.3,
+    "maturityYears": 0.3
+  },
+  {
+    "ticker": "VTP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-23T13:15:29.611Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-21",
+    "nav": 75.29,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 191400000,
+    "durationYears": 96.3,
+    "maturityYears": 96.3
+  },
+  {
+    "ticker": "VWOB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-23T13:15:47.159Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-21",
+    "nav": 65.79,
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "aum": 6200000000,
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   }
 ]
