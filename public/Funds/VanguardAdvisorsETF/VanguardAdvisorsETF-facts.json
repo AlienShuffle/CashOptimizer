@@ -1,50 +1,62 @@
 [
   {
-    "ticker": "BNDX",
+    "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-23T19:38:39.199Z",
+    "timestamp": "2026-08-24T01:54:44.590Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
-    "nav": 47.56,
-    "accountType": "Vanguard Total International Bond ETF",
-    "aum": 82700000000,
-    "durationYears": 6.5,
-    "maturityYears": 6.5
+    "nav": 58.11,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "aum": 30200000000,
+    "durationYears": 1.8,
+    "maturityYears": 1.8
   },
   {
-    "ticker": "VCSH",
+    "ticker": "VTC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-23T19:38:57.060Z",
+    "timestamp": "2026-08-24T01:55:02.537Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
-    "nav": 78.56,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 45000000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 75.05,
+    "accountType": "Vanguard Total Corporate Bond ETF",
+    "aum": 1700000000,
+    "durationYears": 6.4,
+    "maturityYears": 6.4
   },
   {
-    "ticker": "VMBS",
+    "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-23T19:39:14.793Z",
+    "timestamp": "2026-08-24T01:55:20.594Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
-    "nav": 46.07,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15600000000,
-    "durationYears": 5.3,
-    "maturityYears": 5.3
+    "nav": 101.49,
+    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
+    "aum": 326100000,
+    "durationYears": 9.4,
+    "maturityYears": 9.4
   },
   {
-    "ticker": "VPLS",
+    "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-23T19:39:32.435Z",
+    "timestamp": "2026-08-24T01:55:38.424Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-21",
-    "nav": 76.2,
-    "accountType": "Vanguard Core-Plus Bond ETF",
-    "aum": 1800000000,
-    "durationYears": 5.6,
-    "maturityYears": 5.6
+    "nav": 58.3,
+    "accountType": "Vanguard Intermediate-Term Treasury ETF",
+    "aum": 42400000000,
+    "durationYears": 4.8,
+    "maturityYears": 4.8
+  },
+  {
+    "ticker": "VSDB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-24T01:55:55.996Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-21",
+    "nav": 75.85,
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "aum": 920100000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
   }
 ]
