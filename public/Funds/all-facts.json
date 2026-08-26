@@ -363,10 +363,10 @@
   {
     "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-25T05:36:54.708Z",
+    "timestamp": "2026-08-26T11:59:27.987Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-24",
-    "nav": 75.98,
+    "asOfDate": "2026-08-25",
+    "nav": 76.32,
     "accountType": "Vanguard Core Bond ETF",
     "aum": 7500000000,
     "durationYears": 5.7,
@@ -399,14 +399,12 @@
   {
     "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-25T03:26:09.984Z",
+    "timestamp": "2026-08-26T11:59:46.618Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-24",
-    "nav": 58.37,
+    "asOfDate": "2026-08-25",
+    "nav": 58.58,
     "accountType": "Vanguard Intermediate-Term Treasury ETF",
-    "aum": 42400000000,
-    "durationYears": 4.8,
-    "maturityYears": 4.8
+    "aum": 42400000000
   },
   {
     "ticker": "VGLT",
@@ -639,24 +637,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-08-25T14:15:37.992Z",
+    "timestamp": "2026-08-26T12:00:00.241Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0375,
     "asOfDate": "2026-07-31",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.44,
-    "yieldToWorst": 0.0386
+    "yieldToWorst": 0.038
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-08-25T14:15:43.912Z",
+    "timestamp": "2026-08-26T12:00:06.222Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.041,
     "asOfDate": "2026-07-31",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.031,
     "durationYears": 0.93,
-    "yieldToWorst": 0.0408
+    "yieldToWorst": 0.0405
   }
 ]
