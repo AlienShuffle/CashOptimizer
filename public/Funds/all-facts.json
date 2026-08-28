@@ -127,7 +127,7 @@
   {
     "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-28T08:00:38.567Z",
+    "timestamp": "2026-08-28T20:52:19.774Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-27",
     "nav": 60.49,
@@ -448,7 +448,7 @@
   {
     "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-28T08:00:56.652Z",
+    "timestamp": "2026-08-28T20:52:37.478Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-27",
     "nav": 75.66,
@@ -554,7 +554,7 @@
   {
     "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-28T08:00:20.455Z",
+    "timestamp": "2026-08-28T20:52:55.252Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-27",
     "nav": 101.37,
@@ -578,12 +578,14 @@
   {
     "ticker": "VTG",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-28T06:55:32.883Z",
+    "timestamp": "2026-08-28T20:52:01.614Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-27",
     "nav": 74.43,
     "accountType": "Vanguard Total Treasury ETF",
-    "aum": 179800000
+    "aum": 179800000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   },
   {
     "ticker": "VTIP",
