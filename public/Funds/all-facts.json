@@ -57,7 +57,7 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-29T00:08:35.121Z",
+    "timestamp": "2026-08-29T12:56:58.500Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
     "nav": 72.29,
@@ -115,10 +115,10 @@
   {
     "ticker": "BSV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-28T23:03:54.648Z",
+    "timestamp": "2026-08-29T12:56:04.961Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
-    "nav": 77.64,
+    "nav": 77.45,
     "accountType": "Vanguard Short-Term Bond ETF",
     "aum": 45600000000,
     "durationYears": 2.5,
@@ -412,10 +412,10 @@
   {
     "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-28T23:04:12.255Z",
+    "timestamp": "2026-08-29T12:56:22.935Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
-    "nav": 53.34,
+    "nav": 53.15,
     "accountType": "Vanguard Long-Term Treasury ETF",
     "aum": 10300000000,
     "durationYears": 13.4,
@@ -628,7 +628,7 @@
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-28T23:03:18.692Z",
+    "timestamp": "2026-08-29T12:56:40.979Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
     "nav": 66.05,
@@ -640,24 +640,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-08-28T11:16:33.682Z",
+    "timestamp": "2026-08-29T12:58:22.380Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0375,
     "asOfDate": "2026-07-31",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.43,
-    "yieldToWorst": 0.0384
+    "yieldToWorst": 0.039
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-08-28T11:16:39.465Z",
+    "timestamp": "2026-08-29T12:58:28.112Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.041,
     "asOfDate": "2026-07-31",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0309,
     "durationYears": 0.92,
-    "yieldToWorst": 0.0407
+    "yieldToWorst": 0.0417
   }
 ]
