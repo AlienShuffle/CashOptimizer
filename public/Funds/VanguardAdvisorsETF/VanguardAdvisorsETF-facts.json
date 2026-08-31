@@ -1,50 +1,36 @@
 [
   {
-    "ticker": "VMBS",
+    "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T13:00:31.675Z",
+    "timestamp": "2026-08-31T15:06:39.515Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
-    "nav": 46.09,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15600000000,
-    "durationYears": 5.3,
-    "maturityYears": 5.3
+    "nav": 75.8,
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "aum": 920100000,
+    "durationYears": 2.5,
+    "maturityYears": 2.5
   },
   {
-    "ticker": "BLV",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T13:00:49.693Z",
+    "timestamp": "2026-08-31T15:06:57.229Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
-    "nav": 66.38,
-    "accountType": "Vanguard Long-Term Bond ETF",
-    "aum": 5700000000,
-    "durationYears": 12.6,
-    "maturityYears": 12.6
-  },
-  {
-    "ticker": "EDV",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T13:01:07.298Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-28",
-    "nav": 60.32,
-    "accountType": "Vanguard Extended Duration Treasury ETF",
-    "aum": 3400000000,
-    "durationYears": 23.8,
-    "maturityYears": 23.8
-  },
-  {
-    "ticker": "VPLS",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T13:01:24.815Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-08-28",
-    "nav": 76.33,
-    "accountType": "Vanguard Core-Plus Bond ETF",
-    "aum": 1800000000,
+    "nav": 73.13,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 131500000,
     "durationYears": 5.5,
     "maturityYears": 5.5
+  },
+  {
+    "ticker": "VGMS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-31T15:07:14.926Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-28",
+    "nav": 50.87,
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "aum": 249400000
   }
 ]
