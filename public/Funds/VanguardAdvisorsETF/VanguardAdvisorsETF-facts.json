@@ -1,36 +1,50 @@
 [
   {
-    "ticker": "VSDB",
+    "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T15:06:39.515Z",
+    "timestamp": "2026-08-31T17:17:19.530Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
-    "nav": 75.8,
-    "accountType": "Vanguard Short Duration Bond ETF",
-    "aum": 920100000,
-    "durationYears": 2.5,
-    "maturityYears": 2.5
+    "nav": 76.13,
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "aum": 834500000,
+    "durationYears": 3,
+    "maturityYears": 3
   },
   {
-    "ticker": "BNDP",
+    "ticker": "VTEI",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T15:06:57.229Z",
+    "timestamp": "2026-08-31T17:17:37.642Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
-    "nav": 73.13,
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "aum": 131500000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 98.9,
+    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
+    "aum": 1500000000,
+    "durationYears": 5.6,
+    "maturityYears": 5.6
   },
   {
-    "ticker": "VGMS",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T15:07:14.926Z",
+    "timestamp": "2026-08-31T17:17:55.419Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-28",
-    "nav": 50.87,
-    "accountType": "Vanguard Multi-Sector Income Bond ETF",
-    "aum": 249400000
+    "nav": 75.41,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "aum": 28800000000,
+    "durationYears": 5.9,
+    "maturityYears": 5.9
+  },
+  {
+    "ticker": "VGSH",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-31T17:18:13.241Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-28",
+    "nav": 58.03,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "aum": 30200000000,
+    "durationYears": 1.8,
+    "maturityYears": 1.8
   }
 ]
