@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "MUNY",
+    "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T22:38:21.108Z",
+    "timestamp": "2026-08-31T23:40:55.027Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-28",
-    "nav": 101.36,
-    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
-    "aum": 473100000,
-    "durationYears": 7,
-    "maturityYears": 7
+    "asOfDate": "2026-08-31",
+    "nav": 75.88,
+    "accountType": "Vanguard Core Bond ETF",
+    "aum": 7500000000,
+    "durationYears": 5.7,
+    "maturityYears": 5.7
   },
   {
-    "ticker": "VTP",
+    "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-08-31T22:38:39.199Z",
+    "timestamp": "2026-08-31T23:41:13.072Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-08-28",
-    "nav": 75.07,
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 191400000,
-    "durationYears": 96.3,
-    "maturityYears": 96.3
+    "asOfDate": "2026-08-31",
+    "nav": 72.34,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 8800000000,
+    "durationYears": 11.8,
+    "maturityYears": 11.8
+  },
+  {
+    "ticker": "VCRM",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-31T23:41:30.675Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-31",
+    "nav": 74.66,
+    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
+    "aum": 1800000000,
+    "durationYears": 7.6,
+    "maturityYears": 7.6
+  },
+  {
+    "ticker": "VTEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-08-31T23:41:48.244Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-31",
+    "nav": 49.33,
+    "accountType": "Vanguard Tax-Exempt Bond ETF",
+    "aum": 45800000000,
+    "durationYears": 7.1,
+    "maturityYears": 7.1
   }
 ]
