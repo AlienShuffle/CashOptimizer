@@ -1,50 +1,60 @@
 [
   {
-    "ticker": "VCEB",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-01T14:36:28.184Z",
+    "timestamp": "2026-09-01T15:41:07.622Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-31",
-    "nav": 61.44,
-    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
-    "aum": 1100000000,
-    "durationYears": 6.1,
-    "maturityYears": 6.1
+    "nav": 52.97,
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "aum": 10300000000,
+    "durationYears": 13.4,
+    "maturityYears": 13.4
   },
   {
-    "ticker": "VCIT",
+    "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-01T14:36:48.416Z",
+    "timestamp": "2026-09-01T15:41:25.599Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-31",
-    "nav": 81.08,
-    "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
-    "aum": 67700000000,
-    "durationYears": 5.9,
-    "maturityYears": 5.9
+    "nav": 101.01,
+    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
+    "aum": 326100000,
+    "durationYears": 9.5,
+    "maturityYears": 9.5
   },
   {
-    "ticker": "VTG",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-01T14:37:07.138Z",
+    "timestamp": "2026-09-01T15:41:43.235Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-31",
-    "nav": 74.15,
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 179800000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 65.95,
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "aum": 6200000000,
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   },
   {
-    "ticker": "BSV",
+    "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-01T14:37:27.461Z",
+    "timestamp": "2026-09-01T15:42:00.932Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-08-31",
-    "nav": 77.48,
-    "accountType": "Vanguard Short-Term Bond ETF",
-    "aum": 45600000000,
-    "durationYears": 2.5,
-    "maturityYears": 2.5
+    "nav": 101.23,
+    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
+    "aum": 473100000,
+    "durationYears": 7,
+    "maturityYears": 7
+  },
+  {
+    "ticker": "VTP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-01T15:42:21.258Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-08-31",
+    "nav": 75.07,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 191400000
   }
 ]
