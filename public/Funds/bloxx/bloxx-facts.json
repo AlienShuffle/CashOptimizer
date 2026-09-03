@@ -1,19 +1,8 @@
 [
   {
-    "ticker": "XHLF",
-    "source": "bloxx",
-    "timestamp": "2026-09-03T02:14:21.616Z",
-    "expenseRatio": 0.0003,
-    "thirtyDayYield": 0.0375,
-    "asOfDate": "2026-07-31",
-    "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.48,
-    "yieldToWorst": 0.0386
-  },
-  {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-09-03T02:14:27.830Z",
+    "timestamp": "2026-09-03T10:54:54.008Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.041,
     "asOfDate": "2026-07-31",
@@ -21,5 +10,16 @@
     "weightedAverageCoupon": 0.0307,
     "durationYears": 0.99,
     "yieldToWorst": 0.0425
+  },
+  {
+    "ticker": "XHLF",
+    "source": "bloxx",
+    "timestamp": "2026-09-03T10:54:48.265Z",
+    "expenseRatio": 0.0003,
+    "thirtyDayYield": 0.0375,
+    "asOfDate": "2026-08-31",
+    "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
+    "durationYears": 0.49,
+    "yieldToWorst": 0.0403
   }
 ]
