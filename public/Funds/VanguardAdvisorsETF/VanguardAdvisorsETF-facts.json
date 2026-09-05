@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "VGUS",
+    "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-05T16:23:55.986Z",
+    "timestamp": "2026-09-05T18:29:38.066Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-04",
+    "nav": 75.88,
+    "accountType": "Vanguard Core-Plus Bond ETF",
+    "aum": 1900000000,
+    "durationYears": 5.7,
+    "maturityYears": 5.7
+  },
+  {
+    "ticker": "VTEC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-05T18:29:55.804Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-04",
+    "nav": 97.32,
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "aum": 3300000000,
+    "durationYears": 7,
+    "maturityYears": 7
+  },
+  {
+    "ticker": "VSDB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-05T18:30:13.485Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-04",
     "nav": 75.49,
-    "accountType": "Vanguard Ultra-Short Treasury ETF",
-    "aum": 1100000000,
-    "durationYears": 0.4,
-    "maturityYears": 0.4
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "aum": 1000000000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
   },
   {
-    "ticker": "VMBS",
+    "ticker": "VSDM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-05T16:24:13.805Z",
+    "timestamp": "2026-09-05T18:30:31.236Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-04",
-    "nav": 45.83,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15900000000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 75.78,
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "aum": 939500000,
+    "durationYears": 3.1,
+    "maturityYears": 3.1
   }
 ]
