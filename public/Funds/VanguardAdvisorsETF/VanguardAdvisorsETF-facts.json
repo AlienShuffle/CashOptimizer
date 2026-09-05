@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "VCSH",
+    "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-05T14:18:06.800Z",
+    "timestamp": "2026-09-05T15:20:41.400Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-04",
-    "nav": 78.16,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 44900000000,
-    "durationYears": 2.7,
-    "maturityYears": 2.7
+    "nav": 47.39,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83400000000,
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   },
   {
-    "ticker": "VGIT",
+    "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-05T14:18:24.423Z",
+    "timestamp": "2026-09-05T15:20:59.424Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-04",
-    "nav": 57.91,
-    "accountType": "Vanguard Intermediate-Term Treasury ETF",
-    "aum": 39800000000,
-    "durationYears": 4.9,
-    "maturityYears": 4.9
+    "nav": 50.57,
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "aum": 272600000,
+    "durationYears": 3.6,
+    "maturityYears": 3.6
+  },
+  {
+    "ticker": "VGSH",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-05T15:21:17.331Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-04",
+    "nav": 57.89,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "aum": 34800000000,
+    "durationYears": 1.9,
+    "maturityYears": 1.9
+  },
+  {
+    "ticker": "VTEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-05T15:21:35.088Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-04",
+    "nav": 48.92,
+    "accountType": "Vanguard Tax-Exempt Bond ETF",
+    "aum": 46300000000,
+    "durationYears": 7.2,
+    "maturityYears": 7.2
   }
 ]
