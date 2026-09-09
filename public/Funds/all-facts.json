@@ -301,16 +301,16 @@
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-09-09T03:11:29.914Z",
+    "timestamp": "2026-09-09T11:54:04.326Z",
     "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-09-08",
     "aum": 19299006220,
     "thirtyDayYield": 0.0368,
-    "yieldToMaturity": 0.0386,
+    "yieldToMaturity": 0.0389,
     "distributionYield": 0.0382,
     "weightedAverageCoupon": 0.0392,
     "durationYears": 0.02,
-    "maturityYears": 1.5,
+    "maturityYears": 1.49,
     "expenseRatio": 0.0015
   },
   {
@@ -640,24 +640,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-09-08T14:07:25.341Z",
+    "timestamp": "2026-09-09T11:55:28.012Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0375,
     "asOfDate": "2026-08-31",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.47,
-    "yieldToWorst": 0.0398
+    "yieldToWorst": 0.039
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-09-08T14:07:31.063Z",
+    "timestamp": "2026-09-09T11:55:33.962Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0407,
     "asOfDate": "2026-08-31",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0307,
-    "durationYears": 0.98,
-    "yieldToWorst": 0.042
+    "durationYears": 0.97,
+    "yieldToWorst": 0.0421
   }
 ]
