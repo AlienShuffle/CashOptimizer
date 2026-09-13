@@ -1,48 +1,50 @@
 [
   {
-    "ticker": "VTP",
+    "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-13T08:04:52.409Z",
+    "timestamp": "2026-09-13T09:10:00.040Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-11",
-    "nav": 74.4,
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 230800000,
-    "durationYears": 96.3,
-    "maturityYears": 96.3
+    "nav": 49.53,
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "aum": 10200000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
   },
   {
-    "ticker": "BLV",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-13T08:05:10.649Z",
+    "timestamp": "2026-09-13T09:10:18.378Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-11",
-    "nav": 64.84,
-    "accountType": "Vanguard Long-Term Bond ETF",
-    "aum": 5700000000,
-    "durationYears": 12.6,
-    "maturityYears": 12.6
+    "nav": 72.02,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 131600000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   },
   {
-    "ticker": "BND",
+    "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-13T08:05:28.726Z",
+    "timestamp": "2026-09-13T09:10:36.233Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-11",
-    "nav": 71.19,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 163300000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 46.95,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83400000000,
+    "durationYears": 6.4,
+    "maturityYears": 6.4
   },
   {
-    "ticker": "VGLT",
+    "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-13T08:05:46.631Z",
+    "timestamp": "2026-09-13T09:10:54.110Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-11",
-    "nav": 51.87,
-    "accountType": "Vanguard Long-Term Treasury ETF",
-    "aum": 10600000000
+    "nav": 70.69,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 9000000000,
+    "durationYears": 11.7,
+    "maturityYears": 11.7
   }
 ]
