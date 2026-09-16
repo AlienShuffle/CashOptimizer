@@ -1,50 +1,38 @@
 [
   {
-    "ticker": "BLV",
+    "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-14T23:48:49.921Z",
+    "timestamp": "2026-09-16T18:18:01.709Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-09-14",
-    "nav": 64.84,
-    "accountType": "Vanguard Long-Term Bond ETF",
-    "aum": 5700000000,
-    "durationYears": 12.6,
-    "maturityYears": 12.6
+    "asOfDate": "2026-09-15",
+    "nav": 75.6,
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
+    "aum": 11400000000,
+    "durationYears": 0.1,
+    "maturityYears": 0.1
   },
   {
-    "ticker": "BND",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-14T23:49:08.197Z",
+    "timestamp": "2026-09-16T18:18:19.870Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-09-14",
-    "nav": 71.17,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 163300000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "asOfDate": "2026-09-15",
+    "nav": 71.92,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 131600000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   },
   {
-    "ticker": "VGLT",
+    "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-14T23:49:25.839Z",
+    "timestamp": "2026-09-16T18:18:37.513Z",
     "thirtyDayYield": null,
-    "asOfDate": "2026-09-14",
-    "nav": 51.92,
-    "accountType": "Vanguard Long-Term Treasury ETF",
-    "aum": 10600000000,
-    "durationYears": 13.4,
-    "maturityYears": 13.4
-  },
-  {
-    "ticker": "VTP",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-14T23:49:43.467Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-09-14",
-    "nav": 74.37,
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 230800000,
-    "durationYears": 96.3,
-    "maturityYears": 96.3
+    "asOfDate": "2026-09-15",
+    "nav": 46.87,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83400000000,
+    "durationYears": 6.4,
+    "maturityYears": 6.4
   }
 ]
