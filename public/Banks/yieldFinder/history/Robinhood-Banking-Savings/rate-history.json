@@ -116,14 +116,14 @@
     "apy": 0.035,
     "asOfDate": "2026-06-14",
     "source": "gapFiller",
-    "timestamp": "2026-09-14T07:56:11.040Z"
+    "timestamp": "2026-09-16T17:15:59.127Z"
   },
   {
     "accountType": "Robinhood Banking Savings",
     "apy": 0.035,
     "asOfDate": "2026-06-15",
     "source": "gapFiller",
-    "timestamp": "2026-09-14T07:56:11.040Z"
+    "timestamp": "2026-09-16T17:15:59.127Z"
   },
   {
     "accountType": "Robinhood Banking Savings",
@@ -761,5 +761,19 @@
     "asOfDate": "2026-09-14",
     "source": "node-yieldFinder-json-update.js",
     "timestamp": "2026-09-14T07:56:07.407Z"
+  },
+  {
+    "accountType": "Robinhood Banking Savings",
+    "apy": 0.035,
+    "asOfDate": "2026-09-15",
+    "source": "gapFiller",
+    "timestamp": "2026-09-16T17:15:59.127Z"
+  },
+  {
+    "accountType": "Robinhood Banking Savings",
+    "apy": 0.035,
+    "asOfDate": "2026-09-16",
+    "source": "node-yieldFinder-json-update.js",
+    "timestamp": "2026-09-16T17:15:55.431Z"
   }
 ]
