@@ -1,50 +1,50 @@
 [
   {
-    "ticker": "VCRB",
+    "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-17T13:30:02.245Z",
+    "timestamp": "2026-09-17T14:35:47.175Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-16",
-    "nav": 74.61,
-    "accountType": "Vanguard Core Bond ETF",
-    "aum": 7700000000,
+    "nav": 50.1,
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "aum": 272600000,
+    "durationYears": 3.6,
+    "maturityYears": 3.6
+  },
+  {
+    "ticker": "VTEC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-17T14:36:05.124Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-16",
+    "nav": 95.96,
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "aum": 3300000000,
+    "durationYears": 7,
+    "maturityYears": 7
+  },
+  {
+    "ticker": "VTEI",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-17T14:36:22.654Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-16",
+    "nav": 96.83,
+    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
+    "aum": 1600000000,
     "durationYears": 5.7,
     "maturityYears": 5.7
   },
   {
-    "ticker": "VSDM",
+    "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-17T13:30:20.100Z",
+    "timestamp": "2026-09-17T14:36:40.391Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-16",
-    "nav": 75.26,
-    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
-    "aum": 939500000,
-    "durationYears": 3.1,
-    "maturityYears": 3.1
-  },
-  {
-    "ticker": "VTC",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-17T13:30:38.089Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-09-16",
-    "nav": 74.04,
-    "accountType": "Vanguard Total Corporate Bond ETF",
-    "aum": 1700000000,
-    "durationYears": 6.4,
-    "maturityYears": 6.4
-  },
-  {
-    "ticker": "VTEB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-17T13:30:55.764Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-09-16",
-    "nav": 48.21,
-    "accountType": "Vanguard Tax-Exempt Bond ETF",
-    "aum": 46300000000,
-    "durationYears": 7.2,
-    "maturityYears": 7.2
+    "nav": 49.34,
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "aum": 20500000000,
+    "durationYears": 82.3,
+    "maturityYears": 82.3
   }
 ]
