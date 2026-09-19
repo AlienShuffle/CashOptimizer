@@ -214,7 +214,7 @@
   {
     "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-19T00:50:33.682Z",
+    "timestamp": "2026-09-19T13:47:44.599Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
     "nav": 98.99,
@@ -400,7 +400,7 @@
   {
     "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-19T00:50:51.742Z",
+    "timestamp": "2026-09-19T13:48:03.115Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
     "nav": 57.16,
@@ -436,10 +436,10 @@
   {
     "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-19T00:51:09.771Z",
+    "timestamp": "2026-09-19T13:48:21.006Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
-    "nav": 57.66,
+    "nav": 57.59,
     "accountType": "Vanguard Short-Term Treasury ETF",
     "aum": 34800000000,
     "durationYears": 1.8,
@@ -628,36 +628,36 @@
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-19T00:51:27.573Z",
+    "timestamp": "2026-09-19T13:48:38.804Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
     "nav": 64.82,
     "accountType": "Vanguard Emerging Markets Government Bond ETF",
     "aum": 6400000000,
-    "durationYears": 6.4,
-    "maturityYears": 6.4
+    "durationYears": 6.5,
+    "maturityYears": 6.5
   },
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-09-18T11:58:26.420Z",
+    "timestamp": "2026-09-19T13:48:59.279Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0375,
     "asOfDate": "2026-08-31",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.45,
-    "yieldToWorst": 0.0412
+    "durationYears": 0.44,
+    "yieldToWorst": 0.0411
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-09-18T11:58:32.622Z",
+    "timestamp": "2026-09-19T13:49:05.062Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0407,
     "asOfDate": "2026-08-31",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0306,
     "durationYears": 0.95,
-    "yieldToWorst": 0.0445
+    "yieldToWorst": 0.0449
   }
 ]
