@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "VTEI",
+    "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-19T20:08:24.666Z",
+    "timestamp": "2026-09-19T21:10:58.641Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
-    "nav": 96.8,
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "aum": 1600000000,
+    "nav": 65.12,
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "aum": 5700000000,
+    "durationYears": 12.7,
+    "maturityYears": 12.7
+  },
+  {
+    "ticker": "BND",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-19T21:11:16.862Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-18",
+    "nav": 71.16,
+    "accountType": "Vanguard Total Bond Market ETF",
+    "aum": 163300000000,
     "durationYears": 5.7,
     "maturityYears": 5.7
   },
   {
-    "ticker": "VTIP",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-19T20:08:43.996Z",
+    "timestamp": "2026-09-19T21:11:34.946Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
-    "nav": 49.3,
-    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
-    "aum": 20500000000,
-    "durationYears": 82.3,
-    "maturityYears": 82.3
+    "nav": 52.03,
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "aum": 10600000000,
+    "durationYears": 13.5,
+    "maturityYears": 13.5
+  },
+  {
+    "ticker": "VTES",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-19T21:11:52.824Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-18",
+    "nav": 99.47,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2400000000,
+    "durationYears": 2.7,
+    "maturityYears": 2.7
   }
 ]
