@@ -127,7 +127,7 @@
   {
     "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-18T23:46:21.546Z",
+    "timestamp": "2026-09-19T12:36:30.984Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
     "nav": 59.38,
@@ -376,17 +376,19 @@
   {
     "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-18T23:46:39.964Z",
+    "timestamp": "2026-09-19T12:36:49.023Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
-    "nav": 73.18,
+    "nav": 73.03,
     "accountType": "Vanguard Core Tax-Exempt Bond ETF",
-    "aum": 1900000000
+    "aum": 1900000000,
+    "durationYears": 7.5,
+    "maturityYears": 7.5
   },
   {
     "ticker": "VCSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-18T23:46:58.017Z",
+    "timestamp": "2026-09-19T12:37:07.170Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
     "nav": 77.64,
@@ -614,10 +616,10 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-18T23:47:15.731Z",
+    "timestamp": "2026-09-19T12:37:25.058Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-18",
-    "nav": 49.55,
+    "nav": 49.53,
     "accountType": "Vanguard Ultra-Short Bond ETF",
     "aum": 10200000000,
     "durationYears": 0.9,
