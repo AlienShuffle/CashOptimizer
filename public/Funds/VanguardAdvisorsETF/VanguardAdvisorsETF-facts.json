@@ -1,50 +1,62 @@
 [
   {
-    "ticker": "BNDP",
+    "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-22T16:34:20.799Z",
+    "timestamp": "2026-09-22T18:44:42.130Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-21",
-    "nav": 72.18,
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "aum": 131600000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 75.64,
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
+    "aum": 11400000000,
+    "durationYears": 0.1,
+    "maturityYears": 0.1
   },
   {
-    "ticker": "BNDX",
+    "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-22T16:34:38.813Z",
+    "timestamp": "2026-09-22T18:44:59.898Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-21",
-    "nav": 47.15,
-    "accountType": "Vanguard Total International Bond ETF",
-    "aum": 83400000000,
-    "durationYears": 6.3,
-    "maturityYears": 6.3
+    "nav": 71.65,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 9000000000,
+    "durationYears": 11.8,
+    "maturityYears": 11.8
   },
   {
-    "ticker": "VMBS",
+    "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-22T16:34:56.737Z",
+    "timestamp": "2026-09-22T18:45:18.434Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-21",
-    "nav": 45.34,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15900000000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 73.03,
+    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
+    "aum": 1900000000,
+    "durationYears": 7.4,
+    "maturityYears": 7.4
   },
   {
-    "ticker": "VTG",
+    "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-22T16:35:14.413Z",
+    "timestamp": "2026-09-22T18:45:36.049Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-21",
-    "nav": 73.29,
-    "accountType": "Vanguard Total Treasury ETF",
-    "aum": 205800000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 99,
+    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
+    "aum": 496000000,
+    "durationYears": 7.1,
+    "maturityYears": 7.1
+  },
+  {
+    "ticker": "VCSH",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-22T18:45:54.104Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-21",
+    "nav": 77.74,
+    "accountType": "Vanguard Short-Term Corporate Bond ETF",
+    "aum": 44900000000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
   }
 ]
