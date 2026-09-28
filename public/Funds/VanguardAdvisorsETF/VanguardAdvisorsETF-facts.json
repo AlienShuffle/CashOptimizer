@@ -1,38 +1,50 @@
 [
   {
-    "ticker": "BND",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-28T11:33:38.179Z",
+    "timestamp": "2026-09-28T12:36:42.525Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-25",
-    "nav": 70.59,
-    "accountType": "Vanguard Total Bond Market ETF",
-    "aum": 163300000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 71.39,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 131600000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
   },
   {
-    "ticker": "VCSH",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-28T11:33:55.881Z",
+    "timestamp": "2026-09-28T12:37:00.313Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-25",
-    "nav": 77.42,
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "aum": 44900000000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 50.94,
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "aum": 10600000000,
+    "durationYears": 13.3,
+    "maturityYears": 13.3
   },
   {
-    "ticker": "VTEI",
+    "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-28T11:34:13.594Z",
+    "timestamp": "2026-09-28T12:37:18.073Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-25",
-    "nav": 95.27,
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "aum": 1600000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 98.34,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2400000000,
+    "durationYears": 2.7,
+    "maturityYears": 2.7
+  },
+  {
+    "ticker": "VTIP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-28T12:37:35.478Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-25",
+    "nav": 49.24,
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "aum": 20500000000,
+    "durationYears": 82.3,
+    "maturityYears": 82.3
   }
 ]
