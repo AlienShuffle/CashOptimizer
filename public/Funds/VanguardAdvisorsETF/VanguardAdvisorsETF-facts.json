@@ -1,26 +1,60 @@
 [
   {
-    "ticker": "VTP",
+    "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-29T07:55:15.300Z",
+    "timestamp": "2026-09-29T10:06:02.212Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-28",
-    "nav": 73.16,
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 230800000,
-    "durationYears": 86.2,
-    "maturityYears": 86.2
+    "nav": 73.69,
+    "accountType": "Vanguard Core Bond ETF",
+    "aum": 7700000000,
+    "durationYears": 5.6,
+    "maturityYears": 5.6
   },
   {
-    "ticker": "VUSB",
+    "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-09-29T07:55:33.648Z",
+    "timestamp": "2026-09-29T10:06:20.650Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-09-28",
-    "nav": 49.51,
-    "accountType": "Vanguard Ultra-Short Bond ETF",
-    "aum": 10200000000,
-    "durationYears": 0.9,
-    "maturityYears": 0.9
+    "nav": 49.5,
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "aum": 272600000,
+    "durationYears": 3.6,
+    "maturityYears": 3.6
+  },
+  {
+    "ticker": "VGUS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-29T10:06:38.531Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-28",
+    "nav": 75.59,
+    "accountType": "Vanguard Ultra-Short Treasury ETF",
+    "aum": 1100000000,
+    "durationYears": 0.3,
+    "maturityYears": 0.3
+  },
+  {
+    "ticker": "VPLS",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-29T10:06:56.472Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-28",
+    "nav": 74.03,
+    "accountType": "Vanguard Core-Plus Bond ETF",
+    "aum": 1900000000,
+    "durationYears": 5.4,
+    "maturityYears": 5.4
+  },
+  {
+    "ticker": "VSDB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-09-29T10:07:14.395Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-09-28",
+    "nav": 74.56,
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "aum": 1000000000
   }
 ]
