@@ -4644,7 +4644,7 @@
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-09-29T14:21:07.869Z",
+    "timestamp": "2026-09-29T23:00:34.762Z",
     "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-09-28",
     "aum": 19884392680,
@@ -4654,6 +4654,21 @@
     "weightedAverageCoupon": 0.0417,
     "durationYears": 0.02,
     "maturityYears": 1.43,
+    "expenseRatio": 0.0015
+  },
+  {
+    "ticker": "USFR",
+    "source": "Wisdomtree yields",
+    "timestamp": "2026-10-01T02:29:18.631Z",
+    "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
+    "asOfDate": "2026-09-30",
+    "aum": 19778600780,
+    "thirtyDayYield": 0.0381,
+    "yieldToMaturity": 0.0419,
+    "distributionYield": 0.0377,
+    "weightedAverageCoupon": 0.0427,
+    "durationYears": 0.02,
+    "maturityYears": 1.44,
     "expenseRatio": 0.0015
   }
 ]
