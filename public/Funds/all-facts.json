@@ -424,14 +424,14 @@
   {
     "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-01T23:59:41.935Z",
+    "timestamp": "2026-10-02T12:53:48.816Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
     "nav": 49.19,
     "accountType": "Vanguard Multi-Sector Income Bond ETF",
     "aum": 272600000,
-    "durationYears": 3.7,
-    "maturityYears": 3.7
+    "durationYears": 3.8,
+    "maturityYears": 3.8
   },
   {
     "ticker": "VGSH",
@@ -448,14 +448,14 @@
   {
     "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-01T23:59:59.794Z",
+    "timestamp": "2026-10-02T12:54:06.597Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
     "nav": 75.42,
     "accountType": "Vanguard Ultra-Short Treasury ETF",
     "aum": 1100000000,
-    "durationYears": 0.3,
-    "maturityYears": 0.3
+    "durationYears": 0.4,
+    "maturityYears": 0.4
   },
   {
     "ticker": "VMBS",
@@ -472,7 +472,7 @@
   {
     "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-02T00:00:18.517Z",
+    "timestamp": "2026-10-02T12:54:24.329Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
     "nav": 73.71,
@@ -604,7 +604,7 @@
   {
     "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-02T11:48:11.810Z",
+    "timestamp": "2026-10-02T12:54:59.878Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
     "nav": 72.31,
@@ -616,13 +616,14 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-01T23:59:24.044Z",
+    "timestamp": "2026-10-02T12:54:42.309Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
+    "nav": 49.41,
     "accountType": "Vanguard Ultra-Short Bond ETF",
     "aum": 10200000000,
-    "durationYears": 0.8,
-    "maturityYears": 0.8
+    "durationYears": 0.9,
+    "maturityYears": 0.9
   },
   {
     "ticker": "VWOB",
@@ -639,24 +640,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-10-01T11:11:57.524Z",
+    "timestamp": "2026-10-02T12:55:17.835Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0375,
     "asOfDate": "2026-08-31",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
-    "durationYears": 0.42,
-    "yieldToWorst": 0.0426
+    "durationYears": 0.49,
+    "yieldToWorst": 0.0419
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-10-01T11:12:02.527Z",
+    "timestamp": "2026-10-02T12:55:23.874Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0407,
     "asOfDate": "2026-08-31",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
-    "weightedAverageCoupon": 0.0306,
+    "weightedAverageCoupon": 0.0307,
     "durationYears": 0.99,
-    "yieldToWorst": 0.0459
+    "yieldToWorst": 0.0454
   }
 ]
