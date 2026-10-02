@@ -1,50 +1,62 @@
 [
   {
-    "ticker": "VMBS",
+    "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-02T10:42:28.237Z",
+    "timestamp": "2026-10-02T11:46:59.737Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
-    "nav": 44.34,
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "aum": 15900000000,
-    "durationYears": 5.8,
-    "maturityYears": 5.8
+    "nav": 56.64,
+    "accountType": "Vanguard Intermediate-Term Treasury ETF",
+    "aum": 39800000000,
+    "durationYears": 4.8,
+    "maturityYears": 4.8
   },
   {
-    "ticker": "BIV",
+    "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-02T10:42:46.190Z",
+    "timestamp": "2026-10-02T11:47:18.485Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
-    "nav": 72.77,
-    "accountType": "Vanguard Intermediate-Term Bond ETF",
-    "aum": 29000000000,
-    "durationYears": 5.9,
-    "maturityYears": 5.9
+    "nav": 59.42,
+    "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
+    "aum": 1200000000,
+    "durationYears": 6,
+    "maturityYears": 6
   },
   {
-    "ticker": "BSV",
+    "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-02T10:43:04.041Z",
+    "timestamp": "2026-10-02T11:47:36.218Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
-    "nav": 76.27,
-    "accountType": "Vanguard Short-Term Bond ETF",
-    "aum": 46600000000,
-    "durationYears": 2.6,
-    "maturityYears": 2.6
+    "nav": 73.42,
+    "accountType": "Vanguard Core Bond ETF",
+    "aum": 7700000000,
+    "durationYears": 5.6,
+    "maturityYears": 5.6
   },
   {
-    "ticker": "VCRM",
+    "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-02T10:43:21.623Z",
+    "timestamp": "2026-10-02T11:47:54.030Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-01",
-    "nav": 71.72,
-    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
-    "aum": 1900000000,
-    "durationYears": 7.5,
-    "maturityYears": 7.5
+    "nav": 57.48,
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "aum": 34800000000,
+    "durationYears": 1.8,
+    "maturityYears": 1.8
+  },
+  {
+    "ticker": "VTP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-02T11:48:11.810Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-01",
+    "nav": 72.31,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 230800000,
+    "durationYears": 86.2,
+    "maturityYears": 86.2
   }
 ]
