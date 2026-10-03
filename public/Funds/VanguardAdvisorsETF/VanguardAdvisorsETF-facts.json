@@ -1,50 +1,60 @@
 [
   {
-    "ticker": "BNDP",
+    "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-03T09:08:58.346Z",
+    "timestamp": "2026-10-03T10:13:21.152Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-02",
-    "nav": 70.66,
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "aum": 131600000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 46.72,
+    "accountType": "Vanguard Total International Bond ETF",
+    "aum": 83400000000,
+    "durationYears": 6.4,
+    "maturityYears": 6.4
   },
   {
-    "ticker": "VGLT",
+    "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-03T09:09:16.296Z",
+    "timestamp": "2026-10-03T10:13:39.286Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-02",
-    "nav": 49.87,
-    "accountType": "Vanguard Long-Term Treasury ETF",
-    "aum": 10600000000,
-    "durationYears": 13.2,
-    "maturityYears": 13.2
+    "nav": 54.42,
+    "accountType": "Vanguard Extended Duration Treasury ETF",
+    "aum": 3700000000,
+    "durationYears": 23.9,
+    "maturityYears": 23.9
   },
   {
-    "ticker": "VTEC",
+    "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-03T09:09:34.218Z",
+    "timestamp": "2026-10-03T10:13:57.190Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-02",
-    "nav": 94.31,
-    "accountType": "Vanguard California Tax-Exempt Bond ETF",
-    "aum": 3300000000,
-    "durationYears": 7.1,
-    "maturityYears": 7.1
+    "nav": 96.16,
+    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
+    "aum": 366100000,
+    "durationYears": 9.7,
+    "maturityYears": 9.7
   },
   {
-    "ticker": "VTEI",
+    "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-03T09:09:51.943Z",
+    "timestamp": "2026-10-03T10:14:15.011Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-02",
-    "nav": 95.61,
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "aum": 1600000000,
-    "durationYears": 5.7,
-    "maturityYears": 5.7
+    "nav": 98.7,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2400000000,
+    "durationYears": 2.8,
+    "maturityYears": 2.8
+  },
+  {
+    "ticker": "VTG",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-03T10:14:32.722Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-02",
+    "nav": 72.02,
+    "accountType": "Vanguard Total Treasury ETF",
+    "aum": 205800000
   }
 ]
