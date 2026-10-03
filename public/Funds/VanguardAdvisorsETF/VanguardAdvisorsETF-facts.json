@@ -1,26 +1,62 @@
 [
   {
-    "ticker": "BNDX",
+    "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-03T22:54:19.402Z",
+    "timestamp": "2026-10-03T23:56:59.174Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-02",
-    "nav": 46.72,
-    "accountType": "Vanguard Total International Bond ETF",
-    "aum": 83400000000,
-    "durationYears": 6.4,
-    "maturityYears": 6.4
+    "nav": 96.16,
+    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
+    "aum": 366100000,
+    "durationYears": 9.7,
+    "maturityYears": 9.7
   },
   {
-    "ticker": "EDV",
+    "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-03T22:54:37.588Z",
+    "timestamp": "2026-10-03T23:57:17.635Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-02",
-    "nav": 54.42,
-    "accountType": "Vanguard Extended Duration Treasury ETF",
-    "aum": 3700000000,
-    "durationYears": 23.9,
-    "maturityYears": 23.9
+    "nav": 98.7,
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "aum": 2400000000,
+    "durationYears": 2.8,
+    "maturityYears": 2.8
+  },
+  {
+    "ticker": "MUNY",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-03T23:57:35.649Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-02",
+    "nav": 97.45,
+    "accountType": "Vanguard New York Tax-Exempt Bond ETF",
+    "aum": 496000000,
+    "durationYears": 7.1,
+    "maturityYears": 7.1
+  },
+  {
+    "ticker": "VBIL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-03T23:57:53.524Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-02",
+    "nav": 75.53,
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
+    "aum": 11400000000,
+    "durationYears": 0.1,
+    "maturityYears": 0.1
+  },
+  {
+    "ticker": "VCLT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-03T23:58:11.451Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-02",
+    "nav": 68.19,
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "aum": 9000000000,
+    "durationYears": 11.6,
+    "maturityYears": 11.6
   }
 ]
