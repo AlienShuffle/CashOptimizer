@@ -1,6 +1,6 @@
 {
   "asOfDate": "2026-10-06T0805",
-  "basis": "settle-sa",
+  "basis": "Market-ask-settle-sa",
   "settleDate": "2026-10-07",
   "method": "Svensson",
   "params": [
@@ -24,8 +24,10 @@
       "modelYtm": -0.00332,
       "residualBp": -2,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.0412,
+      "marketBei": 0.04472,
       "nominalModelYtm": 0.04182,
-      "nominalMarketYtm": 0.0412
+      "modelBei": 0.04514
     },
     {
       "cusip": "912828V49",
@@ -38,8 +40,10 @@
       "modelYtm": -0.00332,
       "residualBp": -0.2,
       "richCheap": "",
+      "nominalMarketYtm": 0.0412,
+      "marketBei": 0.04454,
       "nominalModelYtm": 0.04182,
-      "nominalMarketYtm": 0.0412
+      "modelBei": 0.04514
     },
     {
       "cusip": "91282CEJ6",
@@ -52,8 +56,10 @@
       "modelYtm": 0.00922,
       "residualBp": -1,
       "richCheap": "",
+      "nominalMarketYtm": 0.04236,
+      "marketBei": 0.03324,
       "nominalModelYtm": 0.04274,
-      "nominalMarketYtm": 0.04236
+      "modelBei": 0.03352
     },
     {
       "cusip": "9128282L3",
@@ -66,8 +72,10 @@
       "modelYtm": 0.0159,
       "residualBp": 0.4,
       "richCheap": "",
+      "nominalMarketYtm": 0.04392,
+      "marketBei": 0.02798,
       "nominalModelYtm": 0.04394,
-      "nominalMarketYtm": 0.04392
+      "modelBei": 0.02804
     },
     {
       "cusip": "91282CFR7",
@@ -80,8 +88,10 @@
       "modelYtm": 0.01943,
       "residualBp": 12.3,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.04523,
+      "marketBei": 0.02457,
       "nominalModelYtm": 0.04507,
-      "nominalMarketYtm": 0.04523
+      "modelBei": 0.02564
     },
     {
       "cusip": "912810PV4",
@@ -94,8 +104,10 @@
       "modelYtm": 0.02125,
       "residualBp": 0.5,
       "richCheap": "",
+      "nominalMarketYtm": 0.04636,
+      "marketBei": 0.02506,
       "nominalModelYtm": 0.04602,
-      "nominalMarketYtm": 0.04636
+      "modelBei": 0.02477
     },
     {
       "cusip": "9128283R9",
@@ -108,8 +120,10 @@
       "modelYtm": 0.02131,
       "residualBp": 0.1,
       "richCheap": "",
+      "nominalMarketYtm": 0.04636,
+      "marketBei": 0.02504,
       "nominalModelYtm": 0.04603,
-      "nominalMarketYtm": 0.04636
+      "modelBei": 0.02472
     },
     {
       "cusip": "912810FD5",
@@ -122,8 +136,10 @@
       "modelYtm": 0.02212,
       "residualBp": -7.4,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.04708,
+      "marketBei": 0.0257,
       "nominalModelYtm": 0.04669,
-      "nominalMarketYtm": 0.04708
+      "modelBei": 0.02457
     },
     {
       "cusip": "91282CGW5",
@@ -136,8 +152,10 @@
       "modelYtm": 0.0222,
       "residualBp": -6.7,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.04708,
+      "marketBei": 0.02555,
       "nominalModelYtm": 0.04672,
-      "nominalMarketYtm": 0.04708
+      "modelBei": 0.02452
     },
     {
       "cusip": "912828Y38",
@@ -150,8 +168,10 @@
       "modelYtm": 0.02271,
       "residualBp": -5.2,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.04752,
+      "marketBei": 0.02533,
       "nominalModelYtm": 0.04733,
-      "nominalMarketYtm": 0.04752
+      "modelBei": 0.02462
     },
     {
       "cusip": "91282CJH5",
@@ -164,8 +184,10 @@
       "modelYtm": 0.02299,
       "residualBp": 2.7,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.04795,
+      "marketBei": 0.02469,
       "nominalModelYtm": 0.04788,
-      "nominalMarketYtm": 0.04795
+      "modelBei": 0.02489
     },
     {
       "cusip": "912810PZ5",
@@ -178,8 +200,10 @@
       "modelYtm": 0.0232,
       "residualBp": -1.3,
       "richCheap": "",
+      "nominalMarketYtm": 0.04832,
+      "marketBei": 0.02525,
       "nominalModelYtm": 0.04836,
-      "nominalMarketYtm": 0.04832
+      "modelBei": 0.02516
     },
     {
       "cusip": "9128285W6",
@@ -192,8 +216,10 @@
       "modelYtm": 0.02326,
       "residualBp": -1.6,
       "richCheap": "",
+      "nominalMarketYtm": 0.04832,
+      "marketBei": 0.02522,
       "nominalModelYtm": 0.04839,
-      "nominalMarketYtm": 0.04832
+      "modelBei": 0.02513
     },
     {
       "cusip": "912810FH6",
@@ -206,8 +232,10 @@
       "modelYtm": 0.02331,
       "residualBp": -1.3,
       "richCheap": "",
+      "nominalMarketYtm": 0.04865,
+      "marketBei": 0.02547,
       "nominalModelYtm": 0.04862,
-      "nominalMarketYtm": 0.04865
+      "modelBei": 0.02531
     },
     {
       "cusip": "91282CKL4",
@@ -220,8 +248,10 @@
       "modelYtm": 0.02336,
       "residualBp": -0.7,
       "richCheap": "",
+      "nominalMarketYtm": 0.04865,
+      "marketBei": 0.02536,
       "nominalModelYtm": 0.04866,
-      "nominalMarketYtm": 0.04865
+      "modelBei": 0.0253
     },
     {
       "cusip": "9128287D6",
@@ -234,8 +264,10 @@
       "modelYtm": 0.02358,
       "residualBp": 1,
       "richCheap": "",
+      "nominalMarketYtm": 0.0489,
+      "marketBei": 0.02522,
       "nominalModelYtm": 0.049,
-      "nominalMarketYtm": 0.0489
+      "modelBei": 0.02542
     },
     {
       "cusip": "91282CLV1",
@@ -248,8 +280,10 @@
       "modelYtm": 0.02373,
       "residualBp": 6.9,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.04909,
+      "marketBei": 0.02467,
       "nominalModelYtm": 0.04927,
-      "nominalMarketYtm": 0.04909
+      "modelBei": 0.02554
     },
     {
       "cusip": "912828Z37",
@@ -262,8 +296,10 @@
       "modelYtm": 0.02397,
       "residualBp": 2.5,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.04934,
+      "marketBei": 0.02512,
       "nominalModelYtm": 0.04957,
-      "nominalMarketYtm": 0.04934
+      "modelBei": 0.0256
     },
     {
       "cusip": "91282CNB3",
@@ -276,8 +312,10 @@
       "modelYtm": 0.02408,
       "residualBp": 2.3,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.04947,
+      "marketBei": 0.02516,
       "nominalModelYtm": 0.04966,
-      "nominalMarketYtm": 0.04947
+      "modelBei": 0.02558
     },
     {
       "cusip": "912828ZZ6",
@@ -290,8 +328,10 @@
       "modelYtm": 0.02433,
       "residualBp": 2.7,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.04966,
+      "marketBei": 0.02506,
       "nominalModelYtm": 0.04986,
-      "nominalMarketYtm": 0.04966
+      "modelBei": 0.02553
     },
     {
       "cusip": "91282CPH8",
@@ -304,8 +344,10 @@
       "modelYtm": 0.02451,
       "residualBp": 5.1,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.0498,
+      "marketBei": 0.02478,
       "nominalModelYtm": 0.05,
-      "nominalMarketYtm": 0.0498
+      "modelBei": 0.02549
     },
     {
       "cusip": "91282CBF7",
@@ -318,8 +360,10 @@
       "modelYtm": 0.02477,
       "residualBp": -0.4,
       "richCheap": "",
+      "nominalMarketYtm": 0.0499,
+      "marketBei": 0.02517,
       "nominalModelYtm": 0.05018,
-      "nominalMarketYtm": 0.0499
+      "modelBei": 0.02541
     },
     {
       "cusip": "91282CQP9",
@@ -332,8 +376,10 @@
       "modelYtm": 0.02492,
       "residualBp": -0.2,
       "richCheap": "",
+      "nominalMarketYtm": 0.05003,
+      "marketBei": 0.02513,
       "nominalModelYtm": 0.05021,
-      "nominalMarketYtm": 0.05003
+      "modelBei": 0.02529
     },
     {
       "cusip": "91282CCM1",
@@ -346,8 +392,10 @@
       "modelYtm": 0.02518,
       "residualBp": -0.2,
       "richCheap": "",
+      "nominalMarketYtm": 0.05017,
+      "marketBei": 0.02501,
       "nominalModelYtm": 0.05035,
-      "nominalMarketYtm": 0.05017
+      "modelBei": 0.02517
     },
     {
       "cusip": "91282CDX6",
@@ -360,8 +408,10 @@
       "modelYtm": 0.02564,
       "residualBp": -0.8,
       "richCheap": "",
+      "nominalMarketYtm": 0.05048,
+      "marketBei": 0.02492,
       "nominalModelYtm": 0.05059,
-      "nominalMarketYtm": 0.05048
+      "modelBei": 0.02495
     },
     {
       "cusip": "912810FQ6",
@@ -374,8 +424,10 @@
       "modelYtm": 0.02569,
       "residualBp": -2.4,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.05062,
+      "marketBei": 0.02517,
       "nominalModelYtm": 0.05055,
-      "nominalMarketYtm": 0.05062
+      "modelBei": 0.02486
     },
     {
       "cusip": "91282CEZ0",
@@ -388,8 +440,10 @@
       "modelYtm": 0.02604,
       "residualBp": -0.7,
       "richCheap": "",
+      "nominalMarketYtm": 0.05075,
+      "marketBei": 0.02478,
       "nominalModelYtm": 0.05074,
-      "nominalMarketYtm": 0.05075
+      "modelBei": 0.0247
     },
     {
       "cusip": "91282CGK1",
@@ -402,8 +456,10 @@
       "modelYtm": 0.02646,
       "residualBp": -1.3,
       "richCheap": "",
+      "nominalMarketYtm": 0.05103,
+      "marketBei": 0.0247,
       "nominalModelYtm": 0.05094,
-      "nominalMarketYtm": 0.05103
+      "modelBei": 0.02448
     },
     {
       "cusip": "91282CHP9",
@@ -416,8 +472,10 @@
       "modelYtm": 0.02683,
       "residualBp": -0.6,
       "richCheap": "",
+      "nominalMarketYtm": 0.05128,
+      "marketBei": 0.02451,
       "nominalModelYtm": 0.05109,
-      "nominalMarketYtm": 0.05128
+      "modelBei": 0.02426
     },
     {
       "cusip": "91282CJY8",
@@ -430,8 +488,10 @@
       "modelYtm": 0.02722,
       "residualBp": -1.6,
       "richCheap": "",
+      "nominalMarketYtm": 0.05155,
+      "marketBei": 0.02449,
       "nominalModelYtm": 0.05132,
-      "nominalMarketYtm": 0.05155
+      "modelBei": 0.0241
     },
     {
       "cusip": "91282CLE9",
@@ -444,8 +504,10 @@
       "modelYtm": 0.02757,
       "residualBp": -0.5,
       "richCheap": "",
+      "nominalMarketYtm": 0.05183,
+      "marketBei": 0.02431,
       "nominalModelYtm": 0.05152,
-      "nominalMarketYtm": 0.05183
+      "modelBei": 0.02395
     },
     {
       "cusip": "91282CML2",
@@ -458,8 +520,10 @@
       "modelYtm": 0.02793,
       "residualBp": -1.2,
       "richCheap": "",
+      "nominalMarketYtm": 0.05208,
+      "marketBei": 0.02427,
       "nominalModelYtm": 0.05178,
-      "nominalMarketYtm": 0.05208
+      "modelBei": 0.02385
     },
     {
       "cusip": "91282CNS6",
@@ -472,8 +536,10 @@
       "modelYtm": 0.02829,
       "residualBp": 0.2,
       "richCheap": "",
+      "nominalMarketYtm": 0.0522,
+      "marketBei": 0.02389,
       "nominalModelYtm": 0.05204,
-      "nominalMarketYtm": 0.0522
+      "modelBei": 0.02375
     },
     {
       "cusip": "91282CPU9",
@@ -486,8 +552,10 @@
       "modelYtm": 0.02864,
       "residualBp": -0.8,
       "richCheap": "",
+      "nominalMarketYtm": 0.05227,
+      "marketBei": 0.02371,
       "nominalModelYtm": 0.05234,
-      "nominalMarketYtm": 0.05227
+      "modelBei": 0.0237
     },
     {
       "cusip": "91282CRE3",
@@ -500,8 +568,10 @@
       "modelYtm": 0.0289,
       "residualBp": 0.8,
       "richCheap": "",
+      "nominalMarketYtm": 0.05217,
+      "marketBei": 0.02319,
       "nominalModelYtm": 0.05258,
-      "nominalMarketYtm": 0.05217
+      "modelBei": 0.02368
     },
     {
       "cusip": "912810QF8",
@@ -514,8 +584,10 @@
       "modelYtm": 0.03081,
       "residualBp": -2.7,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.05425,
+      "marketBei": 0.02371,
       "nominalModelYtm": 0.05484,
-      "nominalMarketYtm": 0.05425
+      "modelBei": 0.02403
     },
     {
       "cusip": "912810QP6",
@@ -528,8 +600,10 @@
       "modelYtm": 0.03122,
       "residualBp": -0.7,
       "richCheap": "",
+      "nominalMarketYtm": 0.05507,
+      "marketBei": 0.02392,
       "nominalModelYtm": 0.05542,
-      "nominalMarketYtm": 0.05507
+      "modelBei": 0.0242
     },
     {
       "cusip": "912810QV3",
@@ -542,8 +616,10 @@
       "modelYtm": 0.0319,
       "residualBp": 0.8,
       "richCheap": "",
+      "nominalMarketYtm": 0.05583,
+      "marketBei": 0.02385,
       "nominalModelYtm": 0.05635,
-      "nominalMarketYtm": 0.05583
+      "modelBei": 0.02445
     },
     {
       "cusip": "912810RA8",
@@ -556,8 +632,10 @@
       "modelYtm": 0.03227,
       "residualBp": 0.3,
       "richCheap": "",
+      "nominalMarketYtm": 0.05631,
+      "marketBei": 0.02401,
       "nominalModelYtm": 0.05691,
-      "nominalMarketYtm": 0.05631
+      "modelBei": 0.02464
     },
     {
       "cusip": "912810RF7",
@@ -570,8 +648,10 @@
       "modelYtm": 0.03235,
       "residualBp": 2.5,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.05658,
+      "marketBei": 0.02398,
       "nominalModelYtm": 0.05705,
-      "nominalMarketYtm": 0.05658
+      "modelBei": 0.0247
     },
     {
       "cusip": "912810RL4",
@@ -584,8 +664,10 @@
       "modelYtm": 0.03278,
       "residualBp": 2.5,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.05688,
+      "marketBei": 0.02385,
       "nominalModelYtm": 0.05767,
-      "nominalMarketYtm": 0.05688
+      "modelBei": 0.02489
     },
     {
       "cusip": "912810RR1",
@@ -598,8 +680,10 @@
       "modelYtm": 0.03292,
       "residualBp": 2.2,
       "richCheap": "cheap",
+      "nominalMarketYtm": 0.05697,
+      "marketBei": 0.02383,
       "nominalModelYtm": 0.05782,
-      "nominalMarketYtm": 0.05697
+      "modelBei": 0.0249
     },
     {
       "cusip": "912810RW0",
@@ -612,8 +696,10 @@
       "modelYtm": 0.03314,
       "residualBp": 1.5,
       "richCheap": "",
+      "nominalMarketYtm": 0.05708,
+      "marketBei": 0.02379,
       "nominalModelYtm": 0.05808,
-      "nominalMarketYtm": 0.05708
+      "modelBei": 0.02494
     },
     {
       "cusip": "912810SB5",
@@ -626,8 +712,10 @@
       "modelYtm": 0.03325,
       "residualBp": 1.4,
       "richCheap": "",
+      "nominalMarketYtm": 0.05715,
+      "marketBei": 0.02376,
       "nominalModelYtm": 0.05813,
-      "nominalMarketYtm": 0.05715
+      "modelBei": 0.02488
     },
     {
       "cusip": "912810SG4",
@@ -640,8 +728,10 @@
       "modelYtm": 0.03338,
       "residualBp": -0.3,
       "richCheap": "",
+      "nominalMarketYtm": 0.05718,
+      "marketBei": 0.02383,
       "nominalModelYtm": 0.05818,
-      "nominalMarketYtm": 0.05718
+      "modelBei": 0.0248
     },
     {
       "cusip": "912810SM1",
@@ -654,8 +744,10 @@
       "modelYtm": 0.03377,
       "residualBp": -3,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.0572,
+      "marketBei": 0.02373,
       "nominalModelYtm": 0.05857,
-      "nominalMarketYtm": 0.0572
+      "modelBei": 0.0248
     },
     {
       "cusip": "912810SV1",
@@ -668,8 +760,10 @@
       "modelYtm": 0.03391,
       "residualBp": -4.9,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.05723,
+      "marketBei": 0.02381,
       "nominalModelYtm": 0.05854,
-      "nominalMarketYtm": 0.05723
+      "modelBei": 0.02463
     },
     {
       "cusip": "912810TE8",
@@ -682,8 +776,10 @@
       "modelYtm": 0.03397,
       "residualBp": -5.5,
       "richCheap": "rich",
+      "nominalMarketYtm": 0.05715,
+      "marketBei": 0.02373,
       "nominalModelYtm": 0.05834,
-      "nominalMarketYtm": 0.05715
+      "modelBei": 0.02437
     },
     {
       "cusip": "912810TP3",
@@ -696,8 +792,10 @@
       "modelYtm": 0.0335,
       "residualBp": -0.7,
       "richCheap": "",
+      "nominalMarketYtm": 0.0569,
+      "marketBei": 0.02347,
       "nominalModelYtm": 0.05747,
-      "nominalMarketYtm": 0.0569
+      "modelBei": 0.02397
     },
     {
       "cusip": "912810TY4",
@@ -710,8 +808,10 @@
       "modelYtm": 0.03336,
       "residualBp": 1.4,
       "richCheap": "",
+      "nominalMarketYtm": 0.05671,
+      "marketBei": 0.02321,
       "nominalModelYtm": 0.05705,
-      "nominalMarketYtm": 0.05671
+      "modelBei": 0.02369
     },
     {
       "cusip": "912810UH9",
@@ -724,8 +824,10 @@
       "modelYtm": 0.03332,
       "residualBp": 1.6,
       "richCheap": "",
+      "nominalMarketYtm": 0.05658,
+      "marketBei": 0.0231,
       "nominalModelYtm": 0.05674,
-      "nominalMarketYtm": 0.05658
+      "modelBei": 0.02342
     },
     {
       "cusip": "912810US5",
@@ -738,8 +840,10 @@
       "modelYtm": 0.03332,
       "residualBp": -0.3,
       "richCheap": "",
+      "nominalMarketYtm": 0.0564,
+      "marketBei": 0.02311,
       "nominalModelYtm": 0.05645,
-      "nominalMarketYtm": 0.0564
+      "modelBei": 0.02313
     }
   ]
 }
