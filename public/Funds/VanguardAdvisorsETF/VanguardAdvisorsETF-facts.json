@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "BNDP",
+    "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-06T12:06:19.287Z",
+    "timestamp": "2026-10-06T15:17:34.353Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-05",
-    "nav": 70.6,
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "aum": 133000000,
-    "durationYears": 5.5,
-    "maturityYears": 5.5
+    "nav": 69.84,
+    "accountType": "Vanguard Total Bond Market ETF",
+    "aum": 161400000000,
+    "durationYears": 5.7,
+    "maturityYears": 5.7
   },
   {
-    "ticker": "VBIL",
+    "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-06T12:06:37.471Z",
+    "timestamp": "2026-10-06T15:17:53.147Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-05",
-    "nav": 75.54,
-    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
-    "aum": 12800000000,
-    "durationYears": 0.1,
-    "maturityYears": 0.1
+    "nav": 73.49,
+    "accountType": "Vanguard Core-Plus Bond ETF",
+    "aum": 2000000000,
+    "durationYears": 5.4,
+    "maturityYears": 5.4
+  },
+  {
+    "ticker": "VTC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-06T15:18:13.318Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-05",
+    "nav": 72.48,
+    "accountType": "Vanguard Total Corporate Bond ETF",
+    "aum": 1600000000,
+    "durationYears": 6.3,
+    "maturityYears": 6.3
+  },
+  {
+    "ticker": "VUSB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-06T15:18:39.293Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-05",
+    "nav": 49.42,
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "aum": 9900000000,
+    "durationYears": 0.9,
+    "maturityYears": 0.9
   }
 ]
