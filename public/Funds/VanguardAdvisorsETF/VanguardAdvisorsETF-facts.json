@@ -1,26 +1,50 @@
 [
   {
-    "ticker": "VGUS",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-07T01:54:47.988Z",
+    "timestamp": "2026-10-07T02:57:34.594Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-06",
-    "nav": 75.46,
-    "accountType": "Vanguard Ultra-Short Treasury ETF",
-    "aum": 1200000000,
-    "durationYears": 0.4,
-    "maturityYears": 0.4
+    "nav": 63.15,
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "aum": 6100000000,
+    "durationYears": 6.3,
+    "maturityYears": 6.3
   },
   {
-    "ticker": "VTP",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-07T01:55:06.475Z",
+    "timestamp": "2026-10-07T02:57:53.177Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-06",
-    "nav": 72.21,
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 250500000,
-    "durationYears": 86.2,
-    "maturityYears": 86.2
+    "nav": 70.76,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 133000000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
+  },
+  {
+    "ticker": "VBIL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-07T02:58:10.927Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-06",
+    "nav": 75.55,
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
+    "aum": 12800000000,
+    "durationYears": 0.1,
+    "maturityYears": 0.1
+  },
+  {
+    "ticker": "BSV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-07T02:58:28.886Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-06",
+    "nav": 76.29,
+    "accountType": "Vanguard Short-Term Bond ETF",
+    "aum": 45400000000,
+    "durationYears": 2.6,
+    "maturityYears": 2.6
   }
 ]
