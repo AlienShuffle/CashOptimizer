@@ -9,6 +9,48 @@
     "expenseRatio": 0.0011,
     "fiscalYearEnd": "1031",
     "category": "Muni",
+    "totalNetAssets": 18920442669.75,
+    "investorType": "Retail",
+    "minimumInitialInvestment": 3000,
+    "wam": 16,
+    "wal": 17,
+    "reportDate": "2026-09-30",
+    "yield": 0.0329,
+    "yieldDate": "2026-09-30",
+    "usTreasuryDebt": 0,
+    "usGovernmentAgencyDebt": 0,
+    "usGovernmentAgencyCouponDebt": 0,
+    "usGovernmentAgencyZeroCouponDebt": 0,
+    "nonUSSovereignDebt": 0,
+    "certificateofDeposit": 0,
+    "nonNegotiableTimeDeposit": 0,
+    "variableRateDemandNote": 0.49517,
+    "otherMunicipalSecurity": 0.04714,
+    "assetBackedCommercialPaper": 0,
+    "otherAssetBackedSecurities": 0,
+    "usTreasuryRepurchaseAgreement": 0,
+    "usGovernmentAgencyRepurchaseAgreement": 0,
+    "otherRepurchaseAgreement": 0,
+    "insuranceCompanyFundingAgreement": 0,
+    "financialCompanyCommercialPaper": 0,
+    "nonFinancialCompanyCommercialPaper": 0.02864,
+    "tenderOptionBond": 0.42905,
+    "otherInstrument": 0,
+    "USGO": 0,
+    "Muni": 1,
+    "filingDate": "2026-10-07",
+    "timestamp": "2026-10-07T22:35:55.343Z"
+  },
+  {
+    "ticker": "VMSXX",
+    "source": "parse-MFP-files.sh",
+    "registrantName": "Vanguard Municipal Bond Funds",
+    "seriesName": "Vanguard Municipal Money Market Fund",
+    "className": "Investor Shares",
+    "mmName": "Vanguard Municipal MM Investor",
+    "expenseRatio": 0.0011,
+    "fiscalYearEnd": "1031",
+    "category": "Muni",
     "totalNetAssets": 18182616971.74,
     "investorType": "Retail",
     "minimumInitialInvestment": 3000,
@@ -39,7 +81,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-09-08",
-    "timestamp": "2026-09-08T18:35:10.011Z"
+    "timestamp": "2026-10-07T18:11:08.692Z"
   },
   {
     "ticker": "VMSXX",
@@ -81,7 +123,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-08-07",
-    "timestamp": "2026-08-07T18:59:01.697Z"
+    "timestamp": "2026-10-07T18:11:44.017Z"
   },
   {
     "ticker": "VMSXX",
@@ -123,7 +165,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-07-08",
-    "timestamp": "2026-07-09T00:36:28.679Z"
+    "timestamp": "2026-10-07T18:11:03.095Z"
   },
   {
     "ticker": "VMSXX",
@@ -165,7 +207,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-06-05",
-    "timestamp": "2026-06-06T00:35:52.612Z"
+    "timestamp": "2026-10-07T18:11:41.144Z"
   },
   {
     "ticker": "VMSXX",
@@ -207,7 +249,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-05-07",
-    "timestamp": "2026-05-07T22:52:33.915Z"
+    "timestamp": "2026-10-07T18:11:43.231Z"
   },
   {
     "ticker": "VMSXX",
@@ -249,7 +291,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-04-07",
-    "timestamp": "2026-04-08T01:42:02.562Z"
+    "timestamp": "2026-10-07T18:11:45.472Z"
   },
   {
     "ticker": "VMSXX",
@@ -291,7 +333,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-03-06",
-    "timestamp": "2026-03-06T19:02:13.628Z"
+    "timestamp": "2026-10-07T18:11:29.472Z"
   },
   {
     "ticker": "VMSXX",
@@ -333,7 +375,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-02-06",
-    "timestamp": "2026-03-06T19:02:12.826Z"
+    "timestamp": "2026-10-07T18:11:07.250Z"
   },
   {
     "ticker": "VMSXX",
@@ -375,7 +417,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2026-01-08",
-    "timestamp": "2026-03-06T06:58:58.551Z"
+    "timestamp": "2026-10-07T18:10:56.891Z"
   },
   {
     "ticker": "VMSXX",
@@ -417,7 +459,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-12-05",
-    "timestamp": "2026-03-06T06:59:04.847Z"
+    "timestamp": "2026-10-07T18:11:28.069Z"
   },
   {
     "ticker": "VMSXX",
@@ -459,7 +501,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-11-07",
-    "timestamp": "2026-03-06T06:58:59.162Z"
+    "timestamp": "2026-10-07T18:10:57.624Z"
   },
   {
     "ticker": "VMSXX",
@@ -501,7 +543,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-10-07",
-    "timestamp": "2026-03-06T06:59:06.151Z"
+    "timestamp": "2026-10-07T18:11:32.893Z"
   },
   {
     "ticker": "VMSXX",
@@ -543,7 +585,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-09-08",
-    "timestamp": "2026-03-06T06:59:07.530Z"
+    "timestamp": "2026-10-07T18:11:34.364Z"
   },
   {
     "ticker": "VMSXX",
@@ -585,7 +627,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-08-07",
-    "timestamp": "2026-03-06T06:59:03.633Z"
+    "timestamp": "2026-10-07T18:11:23.925Z"
   },
   {
     "ticker": "VMSXX",
@@ -627,7 +669,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-07-08",
-    "timestamp": "2026-03-06T06:59:06.842Z"
+    "timestamp": "2026-10-07T18:11:33.633Z"
   },
   {
     "ticker": "VMSXX",
@@ -669,7 +711,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-06-06",
-    "timestamp": "2026-03-06T06:59:05.531Z"
+    "timestamp": "2026-10-07T18:11:32.170Z"
   },
   {
     "ticker": "VMSXX",
@@ -711,7 +753,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-05-07",
-    "timestamp": "2026-03-06T06:59:01.091Z"
+    "timestamp": "2026-10-07T18:11:04.513Z"
   },
   {
     "ticker": "VMSXX",
@@ -753,7 +795,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-04-07",
-    "timestamp": "2026-03-06T06:58:57.866Z"
+    "timestamp": "2026-10-07T18:10:55.503Z"
   },
   {
     "ticker": "VMSXX",
@@ -795,7 +837,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-03-07",
-    "timestamp": "2026-03-06T06:59:00.467Z"
+    "timestamp": "2026-10-07T18:11:02.362Z"
   },
   {
     "ticker": "VMSXX",
@@ -837,7 +879,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-02-07",
-    "timestamp": "2026-03-06T06:59:02.417Z"
+    "timestamp": "2026-10-07T18:11:11.531Z"
   },
   {
     "ticker": "VMSXX",
@@ -879,7 +921,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-01-08",
-    "timestamp": "2026-03-06T06:58:56.712Z"
+    "timestamp": "2026-10-07T18:10:50.767Z"
   },
   {
     "ticker": "VMSXX",
@@ -921,7 +963,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-12-06",
-    "timestamp": "2026-03-06T06:59:01.832Z"
+    "timestamp": "2026-10-07T18:11:10.158Z"
   },
   {
     "ticker": "VMSXX",
@@ -963,7 +1005,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2025-04-29",
-    "timestamp": "2026-03-06T06:59:04.275Z"
+    "timestamp": "2026-10-07T18:11:25.331Z"
   },
   {
     "ticker": "VMSXX",
@@ -1005,7 +1047,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-10-07",
-    "timestamp": "2026-03-06T06:58:59.855Z"
+    "timestamp": "2026-10-07T18:10:58.328Z"
   },
   {
     "ticker": "VMSXX",
@@ -1047,7 +1089,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-09-09",
-    "timestamp": "2026-03-06T06:59:08.841Z"
+    "timestamp": "2026-10-07T18:11:37.126Z"
   },
   {
     "ticker": "VMSXX",
@@ -1089,7 +1131,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-08-07",
-    "timestamp": "2026-03-06T06:59:08.181Z"
+    "timestamp": "2026-10-07T18:11:35.764Z"
   },
   {
     "ticker": "VMSXX",
@@ -1131,7 +1173,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-07-08",
-    "timestamp": "2026-03-06T06:58:57.311Z"
+    "timestamp": "2026-10-07T18:10:52.158Z"
   },
   {
     "ticker": "VMSXX",
@@ -1173,7 +1215,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-06-07",
-    "timestamp": "2026-03-06T07:43:33.314Z"
+    "timestamp": "2026-10-07T18:11:22.460Z"
   },
   {
     "ticker": "VMSXX",
@@ -1215,7 +1257,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-05-07",
-    "timestamp": "2026-03-06T07:43:37.309Z"
+    "timestamp": "2026-10-07T18:11:41.832Z"
   },
   {
     "ticker": "VMSXX",
@@ -1257,7 +1299,7 @@
     "USGO": 0,
     "Muni": 0.99906,
     "filingDate": "2024-04-05",
-    "timestamp": "2026-03-06T07:43:36.119Z"
+    "timestamp": "2026-10-07T18:11:38.445Z"
   },
   {
     "ticker": "VMSXX",
@@ -1299,7 +1341,7 @@
     "USGO": 0,
     "Muni": 0.99875,
     "filingDate": "2024-03-07",
-    "timestamp": "2026-03-06T07:43:36.757Z"
+    "timestamp": "2026-10-07T18:11:39.743Z"
   },
   {
     "ticker": "VMSXX",
@@ -1341,7 +1383,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-02-07",
-    "timestamp": "2026-03-06T07:43:28.111Z"
+    "timestamp": "2026-10-07T18:11:00.321Z"
   },
   {
     "ticker": "VMSXX",
@@ -1383,7 +1425,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2024-01-08",
-    "timestamp": "2026-03-06T07:43:30.495Z"
+    "timestamp": "2026-10-07T18:11:12.223Z"
   },
   {
     "ticker": "VMSXX",
@@ -1425,7 +1467,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-12-07",
-    "timestamp": "2026-03-06T07:43:35.005Z"
+    "timestamp": "2026-10-07T18:11:31.468Z"
   },
   {
     "ticker": "VMSXX",
@@ -1467,7 +1509,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-11-07",
-    "timestamp": "2026-03-06T07:43:27.595Z"
+    "timestamp": "2026-10-07T18:10:59.666Z"
   },
   {
     "ticker": "VMSXX",
@@ -1509,7 +1551,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-10-06",
-    "timestamp": "2026-03-06T07:43:32.780Z"
+    "timestamp": "2026-10-07T18:11:21.025Z"
   },
   {
     "ticker": "VMSXX",
@@ -1551,7 +1593,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-09-08",
-    "timestamp": "2026-03-06T07:43:32.177Z"
+    "timestamp": "2026-10-07T18:11:19.688Z"
   },
   {
     "ticker": "VMSXX",
@@ -1593,7 +1635,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-08-07",
-    "timestamp": "2026-03-06T07:43:35.608Z"
+    "timestamp": "2026-10-07T18:11:37.795Z"
   },
   {
     "ticker": "VMSXX",
@@ -1635,7 +1677,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-07-10",
-    "timestamp": "2026-03-06T07:43:37.927Z"
+    "timestamp": "2026-10-07T18:11:42.490Z"
   },
   {
     "ticker": "VMSXX",
@@ -1677,7 +1719,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-06-07",
-    "timestamp": "2026-03-06T07:43:29.938Z"
+    "timestamp": "2026-10-07T18:11:10.848Z"
   },
   {
     "ticker": "VMSXX",
@@ -1719,7 +1761,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-05-05",
-    "timestamp": "2026-03-06T07:43:28.709Z"
+    "timestamp": "2026-10-07T18:11:05.201Z"
   },
   {
     "ticker": "VMSXX",
@@ -1761,7 +1803,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-04-06",
-    "timestamp": "2026-03-06T07:43:31.081Z"
+    "timestamp": "2026-10-07T18:11:13.583Z"
   },
   {
     "ticker": "VMSXX",
@@ -1803,7 +1845,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-03-07",
-    "timestamp": "2026-03-06T07:43:29.233Z"
+    "timestamp": "2026-10-07T18:11:05.888Z"
   },
   {
     "ticker": "VMSXX",
@@ -1845,7 +1887,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-02-07",
-    "timestamp": "2026-03-06T07:43:27.041Z"
+    "timestamp": "2026-10-07T18:10:54.153Z"
   },
   {
     "ticker": "VMSXX",
@@ -1887,7 +1929,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2023-01-09",
-    "timestamp": "2026-03-06T07:43:33.922Z"
+    "timestamp": "2026-10-07T18:11:26.710Z"
   },
   {
     "ticker": "VMSXX",
@@ -1929,7 +1971,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-12-07",
-    "timestamp": "2026-03-06T07:43:31.624Z"
+    "timestamp": "2026-10-07T18:11:19.017Z"
   },
   {
     "ticker": "VMSXX",
@@ -1971,7 +2013,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-11-07",
-    "timestamp": "2026-03-06T07:43:34.469Z"
+    "timestamp": "2026-10-07T18:11:30.163Z"
   },
   {
     "ticker": "VMSXX",
@@ -2013,7 +2055,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-10-07",
-    "timestamp": "2026-03-06T09:40:32.001Z"
+    "timestamp": "2026-10-07T18:11:39.100Z"
   },
   {
     "ticker": "VMSXX",
@@ -2055,7 +2097,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-09-08",
-    "timestamp": "2026-03-06T09:40:27.455Z"
+    "timestamp": "2026-10-07T18:11:14.253Z"
   },
   {
     "ticker": "VMSXX",
@@ -2097,7 +2139,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-08-05",
-    "timestamp": "2026-03-06T09:40:28.038Z"
+    "timestamp": "2026-10-07T18:11:15.594Z"
   },
   {
     "ticker": "VMSXX",
@@ -2139,7 +2181,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-07-08",
-    "timestamp": "2026-03-06T09:40:24.574Z"
+    "timestamp": "2026-10-07T18:11:03.826Z"
   },
   {
     "ticker": "VMSXX",
@@ -2181,7 +2223,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-06-07",
-    "timestamp": "2026-03-06T09:40:25.799Z"
+    "timestamp": "2026-10-07T18:11:07.967Z"
   },
   {
     "ticker": "VMSXX",
@@ -2223,7 +2265,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-05-06",
-    "timestamp": "2026-03-06T09:40:31.405Z"
+    "timestamp": "2026-10-07T18:11:36.451Z"
   },
   {
     "ticker": "VMSXX",
@@ -2265,7 +2307,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-04-07",
-    "timestamp": "2026-03-06T09:40:30.898Z"
+    "timestamp": "2026-10-07T18:11:35.064Z"
   },
   {
     "ticker": "VMSXX",
@@ -2307,7 +2349,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-03-07",
-    "timestamp": "2026-03-06T09:40:29.150Z"
+    "timestamp": "2026-10-07T18:11:21.754Z"
   },
   {
     "ticker": "VMSXX",
@@ -2349,7 +2391,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-02-07",
-    "timestamp": "2026-03-06T09:40:28.594Z"
+    "timestamp": "2026-10-07T18:11:20.348Z"
   },
   {
     "ticker": "VMSXX",
@@ -2391,7 +2433,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2022-01-07",
-    "timestamp": "2026-03-06T09:40:30.257Z"
+    "timestamp": "2026-10-07T18:11:30.818Z"
   },
   {
     "ticker": "VMSXX",
@@ -2433,7 +2475,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-12-07",
-    "timestamp": "2026-03-06T09:40:22.322Z"
+    "timestamp": "2026-10-07T18:10:53.472Z"
   },
   {
     "ticker": "VMSXX",
@@ -2475,7 +2517,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-11-05",
-    "timestamp": "2026-03-06T09:40:29.706Z"
+    "timestamp": "2026-10-07T18:11:23.163Z"
   },
   {
     "ticker": "VMSXX",
@@ -2517,7 +2559,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-10-07",
-    "timestamp": "2026-03-06T09:40:24.052Z"
+    "timestamp": "2026-10-07T18:11:01.658Z"
   },
   {
     "ticker": "VMSXX",
@@ -2559,7 +2601,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-09-08",
-    "timestamp": "2026-03-06T09:40:25.177Z"
+    "timestamp": "2026-10-07T18:11:06.550Z"
   },
   {
     "ticker": "VMSXX",
@@ -2601,7 +2643,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-08-06",
-    "timestamp": "2026-03-06T09:40:23.470Z"
+    "timestamp": "2026-10-07T18:11:00.983Z"
   },
   {
     "ticker": "VMSXX",
@@ -2643,7 +2685,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-07-08",
-    "timestamp": "2026-03-06T09:40:26.364Z"
+    "timestamp": "2026-10-07T18:11:09.444Z"
   },
   {
     "ticker": "VMSXX",
@@ -2685,7 +2727,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-06-07",
-    "timestamp": "2026-03-06T09:40:26.936Z"
+    "timestamp": "2026-10-07T18:11:12.908Z"
   },
   {
     "ticker": "VMSXX",
@@ -2727,7 +2769,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-05-07",
-    "timestamp": "2026-03-06T09:40:22.839Z"
+    "timestamp": "2026-10-07T18:10:56.203Z"
   },
   {
     "ticker": "VMSXX",
@@ -2769,7 +2811,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-04-07",
-    "timestamp": "2026-03-06T09:40:21.727Z"
+    "timestamp": "2026-10-07T18:10:51.473Z"
   },
   {
     "ticker": "VMSXX",
@@ -2811,7 +2853,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-03-05",
-    "timestamp": "2026-03-06T09:40:32.541Z"
+    "timestamp": "2026-10-07T18:11:40.414Z"
   },
   {
     "ticker": "VMSXX",
@@ -2853,7 +2895,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-02-05",
-    "timestamp": "2026-03-06T11:36:40.559Z"
+    "timestamp": "2026-10-07T18:11:24.640Z"
   },
   {
     "ticker": "VMSXX",
@@ -2895,7 +2937,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2021-01-08",
-    "timestamp": "2026-03-06T11:36:39.372Z"
+    "timestamp": "2026-10-07T18:11:17.665Z"
   },
   {
     "ticker": "VMSXX",
@@ -2937,7 +2979,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-12-07",
-    "timestamp": "2026-03-06T11:36:42.959Z"
+    "timestamp": "2026-10-07T18:11:44.756Z"
   },
   {
     "ticker": "VMSXX",
@@ -2979,7 +3021,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-11-05",
-    "timestamp": "2026-03-06T11:36:36.857Z"
+    "timestamp": "2026-10-07T18:10:54.803Z"
   },
   {
     "ticker": "VMSXX",
@@ -3021,7 +3063,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-10-07",
-    "timestamp": "2026-03-06T11:36:38.229Z"
+    "timestamp": "2026-10-07T18:11:14.916Z"
   },
   {
     "ticker": "VMSXX",
@@ -3063,7 +3105,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-09-08",
-    "timestamp": "2026-03-06T11:36:39.975Z"
+    "timestamp": "2026-10-07T18:11:18.363Z"
   },
   {
     "ticker": "VMSXX",
@@ -3105,7 +3147,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-08-07",
-    "timestamp": "2026-03-06T11:36:37.426Z"
+    "timestamp": "2026-10-07T18:10:59.014Z"
   },
   {
     "ticker": "VMSXX",
@@ -3147,7 +3189,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-07-08",
-    "timestamp": "2026-03-06T11:36:35.711Z"
+    "timestamp": "2026-10-07T18:10:50.084Z"
   },
   {
     "ticker": "VMSXX",
@@ -3189,7 +3231,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-06-05",
-    "timestamp": "2026-03-06T11:36:41.700Z"
+    "timestamp": "2026-10-07T18:11:27.371Z"
   },
   {
     "ticker": "VMSXX",
@@ -3231,7 +3273,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-05-07",
-    "timestamp": "2026-03-06T11:36:41.167Z"
+    "timestamp": "2026-10-07T18:11:26.044Z"
   },
   {
     "ticker": "VMSXX",
@@ -3273,7 +3315,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-04-07",
-    "timestamp": "2026-03-06T11:36:35.150Z"
+    "timestamp": "2026-10-07T18:10:49.416Z"
   },
   {
     "ticker": "VMSXX",
@@ -3315,7 +3357,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-03-06",
-    "timestamp": "2026-03-06T11:36:42.303Z"
+    "timestamp": "2026-10-07T18:11:28.783Z"
   },
   {
     "ticker": "VMSXX",
@@ -3357,7 +3399,7 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-02-07",
-    "timestamp": "2026-03-06T11:36:36.250Z"
+    "timestamp": "2026-10-07T18:10:52.829Z"
   },
   {
     "ticker": "VMSXX",
@@ -3399,6 +3441,6 @@
     "USGO": 0,
     "Muni": 1,
     "filingDate": "2020-01-08",
-    "timestamp": "2026-03-06T11:36:38.757Z"
+    "timestamp": "2026-10-07T18:11:16.279Z"
   }
 ]
