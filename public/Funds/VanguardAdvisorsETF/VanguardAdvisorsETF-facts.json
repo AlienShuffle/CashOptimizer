@@ -1,50 +1,50 @@
 [
   {
-    "ticker": "VGSH",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-07T15:10:35.561Z",
+    "timestamp": "2026-10-07T15:40:41.173Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-06",
-    "nav": 57.5,
-    "accountType": "Vanguard Short-Term Treasury ETF",
-    "aum": 35100000000,
-    "durationYears": 1.8,
-    "maturityYears": 1.8
+    "nav": 72.21,
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "aum": 250500000,
+    "durationYears": 86.1,
+    "maturityYears": 86.1
   },
   {
-    "ticker": "VSDB",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-07T15:10:54.079Z",
+    "timestamp": "2026-10-07T15:40:59.318Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-06",
-    "nav": 74.47,
-    "accountType": "Vanguard Short Duration Bond ETF",
-    "aum": 1000000000,
+    "nav": 70.76,
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "aum": 133000000,
+    "durationYears": 5.5,
+    "maturityYears": 5.5
+  },
+  {
+    "ticker": "BSV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-07T15:41:17.271Z",
+    "thirtyDayYield": null,
+    "asOfDate": "2026-10-06",
+    "nav": 76.29,
+    "accountType": "Vanguard Short-Term Bond ETF",
+    "aum": 45400000000,
     "durationYears": 2.6,
     "maturityYears": 2.6
   },
   {
-    "ticker": "VTEC",
+    "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-07T15:11:11.966Z",
+    "timestamp": "2026-10-07T15:41:34.846Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-06",
-    "nav": 94.11,
-    "accountType": "Vanguard California Tax-Exempt Bond ETF",
-    "aum": 3600000000,
-    "durationYears": 7.1,
-    "maturityYears": 7.1
-  },
-  {
-    "ticker": "VGUS",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-07T15:11:29.621Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-10-06",
-    "nav": 75.46,
-    "accountType": "Vanguard Ultra-Short Treasury ETF",
-    "aum": 1200000000,
-    "durationYears": 0.4,
-    "maturityYears": 0.4
+    "nav": 75.55,
+    "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
+    "aum": 12800000000,
+    "durationYears": 0.1,
+    "maturityYears": 0.1
   }
 ]
