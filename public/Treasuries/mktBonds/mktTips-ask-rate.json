@@ -26,7 +26,10 @@
     "forward_ytm": null,
     "forward_sa_ytm": null,
     "forward_sa_decay_ytm": null,
-    "settle_sao": -0.02231
+    "settle_sao": -0.02231,
+    "forward_sao": null,
+    "settle_sao_tweak": 0.008,
+    "forward_sao_tweak": null
   },
   {
     "cusip": "912810PS1",
@@ -55,7 +58,10 @@
     "forward_ytm": 0.01149,
     "forward_sa_ytm": -0.00682,
     "forward_sa_decay_ytm": -0.00629,
-    "settle_sao": -0.00305
+    "settle_sao": -0.00305,
+    "forward_sao": 0.0028,
+    "settle_sao_tweak": 0.008,
+    "forward_sao_tweak": 0.01729
   },
   {
     "cusip": "912828V49",
@@ -84,7 +90,10 @@
     "forward_ytm": 0.01193,
     "forward_sa_ytm": -0.00649,
     "forward_sa_decay_ytm": -0.00596,
-    "settle_sao": -0.00305
+    "settle_sao": -0.00305,
+    "forward_sao": 0.0028,
+    "settle_sao_tweak": 0.008,
+    "forward_sao_tweak": 0.01729
   },
   {
     "cusip": "91282CEJ6",
@@ -113,7 +122,10 @@
     "forward_ytm": 0.0217,
     "forward_sa_ytm": 0.00907,
     "forward_sa_decay_ytm": 0.00966,
-    "settle_sao": 0.008
+    "settle_sao": 0.008,
+    "forward_sao": 0.01195,
+    "settle_sao_tweak": 0.008,
+    "forward_sao_tweak": 0.01729
   },
   {
     "cusip": "9128282L3",
@@ -142,7 +154,10 @@
     "forward_ytm": 0.01685,
     "forward_sa_ytm": 0.01688,
     "forward_sa_decay_ytm": 0.01654,
-    "settle_sao": 0.01455
+    "settle_sao": 0.01455,
+    "forward_sao": 0.01729,
+    "settle_sao_tweak": 0.01455,
+    "forward_sao_tweak": 0.01729
   },
   {
     "cusip": "91282CFR7",
@@ -171,7 +186,10 @@
     "forward_ytm": 0.02134,
     "forward_sa_ytm": 0.0218,
     "forward_sa_decay_ytm": 0.0216,
-    "settle_sao": 0.01837
+    "settle_sao": 0.01837,
+    "forward_sao": 0.02036,
+    "settle_sao_tweak": 0.01837,
+    "forward_sao_tweak": 0.02036
   },
   {
     "cusip": "912810PV4",
@@ -200,7 +218,10 @@
     "forward_ytm": 0.02561,
     "forward_sa_ytm": 0.02244,
     "forward_sa_decay_ytm": 0.02254,
-    "settle_sao": 0.02056
+    "settle_sao": 0.02056,
+    "forward_sao": 0.02207,
+    "settle_sao_tweak": 0.02056,
+    "forward_sao_tweak": 0.02207
   },
   {
     "cusip": "9128283R9",
@@ -229,7 +250,10 @@
     "forward_ytm": 0.02552,
     "forward_sa_ytm": 0.02236,
     "forward_sa_decay_ytm": 0.02246,
-    "settle_sao": 0.02056
+    "settle_sao": 0.02056,
+    "forward_sao": 0.02207,
+    "settle_sao_tweak": 0.02056,
+    "forward_sao_tweak": 0.02207
   },
   {
     "cusip": "912810FD5",
@@ -258,7 +282,10 @@
     "forward_ytm": 0.02631,
     "forward_sa_ytm": 0.02228,
     "forward_sa_decay_ytm": 0.02251,
-    "settle_sao": 0.02181
+    "settle_sao": 0.02181,
+    "forward_sao": 0.02302,
+    "settle_sao_tweak": 0.02181,
+    "forward_sao_tweak": 0.02302
   },
   {
     "cusip": "91282CGW5",
@@ -287,7 +314,10 @@
     "forward_ytm": 0.02647,
     "forward_sa_ytm": 0.02249,
     "forward_sa_decay_ytm": 0.02271,
-    "settle_sao": 0.02181
+    "settle_sao": 0.02181,
+    "forward_sao": 0.02302,
+    "settle_sao_tweak": 0.02181,
+    "forward_sao_tweak": 0.02302
   },
   {
     "cusip": "912828Y38",
@@ -316,7 +346,10 @@
     "forward_ytm": 0.02299,
     "forward_sa_ytm": 0.023,
     "forward_sa_decay_ytm": 0.02283,
-    "settle_sao": 0.02253
+    "settle_sao": 0.02253,
+    "forward_sao": 0.02355,
+    "settle_sao_tweak": 0.02253,
+    "forward_sao_tweak": 0.02355
   },
   {
     "cusip": "91282CJH5",
@@ -345,7 +378,10 @@
     "forward_ytm": 0.02376,
     "forward_sa_ytm": 0.02399,
     "forward_sa_decay_ytm": 0.02385,
-    "settle_sao": 0.02298
+    "settle_sao": 0.02298,
+    "forward_sao": 0.02386,
+    "settle_sao_tweak": 0.02298,
+    "forward_sao_tweak": 0.02386
   },
   {
     "cusip": "912810PZ5",
@@ -374,7 +410,10 @@
     "forward_ytm": 0.0255,
     "forward_sa_ytm": 0.02374,
     "forward_sa_decay_ytm": 0.02381,
-    "settle_sao": 0.02326
+    "settle_sao": 0.02326,
+    "forward_sao": 0.02405,
+    "settle_sao_tweak": 0.02326,
+    "forward_sao_tweak": 0.02405
   },
   {
     "cusip": "9128285W6",
@@ -403,7 +442,10 @@
     "forward_ytm": 0.02552,
     "forward_sa_ytm": 0.02378,
     "forward_sa_decay_ytm": 0.02386,
-    "settle_sao": 0.02326
+    "settle_sao": 0.02326,
+    "forward_sao": 0.02405,
+    "settle_sao_tweak": 0.02326,
+    "forward_sao_tweak": 0.02405
   },
   {
     "cusip": "912810FH6",
@@ -432,7 +474,10 @@
     "forward_ytm": 0.02625,
     "forward_sa_ytm": 0.02381,
     "forward_sa_decay_ytm": 0.024,
-    "settle_sao": 0.02347
+    "settle_sao": 0.02347,
+    "forward_sao": 0.0242,
+    "settle_sao_tweak": 0.02347,
+    "forward_sao_tweak": 0.0242
   },
   {
     "cusip": "91282CKL4",
@@ -461,7 +506,10 @@
     "forward_ytm": 0.02627,
     "forward_sa_ytm": 0.02388,
     "forward_sa_decay_ytm": 0.02406,
-    "settle_sao": 0.02347
+    "settle_sao": 0.02347,
+    "forward_sao": 0.0242,
+    "settle_sao_tweak": 0.02347,
+    "forward_sao_tweak": 0.0242
   },
   {
     "cusip": "9128287D6",
@@ -490,7 +538,10 @@
     "forward_ytm": 0.02419,
     "forward_sa_ytm": 0.0242,
     "forward_sa_decay_ytm": 0.02406,
-    "settle_sao": 0.02365
+    "settle_sao": 0.02365,
+    "forward_sao": 0.02433,
+    "settle_sao_tweak": 0.02365,
+    "forward_sao_tweak": 0.02433
   },
   {
     "cusip": "91282CLV1",
@@ -519,7 +570,10 @@
     "forward_ytm": 0.02484,
     "forward_sa_ytm": 0.02499,
     "forward_sa_decay_ytm": 0.02488,
-    "settle_sao": 0.02381
+    "settle_sao": 0.02381,
+    "forward_sao": 0.02446,
+    "settle_sao_tweak": 0.02381,
+    "forward_sao_tweak": 0.02446
   },
   {
     "cusip": "912828Z37",
@@ -548,7 +602,10 @@
     "forward_ytm": 0.02596,
     "forward_sa_ytm": 0.02477,
     "forward_sa_decay_ytm": 0.02483,
-    "settle_sao": 0.02398
+    "settle_sao": 0.02398,
+    "forward_sao": 0.0246,
+    "settle_sao_tweak": 0.02398,
+    "forward_sao_tweak": 0.0246
   },
   {
     "cusip": "91282CNB3",
@@ -577,7 +634,10 @@
     "forward_ytm": 0.02665,
     "forward_sa_ytm": 0.02494,
     "forward_sa_decay_ytm": 0.0251,
-    "settle_sao": 0.02416
+    "settle_sao": 0.02416,
+    "forward_sao": 0.02475,
+    "settle_sao_tweak": 0.02416,
+    "forward_sao_tweak": 0.02475
   },
   {
     "cusip": "912828ZZ6",
@@ -606,7 +666,10 @@
     "forward_ytm": 0.02517,
     "forward_sa_ytm": 0.02518,
     "forward_sa_decay_ytm": 0.02506,
-    "settle_sao": 0.02434
+    "settle_sao": 0.02434,
+    "forward_sao": 0.02492,
+    "settle_sao_tweak": 0.02434,
+    "forward_sao_tweak": 0.02492
   },
   {
     "cusip": "91282CPH8",
@@ -635,7 +698,10 @@
     "forward_ytm": 0.02556,
     "forward_sa_ytm": 0.02567,
     "forward_sa_decay_ytm": 0.02558,
-    "settle_sao": 0.02454
+    "settle_sao": 0.02454,
+    "forward_sao": 0.02509,
+    "settle_sao_tweak": 0.02454,
+    "forward_sao_tweak": 0.02509
   },
   {
     "cusip": "91282CBF7",
@@ -664,7 +730,10 @@
     "forward_ytm": 0.02619,
     "forward_sa_ytm": 0.02528,
     "forward_sa_decay_ytm": 0.02533,
-    "settle_sao": 0.02475
+    "settle_sao": 0.02475,
+    "forward_sao": 0.02528,
+    "settle_sao_tweak": 0.02475,
+    "forward_sao_tweak": 0.02528
   },
   {
     "cusip": "91282CQP9",
@@ -693,7 +762,10 @@
     "forward_ytm": 0.02682,
     "forward_sa_ytm": 0.0255,
     "forward_sa_decay_ytm": 0.02563,
-    "settle_sao": 0.02495
+    "settle_sao": 0.02495,
+    "forward_sao": 0.02547,
+    "settle_sao_tweak": 0.02495,
+    "forward_sao_tweak": 0.02547
   },
   {
     "cusip": "91282CCM1",
@@ -722,7 +794,10 @@
     "forward_ytm": 0.02575,
     "forward_sa_ytm": 0.02576,
     "forward_sa_decay_ytm": 0.02565,
-    "settle_sao": 0.02517
+    "settle_sao": 0.02517,
+    "forward_sao": 0.02567,
+    "settle_sao_tweak": 0.02517,
+    "forward_sao_tweak": 0.02567
   },
   {
     "cusip": "91282CDX6",
@@ -751,7 +826,10 @@
     "forward_ytm": 0.02684,
     "forward_sa_ytm": 0.0261,
     "forward_sa_decay_ytm": 0.02615,
-    "settle_sao": 0.02564
+    "settle_sao": 0.02564,
+    "forward_sao": 0.0261,
+    "settle_sao_tweak": 0.02564,
+    "forward_sao_tweak": 0.0261
   },
   {
     "cusip": "912810FQ6",
@@ -780,7 +858,10 @@
     "forward_ytm": 0.02717,
     "forward_sa_ytm": 0.02603,
     "forward_sa_decay_ytm": 0.02615,
-    "settle_sao": 0.02578
+    "settle_sao": 0.02578,
+    "forward_sao": 0.02623,
+    "settle_sao_tweak": 0.02578,
+    "forward_sao_tweak": 0.02623
   },
   {
     "cusip": "91282CEZ0",
@@ -809,7 +890,10 @@
     "forward_ytm": 0.02653,
     "forward_sa_ytm": 0.02653,
     "forward_sa_decay_ytm": 0.02643,
-    "settle_sao": 0.02605
+    "settle_sao": 0.02605,
+    "forward_sao": 0.02645,
+    "settle_sao_tweak": 0.02605,
+    "forward_sao_tweak": 0.02645
   },
   {
     "cusip": "91282CGK1",
@@ -838,7 +922,10 @@
     "forward_ytm": 0.02753,
     "forward_sa_ytm": 0.02689,
     "forward_sa_decay_ytm": 0.02693,
-    "settle_sao": 0.02657
+    "settle_sao": 0.02657,
+    "forward_sao": 0.02693,
+    "settle_sao_tweak": 0.02657,
+    "forward_sao_tweak": 0.02693
   },
   {
     "cusip": "91282CHP9",
@@ -867,7 +954,10 @@
     "forward_ytm": 0.02735,
     "forward_sa_ytm": 0.02735,
     "forward_sa_decay_ytm": 0.02725,
-    "settle_sao": 0.02691
+    "settle_sao": 0.02691,
+    "forward_sao": 0.02725,
+    "settle_sao_tweak": 0.02691,
+    "forward_sao_tweak": 0.02725
   },
   {
     "cusip": "91282CJY8",
@@ -896,7 +986,10 @@
     "forward_ytm": 0.02824,
     "forward_sa_ytm": 0.02768,
     "forward_sa_decay_ytm": 0.02772,
-    "settle_sao": 0.02739
+    "settle_sao": 0.02739,
+    "forward_sao": 0.02772,
+    "settle_sao_tweak": 0.02739,
+    "forward_sao_tweak": 0.02772
   },
   {
     "cusip": "91282CLE9",
@@ -925,7 +1018,10 @@
     "forward_ytm": 0.02814,
     "forward_sa_ytm": 0.02815,
     "forward_sa_decay_ytm": 0.02805,
-    "settle_sao": 0.02774
+    "settle_sao": 0.02774,
+    "forward_sao": 0.02805,
+    "settle_sao_tweak": 0.02774,
+    "forward_sao_tweak": 0.02805
   },
   {
     "cusip": "91282CML2",
@@ -954,7 +1050,10 @@
     "forward_ytm": 0.02893,
     "forward_sa_ytm": 0.02842,
     "forward_sa_decay_ytm": 0.02846,
-    "settle_sao": 0.02816
+    "settle_sao": 0.02816,
+    "forward_sao": 0.02846,
+    "settle_sao_tweak": 0.02816,
+    "forward_sao_tweak": 0.02846
   },
   {
     "cusip": "91282CNS6",
@@ -983,7 +1082,10 @@
     "forward_ytm": 0.02898,
     "forward_sa_ytm": 0.02898,
     "forward_sa_decay_ytm": 0.02889,
-    "settle_sao": 0.02861
+    "settle_sao": 0.02861,
+    "forward_sao": 0.02889,
+    "settle_sao_tweak": 0.02861,
+    "forward_sao_tweak": 0.02889
   },
   {
     "cusip": "91282CPU9",
@@ -1012,7 +1114,10 @@
     "forward_ytm": 0.0296,
     "forward_sa_ytm": 0.02915,
     "forward_sa_decay_ytm": 0.02918,
-    "settle_sao": 0.02891
+    "settle_sao": 0.02891,
+    "forward_sao": 0.02918,
+    "settle_sao_tweak": 0.02891,
+    "forward_sao_tweak": 0.02918
   },
   {
     "cusip": "91282CRE3",
@@ -1041,7 +1146,10 @@
     "forward_ytm": 0.02958,
     "forward_sa_ytm": 0.02958,
     "forward_sa_decay_ytm": 0.02949,
-    "settle_sao": 0.02922
+    "settle_sao": 0.02922,
+    "forward_sao": 0.02949,
+    "settle_sao_tweak": 0.02922,
+    "forward_sao_tweak": 0.02949
   },
   {
     "cusip": "912810QF8",
@@ -1070,7 +1178,10 @@
     "forward_ytm": 0.03169,
     "forward_sa_ytm": 0.03107,
     "forward_sa_decay_ytm": 0.0312,
-    "settle_sao": 0.03099
+    "settle_sao": 0.03099,
+    "forward_sao": 0.0312,
+    "settle_sao_tweak": 0.03099,
+    "forward_sao_tweak": 0.0312
   },
   {
     "cusip": "912810QP6",
@@ -1099,7 +1210,10 @@
     "forward_ytm": 0.03226,
     "forward_sa_ytm": 0.03168,
     "forward_sa_decay_ytm": 0.03181,
-    "settle_sao": 0.03161
+    "settle_sao": 0.03161,
+    "forward_sao": 0.03181,
+    "settle_sao_tweak": 0.03161,
+    "forward_sao_tweak": 0.03181
   },
   {
     "cusip": "912810QV3",
@@ -1128,7 +1242,10 @@
     "forward_ytm": 0.03297,
     "forward_sa_ytm": 0.03247,
     "forward_sa_decay_ytm": 0.03259,
-    "settle_sao": 0.03241
+    "settle_sao": 0.03241,
+    "forward_sao": 0.03259,
+    "settle_sao_tweak": 0.03241,
+    "forward_sao_tweak": 0.03259
   },
   {
     "cusip": "912810RA8",
@@ -1157,7 +1274,10 @@
     "forward_ytm": 0.03322,
     "forward_sa_ytm": 0.03276,
     "forward_sa_decay_ytm": 0.03287,
-    "settle_sao": 0.03271
+    "settle_sao": 0.03271,
+    "forward_sao": 0.03287,
+    "settle_sao_tweak": 0.03271,
+    "forward_sao_tweak": 0.03287
   },
   {
     "cusip": "912810RF7",
@@ -1186,7 +1306,10 @@
     "forward_ytm": 0.03353,
     "forward_sa_ytm": 0.03305,
     "forward_sa_decay_ytm": 0.03318,
-    "settle_sao": 0.03301
+    "settle_sao": 0.03301,
+    "forward_sao": 0.03318,
+    "settle_sao_tweak": 0.03301,
+    "forward_sao_tweak": 0.03318
   },
   {
     "cusip": "912810RL4",
@@ -1215,7 +1338,10 @@
     "forward_ytm": 0.03388,
     "forward_sa_ytm": 0.03345,
     "forward_sa_decay_ytm": 0.03357,
-    "settle_sao": 0.03341
+    "settle_sao": 0.03341,
+    "forward_sao": 0.03357,
+    "settle_sao_tweak": 0.03341,
+    "forward_sao_tweak": 0.03357
   },
   {
     "cusip": "912810RR1",
@@ -1244,7 +1370,10 @@
     "forward_ytm": 0.03396,
     "forward_sa_ytm": 0.03354,
     "forward_sa_decay_ytm": 0.03366,
-    "settle_sao": 0.03351
+    "settle_sao": 0.03351,
+    "forward_sao": 0.03366,
+    "settle_sao_tweak": 0.03351,
+    "forward_sao_tweak": 0.03366
   },
   {
     "cusip": "912810RW0",
@@ -1273,7 +1402,10 @@
     "forward_ytm": 0.0341,
     "forward_sa_ytm": 0.03371,
     "forward_sa_decay_ytm": 0.03382,
-    "settle_sao": 0.03368
+    "settle_sao": 0.03368,
+    "forward_sao": 0.03382,
+    "settle_sao_tweak": 0.03368,
+    "forward_sao_tweak": 0.03382
   },
   {
     "cusip": "912810SB5",
@@ -1302,7 +1434,10 @@
     "forward_ytm": 0.0342,
     "forward_sa_ytm": 0.03382,
     "forward_sa_decay_ytm": 0.03393,
-    "settle_sao": 0.03379
+    "settle_sao": 0.03379,
+    "forward_sao": 0.03393,
+    "settle_sao_tweak": 0.03379,
+    "forward_sao_tweak": 0.03393
   },
   {
     "cusip": "912810SG4",
@@ -1331,7 +1466,10 @@
     "forward_ytm": 0.03416,
     "forward_sa_ytm": 0.03379,
     "forward_sa_decay_ytm": 0.0339,
-    "settle_sao": 0.03377
+    "settle_sao": 0.03377,
+    "forward_sao": 0.0339,
+    "settle_sao_tweak": 0.03377,
+    "forward_sao_tweak": 0.0339
   },
   {
     "cusip": "912810SM1",
@@ -1360,7 +1498,10 @@
     "forward_ytm": 0.03423,
     "forward_sa_ytm": 0.03391,
     "forward_sa_decay_ytm": 0.03401,
-    "settle_sao": 0.03389
+    "settle_sao": 0.03389,
+    "forward_sao": 0.03401,
+    "settle_sao_tweak": 0.03389,
+    "forward_sao_tweak": 0.03401
   },
   {
     "cusip": "912810SV1",
@@ -1389,7 +1530,10 @@
     "forward_ytm": 0.03413,
     "forward_sa_ytm": 0.03383,
     "forward_sa_decay_ytm": 0.03392,
-    "settle_sao": 0.03381
+    "settle_sao": 0.03381,
+    "forward_sao": 0.03392,
+    "settle_sao_tweak": 0.03381,
+    "forward_sao_tweak": 0.03392
   },
   {
     "cusip": "912810TE8",
@@ -1418,7 +1562,10 @@
     "forward_ytm": 0.03415,
     "forward_sa_ytm": 0.03386,
     "forward_sa_decay_ytm": 0.03396,
-    "settle_sao": 0.03385
+    "settle_sao": 0.03385,
+    "forward_sao": 0.03396,
+    "settle_sao_tweak": 0.03385,
+    "forward_sao_tweak": 0.03396
   },
   {
     "cusip": "912810TP3",
@@ -1447,7 +1594,10 @@
     "forward_ytm": 0.03421,
     "forward_sa_ytm": 0.03386,
     "forward_sa_decay_ytm": 0.03397,
-    "settle_sao": 0.03385
+    "settle_sao": 0.03385,
+    "forward_sao": 0.03397,
+    "settle_sao_tweak": 0.03385,
+    "forward_sao_tweak": 0.03397
   },
   {
     "cusip": "912810TY4",
@@ -1476,7 +1626,10 @@
     "forward_ytm": 0.03428,
     "forward_sa_ytm": 0.03392,
     "forward_sa_decay_ytm": 0.03404,
-    "settle_sao": 0.03391
+    "settle_sao": 0.03391,
+    "forward_sao": 0.03404,
+    "settle_sao_tweak": 0.03391,
+    "forward_sao_tweak": 0.03404
   },
   {
     "cusip": "912810UH9",
@@ -1505,7 +1658,10 @@
     "forward_ytm": 0.03425,
     "forward_sa_ytm": 0.03389,
     "forward_sa_decay_ytm": 0.03401,
-    "settle_sao": 0.03388
+    "settle_sao": 0.03388,
+    "forward_sao": 0.03401,
+    "settle_sao_tweak": 0.03388,
+    "forward_sao_tweak": 0.03401
   },
   {
     "cusip": "912810US5",
@@ -1534,6 +1690,9 @@
     "forward_ytm": 0.03406,
     "forward_sa_ytm": 0.03371,
     "forward_sa_decay_ytm": 0.03383,
-    "settle_sao": 0.0337
+    "settle_sao": 0.0337,
+    "forward_sao": 0.03383,
+    "settle_sao_tweak": 0.0337,
+    "forward_sao_tweak": 0.03383
   }
 ]
