@@ -301,12 +301,12 @@
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-10-09T01:53:15.335Z",
+    "timestamp": "2026-10-09T14:55:39.591Z",
     "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-10-08",
     "aum": 20785308280,
-    "thirtyDayYield": 0.039,
-    "yieldToMaturity": 0.0413,
+    "thirtyDayYield": 0.0391,
+    "yieldToMaturity": 0.0412,
     "distributionYield": 0.0377,
     "weightedAverageCoupon": 0.042,
     "durationYears": 0.02,
@@ -568,7 +568,7 @@
   {
     "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-09T00:50:21.888Z",
+    "timestamp": "2026-10-09T14:55:40.364Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-08",
     "nav": 98.51,
@@ -580,12 +580,14 @@
   {
     "ticker": "VTG",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-09T11:41:32.921Z",
+    "timestamp": "2026-10-09T14:55:55.959Z",
     "thirtyDayYield": null,
     "asOfDate": "2026-10-08",
     "nav": 72.27,
     "accountType": "Vanguard Total Treasury ETF",
-    "aum": 227600000
+    "aum": 227600000,
+    "durationYears": 5.4,
+    "maturityYears": 5.4
   },
   {
     "ticker": "VTIP",
