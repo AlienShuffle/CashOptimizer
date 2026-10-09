@@ -15,4 +15,6 @@ The October 9 recovery restores the JSON and CSV histories of 36 money-market fu
 
 This restores published data only; it does not fix the generating jobs in Cash Analyzer.
 
+An additional October 9 recovery restores FMAXX, FTEXX, FZEXX, and SPAXX, whose histories were erased on October 5, from commit `e53a17c125ac6f96bda4dd43b559bd391c87e45f` (October 5, 05:54:04 PM EDT). It uses the same merge policy and restores both JSON and CSV histories, including the original Fidelity.com yields before February 2026.
+
 There is a Bogleheads forum that discusses this tool, mostly from a user persective. It is where I publish most announcements about updates, bugs, fixes, etc. See: https://www.bogleheads.org/forum/viewtopic.php?p=7203860
