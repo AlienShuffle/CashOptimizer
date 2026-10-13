@@ -748,14 +748,17 @@
   {
     "ticker": "VTC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-01T12:14:54.254Z",
-    "thirtyDayYield": null,
+    "timestamp": "2026-10-13T15:01:14.760Z",
+    "thirtyDayYield": 0.0585,
     "asOfDate": "2026-09-30",
-    "nav": 72.85,
+    "nav": 72.92,
     "accountType": "Vanguard Total Corporate Bond ETF",
-    "aum": 1700000000,
+    "aum": 1600000000,
     "durationYears": 6.3,
-    "maturityYears": 6.3
+    "yieldToMaturity": 0.0599,
+    "yieldToWorst": 0.0597,
+    "maturityYears": 10.2,
+    "weightedAverageCoupon": 0.047
   },
   {
     "ticker": "VTC",
