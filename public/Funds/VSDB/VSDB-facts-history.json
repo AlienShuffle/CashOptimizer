@@ -1975,14 +1975,17 @@
   {
     "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-12T12:09:08.527Z",
-    "thirtyDayYield": null,
+    "timestamp": "2026-10-13T13:56:19.539Z",
+    "thirtyDayYield": 0.0532,
     "asOfDate": "2026-10-09",
-    "nav": 74.51,
+    "nav": 74.53,
     "accountType": "Vanguard Short Duration Bond ETF",
     "aum": 1000000000,
     "durationYears": 2.6,
-    "maturityYears": 2.6
+    "yieldToMaturity": 0.0585,
+    "yieldToWorst": 0.0582,
+    "maturityYears": 3.5,
+    "weightedAverageCoupon": 0.0468
   },
   {
     "ticker": "VSDB",

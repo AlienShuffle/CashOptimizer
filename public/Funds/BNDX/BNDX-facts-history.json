@@ -1983,14 +1983,17 @@
   {
     "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-12T12:07:38.279Z",
-    "thirtyDayYield": null,
+    "timestamp": "2026-10-13T13:54:49.398Z",
+    "thirtyDayYield": 0.0387,
     "asOfDate": "2026-10-09",
-    "nav": 46.88,
+    "nav": 46.89,
     "accountType": "Vanguard Total International Bond ETF",
     "aum": 82900000000,
     "durationYears": 6.3,
-    "maturityYears": 6.3
+    "yieldToMaturity": 0.0539,
+    "yieldToWorst": 0.0537,
+    "maturityYears": 8.1,
+    "weightedAverageCoupon": 0.0275
   },
   {
     "ticker": "BNDX",

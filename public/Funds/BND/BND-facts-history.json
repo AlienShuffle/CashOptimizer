@@ -2023,14 +2023,17 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-12T12:06:22.572Z",
-    "thirtyDayYield": null,
+    "timestamp": "2026-10-13T13:53:19.099Z",
+    "thirtyDayYield": 0.0513,
     "asOfDate": "2026-10-09",
-    "nav": 70.19,
+    "nav": 70.21,
     "accountType": "Vanguard Total Bond Market ETF",
     "aum": 161400000000,
     "durationYears": 5.7,
-    "maturityYears": 5.7
+    "yieldToMaturity": 0.0549,
+    "yieldToWorst": 0.0549,
+    "maturityYears": 8.2,
+    "weightedAverageCoupon": 0.0394
   },
   {
     "ticker": "BND",

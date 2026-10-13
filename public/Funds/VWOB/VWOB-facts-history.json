@@ -2021,13 +2021,16 @@
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-10T08:46:50.567Z",
-    "thirtyDayYield": null,
+    "timestamp": "2026-10-13T13:51:48.576Z",
+    "thirtyDayYield": 0.0668,
     "asOfDate": "2026-10-09",
-    "nav": 63.23,
+    "nav": 63.27,
     "accountType": "Vanguard Emerging Markets Government Bond ETF",
     "aum": 6100000000,
     "durationYears": 6.3,
-    "maturityYears": 6.3
+    "yieldToMaturity": 0.0694,
+    "yieldToWorst": 0.0693,
+    "maturityYears": 10.5,
+    "weightedAverageCoupon": 0.0551
   }
 ]

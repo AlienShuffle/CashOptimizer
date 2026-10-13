@@ -628,30 +628,33 @@
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-10T08:46:50.567Z",
-    "thirtyDayYield": null,
+    "timestamp": "2026-10-13T13:51:48.576Z",
+    "thirtyDayYield": 0.0668,
     "asOfDate": "2026-10-09",
-    "nav": 63.23,
+    "nav": 63.27,
     "accountType": "Vanguard Emerging Markets Government Bond ETF",
     "aum": 6100000000,
     "durationYears": 6.3,
-    "maturityYears": 6.3
+    "yieldToMaturity": 0.0694,
+    "yieldToWorst": 0.0693,
+    "maturityYears": 10.5,
+    "weightedAverageCoupon": 0.0551
   },
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-10-12T16:29:59.992Z",
+    "timestamp": "2026-10-13T13:57:56.404Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0396,
     "asOfDate": "2026-09-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.47,
-    "yieldToWorst": 0.0412
+    "yieldToWorst": 0.0421
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-10-12T16:30:07.347Z",
+    "timestamp": "2026-10-13T13:58:02.571Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.044,
     "asOfDate": "2026-09-30",
