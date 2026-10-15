@@ -81,26 +81,26 @@
   {
     "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-14T22:07:13.297Z",
+    "timestamp": "2026-10-15T07:41:23.857Z",
     "accountType": "Vanguard Total World Bond ETF",
     "thirtyDayYield": 0.0446,
     "asOfDate": "2026-09-30",
-    "nav": 66.05,
+    "nav": 66.11,
     "distributionYield": 0.0361,
-    "yieldToMaturity": 0.0545,
-    "yieldToWorst": 0.0544
+    "yieldToMaturity": 0.0544,
+    "yieldToWorst": 0.0543
   },
   {
     "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-14T22:07:20.126Z",
+    "timestamp": "2026-10-15T07:41:32.565Z",
     "accountType": "Vanguard Total International Bond ETF",
     "thirtyDayYield": 0.0387,
-    "asOfDate": "2026-10-12",
+    "asOfDate": "2026-10-13",
     "nav": 46.99,
     "distributionYield": 0.0295,
-    "yieldToMaturity": 0.0541,
-    "yieldToWorst": 0.054
+    "yieldToMaturity": 0.0539,
+    "yieldToWorst": 0.0538
   },
   {
     "ticker": "BOXX",
@@ -117,11 +117,11 @@
   {
     "ticker": "BSV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-14T22:07:27.189Z",
+    "timestamp": "2026-10-15T07:41:39.388Z",
     "accountType": "Vanguard Short-Term Bond ETF",
-    "thirtyDayYield": 0.05,
-    "asOfDate": "2026-10-12",
-    "nav": 76.38,
+    "thirtyDayYield": 0.0501,
+    "asOfDate": "2026-10-13",
+    "nav": 76.39,
     "distributionYield": 0.0425,
     "yieldToMaturity": 0.0503,
     "yieldToWorst": 0.0502
@@ -129,14 +129,13 @@
   {
     "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-13T05:55:53.287Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-10-12",
-    "nav": 55.01,
+    "timestamp": "2026-10-15T07:41:46.642Z",
     "accountType": "Vanguard Extended Duration Treasury ETF",
-    "aum": 3600000000,
-    "durationYears": 23.9,
-    "maturityYears": 23.9
+    "thirtyDayYield": 0.0594,
+    "asOfDate": "2026-10-13",
+    "nav": 56.09,
+    "yieldToMaturity": 0.0573,
+    "yieldToWorst": 0.0573
   },
   {
     "ticker": "GOVT",
