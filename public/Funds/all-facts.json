@@ -301,11 +301,11 @@
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-10-15T01:19:13.106Z",
+    "timestamp": "2026-10-15T14:04:52.828Z",
     "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-10-14",
     "aum": 20927394200,
-    "thirtyDayYield": 0.0395,
+    "thirtyDayYield": 0.0396,
     "yieldToMaturity": 0.0416,
     "distributionYield": 0.0376,
     "weightedAverageCoupon": 0.0424,
@@ -540,46 +540,43 @@
   {
     "ticker": "VTEI",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-13T08:05:47.582Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-10-12",
-    "nav": 95.59,
+    "timestamp": "2026-10-15T14:04:55.917Z",
     "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "aum": 1700000000,
-    "durationYears": 5.8,
-    "maturityYears": 5.8
+    "thirtyDayYield": 0.0401,
+    "asOfDate": "2026-10-13",
+    "nav": 96.04,
+    "distributionYield": 0.0328,
+    "yieldToWorst": 0.0419
   },
   {
     "ticker": "VTEL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-13T09:10:53.481Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-10-12",
-    "nav": 95.76,
+    "timestamp": "2026-10-15T14:05:05.832Z",
     "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "aum": 417200000,
-    "durationYears": 9.9,
-    "maturityYears": 9.9
+    "thirtyDayYield": 0.048,
+    "asOfDate": "2026-10-13",
+    "nav": 96.5,
+    "distributionYield": 0.0399,
+    "yieldToWorst": 0.0524
   },
   {
     "ticker": "VTES",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-13T09:11:08.655Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-10-12",
-    "nav": 98.94,
+    "timestamp": "2026-10-15T14:05:13.923Z",
     "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "aum": 3600000000,
-    "durationYears": 2.8,
-    "maturityYears": 2.8
+    "thirtyDayYield": 0.0349,
+    "asOfDate": "2026-10-13",
+    "nav": 99.15,
+    "distributionYield": 0.0238,
+    "yieldToWorst": 0.0356
   },
   {
     "ticker": "VTG",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-15T04:30:53.865Z",
+    "timestamp": "2026-10-15T14:05:20.066Z",
     "accountType": "Vanguard Total Treasury ETF",
     "thirtyDayYield": 0.0507,
-    "asOfDate": "2026-10-12",
+    "asOfDate": "2026-10-13",
     "nav": 72.46,
     "distributionYield": 0.041,
     "yieldToMaturity": 0.0507,
@@ -636,24 +633,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-10-14T12:19:21.432Z",
+    "timestamp": "2026-10-15T14:05:29.090Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0396,
     "asOfDate": "2026-09-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.47,
-    "yieldToWorst": 0.0417
+    "yieldToWorst": 0.0429
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-10-14T12:19:27.245Z",
+    "timestamp": "2026-10-15T14:05:35.195Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.044,
     "asOfDate": "2026-09-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0307,
     "durationYears": 0.96,
-    "yieldToWorst": 0.0455
+    "yieldToWorst": 0.0458
   }
 ]
