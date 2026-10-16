@@ -2002,7 +2002,7 @@
   {
     "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-15T11:55:37.262Z",
+    "timestamp": "2026-10-15T21:32:15.434Z",
     "accountType": "Vanguard Short Duration Bond ETF",
     "thirtyDayYield": 0.0536,
     "asOfDate": "2026-10-13",
@@ -2010,5 +2010,17 @@
     "distributionYield": 0.0465,
     "yieldToMaturity": 0.0585,
     "yieldToWorst": 0.0583
+  },
+  {
+    "ticker": "VSDB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-16T07:11:24.615Z",
+    "accountType": "Vanguard Short Duration Bond ETF",
+    "thirtyDayYield": 0.0536,
+    "asOfDate": "2026-10-14",
+    "nav": 74.65,
+    "distributionYield": 0.0465,
+    "yieldToMaturity": 0.0588,
+    "yieldToWorst": 0.0585
   }
 ]
