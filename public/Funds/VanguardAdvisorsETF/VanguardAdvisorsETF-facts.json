@@ -1,47 +1,47 @@
 [
   {
-    "ticker": "VTC",
+    "ticker": "VTEI",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T08:15:02.905Z",
-    "accountType": "Vanguard Total Corporate Bond ETF",
-    "thirtyDayYield": 0.0585,
-    "asOfDate": "2026-09-30",
-    "nav": 73.5,
-    "distributionYield": 0.053,
-    "yieldToMaturity": 0.0598,
-    "yieldToWorst": 0.0596
-  },
-  {
-    "ticker": "VSDM",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T08:14:54.414Z",
-    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0395,
+    "timestamp": "2026-10-16T09:18:17.131Z",
+    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.04,
     "asOfDate": "2026-10-14",
-    "nav": 75,
-    "distributionYield": 0.0305,
-    "yieldToWorst": 0.0418
-  },
-  {
-    "ticker": "VTEB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T08:15:10.813Z",
-    "accountType": "Vanguard Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0436,
-    "asOfDate": "2026-10-14",
-    "nav": 47.98,
-    "distributionYield": 0.0347,
-    "yieldToWorst": 0.0447
-  },
-  {
-    "ticker": "VTEC",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T08:15:17.349Z",
-    "accountType": "Vanguard California Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.041,
-    "asOfDate": "2026-10-14",
-    "nav": 95.37,
+    "nav": 96.7,
     "distributionYield": 0.0328,
-    "yieldToWorst": 0.0421
+    "yieldToWorst": 0.0411
+  },
+  {
+    "ticker": "VTEL",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-16T09:18:24.268Z",
+    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.0477,
+    "asOfDate": "2026-10-14",
+    "nav": 97.51,
+    "distributionYield": 0.0399,
+    "yieldToWorst": 0.0502
+  },
+  {
+    "ticker": "VTES",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-16T09:18:31.350Z",
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.0349,
+    "asOfDate": "2026-10-14",
+    "nav": 99.51,
+    "distributionYield": 0.0238,
+    "yieldToWorst": 0.0349
+  },
+  {
+    "ticker": "VTG",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-16T09:18:38.334Z",
+    "accountType": "Vanguard Total Treasury ETF",
+    "thirtyDayYield": 0.0507,
+    "asOfDate": "2026-10-14",
+    "nav": 72.84,
+    "distributionYield": 0.041,
+    "yieldToMaturity": 0.0506,
+    "yieldToWorst": 0.0506
   }
 ]
