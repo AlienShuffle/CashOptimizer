@@ -585,50 +585,46 @@
   {
     "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-13T10:15:15.588Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-10-12",
-    "nav": 48.47,
+    "timestamp": "2026-10-16T10:21:28.049Z",
     "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
-    "aum": 20900000000,
-    "durationYears": 32.3,
-    "maturityYears": 32.3
+    "thirtyDayYield": 0.0236,
+    "asOfDate": "2026-10-15",
+    "nav": 48.57,
+    "yieldToMaturity": 0.02
   },
   {
     "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-13T01:38:38.699Z",
-    "thirtyDayYield": null,
-    "asOfDate": "2026-10-12",
-    "nav": 72.41,
+    "timestamp": "2026-10-16T10:21:36.747Z",
     "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "aum": 250500000,
-    "durationYears": 36.2,
-    "maturityYears": 36.2
+    "thirtyDayYield": 0.0266,
+    "asOfDate": "2026-10-15",
+    "nav": 72.99,
+    "yieldToMaturity": 0.02
   },
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T00:43:36.258Z",
+    "timestamp": "2026-10-16T10:21:43.281Z",
     "accountType": "Vanguard Ultra-Short Bond ETF",
     "thirtyDayYield": 0.0478,
-    "asOfDate": "2026-10-13",
+    "asOfDate": "2026-10-14",
     "nav": 49.49,
     "distributionYield": 0.0445,
-    "yieldToMaturity": 0.0507,
-    "yieldToWorst": 0.0503
+    "yieldToMaturity": 0.0511,
+    "yieldToWorst": 0.0507
   },
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T00:43:43.065Z",
+    "timestamp": "2026-10-16T10:21:50.441Z",
     "accountType": "Vanguard Emerging Markets Government Bond ETF",
     "thirtyDayYield": 0.0669,
-    "asOfDate": "2026-10-13",
+    "asOfDate": "2026-10-14",
     "nav": 63.74,
     "distributionYield": 0.0613,
-    "yieldToMaturity": 0.0691,
-    "yieldToWorst": 0.0691
+    "yieldToMaturity": 0.0693,
+    "yieldToWorst": 0.0693
   },
   {
     "ticker": "XHLF",
