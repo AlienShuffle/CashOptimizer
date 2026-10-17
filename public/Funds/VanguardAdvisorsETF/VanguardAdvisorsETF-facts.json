@@ -1,49 +1,46 @@
 [
   {
-    "ticker": "BNDW",
+    "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-17T07:41:35.907Z",
-    "accountType": "Vanguard Total World Bond ETF",
-    "thirtyDayYield": 0.0446,
-    "asOfDate": "2026-09-30",
-    "nav": 66.37,
-    "distributionYield": 0.0361,
-    "yieldToMaturity": 0.0538,
-    "yieldToWorst": 0.0537
+    "timestamp": "2026-10-17T15:10:33.473Z",
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0236,
+    "asOfDate": "2026-10-15",
+    "nav": 48.66,
+    "yieldToMaturity": 0.02
   },
   {
-    "ticker": "BNDX",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-17T07:41:44.295Z",
-    "accountType": "Vanguard Total International Bond ETF",
-    "thirtyDayYield": 0.0387,
+    "timestamp": "2026-10-17T15:10:40.297Z",
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0266,
     "asOfDate": "2026-10-15",
-    "nav": 47.11,
-    "distributionYield": 0.0295,
-    "yieldToMaturity": 0.0536,
-    "yieldToWorst": 0.0535
+    "nav": 73.17,
+    "yieldToMaturity": 0.02
   },
   {
-    "ticker": "BSV",
+    "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-17T07:41:50.990Z",
-    "accountType": "Vanguard Short-Term Bond ETF",
-    "thirtyDayYield": 0.0502,
+    "timestamp": "2026-10-17T15:10:46.901Z",
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "thirtyDayYield": 0.0479,
     "asOfDate": "2026-10-15",
-    "nav": 76.62,
-    "distributionYield": 0.0425,
-    "yieldToMaturity": 0.0497,
-    "yieldToWorst": 0.0497
+    "nav": 49.51,
+    "distributionYield": 0.0445,
+    "yieldToMaturity": 0.0508,
+    "yieldToWorst": 0.0504
   },
   {
-    "ticker": "EDV",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-17T07:41:57.752Z",
-    "accountType": "Vanguard Extended Duration Treasury ETF",
-    "thirtyDayYield": 0.0582,
+    "timestamp": "2026-10-17T15:10:54.504Z",
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "thirtyDayYield": 0.067,
     "asOfDate": "2026-10-15",
-    "nav": 57.37,
-    "yieldToMaturity": 0.0558,
-    "yieldToWorst": 0.0558
+    "nav": 63.68,
+    "distributionYield": 0.0613,
+    "yieldToMaturity": 0.0685,
+    "yieldToWorst": 0.0685
   }
 ]
