@@ -1,50 +1,47 @@
 [
   {
-    "ticker": "VGUS",
+    "ticker": "VTC",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-19T04:08:43.322Z",
-    "accountType": "Vanguard Ultra-Short Treasury ETF",
-    "thirtyDayYield": 0.0396,
+    "timestamp": "2026-10-19T05:11:28.863Z",
+    "accountType": "Vanguard Total Corporate Bond ETF",
+    "thirtyDayYield": 0.0585,
+    "asOfDate": "2026-09-30",
+    "nav": 73.49,
+    "distributionYield": 0.053,
+    "yieldToMaturity": 0.059,
+    "yieldToWorst": 0.0588
+  },
+  {
+    "ticker": "VSDM",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-19T05:11:22.095Z",
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.0395,
     "asOfDate": "2026-10-15",
-    "nav": 75.55,
-    "distributionYield": 0.0364,
-    "yieldToMaturity": 0.0421,
+    "nav": 75.01,
+    "distributionYield": 0.0305,
+    "yieldToWorst": 0.0419
+  },
+  {
+    "ticker": "VTEB",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-19T05:11:35.727Z",
+    "accountType": "Vanguard Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.0436,
+    "asOfDate": "2026-10-15",
+    "nav": 47.97,
+    "distributionYield": 0.0347,
+    "yieldToWorst": 0.0446
+  },
+  {
+    "ticker": "VTEC",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-19T05:11:42.218Z",
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "thirtyDayYield": 0.041,
+    "asOfDate": "2026-10-15",
+    "nav": 95.38,
+    "distributionYield": 0.0328,
     "yieldToWorst": 0.0421
-  },
-  {
-    "ticker": "VMBS",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-19T04:08:51.365Z",
-    "accountType": "Vanguard Mortgage-Backed Securities ETF",
-    "thirtyDayYield": 0.0451,
-    "asOfDate": "2026-10-15",
-    "nav": 44.87,
-    "distributionYield": 0.044,
-    "yieldToMaturity": 0.0578,
-    "yieldToWorst": 0.0578
-  },
-  {
-    "ticker": "VPLS",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-19T04:08:58.247Z",
-    "accountType": "Vanguard Core-Plus Bond ETF",
-    "thirtyDayYield": 0.0527,
-    "asOfDate": "2026-10-15",
-    "nav": 74.44,
-    "distributionYield": 0.0476,
-    "yieldToMaturity": 0.0591,
-    "yieldToWorst": 0.059
-  },
-  {
-    "ticker": "VSDB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-19T04:09:05.236Z",
-    "accountType": "Vanguard Short Duration Bond ETF",
-    "thirtyDayYield": 0.0537,
-    "asOfDate": "2026-10-15",
-    "nav": 74.67,
-    "distributionYield": 0.0465,
-    "yieldToMaturity": 0.0582,
-    "yieldToWorst": 0.0579
   }
 ]
