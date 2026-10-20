@@ -215,13 +215,13 @@
   {
     "ticker": "MUNY",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T23:08:02.331Z",
+    "timestamp": "2026-10-20T12:24:33.373Z",
     "accountType": "Vanguard New York Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0423,
-    "asOfDate": "2026-10-14",
-    "nav": 98.62,
+    "thirtyDayYield": 0.042,
+    "asOfDate": "2026-10-16",
+    "nav": 98.54,
     "distributionYield": 0.0337,
-    "yieldToWorst": 0.0457
+    "yieldToWorst": 0.043
   },
   {
     "ticker": "SGOV",
@@ -301,53 +301,53 @@
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-10-20T03:51:00.139Z",
+    "timestamp": "2026-10-20T12:24:29.824Z",
     "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-10-19",
     "aum": 21249485500,
-    "thirtyDayYield": 0.0397,
+    "thirtyDayYield": 0.0398,
     "yieldToMaturity": 0.0416,
     "distributionYield": 0.0376,
     "weightedAverageCoupon": 0.0424,
     "durationYears": 0.02,
-    "maturityYears": 1.42,
+    "maturityYears": 1.4,
     "expenseRatio": 0.0015
   },
   {
     "ticker": "VBIL",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T23:08:10.932Z",
+    "timestamp": "2026-10-20T12:24:41.886Z",
     "accountType": "Vanguard 0-3 Month Treasury Bill ETF",
-    "thirtyDayYield": 0.0375,
-    "asOfDate": "2026-10-14",
-    "nav": 75.64,
+    "thirtyDayYield": 0.0377,
+    "asOfDate": "2026-10-16",
+    "nav": 75.65,
     "distributionYield": 0.035,
-    "yieldToMaturity": 0.0399,
-    "yieldToWorst": 0.0399
+    "yieldToMaturity": 0.0398,
+    "yieldToWorst": 0.0398
   },
   {
     "ticker": "VCEB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T23:08:19.084Z",
+    "timestamp": "2026-10-20T12:24:49.756Z",
     "accountType": "Vanguard ESG U.S. Corporate Bond ETF",
-    "thirtyDayYield": 0.058,
-    "asOfDate": "2026-10-14",
-    "nav": 60.01,
+    "thirtyDayYield": 0.0578,
+    "asOfDate": "2026-10-16",
+    "nav": 59.77,
     "distributionYield": 0.0492,
-    "yieldToMaturity": 0.0597,
-    "yieldToWorst": 0.0594
+    "yieldToMaturity": 0.0588,
+    "yieldToWorst": 0.0586
   },
   {
     "ticker": "VCIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-16T23:08:25.919Z",
+    "timestamp": "2026-10-20T12:24:56.613Z",
     "accountType": "Vanguard Intermediate-Term Corporate Bond ETF",
-    "thirtyDayYield": 0.06,
-    "asOfDate": "2026-10-14",
-    "nav": 78.99,
+    "thirtyDayYield": 0.0597,
+    "asOfDate": "2026-10-16",
+    "nav": 78.67,
     "distributionYield": 0.052,
-    "yieldToMaturity": 0.0604,
-    "yieldToWorst": 0.0602
+    "yieldToMaturity": 0.0594,
+    "yieldToWorst": 0.0593
   },
   {
     "ticker": "VCLT",
@@ -629,24 +629,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-10-17T13:04:57.824Z",
+    "timestamp": "2026-10-20T12:25:04.640Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0396,
     "asOfDate": "2026-09-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.46,
-    "yieldToWorst": 0.0418
+    "yieldToWorst": 0.0423
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-10-17T13:05:04.029Z",
+    "timestamp": "2026-10-20T12:25:10.460Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.044,
     "asOfDate": "2026-09-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0307,
     "durationYears": 0.95,
-    "yieldToWorst": 0.0451
+    "yieldToWorst": 0.0455
   }
 ]
