@@ -1,46 +1,46 @@
 [
   {
-    "ticker": "VTEI",
+    "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-20T17:29:52.479Z",
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0397,
-    "asOfDate": "2026-10-16",
-    "nav": 96.67,
-    "distributionYield": 0.0328,
-    "yieldToWorst": 0.04
+    "timestamp": "2026-10-20T18:32:40.443Z",
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0236,
+    "asOfDate": "2026-10-15",
+    "nav": 48.63,
+    "yieldToMaturity": 0.02
   },
   {
-    "ticker": "VTEL",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-20T17:30:00.411Z",
-    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0472,
-    "asOfDate": "2026-10-16",
-    "nav": 97.38,
-    "distributionYield": 0.0399
+    "timestamp": "2026-10-20T18:32:47.704Z",
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0266,
+    "asOfDate": "2026-10-15",
+    "nav": 72.96,
+    "yieldToMaturity": 0.02
   },
   {
-    "ticker": "VTES",
+    "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-20T17:30:06.244Z",
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0348,
+    "timestamp": "2026-10-20T18:32:54.438Z",
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "thirtyDayYield": 0.0479,
     "asOfDate": "2026-10-16",
-    "nav": 99.53,
-    "distributionYield": 0.0238,
-    "yieldToWorst": 0.0333
+    "nav": 49.5,
+    "distributionYield": 0.0445,
+    "yieldToMaturity": 0.0506,
+    "yieldToWorst": 0.0502
   },
   {
-    "ticker": "VTG",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-20T17:30:13.442Z",
-    "accountType": "Vanguard Total Treasury ETF",
-    "thirtyDayYield": 0.0504,
+    "timestamp": "2026-10-20T18:33:01.600Z",
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "thirtyDayYield": 0.0666,
     "asOfDate": "2026-10-16",
-    "nav": 72.72,
-    "distributionYield": 0.041,
-    "yieldToMaturity": 0.0495,
-    "yieldToWorst": 0.0495
+    "nav": 63.42,
+    "distributionYield": 0.0613,
+    "yieldToMaturity": 0.0686,
+    "yieldToWorst": 0.0685
   }
 ]
