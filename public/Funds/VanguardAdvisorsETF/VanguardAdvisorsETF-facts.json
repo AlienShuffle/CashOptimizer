@@ -1,46 +1,49 @@
 [
   {
-    "ticker": "VTIP",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-22T20:42:19.687Z",
-    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
-    "thirtyDayYield": 0.0236,
-    "asOfDate": "2026-10-15",
-    "nav": 48.65,
-    "yieldToMaturity": 0.02
-  },
-  {
-    "ticker": "VTP",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-22T20:42:26.854Z",
-    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
-    "thirtyDayYield": 0.0266,
-    "asOfDate": "2026-10-15",
-    "nav": 73.16,
-    "yieldToMaturity": 0.02
-  },
-  {
-    "ticker": "VUSB",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-22T20:42:33.688Z",
-    "accountType": "Vanguard Ultra-Short Bond ETF",
-    "thirtyDayYield": 0.0481,
+    "timestamp": "2026-10-22T21:47:03.403Z",
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "thirtyDayYield": 0.0552,
     "asOfDate": "2026-10-20",
-    "nav": 49.5,
-    "distributionYield": 0.0445,
-    "yieldToMaturity": 0.051,
-    "yieldToWorst": 0.0506
+    "nav": 73.36,
+    "distributionYield": 0.046,
+    "yieldToMaturity": 0.0544,
+    "yieldToWorst": 0.0543
   },
   {
-    "ticker": "VWOB",
+    "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-22T20:42:40.174Z",
-    "accountType": "Vanguard Emerging Markets Government Bond ETF",
-    "thirtyDayYield": 0.0671,
+    "timestamp": "2026-10-22T21:47:10.199Z",
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "thirtyDayYield": 0.06,
     "asOfDate": "2026-10-20",
-    "nav": 63.5,
-    "distributionYield": 0.0613,
-    "yieldToMaturity": 0.0695,
-    "yieldToWorst": 0.0694
+    "nav": 64.17,
+    "distributionYield": 0.0514,
+    "yieldToMaturity": 0.059,
+    "yieldToWorst": 0.059
+  },
+  {
+    "ticker": "BND",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-22T21:47:16.601Z",
+    "accountType": "Vanguard Total Bond Market ETF",
+    "thirtyDayYield": 0.0513,
+    "asOfDate": "2026-10-20",
+    "nav": 70.72,
+    "distributionYield": 0.0425,
+    "yieldToMaturity": 0.0542,
+    "yieldToWorst": 0.0542
+  },
+  {
+    "ticker": "BNDP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-22T21:47:23.434Z",
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "thirtyDayYield": 0.0547,
+    "asOfDate": "2026-10-20",
+    "nav": 71.42,
+    "yieldToMaturity": 0.0566,
+    "yieldToWorst": 0.0565
   }
 ]
