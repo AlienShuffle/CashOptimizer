@@ -1052,11 +1052,21 @@
   {
     "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-22T01:45:41.835Z",
+    "timestamp": "2026-10-22T20:42:19.687Z",
     "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
     "thirtyDayYield": 0.0236,
     "asOfDate": "2026-10-15",
     "nav": 48.65,
+    "yieldToMaturity": 0.02
+  },
+  {
+    "ticker": "VTIP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-23T06:19:30.643Z",
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0233,
+    "asOfDate": "2026-10-22",
+    "nav": 48.8,
     "yieldToMaturity": 0.02
   }
 ]
