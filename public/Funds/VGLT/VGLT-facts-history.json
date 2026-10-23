@@ -2135,11 +2135,13 @@
   {
     "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-23T11:37:18.481Z",
+    "timestamp": "2026-10-23T21:12:15.340Z",
     "accountType": "Vanguard Long-Term Treasury ETF",
     "thirtyDayYield": 0.0551,
     "asOfDate": "2026-10-21",
     "nav": 52.37,
-    "distributionYield": 0.0483
+    "distributionYield": 0.0483,
+    "yieldToMaturity": 0.0544,
+    "yieldToWorst": 0.0544
   }
 ]
