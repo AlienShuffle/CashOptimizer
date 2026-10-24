@@ -1,47 +1,46 @@
 [
   {
-    "ticker": "VTEI",
+    "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-24T20:54:29.931Z",
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0396,
+    "timestamp": "2026-10-24T21:57:21.404Z",
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0233,
     "asOfDate": "2026-10-22",
-    "nav": 97.73,
-    "distributionYield": 0.0328,
-    "yieldToWorst": 0.0398
+    "nav": 48.8,
+    "yieldToMaturity": 0.02
   },
   {
-    "ticker": "VTEL",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-24T20:54:37.827Z",
-    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0473,
+    "timestamp": "2026-10-24T21:57:28.658Z",
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0263,
     "asOfDate": "2026-10-22",
-    "nav": 98.75,
-    "distributionYield": 0.0399,
-    "yieldToWorst": 0.0491
+    "nav": 73.62,
+    "yieldToMaturity": 0.02
   },
   {
-    "ticker": "VTES",
+    "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-24T20:54:45.324Z",
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0346,
+    "timestamp": "2026-10-24T21:57:36.379Z",
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "thirtyDayYield": 0.0482,
     "asOfDate": "2026-10-22",
-    "nav": 100.16,
-    "distributionYield": 0.0238,
-    "yieldToWorst": 0.0329
+    "nav": 49.55,
+    "distributionYield": 0.0445,
+    "yieldToMaturity": 0.0502,
+    "yieldToWorst": 0.0498
   },
   {
-    "ticker": "VTG",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-24T20:54:50.853Z",
-    "accountType": "Vanguard Total Treasury ETF",
-    "thirtyDayYield": 0.0505,
+    "timestamp": "2026-10-24T21:57:42.561Z",
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "thirtyDayYield": 0.0672,
     "asOfDate": "2026-10-22",
-    "nav": 73.31,
-    "distributionYield": 0.041,
-    "yieldToMaturity": 0.0486,
-    "yieldToWorst": 0.0486
+    "nav": 63.63,
+    "distributionYield": 0.0613,
+    "yieldToMaturity": 0.069,
+    "yieldToWorst": 0.069
   }
 ]
