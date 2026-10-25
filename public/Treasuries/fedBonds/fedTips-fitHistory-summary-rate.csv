@@ -1,5 +1,5 @@
 side, valuation, snapshots, days, firstAsOfDate, lastAsOfDate, decayWins, decayWinShare, objectiveChangePct, rmsDeltaBp, shortRmsDeltaBp, longRmsDeltaBp, maxAbsDeltaBp, monthRangeDeltaBp, zero1yMeanAbsDiffBp, zero2yMeanAbsDiffBp, verdict
-"ask","settle",10,10,"2025-06-02","2026-10-23",10,1,-8.08,-0.108,-0.192,-0.088,-0.63,0.033,0.598,0.549,"sa-decay better"
-"ask","forward",10,10,"2025-06-02","2026-10-23",10,1,-8.13,-0.115,-0.179,-0.09,-0.73,-0.003,0.522,0.553,"sa-decay better"
-"bid","settle",10,10,"2025-06-02","2026-10-23",10,1,-7.6,-0.113,-0.168,-0.072,-0.44,-0.112,0.451,0.527,"sa-decay better"
-"bid","forward",10,10,"2025-06-02","2026-10-23",10,1,-7.34,-0.094,-0.102,-0.076,-0.35,0.134,0.418,0.496,"sa-decay better"
+"ask","settle",51,51,"2025-06-02","2026-10-23",47,0.922,-6.54,-0.048,-0.047,-0.067,0.094,-0.192,0.598,0.686,"sa-decay better"
+"ask","forward",51,51,"2025-06-02","2026-10-23",47,0.922,-6.72,-0.071,-0.124,-0.059,-0.325,-0.151,0.732,0.765,"sa-decay better"
+"bid","settle",51,51,"2025-06-02","2026-10-23",42,0.824,-4.89,0.062,0.206,-0.046,0.814,0.391,0.754,0.695,"sa-decay better"
+"bid","forward",51,51,"2025-06-02","2026-10-23",40,0.784,-3.05,0.262,0.526,-0.026,2.253,1.316,0.596,0.66,"sa-decay better"
