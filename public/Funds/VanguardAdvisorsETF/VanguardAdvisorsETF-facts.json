@@ -1,49 +1,49 @@
 [
   {
-    "ticker": "BIV",
+    "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T09:39:40.557Z",
-    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "timestamp": "2026-10-27T10:42:36.306Z",
+    "accountType": "Vanguard Total World Bond ETF",
+    "thirtyDayYield": 0.0446,
+    "asOfDate": "2026-09-30",
+    "nav": 66.66,
+    "distributionYield": 0.0361,
+    "yieldToMaturity": 0.0536,
+    "yieldToWorst": 0.0535
+  },
+  {
+    "ticker": "BNDX",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-27T10:42:44.317Z",
+    "accountType": "Vanguard Total International Bond ETF",
+    "thirtyDayYield": 0.0391,
+    "asOfDate": "2026-10-23",
+    "nav": 47.19,
+    "distributionYield": 0.0295,
+    "yieldToMaturity": 0.0541,
+    "yieldToWorst": 0.054
+  },
+  {
+    "ticker": "BSV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-27T10:42:52.354Z",
+    "accountType": "Vanguard Short-Term Bond ETF",
+    "thirtyDayYield": 0.05,
+    "asOfDate": "2026-10-23",
+    "nav": 76.76,
+    "distributionYield": 0.0425,
+    "yieldToMaturity": 0.049,
+    "yieldToWorst": 0.049
+  },
+  {
+    "ticker": "EDV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-10-27T10:42:58.533Z",
+    "accountType": "Vanguard Extended Duration Treasury ETF",
     "thirtyDayYield": 0.0547,
     "asOfDate": "2026-10-23",
-    "nav": 73.94,
-    "distributionYield": 0.046,
-    "yieldToMaturity": 0.0533,
-    "yieldToWorst": 0.0532
-  },
-  {
-    "ticker": "BLV",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T09:39:47.727Z",
-    "accountType": "Vanguard Long-Term Bond ETF",
-    "thirtyDayYield": 0.0586,
-    "asOfDate": "2026-10-23",
-    "nav": 65.1,
-    "distributionYield": 0.0514,
-    "yieldToMaturity": 0.0581,
-    "yieldToWorst": 0.0581
-  },
-  {
-    "ticker": "BND",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T09:39:55.276Z",
-    "accountType": "Vanguard Total Bond Market ETF",
-    "thirtyDayYield": 0.0508,
-    "asOfDate": "2026-10-23",
-    "nav": 71.25,
-    "distributionYield": 0.0425,
-    "yieldToMaturity": 0.0532,
-    "yieldToWorst": 0.0531
-  },
-  {
-    "ticker": "BNDP",
-    "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T09:40:02.111Z",
-    "accountType": "Vanguard Core-Plus Bond Index ETF",
-    "thirtyDayYield": 0.0542,
-    "asOfDate": "2026-10-23",
-    "nav": 71.89,
-    "yieldToMaturity": 0.0556,
-    "yieldToWorst": 0.0555
+    "nav": 59.3,
+    "yieldToMaturity": 0.0548,
+    "yieldToWorst": 0.0548
   }
 ]
