@@ -1,49 +1,50 @@
 [
   {
-    "ticker": "VCLT",
+    "ticker": "VGIT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T22:28:39.478Z",
-    "accountType": "Vanguard Long-Term Corporate Bond ETF",
-    "thirtyDayYield": 0.0639,
+    "timestamp": "2026-10-27T23:31:36.898Z",
+    "accountType": "Vanguard Intermediate-Term Treasury ETF",
+    "thirtyDayYield": 0.05,
     "asOfDate": "2026-10-23",
-    "nav": 70.79,
-    "distributionYield": 0.0603,
-    "yieldToMaturity": 0.0636,
-    "yieldToWorst": 0.0636
+    "nav": 57.36,
+    "distributionYield": 0.0403,
+    "yieldToMaturity": 0.0485,
+    "yieldToWorst": 0.0485
   },
   {
-    "ticker": "VCRB",
+    "ticker": "VGLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T22:28:46.514Z",
-    "accountType": "Vanguard Core Bond ETF",
-    "thirtyDayYield": 0.052,
+    "timestamp": "2026-10-27T23:31:44.267Z",
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "thirtyDayYield": 0.0541,
     "asOfDate": "2026-10-23",
-    "nav": 74.63,
-    "distributionYield": 0.0477,
-    "yieldToMaturity": 0.0573,
-    "yieldToWorst": 0.0572
+    "nav": 52.32,
+    "distributionYield": 0.0483,
+    "yieldToMaturity": 0.0535,
+    "yieldToWorst": 0.0535
   },
   {
-    "ticker": "VCRM",
+    "ticker": "VGMS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T22:28:54.287Z",
-    "accountType": "Vanguard Core Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0444,
+    "timestamp": "2026-10-27T23:31:52.451Z",
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "thirtyDayYield": 0.0627,
     "asOfDate": "2026-10-23",
-    "nav": 73.64,
-    "distributionYield": 0.0357,
-    "yieldToWorst": 0.0476
+    "nav": 49.69,
+    "distributionYield": 0.0523,
+    "yieldToMaturity": 0.0675,
+    "yieldToWorst": 0.0672
   },
   {
-    "ticker": "VCSH",
+    "ticker": "VGSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-27T22:29:01.584Z",
-    "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "thirtyDayYield": 0.0544,
+    "timestamp": "2026-10-27T23:31:59.897Z",
+    "accountType": "Vanguard Short-Term Treasury ETF",
+    "thirtyDayYield": 0.0479,
     "asOfDate": "2026-10-23",
-    "nav": 77.64,
-    "distributionYield": 0.0463,
-    "yieldToMaturity": 0.0544,
-    "yieldToWorst": 0.0541
+    "nav": 57.74,
+    "distributionYield": 0.0385,
+    "yieldToMaturity": 0.0466,
+    "yieldToWorst": 0.0466
   }
 ]
