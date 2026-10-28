@@ -34,10 +34,10 @@
   {
     "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-28T04:54:07.084Z",
+    "timestamp": "2026-10-28T14:31:48.317Z",
     "accountType": "Vanguard Intermediate-Term Bond ETF",
     "thirtyDayYield": 0.0547,
-    "asOfDate": "2026-10-23",
+    "asOfDate": "2026-10-26",
     "nav": 73.97,
     "distributionYield": 0.046,
     "yieldToMaturity": 0.0532,
@@ -46,10 +46,10 @@
   {
     "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-28T04:54:13.710Z",
+    "timestamp": "2026-10-28T14:31:55.552Z",
     "accountType": "Vanguard Long-Term Bond ETF",
-    "thirtyDayYield": 0.0586,
-    "asOfDate": "2026-10-23",
+    "thirtyDayYield": 0.0589,
+    "asOfDate": "2026-10-26",
     "nav": 65.17,
     "distributionYield": 0.0514,
     "yieldToMaturity": 0.0579,
@@ -58,10 +58,10 @@
   {
     "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-28T04:54:21.461Z",
+    "timestamp": "2026-10-28T14:32:03.421Z",
     "accountType": "Vanguard Total Bond Market ETF",
     "thirtyDayYield": 0.0508,
-    "asOfDate": "2026-10-23",
+    "asOfDate": "2026-10-26",
     "nav": 71.28,
     "distributionYield": 0.0425,
     "yieldToMaturity": 0.0532,
@@ -70,10 +70,10 @@
   {
     "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-28T04:54:28.572Z",
+    "timestamp": "2026-10-28T14:32:11.249Z",
     "accountType": "Vanguard Core-Plus Bond Index ETF",
     "thirtyDayYield": 0.0542,
-    "asOfDate": "2026-10-23",
+    "asOfDate": "2026-10-26",
     "nav": 71.94,
     "yieldToMaturity": 0.0557,
     "yieldToWorst": 0.0555
@@ -301,16 +301,16 @@
   {
     "ticker": "USFR",
     "source": "Wisdomtree yields",
-    "timestamp": "2026-10-28T01:39:32.404Z",
+    "timestamp": "2026-10-28T14:31:46.060Z",
     "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
     "asOfDate": "2026-10-27",
     "aum": 21253138450,
-    "thirtyDayYield": 0.0399,
+    "thirtyDayYield": 0.04,
     "yieldToMaturity": 0.0416,
-    "distributionYield": 0.0376,
+    "distributionYield": 0.0408,
     "weightedAverageCoupon": 0.0425,
     "durationYears": 0.02,
-    "maturityYears": 1.39,
+    "maturityYears": 1.38,
     "expenseRatio": 0.0015
   },
   {
@@ -629,24 +629,24 @@
   {
     "ticker": "XHLF",
     "source": "bloxx",
-    "timestamp": "2026-10-27T12:52:07.516Z",
+    "timestamp": "2026-10-28T14:32:19.601Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.0396,
     "asOfDate": "2026-09-30",
     "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "durationYears": 0.44,
-    "yieldToWorst": 0.0419
+    "yieldToWorst": 0.0414
   },
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-10-27T12:52:12.484Z",
+    "timestamp": "2026-10-28T14:32:25.628Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.044,
     "asOfDate": "2026-09-30",
     "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "weightedAverageCoupon": 0.0307,
-    "durationYears": 0.93,
-    "yieldToWorst": 0.0451
+    "durationYears": 0.92,
+    "yieldToWorst": 0.0452
   }
 ]
