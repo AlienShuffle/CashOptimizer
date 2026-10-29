@@ -1,0 +1,2759 @@
+{
+  "asOfDate": "2026-10-29T1235",
+  "basis": "Market-ask-settle",
+  "settleDate": "2026-10-30",
+  "forwardDate": "2026-12-01",
+  "priceSide": "ask",
+  "method": "Svensson",
+  "params": [
+    -0.09431637356775095,
+    0.13441745658800744,
+    0.09613302631502947,
+    0.41789824001983256,
+    2.917778129527023,
+    17.66393345687953
+  ],
+  "objective": 1.2805801021967411,
+  "bondsUsed": 380,
+  "excluded": [
+    {
+      "cusip": "91282CJP7",
+      "maturity": "2026-12-15",
+      "coupon": 0.04375,
+      "ytm": 0.039,
+      "deviationBp": -22.7
+    },
+    {
+      "cusip": "91282CMH1",
+      "maturity": "2027-01-31",
+      "coupon": 0.04125,
+      "ytm": 0.0406,
+      "deviationBp": -15.2
+    },
+    {
+      "cusip": "912810EZ7",
+      "maturity": "2027-02-15",
+      "coupon": 0.06625,
+      "ytm": 0.0313,
+      "deviationBp": -110.1
+    },
+    {
+      "cusip": "912810FA1",
+      "maturity": "2027-08-15",
+      "coupon": 0.06375,
+      "ytm": 0.04172,
+      "deviationBp": -20.5
+    },
+    {
+      "cusip": "912810FB9",
+      "maturity": "2027-11-15",
+      "coupon": 0.06125,
+      "ytm": 0.04214,
+      "deviationBp": -24.8
+    }
+  ],
+  "fitBonds": [
+    {
+      "cusip": "912797VA2",
+      "maturity": "2026-12-03",
+      "coupon": 0,
+      "ytm": 0.03954
+    },
+    {
+      "cusip": "912797WE3",
+      "maturity": "2026-12-08",
+      "coupon": 0,
+      "ytm": 0.03957
+    },
+    {
+      "cusip": "912797VG9",
+      "maturity": "2026-12-10",
+      "coupon": 0,
+      "ytm": 0.0397
+    },
+    {
+      "cusip": "912797WF0",
+      "maturity": "2026-12-15",
+      "coupon": 0,
+      "ytm": 0.04003
+    },
+    {
+      "cusip": "912797VH7",
+      "maturity": "2026-12-17",
+      "coupon": 0,
+      "ytm": 0.04013
+    },
+    {
+      "cusip": "912797WG8",
+      "maturity": "2026-12-22",
+      "coupon": 0,
+      "ytm": 0.04059
+    },
+    {
+      "cusip": "912797TC1",
+      "maturity": "2026-12-24",
+      "coupon": 0,
+      "ytm": 0.04066
+    },
+    {
+      "cusip": "912797WH6",
+      "maturity": "2026-12-29",
+      "coupon": 0,
+      "ytm": 0.0406
+    },
+    {
+      "cusip": "912797VJ3",
+      "maturity": "2026-12-31",
+      "coupon": 0,
+      "ytm": 0.04072
+    },
+    {
+      "cusip": "912828YX2",
+      "maturity": "2026-12-31",
+      "coupon": 0.0175,
+      "ytm": 0.04024
+    },
+    {
+      "cusip": "91282CDQ1",
+      "maturity": "2026-12-31",
+      "coupon": 0.0125,
+      "ytm": 0.04111
+    },
+    {
+      "cusip": "91282CME8",
+      "maturity": "2026-12-31",
+      "coupon": 0.0425,
+      "ytm": 0.04136
+    },
+    {
+      "cusip": "912797WN3",
+      "maturity": "2027-01-05",
+      "coupon": 0,
+      "ytm": 0.04078
+    },
+    {
+      "cusip": "912797VS3",
+      "maturity": "2027-01-07",
+      "coupon": 0,
+      "ytm": 0.04073
+    },
+    {
+      "cusip": "912797WP8",
+      "maturity": "2027-01-12",
+      "coupon": 0,
+      "ytm": 0.04068
+    },
+    {
+      "cusip": "912797VT1",
+      "maturity": "2027-01-14",
+      "coupon": 0,
+      "ytm": 0.04064
+    },
+    {
+      "cusip": "91282CJT9",
+      "maturity": "2027-01-15",
+      "coupon": 0.04,
+      "ytm": 0.04059
+    },
+    {
+      "cusip": "912797WQ6",
+      "maturity": "2027-01-19",
+      "coupon": 0,
+      "ytm": 0.04088
+    },
+    {
+      "cusip": "912797TM9",
+      "maturity": "2027-01-21",
+      "coupon": 0,
+      "ytm": 0.04079
+    },
+    {
+      "cusip": "912797WR4",
+      "maturity": "2027-01-26",
+      "coupon": 0,
+      "ytm": 0.04097
+    },
+    {
+      "cusip": "912797VU8",
+      "maturity": "2027-01-28",
+      "coupon": 0,
+      "ytm": 0.04097
+    },
+    {
+      "cusip": "912828Z78",
+      "maturity": "2027-01-31",
+      "coupon": 0.015,
+      "ytm": 0.04136
+    },
+    {
+      "cusip": "912797WS2",
+      "maturity": "2027-02-02",
+      "coupon": 0,
+      "ytm": 0.0412
+    },
+    {
+      "cusip": "912797VV6",
+      "maturity": "2027-02-04",
+      "coupon": 0,
+      "ytm": 0.04104
+    },
+    {
+      "cusip": "912797WY9",
+      "maturity": "2027-02-09",
+      "coupon": 0,
+      "ytm": 0.04141
+    },
+    {
+      "cusip": "912797WB9",
+      "maturity": "2027-02-11",
+      "coupon": 0,
+      "ytm": 0.04148
+    },
+    {
+      "cusip": "912828V98",
+      "maturity": "2027-02-15",
+      "coupon": 0.0225,
+      "ytm": 0.04131
+    },
+    {
+      "cusip": "91282CKA8",
+      "maturity": "2027-02-15",
+      "coupon": 0.04125,
+      "ytm": 0.04159
+    },
+    {
+      "cusip": "912797WZ6",
+      "maturity": "2027-02-16",
+      "coupon": 0,
+      "ytm": 0.04156
+    },
+    {
+      "cusip": "912797TV9",
+      "maturity": "2027-02-18",
+      "coupon": 0,
+      "ytm": 0.04142
+    },
+    {
+      "cusip": "912797XA0",
+      "maturity": "2027-02-23",
+      "coupon": 0,
+      "ytm": 0.0417
+    },
+    {
+      "cusip": "912797WC7",
+      "maturity": "2027-02-25",
+      "coupon": 0,
+      "ytm": 0.04166
+    },
+    {
+      "cusip": "912828ZB9",
+      "maturity": "2027-02-28",
+      "coupon": 0.01125,
+      "ytm": 0.04153
+    },
+    {
+      "cusip": "91282CEC1",
+      "maturity": "2027-02-28",
+      "coupon": 0.01875,
+      "ytm": 0.04189
+    },
+    {
+      "cusip": "91282CMP3",
+      "maturity": "2027-02-28",
+      "coupon": 0.04125,
+      "ytm": 0.04169
+    },
+    {
+      "cusip": "912797WD5",
+      "maturity": "2027-03-04",
+      "coupon": 0,
+      "ytm": 0.04191
+    },
+    {
+      "cusip": "912797WK9",
+      "maturity": "2027-03-11",
+      "coupon": 0,
+      "ytm": 0.0418
+    },
+    {
+      "cusip": "91282CKE0",
+      "maturity": "2027-03-15",
+      "coupon": 0.0425,
+      "ytm": 0.04131
+    },
+    {
+      "cusip": "912797UD7",
+      "maturity": "2027-03-18",
+      "coupon": 0,
+      "ytm": 0.04213
+    },
+    {
+      "cusip": "912797WL7",
+      "maturity": "2027-03-25",
+      "coupon": 0,
+      "ytm": 0.0422
+    },
+    {
+      "cusip": "912828ZE3",
+      "maturity": "2027-03-31",
+      "coupon": 0.00625,
+      "ytm": 0.0415
+    },
+    {
+      "cusip": "91282CEF4",
+      "maturity": "2027-03-31",
+      "coupon": 0.025,
+      "ytm": 0.04192
+    },
+    {
+      "cusip": "91282CMV0",
+      "maturity": "2027-03-31",
+      "coupon": 0.03875,
+      "ytm": 0.04229
+    },
+    {
+      "cusip": "912797WM5",
+      "maturity": "2027-04-01",
+      "coupon": 0,
+      "ytm": 0.04254
+    },
+    {
+      "cusip": "912797WU7",
+      "maturity": "2027-04-08",
+      "coupon": 0,
+      "ytm": 0.04257
+    },
+    {
+      "cusip": "912797UE5",
+      "maturity": "2027-04-15",
+      "coupon": 0,
+      "ytm": 0.04272
+    },
+    {
+      "cusip": "91282CKJ9",
+      "maturity": "2027-04-15",
+      "coupon": 0.045,
+      "ytm": 0.04214
+    },
+    {
+      "cusip": "912797WV5",
+      "maturity": "2027-04-22",
+      "coupon": 0,
+      "ytm": 0.04292
+    },
+    {
+      "cusip": "912797WW3",
+      "maturity": "2027-04-29",
+      "coupon": 0,
+      "ytm": 0.04294
+    },
+    {
+      "cusip": "912828ZN3",
+      "maturity": "2027-04-30",
+      "coupon": 0.005,
+      "ytm": 0.04248
+    },
+    {
+      "cusip": "91282CEN7",
+      "maturity": "2027-04-30",
+      "coupon": 0.0275,
+      "ytm": 0.04262
+    },
+    {
+      "cusip": "91282CMY4",
+      "maturity": "2027-04-30",
+      "coupon": 0.0375,
+      "ytm": 0.04255
+    },
+    {
+      "cusip": "912797UX3",
+      "maturity": "2027-05-13",
+      "coupon": 0,
+      "ytm": 0.04197
+    },
+    {
+      "cusip": "912828X88",
+      "maturity": "2027-05-15",
+      "coupon": 0.02375,
+      "ytm": 0.04286
+    },
+    {
+      "cusip": "91282CKR1",
+      "maturity": "2027-05-15",
+      "coupon": 0.045,
+      "ytm": 0.04305
+    },
+    {
+      "cusip": "912828ZS2",
+      "maturity": "2027-05-31",
+      "coupon": 0.005,
+      "ytm": 0.04279
+    },
+    {
+      "cusip": "91282CET4",
+      "maturity": "2027-05-31",
+      "coupon": 0.02625,
+      "ytm": 0.04305
+    },
+    {
+      "cusip": "91282CNE7",
+      "maturity": "2027-05-31",
+      "coupon": 0.03875,
+      "ytm": 0.04307
+    },
+    {
+      "cusip": "912797VF1",
+      "maturity": "2027-06-10",
+      "coupon": 0,
+      "ytm": 0.04211
+    },
+    {
+      "cusip": "91282CKV2",
+      "maturity": "2027-06-15",
+      "coupon": 0.04625,
+      "ytm": 0.04293
+    },
+    {
+      "cusip": "912828ZV5",
+      "maturity": "2027-06-30",
+      "coupon": 0.005,
+      "ytm": 0.04344
+    },
+    {
+      "cusip": "91282CEW7",
+      "maturity": "2027-06-30",
+      "coupon": 0.0325,
+      "ytm": 0.04348
+    },
+    {
+      "cusip": "91282CNL1",
+      "maturity": "2027-06-30",
+      "coupon": 0.0375,
+      "ytm": 0.04349
+    },
+    {
+      "cusip": "912797VQ7",
+      "maturity": "2027-07-08",
+      "coupon": 0,
+      "ytm": 0.04242
+    },
+    {
+      "cusip": "91282CKZ3",
+      "maturity": "2027-07-15",
+      "coupon": 0.04375,
+      "ytm": 0.04342
+    },
+    {
+      "cusip": "91282CAD3",
+      "maturity": "2027-07-31",
+      "coupon": 0.00375,
+      "ytm": 0.04392
+    },
+    {
+      "cusip": "91282CFB2",
+      "maturity": "2027-07-31",
+      "coupon": 0.0275,
+      "ytm": 0.04397
+    },
+    {
+      "cusip": "91282CNP2",
+      "maturity": "2027-07-31",
+      "coupon": 0.03875,
+      "ytm": 0.04407
+    },
+    {
+      "cusip": "912797VR5",
+      "maturity": "2027-08-05",
+      "coupon": 0,
+      "ytm": 0.04302
+    },
+    {
+      "cusip": "9128282R0",
+      "maturity": "2027-08-15",
+      "coupon": 0.0225,
+      "ytm": 0.04444
+    },
+    {
+      "cusip": "91282CLG4",
+      "maturity": "2027-08-15",
+      "coupon": 0.0375,
+      "ytm": 0.04446
+    },
+    {
+      "cusip": "91282CAH4",
+      "maturity": "2027-08-31",
+      "coupon": 0.005,
+      "ytm": 0.04409
+    },
+    {
+      "cusip": "91282CFH9",
+      "maturity": "2027-08-31",
+      "coupon": 0.03125,
+      "ytm": 0.04421
+    },
+    {
+      "cusip": "91282CNV9",
+      "maturity": "2027-08-31",
+      "coupon": 0.03625,
+      "ytm": 0.04434
+    },
+    {
+      "cusip": "912797WA1",
+      "maturity": "2027-09-02",
+      "coupon": 0,
+      "ytm": 0.04318
+    },
+    {
+      "cusip": "91282CLL3",
+      "maturity": "2027-09-15",
+      "coupon": 0.03375,
+      "ytm": 0.04428
+    },
+    {
+      "cusip": "912797WJ2",
+      "maturity": "2027-09-30",
+      "coupon": 0,
+      "ytm": 0.0439
+    },
+    {
+      "cusip": "91282CAL5",
+      "maturity": "2027-09-30",
+      "coupon": 0.00375,
+      "ytm": 0.04448
+    },
+    {
+      "cusip": "91282CFM8",
+      "maturity": "2027-09-30",
+      "coupon": 0.04125,
+      "ytm": 0.04425
+    },
+    {
+      "cusip": "91282CPB1",
+      "maturity": "2027-09-30",
+      "coupon": 0.035,
+      "ytm": 0.04442
+    },
+    {
+      "cusip": "91282CLQ2",
+      "maturity": "2027-10-15",
+      "coupon": 0.03875,
+      "ytm": 0.04436
+    },
+    {
+      "cusip": "912797WT0",
+      "maturity": "2027-10-28",
+      "coupon": 0,
+      "ytm": 0.04424
+    },
+    {
+      "cusip": "91282CAU5",
+      "maturity": "2027-10-31",
+      "coupon": 0.005,
+      "ytm": 0.04512
+    },
+    {
+      "cusip": "91282CFU0",
+      "maturity": "2027-10-31",
+      "coupon": 0.04125,
+      "ytm": 0.04499
+    },
+    {
+      "cusip": "91282CPE5",
+      "maturity": "2027-10-31",
+      "coupon": 0.035,
+      "ytm": 0.04517
+    },
+    {
+      "cusip": "9128283F5",
+      "maturity": "2027-11-15",
+      "coupon": 0.0225,
+      "ytm": 0.04503
+    },
+    {
+      "cusip": "91282CLX7",
+      "maturity": "2027-11-15",
+      "coupon": 0.04125,
+      "ytm": 0.04508
+    },
+    {
+      "cusip": "91282CAY7",
+      "maturity": "2027-11-30",
+      "coupon": 0.00625,
+      "ytm": 0.04515
+    },
+    {
+      "cusip": "91282CFZ9",
+      "maturity": "2027-11-30",
+      "coupon": 0.03875,
+      "ytm": 0.04519
+    },
+    {
+      "cusip": "91282CPL9",
+      "maturity": "2027-11-30",
+      "coupon": 0.03375,
+      "ytm": 0.04522
+    },
+    {
+      "cusip": "91282CMB4",
+      "maturity": "2027-12-15",
+      "coupon": 0.04,
+      "ytm": 0.0453
+    },
+    {
+      "cusip": "91282CBB6",
+      "maturity": "2027-12-31",
+      "coupon": 0.00625,
+      "ytm": 0.04546
+    },
+    {
+      "cusip": "91282CGC9",
+      "maturity": "2027-12-31",
+      "coupon": 0.03875,
+      "ytm": 0.04543
+    },
+    {
+      "cusip": "91282CPS4",
+      "maturity": "2027-12-31",
+      "coupon": 0.03375,
+      "ytm": 0.04553
+    },
+    {
+      "cusip": "91282CMF5",
+      "maturity": "2028-01-15",
+      "coupon": 0.0425,
+      "ytm": 0.0457
+    },
+    {
+      "cusip": "91282CBJ9",
+      "maturity": "2028-01-31",
+      "coupon": 0.0075,
+      "ytm": 0.04563
+    },
+    {
+      "cusip": "91282CGH8",
+      "maturity": "2028-01-31",
+      "coupon": 0.035,
+      "ytm": 0.04571
+    },
+    {
+      "cusip": "9128283W8",
+      "maturity": "2028-02-15",
+      "coupon": 0.0275,
+      "ytm": 0.0456
+    },
+    {
+      "cusip": "91282CMN8",
+      "maturity": "2028-02-15",
+      "coupon": 0.0425,
+      "ytm": 0.04567
+    },
+    {
+      "cusip": "91282CBP5",
+      "maturity": "2028-02-29",
+      "coupon": 0.01125,
+      "ytm": 0.04581
+    },
+    {
+      "cusip": "91282CGP0",
+      "maturity": "2028-02-29",
+      "coupon": 0.04,
+      "ytm": 0.04576
+    },
+    {
+      "cusip": "91282CQB0",
+      "maturity": "2028-02-29",
+      "coupon": 0.03375,
+      "ytm": 0.04582
+    },
+    {
+      "cusip": "91282CMS7",
+      "maturity": "2028-03-15",
+      "coupon": 0.03875,
+      "ytm": 0.04573
+    },
+    {
+      "cusip": "91282CBS9",
+      "maturity": "2028-03-31",
+      "coupon": 0.0125,
+      "ytm": 0.0459
+    },
+    {
+      "cusip": "91282CGT2",
+      "maturity": "2028-03-31",
+      "coupon": 0.03625,
+      "ytm": 0.04598
+    },
+    {
+      "cusip": "91282CQH7",
+      "maturity": "2028-03-31",
+      "coupon": 0.03875,
+      "ytm": 0.04597
+    },
+    {
+      "cusip": "91282CMW8",
+      "maturity": "2028-04-15",
+      "coupon": 0.0375,
+      "ytm": 0.04604
+    },
+    {
+      "cusip": "91282CBZ3",
+      "maturity": "2028-04-30",
+      "coupon": 0.0125,
+      "ytm": 0.04608
+    },
+    {
+      "cusip": "91282CHA2",
+      "maturity": "2028-04-30",
+      "coupon": 0.035,
+      "ytm": 0.04613
+    },
+    {
+      "cusip": "91282CQL8",
+      "maturity": "2028-04-30",
+      "coupon": 0.0375,
+      "ytm": 0.04617
+    },
+    {
+      "cusip": "9128284N7",
+      "maturity": "2028-05-15",
+      "coupon": 0.02875,
+      "ytm": 0.04613
+    },
+    {
+      "cusip": "91282CND9",
+      "maturity": "2028-05-15",
+      "coupon": 0.0375,
+      "ytm": 0.04618
+    },
+    {
+      "cusip": "91282CCE9",
+      "maturity": "2028-05-31",
+      "coupon": 0.0125,
+      "ytm": 0.04625
+    },
+    {
+      "cusip": "91282CHE4",
+      "maturity": "2028-05-31",
+      "coupon": 0.03625,
+      "ytm": 0.04632
+    },
+    {
+      "cusip": "91282CQS3",
+      "maturity": "2028-05-31",
+      "coupon": 0.04,
+      "ytm": 0.04628
+    },
+    {
+      "cusip": "91282CNH0",
+      "maturity": "2028-06-15",
+      "coupon": 0.03875,
+      "ytm": 0.04631
+    },
+    {
+      "cusip": "91282CCH2",
+      "maturity": "2028-06-30",
+      "coupon": 0.0125,
+      "ytm": 0.04637
+    },
+    {
+      "cusip": "91282CHK0",
+      "maturity": "2028-06-30",
+      "coupon": 0.04,
+      "ytm": 0.04628
+    },
+    {
+      "cusip": "91282CQY0",
+      "maturity": "2028-06-30",
+      "coupon": 0.04125,
+      "ytm": 0.04634
+    },
+    {
+      "cusip": "91282CNM9",
+      "maturity": "2028-07-15",
+      "coupon": 0.03875,
+      "ytm": 0.04645
+    },
+    {
+      "cusip": "91282CCR0",
+      "maturity": "2028-07-31",
+      "coupon": 0.01,
+      "ytm": 0.04646
+    },
+    {
+      "cusip": "91282CHQ7",
+      "maturity": "2028-07-31",
+      "coupon": 0.04125,
+      "ytm": 0.04636
+    },
+    {
+      "cusip": "91282CRB9",
+      "maturity": "2028-07-31",
+      "coupon": 0.0425,
+      "ytm": 0.04645
+    },
+    {
+      "cusip": "912810FE3",
+      "maturity": "2028-08-15",
+      "coupon": 0.055,
+      "ytm": 0.04569
+    },
+    {
+      "cusip": "9128284V9",
+      "maturity": "2028-08-15",
+      "coupon": 0.02875,
+      "ytm": 0.04651
+    },
+    {
+      "cusip": "91282CNU1",
+      "maturity": "2028-08-15",
+      "coupon": 0.03625,
+      "ytm": 0.04653
+    },
+    {
+      "cusip": "91282CCV1",
+      "maturity": "2028-08-31",
+      "coupon": 0.01125,
+      "ytm": 0.04661
+    },
+    {
+      "cusip": "91282CHX2",
+      "maturity": "2028-08-31",
+      "coupon": 0.04375,
+      "ytm": 0.0465
+    },
+    {
+      "cusip": "91282CRH6",
+      "maturity": "2028-08-31",
+      "coupon": 0.04125,
+      "ytm": 0.04655
+    },
+    {
+      "cusip": "91282CNY3",
+      "maturity": "2028-09-15",
+      "coupon": 0.03375,
+      "ytm": 0.04663
+    },
+    {
+      "cusip": "91282CCY5",
+      "maturity": "2028-09-30",
+      "coupon": 0.0125,
+      "ytm": 0.04671
+    },
+    {
+      "cusip": "91282CJA0",
+      "maturity": "2028-09-30",
+      "coupon": 0.04625,
+      "ytm": 0.04669
+    },
+    {
+      "cusip": "91282CRP8",
+      "maturity": "2028-09-30",
+      "coupon": 0.0475,
+      "ytm": 0.04669
+    },
+    {
+      "cusip": "91282CPC9",
+      "maturity": "2028-10-15",
+      "coupon": 0.035,
+      "ytm": 0.0467
+    },
+    {
+      "cusip": "91282CDF5",
+      "maturity": "2028-10-31",
+      "coupon": 0.01375,
+      "ytm": 0.04672
+    },
+    {
+      "cusip": "91282CJF9",
+      "maturity": "2028-10-31",
+      "coupon": 0.04875,
+      "ytm": 0.04671
+    },
+    {
+      "cusip": "912810FF0",
+      "maturity": "2028-11-15",
+      "coupon": 0.0525,
+      "ytm": 0.04583
+    },
+    {
+      "cusip": "9128285M8",
+      "maturity": "2028-11-15",
+      "coupon": 0.03125,
+      "ytm": 0.04675
+    },
+    {
+      "cusip": "91282CPK1",
+      "maturity": "2028-11-15",
+      "coupon": 0.035,
+      "ytm": 0.04681
+    },
+    {
+      "cusip": "91282CDL2",
+      "maturity": "2028-11-30",
+      "coupon": 0.015,
+      "ytm": 0.04681
+    },
+    {
+      "cusip": "91282CJN2",
+      "maturity": "2028-11-30",
+      "coupon": 0.04375,
+      "ytm": 0.04679
+    },
+    {
+      "cusip": "91282CPP0",
+      "maturity": "2028-12-15",
+      "coupon": 0.035,
+      "ytm": 0.04686
+    },
+    {
+      "cusip": "91282CDP3",
+      "maturity": "2028-12-31",
+      "coupon": 0.01375,
+      "ytm": 0.04693
+    },
+    {
+      "cusip": "91282CJR3",
+      "maturity": "2028-12-31",
+      "coupon": 0.0375,
+      "ytm": 0.04686
+    },
+    {
+      "cusip": "91282CPT2",
+      "maturity": "2029-01-15",
+      "coupon": 0.035,
+      "ytm": 0.047
+    },
+    {
+      "cusip": "91282CDW8",
+      "maturity": "2029-01-31",
+      "coupon": 0.0175,
+      "ytm": 0.04706
+    },
+    {
+      "cusip": "91282CJW2",
+      "maturity": "2029-01-31",
+      "coupon": 0.04,
+      "ytm": 0.04699
+    },
+    {
+      "cusip": "912810FG8",
+      "maturity": "2029-02-15",
+      "coupon": 0.0525,
+      "ytm": 0.04565
+    },
+    {
+      "cusip": "9128286B1",
+      "maturity": "2029-02-15",
+      "coupon": 0.02625,
+      "ytm": 0.04705
+    },
+    {
+      "cusip": "91282CQA2",
+      "maturity": "2029-02-15",
+      "coupon": 0.035,
+      "ytm": 0.04705
+    },
+    {
+      "cusip": "91282CEB3",
+      "maturity": "2029-02-28",
+      "coupon": 0.01875,
+      "ytm": 0.04709
+    },
+    {
+      "cusip": "91282CKD2",
+      "maturity": "2029-02-28",
+      "coupon": 0.0425,
+      "ytm": 0.04701
+    },
+    {
+      "cusip": "91282CQE4",
+      "maturity": "2029-03-15",
+      "coupon": 0.035,
+      "ytm": 0.047
+    },
+    {
+      "cusip": "91282CEE7",
+      "maturity": "2029-03-31",
+      "coupon": 0.02375,
+      "ytm": 0.04718
+    },
+    {
+      "cusip": "91282CKG5",
+      "maturity": "2029-03-31",
+      "coupon": 0.04125,
+      "ytm": 0.04706
+    },
+    {
+      "cusip": "91282CQJ3",
+      "maturity": "2029-04-15",
+      "coupon": 0.03875,
+      "ytm": 0.04717
+    },
+    {
+      "cusip": "91282CEM9",
+      "maturity": "2029-04-30",
+      "coupon": 0.02875,
+      "ytm": 0.04718
+    },
+    {
+      "cusip": "91282CKP5",
+      "maturity": "2029-04-30",
+      "coupon": 0.04625,
+      "ytm": 0.04712
+    },
+    {
+      "cusip": "9128286T2",
+      "maturity": "2029-05-15",
+      "coupon": 0.02375,
+      "ytm": 0.04716
+    },
+    {
+      "cusip": "91282CQR5",
+      "maturity": "2029-05-15",
+      "coupon": 0.03875,
+      "ytm": 0.04715
+    },
+    {
+      "cusip": "91282CES6",
+      "maturity": "2029-05-31",
+      "coupon": 0.0275,
+      "ytm": 0.04723
+    },
+    {
+      "cusip": "91282CKT7",
+      "maturity": "2029-05-31",
+      "coupon": 0.045,
+      "ytm": 0.04724
+    },
+    {
+      "cusip": "91282CQV6",
+      "maturity": "2029-06-15",
+      "coupon": 0.04125,
+      "ytm": 0.04726
+    },
+    {
+      "cusip": "91282CEV9",
+      "maturity": "2029-06-30",
+      "coupon": 0.0325,
+      "ytm": 0.04724
+    },
+    {
+      "cusip": "91282CKX8",
+      "maturity": "2029-06-30",
+      "coupon": 0.0425,
+      "ytm": 0.04723
+    },
+    {
+      "cusip": "91282CQZ7",
+      "maturity": "2029-07-15",
+      "coupon": 0.04125,
+      "ytm": 0.04733
+    },
+    {
+      "cusip": "91282CFC0",
+      "maturity": "2029-07-31",
+      "coupon": 0.02625,
+      "ytm": 0.04736
+    },
+    {
+      "cusip": "91282CLC3",
+      "maturity": "2029-07-31",
+      "coupon": 0.04,
+      "ytm": 0.04734
+    },
+    {
+      "cusip": "912810FJ2",
+      "maturity": "2029-08-15",
+      "coupon": 0.06125,
+      "ytm": 0.04647
+    },
+    {
+      "cusip": "912828YB0",
+      "maturity": "2029-08-15",
+      "coupon": 0.01625,
+      "ytm": 0.04703
+    },
+    {
+      "cusip": "91282CRG8",
+      "maturity": "2029-08-15",
+      "coupon": 0.0425,
+      "ytm": 0.04735
+    },
+    {
+      "cusip": "91282CFJ5",
+      "maturity": "2029-08-31",
+      "coupon": 0.03125,
+      "ytm": 0.04739
+    },
+    {
+      "cusip": "91282CLK5",
+      "maturity": "2029-08-31",
+      "coupon": 0.03625,
+      "ytm": 0.04741
+    },
+    {
+      "cusip": "91282CRL7",
+      "maturity": "2029-09-15",
+      "coupon": 0.04375,
+      "ytm": 0.04744
+    },
+    {
+      "cusip": "91282CFL0",
+      "maturity": "2029-09-30",
+      "coupon": 0.03875,
+      "ytm": 0.04741
+    },
+    {
+      "cusip": "91282CLN9",
+      "maturity": "2029-09-30",
+      "coupon": 0.035,
+      "ytm": 0.04742
+    },
+    {
+      "cusip": "91282CRQ6",
+      "maturity": "2029-10-15",
+      "coupon": 0.04875,
+      "ytm": 0.04743
+    },
+    {
+      "cusip": "91282CFT3",
+      "maturity": "2029-10-31",
+      "coupon": 0.04,
+      "ytm": 0.04746
+    },
+    {
+      "cusip": "91282CLR0",
+      "maturity": "2029-10-31",
+      "coupon": 0.04125,
+      "ytm": 0.0475
+    },
+    {
+      "cusip": "912828YS3",
+      "maturity": "2029-11-15",
+      "coupon": 0.0175,
+      "ytm": 0.04725
+    },
+    {
+      "cusip": "91282CFY2",
+      "maturity": "2029-11-30",
+      "coupon": 0.03875,
+      "ytm": 0.04755
+    },
+    {
+      "cusip": "91282CMA6",
+      "maturity": "2029-11-30",
+      "coupon": 0.04125,
+      "ytm": 0.04754
+    },
+    {
+      "cusip": "91282CGB1",
+      "maturity": "2029-12-31",
+      "coupon": 0.03875,
+      "ytm": 0.04758
+    },
+    {
+      "cusip": "91282CMD0",
+      "maturity": "2029-12-31",
+      "coupon": 0.04375,
+      "ytm": 0.04753
+    },
+    {
+      "cusip": "91282CGJ4",
+      "maturity": "2030-01-31",
+      "coupon": 0.035,
+      "ytm": 0.04765
+    },
+    {
+      "cusip": "91282CMG3",
+      "maturity": "2030-01-31",
+      "coupon": 0.0425,
+      "ytm": 0.04763
+    },
+    {
+      "cusip": "912828Z94",
+      "maturity": "2030-02-15",
+      "coupon": 0.015,
+      "ytm": 0.04757
+    },
+    {
+      "cusip": "91282CGQ8",
+      "maturity": "2030-02-28",
+      "coupon": 0.04,
+      "ytm": 0.0476
+    },
+    {
+      "cusip": "91282CGS4",
+      "maturity": "2030-03-31",
+      "coupon": 0.03625,
+      "ytm": 0.04797
+    },
+    {
+      "cusip": "91282CMU2",
+      "maturity": "2030-03-31",
+      "coupon": 0.04,
+      "ytm": 0.04765
+    },
+    {
+      "cusip": "91282CGZ8",
+      "maturity": "2030-04-30",
+      "coupon": 0.035,
+      "ytm": 0.04771
+    },
+    {
+      "cusip": "91282CMZ1",
+      "maturity": "2030-04-30",
+      "coupon": 0.03875,
+      "ytm": 0.04769
+    },
+    {
+      "cusip": "912810FM5",
+      "maturity": "2030-05-15",
+      "coupon": 0.0625,
+      "ytm": 0.04698
+    },
+    {
+      "cusip": "912828ZQ6",
+      "maturity": "2030-05-15",
+      "coupon": 0.00625,
+      "ytm": 0.04768
+    },
+    {
+      "cusip": "91282CHF1",
+      "maturity": "2030-05-31",
+      "coupon": 0.0375,
+      "ytm": 0.04777
+    },
+    {
+      "cusip": "91282CNG2",
+      "maturity": "2030-05-31",
+      "coupon": 0.04,
+      "ytm": 0.04776
+    },
+    {
+      "cusip": "91282CHJ3",
+      "maturity": "2030-06-30",
+      "coupon": 0.0375,
+      "ytm": 0.04779
+    },
+    {
+      "cusip": "91282CNK3",
+      "maturity": "2030-06-30",
+      "coupon": 0.03875,
+      "ytm": 0.04777
+    },
+    {
+      "cusip": "91282CHR5",
+      "maturity": "2030-07-31",
+      "coupon": 0.04,
+      "ytm": 0.04782
+    },
+    {
+      "cusip": "91282CNN7",
+      "maturity": "2030-07-31",
+      "coupon": 0.03875,
+      "ytm": 0.04783
+    },
+    {
+      "cusip": "91282CAE1",
+      "maturity": "2030-08-15",
+      "coupon": 0.00625,
+      "ytm": 0.04775
+    },
+    {
+      "cusip": "91282CHW4",
+      "maturity": "2030-08-31",
+      "coupon": 0.04125,
+      "ytm": 0.04787
+    },
+    {
+      "cusip": "91282CNX5",
+      "maturity": "2030-08-31",
+      "coupon": 0.03625,
+      "ytm": 0.04789
+    },
+    {
+      "cusip": "91282CHZ7",
+      "maturity": "2030-09-30",
+      "coupon": 0.04625,
+      "ytm": 0.04785
+    },
+    {
+      "cusip": "91282CPA3",
+      "maturity": "2030-09-30",
+      "coupon": 0.03625,
+      "ytm": 0.04787
+    },
+    {
+      "cusip": "91282CJG7",
+      "maturity": "2030-10-31",
+      "coupon": 0.04875,
+      "ytm": 0.04785
+    },
+    {
+      "cusip": "91282CPD7",
+      "maturity": "2030-10-31",
+      "coupon": 0.03625,
+      "ytm": 0.04788
+    },
+    {
+      "cusip": "91282CAV3",
+      "maturity": "2030-11-15",
+      "coupon": 0.00875,
+      "ytm": 0.04791
+    },
+    {
+      "cusip": "91282CJM4",
+      "maturity": "2030-11-30",
+      "coupon": 0.04375,
+      "ytm": 0.04796
+    },
+    {
+      "cusip": "91282CPN5",
+      "maturity": "2030-11-30",
+      "coupon": 0.035,
+      "ytm": 0.04799
+    },
+    {
+      "cusip": "91282CJQ5",
+      "maturity": "2030-12-31",
+      "coupon": 0.0375,
+      "ytm": 0.04799
+    },
+    {
+      "cusip": "91282CPR6",
+      "maturity": "2030-12-31",
+      "coupon": 0.03625,
+      "ytm": 0.04797
+    },
+    {
+      "cusip": "91282CJX0",
+      "maturity": "2031-01-31",
+      "coupon": 0.04,
+      "ytm": 0.04804
+    },
+    {
+      "cusip": "91282CPW5",
+      "maturity": "2031-01-31",
+      "coupon": 0.0375,
+      "ytm": 0.048
+    },
+    {
+      "cusip": "912810FP8",
+      "maturity": "2031-02-15",
+      "coupon": 0.05375,
+      "ytm": 0.04733
+    },
+    {
+      "cusip": "91282CBL4",
+      "maturity": "2031-02-15",
+      "coupon": 0.01125,
+      "ytm": 0.0477
+    },
+    {
+      "cusip": "91282CKC4",
+      "maturity": "2031-02-28",
+      "coupon": 0.0425,
+      "ytm": 0.048
+    },
+    {
+      "cusip": "91282CQD6",
+      "maturity": "2031-02-28",
+      "coupon": 0.035,
+      "ytm": 0.04796
+    },
+    {
+      "cusip": "91282CKF7",
+      "maturity": "2031-03-31",
+      "coupon": 0.04125,
+      "ytm": 0.04801
+    },
+    {
+      "cusip": "91282CQG9",
+      "maturity": "2031-03-31",
+      "coupon": 0.03875,
+      "ytm": 0.04802
+    },
+    {
+      "cusip": "91282CKN0",
+      "maturity": "2031-04-30",
+      "coupon": 0.04625,
+      "ytm": 0.04805
+    },
+    {
+      "cusip": "91282CQK0",
+      "maturity": "2031-04-30",
+      "coupon": 0.03875,
+      "ytm": 0.04801
+    },
+    {
+      "cusip": "91282CCB5",
+      "maturity": "2031-05-15",
+      "coupon": 0.01625,
+      "ytm": 0.04804
+    },
+    {
+      "cusip": "91282CKU4",
+      "maturity": "2031-05-31",
+      "coupon": 0.04625,
+      "ytm": 0.04809
+    },
+    {
+      "cusip": "91282CQU8",
+      "maturity": "2031-05-31",
+      "coupon": 0.04125,
+      "ytm": 0.04803
+    },
+    {
+      "cusip": "91282CKW0",
+      "maturity": "2031-06-30",
+      "coupon": 0.0425,
+      "ytm": 0.0481
+    },
+    {
+      "cusip": "91282CQX2",
+      "maturity": "2031-06-30",
+      "coupon": 0.04125,
+      "ytm": 0.04805
+    },
+    {
+      "cusip": "91282CLD1",
+      "maturity": "2031-07-31",
+      "coupon": 0.04125,
+      "ytm": 0.04813
+    },
+    {
+      "cusip": "91282CRA1",
+      "maturity": "2031-07-31",
+      "coupon": 0.04375,
+      "ytm": 0.04809
+    },
+    {
+      "cusip": "91282CCS8",
+      "maturity": "2031-08-15",
+      "coupon": 0.0125,
+      "ytm": 0.0482
+    },
+    {
+      "cusip": "91282CLJ8",
+      "maturity": "2031-08-31",
+      "coupon": 0.0375,
+      "ytm": 0.0482
+    },
+    {
+      "cusip": "91282CRK9",
+      "maturity": "2031-08-31",
+      "coupon": 0.04375,
+      "ytm": 0.04806
+    },
+    {
+      "cusip": "91282CLM1",
+      "maturity": "2031-09-30",
+      "coupon": 0.03625,
+      "ytm": 0.0482
+    },
+    {
+      "cusip": "91282CRN3",
+      "maturity": "2031-09-30",
+      "coupon": 0.05,
+      "ytm": 0.04809
+    },
+    {
+      "cusip": "91282CLU3",
+      "maturity": "2031-10-31",
+      "coupon": 0.04125,
+      "ytm": 0.04823
+    },
+    {
+      "cusip": "91282CDJ7",
+      "maturity": "2031-11-15",
+      "coupon": 0.01375,
+      "ytm": 0.04835
+    },
+    {
+      "cusip": "91282CLZ2",
+      "maturity": "2031-11-30",
+      "coupon": 0.04125,
+      "ytm": 0.04828
+    },
+    {
+      "cusip": "91282CMC2",
+      "maturity": "2031-12-31",
+      "coupon": 0.045,
+      "ytm": 0.0483
+    },
+    {
+      "cusip": "91282CMK4",
+      "maturity": "2032-01-31",
+      "coupon": 0.04375,
+      "ytm": 0.04838
+    },
+    {
+      "cusip": "91282CDY4",
+      "maturity": "2032-02-15",
+      "coupon": 0.01875,
+      "ytm": 0.04848
+    },
+    {
+      "cusip": "91282CMR9",
+      "maturity": "2032-02-29",
+      "coupon": 0.04125,
+      "ytm": 0.0484
+    },
+    {
+      "cusip": "91282CMT5",
+      "maturity": "2032-03-31",
+      "coupon": 0.04125,
+      "ytm": 0.0484
+    },
+    {
+      "cusip": "91282CNA5",
+      "maturity": "2032-04-30",
+      "coupon": 0.04,
+      "ytm": 0.0484
+    },
+    {
+      "cusip": "91282CEP2",
+      "maturity": "2032-05-15",
+      "coupon": 0.02875,
+      "ytm": 0.04854
+    },
+    {
+      "cusip": "91282CNF4",
+      "maturity": "2032-05-31",
+      "coupon": 0.04125,
+      "ytm": 0.04848
+    },
+    {
+      "cusip": "91282CNJ6",
+      "maturity": "2032-06-30",
+      "coupon": 0.04,
+      "ytm": 0.04849
+    },
+    {
+      "cusip": "91282CNR8",
+      "maturity": "2032-07-31",
+      "coupon": 0.04,
+      "ytm": 0.04857
+    },
+    {
+      "cusip": "91282CFF3",
+      "maturity": "2032-08-15",
+      "coupon": 0.0275,
+      "ytm": 0.04859
+    },
+    {
+      "cusip": "91282CNW7",
+      "maturity": "2032-08-31",
+      "coupon": 0.03875,
+      "ytm": 0.04858
+    },
+    {
+      "cusip": "91282CNZ0",
+      "maturity": "2032-09-30",
+      "coupon": 0.03875,
+      "ytm": 0.04861
+    },
+    {
+      "cusip": "91282CPF2",
+      "maturity": "2032-10-31",
+      "coupon": 0.0375,
+      "ytm": 0.04866
+    },
+    {
+      "cusip": "91282CFV8",
+      "maturity": "2032-11-15",
+      "coupon": 0.04125,
+      "ytm": 0.04871
+    },
+    {
+      "cusip": "91282CPM7",
+      "maturity": "2032-11-30",
+      "coupon": 0.0375,
+      "ytm": 0.04869
+    },
+    {
+      "cusip": "91282CPQ8",
+      "maturity": "2032-12-31",
+      "coupon": 0.03875,
+      "ytm": 0.04872
+    },
+    {
+      "cusip": "91282CPY1",
+      "maturity": "2033-01-31",
+      "coupon": 0.04,
+      "ytm": 0.04875
+    },
+    {
+      "cusip": "91282CGM7",
+      "maturity": "2033-02-15",
+      "coupon": 0.035,
+      "ytm": 0.0488
+    },
+    {
+      "cusip": "91282CQC8",
+      "maturity": "2033-02-28",
+      "coupon": 0.0375,
+      "ytm": 0.04874
+    },
+    {
+      "cusip": "91282CQF1",
+      "maturity": "2033-03-31",
+      "coupon": 0.0425,
+      "ytm": 0.04879
+    },
+    {
+      "cusip": "91282CQN4",
+      "maturity": "2033-04-30",
+      "coupon": 0.04125,
+      "ytm": 0.04884
+    },
+    {
+      "cusip": "91282CHC8",
+      "maturity": "2033-05-15",
+      "coupon": 0.03375,
+      "ytm": 0.04888
+    },
+    {
+      "cusip": "91282CQT1",
+      "maturity": "2033-05-31",
+      "coupon": 0.0425,
+      "ytm": 0.04885
+    },
+    {
+      "cusip": "91282CQW4",
+      "maturity": "2033-06-30",
+      "coupon": 0.0425,
+      "ytm": 0.04887
+    },
+    {
+      "cusip": "91282CRC7",
+      "maturity": "2033-07-31",
+      "coupon": 0.04375,
+      "ytm": 0.04891
+    },
+    {
+      "cusip": "91282CHT1",
+      "maturity": "2033-08-15",
+      "coupon": 0.03875,
+      "ytm": 0.04895
+    },
+    {
+      "cusip": "91282CRJ2",
+      "maturity": "2033-08-31",
+      "coupon": 0.045,
+      "ytm": 0.04891
+    },
+    {
+      "cusip": "91282CRM5",
+      "maturity": "2033-09-30",
+      "coupon": 0.05,
+      "ytm": 0.04892
+    },
+    {
+      "cusip": "91282CJJ1",
+      "maturity": "2033-11-15",
+      "coupon": 0.045,
+      "ytm": 0.04899
+    },
+    {
+      "cusip": "91282CJZ5",
+      "maturity": "2034-02-15",
+      "coupon": 0.04,
+      "ytm": 0.04915
+    },
+    {
+      "cusip": "91282CKQ3",
+      "maturity": "2034-05-15",
+      "coupon": 0.04375,
+      "ytm": 0.04922
+    },
+    {
+      "cusip": "91282CLF6",
+      "maturity": "2034-08-15",
+      "coupon": 0.03875,
+      "ytm": 0.04938
+    },
+    {
+      "cusip": "91282CLW9",
+      "maturity": "2034-11-15",
+      "coupon": 0.0425,
+      "ytm": 0.04948
+    },
+    {
+      "cusip": "91282CMM0",
+      "maturity": "2035-02-15",
+      "coupon": 0.04625,
+      "ytm": 0.04957
+    },
+    {
+      "cusip": "91282CNC1",
+      "maturity": "2035-05-15",
+      "coupon": 0.0425,
+      "ytm": 0.04965
+    },
+    {
+      "cusip": "91282CNT4",
+      "maturity": "2035-08-15",
+      "coupon": 0.0425,
+      "ytm": 0.04975
+    },
+    {
+      "cusip": "91282CPJ4",
+      "maturity": "2035-11-15",
+      "coupon": 0.04,
+      "ytm": 0.04984
+    },
+    {
+      "cusip": "912810FT0",
+      "maturity": "2036-02-15",
+      "coupon": 0.045,
+      "ytm": 0.04803
+    },
+    {
+      "cusip": "91282CPZ8",
+      "maturity": "2036-02-15",
+      "coupon": 0.04125,
+      "ytm": 0.0499
+    },
+    {
+      "cusip": "91282CQQ7",
+      "maturity": "2036-05-15",
+      "coupon": 0.04375,
+      "ytm": 0.04994
+    },
+    {
+      "cusip": "91282CRF0",
+      "maturity": "2036-08-15",
+      "coupon": 0.04625,
+      "ytm": 0.04997
+    },
+    {
+      "cusip": "912810PT9",
+      "maturity": "2037-02-15",
+      "coupon": 0.0475,
+      "ytm": 0.04906
+    },
+    {
+      "cusip": "912810PU6",
+      "maturity": "2037-05-15",
+      "coupon": 0.05,
+      "ytm": 0.04911
+    },
+    {
+      "cusip": "912810PW2",
+      "maturity": "2038-02-15",
+      "coupon": 0.04375,
+      "ytm": 0.04935
+    },
+    {
+      "cusip": "912810PX0",
+      "maturity": "2038-05-15",
+      "coupon": 0.045,
+      "ytm": 0.04966
+    },
+    {
+      "cusip": "912810QA9",
+      "maturity": "2039-02-15",
+      "coupon": 0.035,
+      "ytm": 0.05016
+    },
+    {
+      "cusip": "912810QB7",
+      "maturity": "2039-05-15",
+      "coupon": 0.0425,
+      "ytm": 0.05066
+    },
+    {
+      "cusip": "912810QC5",
+      "maturity": "2039-08-15",
+      "coupon": 0.045,
+      "ytm": 0.05096
+    },
+    {
+      "cusip": "912810QD3",
+      "maturity": "2039-11-15",
+      "coupon": 0.04375,
+      "ytm": 0.05115
+    },
+    {
+      "cusip": "912810QE1",
+      "maturity": "2040-02-15",
+      "coupon": 0.04625,
+      "ytm": 0.05132
+    },
+    {
+      "cusip": "912810QH4",
+      "maturity": "2040-05-15",
+      "coupon": 0.04375,
+      "ytm": 0.05142
+    },
+    {
+      "cusip": "912810SR0",
+      "maturity": "2040-05-15",
+      "coupon": 0.01125,
+      "ytm": 0.05189
+    },
+    {
+      "cusip": "912810QK7",
+      "maturity": "2040-08-15",
+      "coupon": 0.03875,
+      "ytm": 0.0516
+    },
+    {
+      "cusip": "912810SQ2",
+      "maturity": "2040-08-15",
+      "coupon": 0.01125,
+      "ytm": 0.05209
+    },
+    {
+      "cusip": "912810QL5",
+      "maturity": "2040-11-15",
+      "coupon": 0.0425,
+      "ytm": 0.05175
+    },
+    {
+      "cusip": "912810ST6",
+      "maturity": "2040-11-15",
+      "coupon": 0.01375,
+      "ytm": 0.05223
+    },
+    {
+      "cusip": "912810QN1",
+      "maturity": "2041-02-15",
+      "coupon": 0.0475,
+      "ytm": 0.05188
+    },
+    {
+      "cusip": "912810SW9",
+      "maturity": "2041-02-15",
+      "coupon": 0.01875,
+      "ytm": 0.05234
+    },
+    {
+      "cusip": "912810QQ4",
+      "maturity": "2041-05-15",
+      "coupon": 0.04375,
+      "ytm": 0.05206
+    },
+    {
+      "cusip": "912810SY5",
+      "maturity": "2041-05-15",
+      "coupon": 0.0225,
+      "ytm": 0.05243
+    },
+    {
+      "cusip": "912810QS0",
+      "maturity": "2041-08-15",
+      "coupon": 0.0375,
+      "ytm": 0.05222
+    },
+    {
+      "cusip": "912810TA6",
+      "maturity": "2041-08-15",
+      "coupon": 0.0175,
+      "ytm": 0.05266
+    },
+    {
+      "cusip": "912810QT8",
+      "maturity": "2041-11-15",
+      "coupon": 0.03125,
+      "ytm": 0.05257
+    },
+    {
+      "cusip": "912810TC2",
+      "maturity": "2041-11-15",
+      "coupon": 0.02,
+      "ytm": 0.05282
+    },
+    {
+      "cusip": "912810QU5",
+      "maturity": "2042-02-15",
+      "coupon": 0.03125,
+      "ytm": 0.05278
+    },
+    {
+      "cusip": "912810TF5",
+      "maturity": "2042-02-15",
+      "coupon": 0.02375,
+      "ytm": 0.05286
+    },
+    {
+      "cusip": "912810QW1",
+      "maturity": "2042-05-15",
+      "coupon": 0.03,
+      "ytm": 0.0529
+    },
+    {
+      "cusip": "912810TH1",
+      "maturity": "2042-05-15",
+      "coupon": 0.0325,
+      "ytm": 0.05288
+    },
+    {
+      "cusip": "912810QX9",
+      "maturity": "2042-08-15",
+      "coupon": 0.0275,
+      "ytm": 0.05309
+    },
+    {
+      "cusip": "912810TK4",
+      "maturity": "2042-08-15",
+      "coupon": 0.03375,
+      "ytm": 0.053
+    },
+    {
+      "cusip": "912810QY7",
+      "maturity": "2042-11-15",
+      "coupon": 0.0275,
+      "ytm": 0.05327
+    },
+    {
+      "cusip": "912810TM0",
+      "maturity": "2042-11-15",
+      "coupon": 0.04,
+      "ytm": 0.05306
+    },
+    {
+      "cusip": "912810QZ4",
+      "maturity": "2043-02-15",
+      "coupon": 0.03125,
+      "ytm": 0.05335
+    },
+    {
+      "cusip": "912810TQ1",
+      "maturity": "2043-02-15",
+      "coupon": 0.03875,
+      "ytm": 0.05322
+    },
+    {
+      "cusip": "912810RB6",
+      "maturity": "2043-05-15",
+      "coupon": 0.02875,
+      "ytm": 0.05344
+    },
+    {
+      "cusip": "912810TS7",
+      "maturity": "2043-05-15",
+      "coupon": 0.03875,
+      "ytm": 0.05331
+    },
+    {
+      "cusip": "912810RC4",
+      "maturity": "2043-08-15",
+      "coupon": 0.03625,
+      "ytm": 0.05347
+    },
+    {
+      "cusip": "912810TU2",
+      "maturity": "2043-08-15",
+      "coupon": 0.04375,
+      "ytm": 0.05332
+    },
+    {
+      "cusip": "912810RD2",
+      "maturity": "2043-11-15",
+      "coupon": 0.0375,
+      "ytm": 0.05352
+    },
+    {
+      "cusip": "912810TW8",
+      "maturity": "2043-11-15",
+      "coupon": 0.0475,
+      "ytm": 0.05332
+    },
+    {
+      "cusip": "912810RE0",
+      "maturity": "2044-02-15",
+      "coupon": 0.03625,
+      "ytm": 0.05364
+    },
+    {
+      "cusip": "912810TZ1",
+      "maturity": "2044-02-15",
+      "coupon": 0.045,
+      "ytm": 0.05346
+    },
+    {
+      "cusip": "912810RG5",
+      "maturity": "2044-05-15",
+      "coupon": 0.03375,
+      "ytm": 0.05368
+    },
+    {
+      "cusip": "912810UB2",
+      "maturity": "2044-05-15",
+      "coupon": 0.04625,
+      "ytm": 0.05354
+    },
+    {
+      "cusip": "912810RH3",
+      "maturity": "2044-08-15",
+      "coupon": 0.03125,
+      "ytm": 0.05382
+    },
+    {
+      "cusip": "912810UD8",
+      "maturity": "2044-08-15",
+      "coupon": 0.04125,
+      "ytm": 0.05368
+    },
+    {
+      "cusip": "912810RJ9",
+      "maturity": "2044-11-15",
+      "coupon": 0.03,
+      "ytm": 0.05389
+    },
+    {
+      "cusip": "912810UF3",
+      "maturity": "2044-11-15",
+      "coupon": 0.04625,
+      "ytm": 0.05366
+    },
+    {
+      "cusip": "912810RK6",
+      "maturity": "2045-02-15",
+      "coupon": 0.025,
+      "ytm": 0.05402
+    },
+    {
+      "cusip": "912810UJ5",
+      "maturity": "2045-02-15",
+      "coupon": 0.0475,
+      "ytm": 0.05367
+    },
+    {
+      "cusip": "912810RM2",
+      "maturity": "2045-05-15",
+      "coupon": 0.03,
+      "ytm": 0.05395
+    },
+    {
+      "cusip": "912810UL0",
+      "maturity": "2045-05-15",
+      "coupon": 0.05,
+      "ytm": 0.05368
+    },
+    {
+      "cusip": "912810RN0",
+      "maturity": "2045-08-15",
+      "coupon": 0.02875,
+      "ytm": 0.05405
+    },
+    {
+      "cusip": "912810UN6",
+      "maturity": "2045-08-15",
+      "coupon": 0.04875,
+      "ytm": 0.05374
+    },
+    {
+      "cusip": "912810RP5",
+      "maturity": "2045-11-15",
+      "coupon": 0.03,
+      "ytm": 0.05403
+    },
+    {
+      "cusip": "912810UQ9",
+      "maturity": "2045-11-15",
+      "coupon": 0.04625,
+      "ytm": 0.05383
+    },
+    {
+      "cusip": "912810RQ3",
+      "maturity": "2046-02-15",
+      "coupon": 0.025,
+      "ytm": 0.05417
+    },
+    {
+      "cusip": "912810UT3",
+      "maturity": "2046-02-15",
+      "coupon": 0.04625,
+      "ytm": 0.05383
+    },
+    {
+      "cusip": "912810RS9",
+      "maturity": "2046-05-15",
+      "coupon": 0.025,
+      "ytm": 0.05419
+    },
+    {
+      "cusip": "912810UV8",
+      "maturity": "2046-05-15",
+      "coupon": 0.05,
+      "ytm": 0.05379
+    },
+    {
+      "cusip": "912810RT7",
+      "maturity": "2046-08-15",
+      "coupon": 0.0225,
+      "ytm": 0.05428
+    },
+    {
+      "cusip": "912810UX4",
+      "maturity": "2046-08-15",
+      "coupon": 0.05125,
+      "ytm": 0.05374
+    },
+    {
+      "cusip": "912810RU4",
+      "maturity": "2046-11-15",
+      "coupon": 0.02875,
+      "ytm": 0.05417
+    },
+    {
+      "cusip": "912810RV2",
+      "maturity": "2047-02-15",
+      "coupon": 0.03,
+      "ytm": 0.05419
+    },
+    {
+      "cusip": "912810RX8",
+      "maturity": "2047-05-15",
+      "coupon": 0.03,
+      "ytm": 0.05419
+    },
+    {
+      "cusip": "912810RY6",
+      "maturity": "2047-08-15",
+      "coupon": 0.0275,
+      "ytm": 0.05428
+    },
+    {
+      "cusip": "912810RZ3",
+      "maturity": "2047-11-15",
+      "coupon": 0.0275,
+      "ytm": 0.05428
+    },
+    {
+      "cusip": "912810SA7",
+      "maturity": "2048-02-15",
+      "coupon": 0.03,
+      "ytm": 0.05428
+    },
+    {
+      "cusip": "912810SC3",
+      "maturity": "2048-05-15",
+      "coupon": 0.03125,
+      "ytm": 0.05426
+    },
+    {
+      "cusip": "912810SD1",
+      "maturity": "2048-08-15",
+      "coupon": 0.03,
+      "ytm": 0.05428
+    },
+    {
+      "cusip": "912810SE9",
+      "maturity": "2048-11-15",
+      "coupon": 0.03375,
+      "ytm": 0.05423
+    },
+    {
+      "cusip": "912810SF6",
+      "maturity": "2049-02-15",
+      "coupon": 0.03,
+      "ytm": 0.05431
+    },
+    {
+      "cusip": "912810SH2",
+      "maturity": "2049-05-15",
+      "coupon": 0.02875,
+      "ytm": 0.0543
+    },
+    {
+      "cusip": "912810SJ8",
+      "maturity": "2049-08-15",
+      "coupon": 0.0225,
+      "ytm": 0.05442
+    },
+    {
+      "cusip": "912810SK5",
+      "maturity": "2049-11-15",
+      "coupon": 0.02375,
+      "ytm": 0.0544
+    },
+    {
+      "cusip": "912810SL3",
+      "maturity": "2050-02-15",
+      "coupon": 0.02,
+      "ytm": 0.05443
+    },
+    {
+      "cusip": "912810SN9",
+      "maturity": "2050-05-15",
+      "coupon": 0.0125,
+      "ytm": 0.05429
+    },
+    {
+      "cusip": "912810SP4",
+      "maturity": "2050-08-15",
+      "coupon": 0.01375,
+      "ytm": 0.05443
+    },
+    {
+      "cusip": "912810SS8",
+      "maturity": "2050-11-15",
+      "coupon": 0.01625,
+      "ytm": 0.05442
+    },
+    {
+      "cusip": "912810SU3",
+      "maturity": "2051-02-15",
+      "coupon": 0.01875,
+      "ytm": 0.05442
+    },
+    {
+      "cusip": "912810SX7",
+      "maturity": "2051-05-15",
+      "coupon": 0.02375,
+      "ytm": 0.05433
+    },
+    {
+      "cusip": "912810SZ2",
+      "maturity": "2051-08-15",
+      "coupon": 0.02,
+      "ytm": 0.05437
+    },
+    {
+      "cusip": "912810TB4",
+      "maturity": "2051-11-15",
+      "coupon": 0.01875,
+      "ytm": 0.05435
+    },
+    {
+      "cusip": "912810TD0",
+      "maturity": "2052-02-15",
+      "coupon": 0.0225,
+      "ytm": 0.05424
+    },
+    {
+      "cusip": "912810TG3",
+      "maturity": "2052-05-15",
+      "coupon": 0.02875,
+      "ytm": 0.05414
+    },
+    {
+      "cusip": "912810TJ7",
+      "maturity": "2052-08-15",
+      "coupon": 0.03,
+      "ytm": 0.05407
+    },
+    {
+      "cusip": "912810TL2",
+      "maturity": "2052-11-15",
+      "coupon": 0.04,
+      "ytm": 0.05397
+    },
+    {
+      "cusip": "912810TN8",
+      "maturity": "2053-02-15",
+      "coupon": 0.03625,
+      "ytm": 0.05396
+    },
+    {
+      "cusip": "912810TR9",
+      "maturity": "2053-05-15",
+      "coupon": 0.03625,
+      "ytm": 0.05394
+    },
+    {
+      "cusip": "912810TT5",
+      "maturity": "2053-08-15",
+      "coupon": 0.04125,
+      "ytm": 0.05386
+    },
+    {
+      "cusip": "912810TV0",
+      "maturity": "2053-11-15",
+      "coupon": 0.0475,
+      "ytm": 0.05377
+    },
+    {
+      "cusip": "912810TX6",
+      "maturity": "2054-02-15",
+      "coupon": 0.0425,
+      "ytm": 0.05379
+    },
+    {
+      "cusip": "912810UA4",
+      "maturity": "2054-05-15",
+      "coupon": 0.04625,
+      "ytm": 0.05368
+    },
+    {
+      "cusip": "912810UC0",
+      "maturity": "2054-08-15",
+      "coupon": 0.0425,
+      "ytm": 0.05368
+    },
+    {
+      "cusip": "912810UE6",
+      "maturity": "2054-11-15",
+      "coupon": 0.045,
+      "ytm": 0.05365
+    },
+    {
+      "cusip": "912810UG1",
+      "maturity": "2055-02-15",
+      "coupon": 0.04625,
+      "ytm": 0.0536
+    },
+    {
+      "cusip": "912810UK2",
+      "maturity": "2055-05-15",
+      "coupon": 0.0475,
+      "ytm": 0.05356
+    },
+    {
+      "cusip": "912810UM8",
+      "maturity": "2055-08-15",
+      "coupon": 0.0475,
+      "ytm": 0.05354
+    },
+    {
+      "cusip": "912810UP1",
+      "maturity": "2055-11-15",
+      "coupon": 0.04625,
+      "ytm": 0.05349
+    },
+    {
+      "cusip": "912810UR7",
+      "maturity": "2056-02-15",
+      "coupon": 0.0475,
+      "ytm": 0.05342
+    },
+    {
+      "cusip": "912810UU0",
+      "maturity": "2056-05-15",
+      "coupon": 0.05,
+      "ytm": 0.05338
+    },
+    {
+      "cusip": "912810UW6",
+      "maturity": "2056-08-15",
+      "coupon": 0.05125,
+      "ytm": 0.05336
+    }
+  ],
+  "points": [
+    {
+      "term": 0.5,
+      "date": "2027-04-30",
+      "zeroCc": 0.04237,
+      "zeroBey": 0.04282,
+      "discountFactor": 0.979096
+    },
+    {
+      "term": 1,
+      "date": "2027-10-30",
+      "zeroCc": 0.04403,
+      "zeroBey": 0.04452,
+      "discountFactor": 0.956924
+    },
+    {
+      "term": 1.5,
+      "date": "2028-04-30",
+      "zeroCc": 0.04523,
+      "zeroBey": 0.04574,
+      "discountFactor": 0.934351
+    },
+    {
+      "term": 2,
+      "date": "2028-10-30",
+      "zeroCc": 0.04607,
+      "zeroBey": 0.04661,
+      "discountFactor": 0.911861
+    },
+    {
+      "term": 2.5,
+      "date": "2029-04-30",
+      "zeroCc": 0.04665,
+      "zeroBey": 0.0472,
+      "discountFactor": 0.889858
+    },
+    {
+      "term": 3,
+      "date": "2029-10-30",
+      "zeroCc": 0.04705,
+      "zeroBey": 0.04761,
+      "discountFactor": 0.868246
+    },
+    {
+      "term": 3.5,
+      "date": "2030-04-30",
+      "zeroCc": 0.04732,
+      "zeroBey": 0.04788,
+      "discountFactor": 0.847319
+    },
+    {
+      "term": 4,
+      "date": "2030-10-30",
+      "zeroCc": 0.0475,
+      "zeroBey": 0.04807,
+      "discountFactor": 0.826845
+    },
+    {
+      "term": 4.5,
+      "date": "2031-04-30",
+      "zeroCc": 0.04763,
+      "zeroBey": 0.0482,
+      "discountFactor": 0.807014
+    },
+    {
+      "term": 5,
+      "date": "2031-10-30",
+      "zeroCc": 0.04774,
+      "zeroBey": 0.04831,
+      "discountFactor": 0.787554
+    },
+    {
+      "term": 5.5,
+      "date": "2032-04-30",
+      "zeroCc": 0.04784,
+      "zeroBey": 0.04841,
+      "discountFactor": 0.768516
+    },
+    {
+      "term": 6,
+      "date": "2032-10-30",
+      "zeroCc": 0.04794,
+      "zeroBey": 0.04852,
+      "discountFactor": 0.749841
+    },
+    {
+      "term": 6.5,
+      "date": "2033-04-30",
+      "zeroCc": 0.04805,
+      "zeroBey": 0.04864,
+      "discountFactor": 0.731577
+    },
+    {
+      "term": 7,
+      "date": "2033-10-30",
+      "zeroCc": 0.04819,
+      "zeroBey": 0.04878,
+      "discountFactor": 0.713477
+    },
+    {
+      "term": 7.5,
+      "date": "2034-04-30",
+      "zeroCc": 0.04835,
+      "zeroBey": 0.04894,
+      "discountFactor": 0.695706
+    },
+    {
+      "term": 8,
+      "date": "2034-10-30",
+      "zeroCc": 0.04854,
+      "zeroBey": 0.04913,
+      "discountFactor": 0.678042
+    },
+    {
+      "term": 8.5,
+      "date": "2035-04-30",
+      "zeroCc": 0.04874,
+      "zeroBey": 0.04934,
+      "discountFactor": 0.660662
+    },
+    {
+      "term": 9,
+      "date": "2035-10-30",
+      "zeroCc": 0.04897,
+      "zeroBey": 0.04958,
+      "discountFactor": 0.643369
+    },
+    {
+      "term": 9.5,
+      "date": "2036-04-30",
+      "zeroCc": 0.04923,
+      "zeroBey": 0.04984,
+      "discountFactor": 0.626258
+    },
+    {
+      "term": 10,
+      "date": "2036-10-30",
+      "zeroCc": 0.0495,
+      "zeroBey": 0.05012,
+      "discountFactor": 0.609334
+    },
+    {
+      "term": 10.5,
+      "date": "2037-04-30",
+      "zeroCc": 0.04978,
+      "zeroBey": 0.05041,
+      "discountFactor": 0.592701
+    },
+    {
+      "term": 11,
+      "date": "2037-10-30",
+      "zeroCc": 0.05008,
+      "zeroBey": 0.05071,
+      "discountFactor": 0.57619
+    },
+    {
+      "term": 11.5,
+      "date": "2038-04-30",
+      "zeroCc": 0.05039,
+      "zeroBey": 0.05103,
+      "discountFactor": 0.56
+    },
+    {
+      "term": 12,
+      "date": "2038-10-30",
+      "zeroCc": 0.0507,
+      "zeroBey": 0.05135,
+      "discountFactor": 0.543971
+    },
+    {
+      "term": 12.5,
+      "date": "2039-04-30",
+      "zeroCc": 0.05102,
+      "zeroBey": 0.05168,
+      "discountFactor": 0.528299
+    },
+    {
+      "term": 13,
+      "date": "2039-10-30",
+      "zeroCc": 0.05134,
+      "zeroBey": 0.052,
+      "discountFactor": 0.512832
+    },
+    {
+      "term": 13.5,
+      "date": "2040-04-30",
+      "zeroCc": 0.05165,
+      "zeroBey": 0.05233,
+      "discountFactor": 0.497676
+    },
+    {
+      "term": 14,
+      "date": "2040-10-30",
+      "zeroCc": 0.05196,
+      "zeroBey": 0.05264,
+      "discountFactor": 0.48285
+    },
+    {
+      "term": 14.5,
+      "date": "2041-04-30",
+      "zeroCc": 0.05226,
+      "zeroBey": 0.05295,
+      "discountFactor": 0.468449
+    },
+    {
+      "term": 15,
+      "date": "2041-10-30",
+      "zeroCc": 0.05256,
+      "zeroBey": 0.05325,
+      "discountFactor": 0.45433
+    },
+    {
+      "term": 15.5,
+      "date": "2042-04-30",
+      "zeroCc": 0.05284,
+      "zeroBey": 0.05354,
+      "discountFactor": 0.44066
+    },
+    {
+      "term": 16,
+      "date": "2042-10-30",
+      "zeroCc": 0.05311,
+      "zeroBey": 0.05382,
+      "discountFactor": 0.4273
+    },
+    {
+      "term": 16.5,
+      "date": "2043-04-30",
+      "zeroCc": 0.05336,
+      "zeroBey": 0.05408,
+      "discountFactor": 0.414406
+    },
+    {
+      "term": 17,
+      "date": "2043-10-30",
+      "zeroCc": 0.05359,
+      "zeroBey": 0.05432,
+      "discountFactor": 0.401842
+    },
+    {
+      "term": 17.5,
+      "date": "2044-04-30",
+      "zeroCc": 0.05381,
+      "zeroBey": 0.05454,
+      "discountFactor": 0.389685
+    },
+    {
+      "term": 18,
+      "date": "2044-10-30",
+      "zeroCc": 0.05402,
+      "zeroBey": 0.05475,
+      "discountFactor": 0.377939
+    },
+    {
+      "term": 18.5,
+      "date": "2045-04-30",
+      "zeroCc": 0.0542,
+      "zeroBey": 0.05494,
+      "discountFactor": 0.366664
+    },
+    {
+      "term": 19,
+      "date": "2045-10-30",
+      "zeroCc": 0.05436,
+      "zeroBey": 0.0551,
+      "discountFactor": 0.355737
+    },
+    {
+      "term": 19.5,
+      "date": "2046-04-30",
+      "zeroCc": 0.0545,
+      "zeroBey": 0.05525,
+      "discountFactor": 0.345275
+    },
+    {
+      "term": 20,
+      "date": "2046-10-30",
+      "zeroCc": 0.05462,
+      "zeroBey": 0.05537,
+      "discountFactor": 0.335158
+    },
+    {
+      "term": 20.5,
+      "date": "2047-04-30",
+      "zeroCc": 0.05472,
+      "zeroBey": 0.05547,
+      "discountFactor": 0.325494
+    },
+    {
+      "term": 21,
+      "date": "2047-10-30",
+      "zeroCc": 0.0548,
+      "zeroBey": 0.05555,
+      "discountFactor": 0.316169
+    },
+    {
+      "term": 21.5,
+      "date": "2048-04-30",
+      "zeroCc": 0.05485,
+      "zeroBey": 0.05561,
+      "discountFactor": 0.307231
+    },
+    {
+      "term": 22,
+      "date": "2048-10-30",
+      "zeroCc": 0.05489,
+      "zeroBey": 0.05565,
+      "discountFactor": 0.298672
+    },
+    {
+      "term": 22.5,
+      "date": "2049-04-30",
+      "zeroCc": 0.0549,
+      "zeroBey": 0.05566,
+      "discountFactor": 0.290528
+    },
+    {
+      "term": 23,
+      "date": "2049-10-30",
+      "zeroCc": 0.05489,
+      "zeroBey": 0.05565,
+      "discountFactor": 0.2827
+    },
+    {
+      "term": 23.5,
+      "date": "2050-04-30",
+      "zeroCc": 0.05486,
+      "zeroBey": 0.05562,
+      "discountFactor": 0.275265
+    },
+    {
+      "term": 24,
+      "date": "2050-10-30",
+      "zeroCc": 0.05481,
+      "zeroBey": 0.05557,
+      "discountFactor": 0.268131
+    },
+    {
+      "term": 24.5,
+      "date": "2051-04-30",
+      "zeroCc": 0.05473,
+      "zeroBey": 0.05549,
+      "discountFactor": 0.261367
+    },
+    {
+      "term": 25,
+      "date": "2051-10-30",
+      "zeroCc": 0.05464,
+      "zeroBey": 0.05539,
+      "discountFactor": 0.254888
+    },
+    {
+      "term": 25.5,
+      "date": "2052-04-30",
+      "zeroCc": 0.05453,
+      "zeroBey": 0.05528,
+      "discountFactor": 0.248722
+    },
+    {
+      "term": 26,
+      "date": "2052-10-30",
+      "zeroCc": 0.05439,
+      "zeroBey": 0.05514,
+      "discountFactor": 0.24286
+    },
+    {
+      "term": 26.5,
+      "date": "2053-04-30",
+      "zeroCc": 0.05424,
+      "zeroBey": 0.05498,
+      "discountFactor": 0.237321
+    },
+    {
+      "term": 27,
+      "date": "2053-10-30",
+      "zeroCc": 0.05407,
+      "zeroBey": 0.05481,
+      "discountFactor": 0.232034
+    },
+    {
+      "term": 27.5,
+      "date": "2054-04-30",
+      "zeroCc": 0.05388,
+      "zeroBey": 0.05461,
+      "discountFactor": 0.227049
+    },
+    {
+      "term": 28,
+      "date": "2054-10-30",
+      "zeroCc": 0.05367,
+      "zeroBey": 0.05439,
+      "discountFactor": 0.2223
+    },
+    {
+      "term": 28.5,
+      "date": "2055-04-30",
+      "zeroCc": 0.05344,
+      "zeroBey": 0.05416,
+      "discountFactor": 0.217831
+    },
+    {
+      "term": 29,
+      "date": "2055-10-30",
+      "zeroCc": 0.0532,
+      "zeroBey": 0.05391,
+      "discountFactor": 0.213584
+    },
+    {
+      "term": 29.5,
+      "date": "2056-04-30",
+      "zeroCc": 0.05293,
+      "zeroBey": 0.05364,
+      "discountFactor": 0.209576
+    },
+    {
+      "term": 30,
+      "date": "2056-10-30",
+      "zeroCc": 0.05266,
+      "zeroBey": 0.05336,
+      "discountFactor": 0.205798
+    }
+  ]
+}
