@@ -1,47 +1,46 @@
 [
   {
-    "ticker": "VTEI",
+    "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-30T21:49:25.240Z",
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0383,
+    "timestamp": "2026-10-30T22:54:11.860Z",
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "thirtyDayYield": 0.0481,
     "asOfDate": "2026-10-28",
-    "nav": 98.09,
-    "distributionYield": 0.0328,
-    "yieldToWorst": 0.0375
+    "nav": 49.62,
+    "distributionYield": 0.0445,
+    "yieldToMaturity": 0.0508,
+    "yieldToWorst": 0.0504
   },
   {
-    "ticker": "VTEL",
+    "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-30T21:49:31.734Z",
-    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0463,
+    "timestamp": "2026-10-30T22:54:17.695Z",
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "thirtyDayYield": 0.0671,
     "asOfDate": "2026-10-28",
-    "nav": 99.17,
-    "distributionYield": 0.0399,
-    "yieldToWorst": 0.0474
+    "nav": 63.97,
+    "distributionYield": 0.0613,
+    "yieldToMaturity": 0.0692,
+    "yieldToWorst": 0.0692
   },
   {
-    "ticker": "VTES",
+    "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-30T21:49:38.986Z",
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0332,
-    "asOfDate": "2026-10-28",
-    "nav": 100.39,
-    "distributionYield": 0.0238,
-    "yieldToWorst": 0.0305
+    "timestamp": "2026-10-30T22:53:57.051Z",
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0227,
+    "asOfDate": "2026-10-29",
+    "nav": 48.95,
+    "yieldToMaturity": 0.02
   },
   {
-    "ticker": "VTG",
+    "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-10-30T21:49:45.634Z",
-    "accountType": "Vanguard Total Treasury ETF",
-    "thirtyDayYield": 0.05,
-    "asOfDate": "2026-10-28",
-    "nav": 73.44,
-    "distributionYield": 0.041,
-    "yieldToMaturity": 0.0493,
-    "yieldToWorst": 0.0493
+    "timestamp": "2026-10-30T22:54:04.534Z",
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.0255,
+    "asOfDate": "2026-10-29",
+    "nav": 74,
+    "yieldToMaturity": 0.02
   }
 ]
