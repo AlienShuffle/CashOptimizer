@@ -14,10 +14,10 @@
   {
     "ticker": "BIL",
     "nav": 91.4,
-    "thirtyDayYield": 0.038,
-    "asOfDate": "2026-10-30",
+    "thirtyDayYield": 0.0383,
+    "asOfDate": "2026-11-02",
     "source": "ssga",
-    "timestamp": "2026-11-03T10:01:07.729Z"
+    "timestamp": "2026-11-03T18:36:39.686Z"
   },
   {
     "ticker": "BIV",
@@ -184,10 +184,10 @@
   {
     "ticker": "SPTI",
     "nav": 27.71,
-    "thirtyDayYield": 0.0495,
-    "asOfDate": "2026-10-30",
+    "thirtyDayYield": 0.0493,
+    "asOfDate": "2026-11-02",
     "source": "ssga",
-    "timestamp": "2026-11-03T10:01:07.729Z"
+    "timestamp": "2026-11-03T18:36:39.687Z"
   },
   {
     "asOfDate": "2026-11-02",
@@ -297,40 +297,40 @@
     "timestamp": "2026-11-03T17:32:03.009Z"
   },
   {
-    "accountType": "IT Treasury ETF",
-    "asOfDate": "2026-10-30",
-    "nav": 57.57,
-    "thirtyDayYield": 0.0496,
-    "source": "Vanguard.com ETF",
     "ticker": "VGIT",
-    "timestamp": "2026-11-03T11:04:37.684Z"
+    "accountType": "Vanguard Intermediate-Term Treasury ETF",
+    "nav": 57.55,
+    "thirtyDayYield": 0.0496,
+    "asOfDate": "2026-10-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-03T18:35:32.539Z"
   },
   {
-    "accountType": "LT Treasury ETF",
-    "asOfDate": "2026-10-30",
-    "nav": 52.41,
-    "thirtyDayYield": 0.0541,
-    "source": "Vanguard.com ETF",
     "ticker": "VGLT",
-    "timestamp": "2026-11-03T11:04:37.684Z"
+    "accountType": "Vanguard Long-Term Treasury ETF",
+    "nav": 52.39,
+    "thirtyDayYield": 0.0541,
+    "asOfDate": "2026-10-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-03T18:35:32.539Z"
   },
   {
-    "accountType": "Multi-Sector Bond ETF",
-    "asOfDate": "2026-10-30",
-    "nav": 49.63,
-    "thirtyDayYield": 0.0622,
-    "source": "Vanguard.com ETF",
     "ticker": "VGMS",
-    "timestamp": "2026-11-03T11:04:37.684Z"
+    "accountType": "Vanguard Multi-Sector Income Bond ETF",
+    "nav": 49.59,
+    "thirtyDayYield": 0.0622,
+    "asOfDate": "2026-10-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-03T18:35:32.539Z"
   },
   {
-    "accountType": "ST Treasury ETF",
-    "asOfDate": "2026-10-30",
+    "ticker": "VGSH",
+    "accountType": "Vanguard Short-Term Treasury ETF",
     "nav": 57.73,
     "thirtyDayYield": 0.0475,
-    "source": "Vanguard.com ETF",
-    "ticker": "VGSH",
-    "timestamp": "2026-11-03T11:04:37.684Z"
+    "asOfDate": "2026-10-30",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-03T18:35:32.539Z"
   },
   {
     "accountType": "Ultra-Short Treasury ETF",
