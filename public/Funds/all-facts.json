@@ -447,7 +447,7 @@
   {
     "ticker": "VGUS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-03T09:59:56.187Z",
+    "timestamp": "2026-11-03T19:39:53.470Z",
     "accountType": "Vanguard Ultra-Short Treasury ETF",
     "thirtyDayYield": 0.04,
     "asOfDate": "2026-10-30",
@@ -459,17 +459,19 @@
   {
     "ticker": "VMBS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-03T10:00:05.696Z",
+    "timestamp": "2026-11-03T19:40:00.431Z",
     "accountType": "Vanguard Mortgage-Backed Securities ETF",
     "thirtyDayYield": 0.0438,
     "asOfDate": "2026-10-30",
     "nav": 45.37,
-    "distributionYield": 0.044
+    "distributionYield": 0.044,
+    "yieldToMaturity": 0.0562,
+    "yieldToWorst": 0.0562
   },
   {
     "ticker": "VPLS",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-03T10:00:14.789Z",
+    "timestamp": "2026-11-03T19:40:06.880Z",
     "accountType": "Vanguard Core-Plus Bond ETF",
     "thirtyDayYield": 0.0519,
     "asOfDate": "2026-10-30",
@@ -481,7 +483,7 @@
   {
     "ticker": "VSDB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-03T10:00:21.104Z",
+    "timestamp": "2026-11-03T19:40:13.039Z",
     "accountType": "Vanguard Short Duration Bond ETF",
     "thirtyDayYield": 0.0536,
     "asOfDate": "2026-10-30",
