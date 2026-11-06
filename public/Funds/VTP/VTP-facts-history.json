@@ -1073,11 +1073,21 @@
   {
     "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-04T08:30:52.712Z",
+    "timestamp": "2026-11-05T22:43:21.327Z",
     "accountType": "Vanguard Total Inflation-Protected Securities ETF",
     "thirtyDayYield": 0.0255,
     "asOfDate": "2026-10-29",
     "nav": 73.66,
+    "yieldToMaturity": 0.02
+  },
+  {
+    "ticker": "VTP",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-06T22:05:43.165Z",
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "thirtyDayYield": 0.025,
+    "asOfDate": "2026-11-05",
+    "nav": 73.78,
     "yieldToMaturity": 0.02
   }
 ]
