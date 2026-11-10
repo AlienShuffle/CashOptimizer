@@ -2,92 +2,36 @@
   "asOfDate": "2026-11-09",
   "basis": "FedInvest-ask-settle",
   "settleDate": "2026-11-09",
-  "forwardDate": "2026-12-01",
+  "forwardDate": "2027-01-01",
   "priceSide": "ask",
   "method": "Svensson",
   "params": [
-    -0.10754545906679402,
-    0.14804303684116138,
-    0.09523030802037122,
-    0.45220597362914144,
-    3.075259852527309,
-    17.93266978004953
+    -0.11018487924804794,
+    0.15074876667037715,
+    0.09605242376310355,
+    0.4590827523986056,
+    3.1055781324917824,
+    17.99732905208857
   ],
-  "objective": 1.042548016921385,
-  "bondsUsed": 365,
+  "objective": 1.0338795447541549,
+  "bondsUsed": 358,
   "excluded": [
-    {
-      "cusip": "912797VA2",
-      "maturity": "2026-12-03",
-      "coupon": 0,
-      "ytm": 0.03914,
-      "deviationBp": -16.7
-    },
-    {
-      "cusip": "912797VG9",
-      "maturity": "2026-12-10",
-      "coupon": 0,
-      "ytm": 0.03927,
-      "deviationBp": -16.3
-    },
     {
       "cusip": "912810FA1",
       "maturity": "2027-08-15",
       "coupon": 0.06375,
       "ytm": 0.04167,
-      "deviationBp": -16.2
+      "deviationBp": -16.5
     },
     {
       "cusip": "912810FT0",
       "maturity": "2036-02-15",
       "coupon": 0.045,
       "ytm": 0.04665,
-      "deviationBp": -16.6
+      "deviationBp": -16.7
     }
   ],
   "fitBonds": [
-    {
-      "cusip": "912797WE3",
-      "maturity": "2026-12-08",
-      "coupon": 0,
-      "ytm": 0.03951
-    },
-    {
-      "cusip": "912797WF0",
-      "maturity": "2026-12-15",
-      "coupon": 0,
-      "ytm": 0.03949
-    },
-    {
-      "cusip": "912797VH7",
-      "maturity": "2026-12-17",
-      "coupon": 0,
-      "ytm": 0.03976
-    },
-    {
-      "cusip": "912797WG8",
-      "maturity": "2026-12-22",
-      "coupon": 0,
-      "ytm": 0.04008
-    },
-    {
-      "cusip": "912797TC1",
-      "maturity": "2026-12-24",
-      "coupon": 0,
-      "ytm": 0.0403
-    },
-    {
-      "cusip": "912797WH6",
-      "maturity": "2026-12-29",
-      "coupon": 0,
-      "ytm": 0.04042
-    },
-    {
-      "cusip": "912797VJ3",
-      "maturity": "2026-12-31",
-      "coupon": 0,
-      "ytm": 0.04053
-    },
     {
       "cusip": "912797WN3",
       "maturity": "2027-01-05",
@@ -2241,65 +2185,65 @@
     {
       "term": 0.5,
       "date": "2027-05-09",
-      "zeroCc": 0.04222,
-      "zeroBey": 0.04267,
-      "discountFactor": 0.979283
+      "zeroCc": 0.04225,
+      "zeroBey": 0.0427,
+      "discountFactor": 0.979265
     },
     {
       "term": 1,
       "date": "2027-11-09",
-      "zeroCc": 0.04349,
-      "zeroBey": 0.04397,
-      "discountFactor": 0.957442
+      "zeroCc": 0.04351,
+      "zeroBey": 0.04398,
+      "discountFactor": 0.957427
     },
     {
       "term": 1.5,
       "date": "2028-05-09",
-      "zeroCc": 0.04439,
+      "zeroCc": 0.0444,
       "zeroBey": 0.04489,
-      "discountFactor": 0.935639
+      "discountFactor": 0.935632
     },
     {
       "term": 2,
       "date": "2028-11-09",
       "zeroCc": 0.04503,
       "zeroBey": 0.04554,
-      "discountFactor": 0.913759
+      "discountFactor": 0.913762
     },
     {
       "term": 2.5,
       "date": "2029-05-09",
       "zeroCc": 0.04547,
       "zeroBey": 0.04599,
-      "discountFactor": 0.892602
+      "discountFactor": 0.892613
     },
     {
       "term": 3,
       "date": "2029-11-09",
-      "zeroCc": 0.04578,
-      "zeroBey": 0.04631,
-      "discountFactor": 0.87157
+      "zeroCc": 0.04577,
+      "zeroBey": 0.0463,
+      "discountFactor": 0.871585
     },
     {
       "term": 3.5,
       "date": "2030-05-09",
-      "zeroCc": 0.04599,
+      "zeroCc": 0.04598,
       "zeroBey": 0.04652,
-      "discountFactor": 0.851383
+      "discountFactor": 0.851398
     },
     {
       "term": 4,
       "date": "2030-11-09",
       "zeroCc": 0.04614,
-      "zeroBey": 0.04668,
-      "discountFactor": 0.831359
+      "zeroBey": 0.04667,
+      "discountFactor": 0.831371
     },
     {
       "term": 4.5,
       "date": "2031-05-09",
       "zeroCc": 0.04626,
       "zeroBey": 0.0468,
-      "discountFactor": 0.812114
+      "discountFactor": 0.81212
     },
     {
       "term": 5,
@@ -2313,350 +2257,350 @@
       "date": "2032-05-09",
       "zeroCc": 0.04648,
       "zeroBey": 0.04703,
-      "discountFactor": 0.774364
+      "discountFactor": 0.774358
     },
     {
       "term": 6,
       "date": "2032-11-09",
       "zeroCc": 0.04661,
-      "zeroBey": 0.04715,
-      "discountFactor": 0.755868
+      "zeroBey": 0.04716,
+      "discountFactor": 0.755855
     },
     {
       "term": 6.5,
       "date": "2033-05-09",
       "zeroCc": 0.04675,
       "zeroBey": 0.0473,
-      "discountFactor": 0.737926
+      "discountFactor": 0.737908
     },
     {
       "term": 7,
       "date": "2033-11-09",
-      "zeroCc": 0.04691,
+      "zeroCc": 0.04692,
       "zeroBey": 0.04747,
-      "discountFactor": 0.719903
+      "discountFactor": 0.719882
     },
     {
       "term": 7.5,
       "date": "2034-05-09",
       "zeroCc": 0.0471,
       "zeroBey": 0.04766,
-      "discountFactor": 0.70236
+      "discountFactor": 0.702336
     },
     {
       "term": 8,
       "date": "2034-11-09",
       "zeroCc": 0.04732,
       "zeroBey": 0.04788,
-      "discountFactor": 0.684693
+      "discountFactor": 0.684669
     },
     {
       "term": 8.5,
       "date": "2035-05-09",
-      "zeroCc": 0.04755,
-      "zeroBey": 0.04812,
-      "discountFactor": 0.667469
+      "zeroCc": 0.04756,
+      "zeroBey": 0.04813,
+      "discountFactor": 0.667446
     },
     {
       "term": 9,
       "date": "2035-11-09",
       "zeroCc": 0.04782,
-      "zeroBey": 0.04839,
-      "discountFactor": 0.650112
+      "zeroBey": 0.0484,
+      "discountFactor": 0.650091
     },
     {
       "term": 9.5,
       "date": "2036-05-09",
       "zeroCc": 0.0481,
       "zeroBey": 0.04868,
-      "discountFactor": 0.633099
+      "discountFactor": 0.633081
     },
     {
       "term": 10,
       "date": "2036-11-09",
       "zeroCc": 0.0484,
       "zeroBey": 0.04899,
-      "discountFactor": 0.616064
+      "discountFactor": 0.616051
     },
     {
       "term": 10.5,
       "date": "2037-05-09",
       "zeroCc": 0.04871,
       "zeroBey": 0.04931,
-      "discountFactor": 0.599484
+      "discountFactor": 0.599475
     },
     {
       "term": 11,
       "date": "2037-11-09",
       "zeroCc": 0.04904,
       "zeroBey": 0.04965,
-      "discountFactor": 0.582826
+      "discountFactor": 0.582822
     },
     {
       "term": 11.5,
       "date": "2038-05-09",
       "zeroCc": 0.04937,
       "zeroBey": 0.04999,
-      "discountFactor": 0.566652
+      "discountFactor": 0.566653
     },
     {
       "term": 12,
       "date": "2038-11-09",
       "zeroCc": 0.04972,
       "zeroBey": 0.05034,
-      "discountFactor": 0.550448
+      "discountFactor": 0.550454
     },
     {
       "term": 12.5,
       "date": "2039-05-09",
       "zeroCc": 0.05006,
       "zeroBey": 0.05069,
-      "discountFactor": 0.534765
+      "discountFactor": 0.534774
     },
     {
       "term": 13,
       "date": "2039-11-09",
       "zeroCc": 0.0504,
       "zeroBey": 0.05104,
-      "discountFactor": 0.519102
+      "discountFactor": 0.519115
     },
     {
       "term": 13.5,
       "date": "2040-05-09",
       "zeroCc": 0.05074,
       "zeroBey": 0.05139,
-      "discountFactor": 0.503911
+      "discountFactor": 0.503926
     },
     {
       "term": 14,
       "date": "2040-11-09",
-      "zeroCc": 0.05108,
-      "zeroBey": 0.05174,
-      "discountFactor": 0.488877
+      "zeroCc": 0.05107,
+      "zeroBey": 0.05173,
+      "discountFactor": 0.488894
     },
     {
       "term": 14.5,
       "date": "2041-05-09",
       "zeroCc": 0.0514,
-      "zeroBey": 0.05207,
-      "discountFactor": 0.474425
+      "zeroBey": 0.05206,
+      "discountFactor": 0.474442
     },
     {
       "term": 15,
       "date": "2041-11-09",
       "zeroCc": 0.05172,
       "zeroBey": 0.05239,
-      "discountFactor": 0.460091
+      "discountFactor": 0.460109
     },
     {
       "term": 15.5,
       "date": "2042-05-09",
       "zeroCc": 0.05202,
       "zeroBey": 0.0527,
-      "discountFactor": 0.446358
+      "discountFactor": 0.446375
     },
     {
       "term": 16,
       "date": "2042-11-09",
       "zeroCc": 0.05231,
       "zeroBey": 0.053,
-      "discountFactor": 0.432783
+      "discountFactor": 0.432799
     },
     {
       "term": 16.5,
       "date": "2043-05-09",
       "zeroCc": 0.05258,
       "zeroBey": 0.05328,
-      "discountFactor": 0.419818
+      "discountFactor": 0.419833
     },
     {
       "term": 17,
       "date": "2043-11-09",
       "zeroCc": 0.05284,
       "zeroBey": 0.05354,
-      "discountFactor": 0.407043
+      "discountFactor": 0.407055
     },
     {
       "term": 17.5,
       "date": "2044-05-09",
-      "zeroCc": 0.05308,
+      "zeroCc": 0.05307,
       "zeroBey": 0.05379,
-      "discountFactor": 0.394813
+      "discountFactor": 0.394822
     },
     {
       "term": 18,
       "date": "2044-11-09",
       "zeroCc": 0.0533,
       "zeroBey": 0.05401,
-      "discountFactor": 0.382864
+      "discountFactor": 0.382869
     },
     {
       "term": 18.5,
       "date": "2045-05-09",
       "zeroCc": 0.05349,
       "zeroBey": 0.05422,
-      "discountFactor": 0.371518
+      "discountFactor": 0.37152
     },
     {
       "term": 19,
       "date": "2045-11-09",
       "zeroCc": 0.05367,
       "zeroBey": 0.0544,
-      "discountFactor": 0.3604
+      "discountFactor": 0.360399
     },
     {
       "term": 19.5,
       "date": "2046-05-09",
       "zeroCc": 0.05383,
       "zeroBey": 0.05456,
-      "discountFactor": 0.349871
+      "discountFactor": 0.349866
     },
     {
       "term": 20,
       "date": "2046-11-09",
       "zeroCc": 0.05397,
       "zeroBey": 0.0547,
-      "discountFactor": 0.339579
+      "discountFactor": 0.33957
     },
     {
       "term": 20.5,
       "date": "2047-05-09",
       "zeroCc": 0.05408,
-      "zeroBey": 0.05481,
-      "discountFactor": 0.329855
+      "zeroBey": 0.05482,
+      "discountFactor": 0.329843
     },
     {
       "term": 21,
       "date": "2047-11-09",
       "zeroCc": 0.05417,
       "zeroBey": 0.05491,
-      "discountFactor": 0.320371
+      "discountFactor": 0.320356
     },
     {
       "term": 21.5,
       "date": "2048-05-09",
       "zeroCc": 0.05424,
       "zeroBey": 0.05498,
-      "discountFactor": 0.311383
+      "discountFactor": 0.311365
     },
     {
       "term": 22,
       "date": "2048-11-09",
       "zeroCc": 0.05428,
-      "zeroBey": 0.05502,
-      "discountFactor": 0.302684
+      "zeroBey": 0.05503,
+      "discountFactor": 0.302664
     },
     {
       "term": 22.5,
       "date": "2049-05-09",
-      "zeroCc": 0.0543,
+      "zeroCc": 0.05431,
       "zeroBey": 0.05505,
-      "discountFactor": 0.2945
+      "discountFactor": 0.294479
     },
     {
       "term": 23,
       "date": "2049-11-09",
-      "zeroCc": 0.0543,
+      "zeroCc": 0.05431,
       "zeroBey": 0.05505,
-      "discountFactor": 0.286552
+      "discountFactor": 0.286529
     },
     {
       "term": 23.5,
       "date": "2050-05-09",
       "zeroCc": 0.05428,
-      "zeroBey": 0.05502,
-      "discountFactor": 0.279089
+      "zeroBey": 0.05503,
+      "discountFactor": 0.279066
     },
     {
       "term": 24,
       "date": "2050-11-09",
-      "zeroCc": 0.05423,
+      "zeroCc": 0.05424,
       "zeroBey": 0.05498,
-      "discountFactor": 0.271855
+      "discountFactor": 0.271833
     },
     {
       "term": 24.5,
       "date": "2051-05-09",
       "zeroCc": 0.05417,
       "zeroBey": 0.05491,
-      "discountFactor": 0.265076
+      "discountFactor": 0.265055
     },
     {
       "term": 25,
       "date": "2051-11-09",
       "zeroCc": 0.05408,
-      "zeroBey": 0.05481,
-      "discountFactor": 0.258518
+      "zeroBey": 0.05482,
+      "discountFactor": 0.258498
     },
     {
       "term": 25.5,
       "date": "2052-05-09",
       "zeroCc": 0.05397,
       "zeroBey": 0.0547,
-      "discountFactor": 0.252351
+      "discountFactor": 0.252334
     },
     {
       "term": 26,
       "date": "2052-11-09",
       "zeroCc": 0.05383,
-      "zeroBey": 0.05456,
-      "discountFactor": 0.24643
+      "zeroBey": 0.05457,
+      "discountFactor": 0.246417
     },
     {
       "term": 26.5,
       "date": "2053-05-09",
       "zeroCc": 0.05368,
       "zeroBey": 0.05441,
-      "discountFactor": 0.240904
+      "discountFactor": 0.240895
     },
     {
       "term": 27,
       "date": "2053-11-09",
       "zeroCc": 0.05351,
       "zeroBey": 0.05423,
-      "discountFactor": 0.235579
+      "discountFactor": 0.235576
     },
     {
       "term": 27.5,
       "date": "2054-05-09",
-      "zeroCc": 0.05332,
+      "zeroCc": 0.05331,
       "zeroBey": 0.05403,
-      "discountFactor": 0.230621
+      "discountFactor": 0.230624
     },
     {
       "term": 28,
       "date": "2054-11-09",
       "zeroCc": 0.0531,
       "zeroBey": 0.05381,
-      "discountFactor": 0.225854
+      "discountFactor": 0.225866
     },
     {
       "term": 28.5,
       "date": "2055-05-09",
       "zeroCc": 0.05287,
-      "zeroBey": 0.05358,
-      "discountFactor": 0.221427
+      "zeroBey": 0.05357,
+      "discountFactor": 0.221447
     },
     {
       "term": 29,
       "date": "2055-11-09",
       "zeroCc": 0.05262,
-      "zeroBey": 0.05332,
-      "discountFactor": 0.217183
+      "zeroBey": 0.05331,
+      "discountFactor": 0.217212
     },
     {
       "term": 29.5,
       "date": "2056-05-09",
       "zeroCc": 0.05235,
-      "zeroBey": 0.05305,
-      "discountFactor": 0.213231
+      "zeroBey": 0.05304,
+      "discountFactor": 0.213271
     },
     {
       "term": 30,
       "date": "2056-11-09",
-      "zeroCc": 0.05207,
-      "zeroBey": 0.05275,
-      "discountFactor": 0.209475
+      "zeroCc": 0.05206,
+      "zeroBey": 0.05274,
+      "discountFactor": 0.209527
     }
   ]
 }
