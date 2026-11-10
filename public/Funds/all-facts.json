@@ -585,7 +585,7 @@
   {
     "ticker": "VTIP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-10T12:22:27.410Z",
+    "timestamp": "2026-11-10T21:59:57.749Z",
     "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
     "thirtyDayYield": 0.0226,
     "asOfDate": "2026-11-05",
@@ -595,7 +595,7 @@
   {
     "ticker": "VTP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-10T12:22:34.621Z",
+    "timestamp": "2026-11-10T22:00:05.458Z",
     "accountType": "Vanguard Total Inflation-Protected Securities ETF",
     "thirtyDayYield": 0.025,
     "asOfDate": "2026-11-05",
@@ -605,7 +605,7 @@
   {
     "ticker": "VUSB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-10T12:22:41.963Z",
+    "timestamp": "2026-11-10T22:00:13.226Z",
     "accountType": "Vanguard Ultra-Short Bond ETF",
     "thirtyDayYield": 0.0481,
     "asOfDate": "2026-11-06",
@@ -617,12 +617,14 @@
   {
     "ticker": "VWOB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-10T12:22:48.936Z",
+    "timestamp": "2026-11-10T22:00:20.369Z",
     "accountType": "Vanguard Emerging Markets Government Bond ETF",
     "thirtyDayYield": 0.0666,
     "asOfDate": "2026-11-06",
     "nav": 64.05,
-    "distributionYield": 0.0587
+    "distributionYield": 0.0587,
+    "yieldToMaturity": 0.0685,
+    "yieldToWorst": 0.0685
   },
   {
     "ticker": "XHLF",
