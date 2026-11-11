@@ -17,17 +17,17 @@
   {
     "ticker": "BIL",
     "source": "ssga",
-    "timestamp": "2026-11-10T18:49:16.774Z",
+    "timestamp": "2026-11-11T12:00:05.259Z",
     "thirtyDayYield": 0.0386,
     "asOfDate": "2026-11-09",
     "weightedAverageCoupon": 0,
-    "durationYears": 0.13,
+    "durationYears": 0.12,
     "maturityYears": 0.13,
-    "yieldToWorst": 0.0402,
-    "yieldToMaturity": 0.0402,
+    "yieldToWorst": 0.0403,
+    "yieldToMaturity": 0.0403,
     "distributionYield": 0.0367,
-    "nav": 91.47,
-    "aum": 49024570000,
+    "nav": 91.49,
+    "aum": 49263400000,
     "expenseRatio": 0.001352,
     "fundName": "State Street® SPDR® Bloomberg 1-3 Month T-Bill ETF"
   },
@@ -241,17 +241,17 @@
   {
     "ticker": "SPTI",
     "source": "ssga",
-    "timestamp": "2026-11-10T18:49:19.720Z",
+    "timestamp": "2026-11-11T12:00:08.398Z",
     "thirtyDayYield": 0.0485,
     "asOfDate": "2026-11-09",
-    "weightedAverageCoupon": 0.0373,
-    "durationYears": 4.8,
+    "weightedAverageCoupon": 0.0374,
+    "durationYears": 4.79,
     "maturityYears": 5.53,
-    "yieldToWorst": 0.0471,
-    "yieldToMaturity": 0.0471,
+    "yieldToWorst": 0.0485,
+    "yieldToMaturity": 0.0485,
     "distributionYield": 0.0397,
-    "nav": 27.77,
-    "aum": 12181550000,
+    "nav": 27.6,
+    "aum": 12122840000,
     "expenseRatio": 0.0003,
     "fundName": "State Street® SPDR® Portfolio Intermediate Term Treasury Index ETF"
   },
@@ -352,22 +352,22 @@
   {
     "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-11T02:18:04.532Z",
+    "timestamp": "2026-11-11T11:58:46.963Z",
     "accountType": "Vanguard Long-Term Corporate Bond ETF",
     "thirtyDayYield": 0.0637,
-    "asOfDate": "2026-11-06",
+    "asOfDate": "2026-11-09",
     "nav": 70.16,
     "distributionYield": 0.06,
-    "yieldToMaturity": 0.0629,
-    "yieldToWorst": 0.0629
+    "yieldToMaturity": 0.0627,
+    "yieldToWorst": 0.0627
   },
   {
     "ticker": "VCRB",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-11T02:18:11.456Z",
+    "timestamp": "2026-11-11T11:58:53.682Z",
     "accountType": "Vanguard Core Bond ETF",
-    "thirtyDayYield": 0.0515,
-    "asOfDate": "2026-11-06",
+    "thirtyDayYield": 0.0516,
+    "asOfDate": "2026-11-09",
     "nav": 74.45,
     "distributionYield": 0.0455,
     "yieldToMaturity": 0.0559,
@@ -376,10 +376,10 @@
   {
     "ticker": "VCRM",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-11T02:18:18.893Z",
+    "timestamp": "2026-11-11T11:59:01.010Z",
     "accountType": "Vanguard Core Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0424,
-    "asOfDate": "2026-11-06",
+    "thirtyDayYield": 0.0422,
+    "asOfDate": "2026-11-09",
     "nav": 74.48,
     "distributionYield": 0.0335,
     "yieldToWorst": 0.0445
@@ -387,14 +387,14 @@
   {
     "ticker": "VCSH",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-11T02:18:25.278Z",
+    "timestamp": "2026-11-11T11:59:07.433Z",
     "accountType": "Vanguard Short-Term Corporate Bond ETF",
-    "thirtyDayYield": 0.0537,
-    "asOfDate": "2026-11-06",
+    "thirtyDayYield": 0.0536,
+    "asOfDate": "2026-11-09",
     "nav": 77.5,
     "distributionYield": 0.0449,
-    "yieldToMaturity": 0.0531,
-    "yieldToWorst": 0.0528
+    "yieldToMaturity": 0.0532,
+    "yieldToWorst": 0.0529
   },
   {
     "ticker": "VGIT",
@@ -640,12 +640,12 @@
   {
     "ticker": "XONE",
     "source": "bloxx",
-    "timestamp": "2026-11-10T14:32:27.437Z",
+    "timestamp": "2026-11-11T11:59:20.443Z",
     "expenseRatio": 0.0003,
     "thirtyDayYield": 0.045,
     "asOfDate": "2026-10-30",
     "weightedAverageCoupon": 0.0307,
     "durationYears": 0.97,
-    "yieldToWorst": 0.0443
+    "yieldToWorst": 0.0459
   }
 ]
