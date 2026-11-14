@@ -2291,7 +2291,7 @@
   {
     "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-11T08:47:18.830Z",
+    "timestamp": "2026-11-11T18:24:23.454Z",
     "accountType": "Vanguard Long-Term Bond ETF",
     "thirtyDayYield": 0.0581,
     "asOfDate": "2026-11-09",
@@ -2299,5 +2299,17 @@
     "distributionYield": 0.0496,
     "yieldToMaturity": 0.0573,
     "yieldToWorst": 0.0573
+  },
+  {
+    "ticker": "BLV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-14T05:41:48.162Z",
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "thirtyDayYield": 0.0586,
+    "asOfDate": "2026-11-11",
+    "nav": 63.62,
+    "distributionYield": 0.0496,
+    "yieldToMaturity": 0.0592,
+    "yieldToWorst": 0.0592
   }
 ]

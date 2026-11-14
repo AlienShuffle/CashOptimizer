@@ -2292,7 +2292,7 @@
   {
     "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-11T08:47:11.897Z",
+    "timestamp": "2026-11-11T18:24:16.440Z",
     "accountType": "Vanguard Intermediate-Term Bond ETF",
     "thirtyDayYield": 0.0534,
     "asOfDate": "2026-11-09",
@@ -2300,5 +2300,17 @@
     "distributionYield": 0.0453,
     "yieldToMaturity": 0.0519,
     "yieldToWorst": 0.0518
+  },
+  {
+    "ticker": "BIV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-14T05:41:41.303Z",
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "thirtyDayYield": 0.0537,
+    "asOfDate": "2026-11-11",
+    "nav": 73.2,
+    "distributionYield": 0.0453,
+    "yieldToMaturity": 0.0545,
+    "yieldToWorst": 0.0544
   }
 ]
