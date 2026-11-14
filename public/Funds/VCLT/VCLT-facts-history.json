@@ -2239,7 +2239,7 @@
   {
     "ticker": "VCLT",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-11T11:58:46.963Z",
+    "timestamp": "2026-11-11T21:36:42.089Z",
     "accountType": "Vanguard Long-Term Corporate Bond ETF",
     "thirtyDayYield": 0.0637,
     "asOfDate": "2026-11-09",
@@ -2247,5 +2247,17 @@
     "distributionYield": 0.06,
     "yieldToMaturity": 0.0627,
     "yieldToWorst": 0.0627
+  },
+  {
+    "ticker": "VCLT",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-14T08:55:08.128Z",
+    "accountType": "Vanguard Long-Term Corporate Bond ETF",
+    "thirtyDayYield": 0.0641,
+    "asOfDate": "2026-11-12",
+    "nav": 69.16,
+    "distributionYield": 0.06,
+    "yieldToMaturity": 0.0646,
+    "yieldToWorst": 0.0646
   }
 ]
