@@ -441,53 +441,54 @@
     "timestamp": "2026-11-20T14:15:08.585Z"
   },
   {
-    "accountType": "STerm InflatPro Sec ETF",
-    "asOfDate": "2026-11-12",
-    "nav": 48.59,
-    "thirtyDayYield": 0.0234,
-    "source": "Vanguard.com ETF",
     "ticker": "VTIP",
-    "timestamp": "2026-11-20T05:44:37.610Z"
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "nav": 48.59,
+    "thirtyDayYield": 0.0246,
+    "asOfDate": "2026-11-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-20T15:18:35.590Z"
   },
   {
-    "accountType": "Total InflatPro Sec ETF",
-    "asOfDate": "2026-11-12",
-    "nav": 73.02,
-    "thirtyDayYield": 0.0252,
-    "source": "Vanguard.com ETF",
     "ticker": "VTP",
-    "timestamp": "2026-11-20T05:44:37.610Z"
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "nav": 72.94,
+    "thirtyDayYield": 0.0259,
+    "asOfDate": "2026-11-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-20T15:18:35.590Z"
   },
   {
-    "accountType": "Ultra-Short Bond ETF",
-    "asOfDate": "2026-11-17",
-    "nav": 49.49,
-    "thirtyDayYield": 0.0482,
-    "source": "Vanguard.com ETF",
     "ticker": "VUSB",
-    "timestamp": "2026-11-20T05:44:37.610Z"
+    "accountType": "Vanguard Ultra-Short Bond ETF",
+    "nav": 49.48,
+    "thirtyDayYield": 0.0482,
+    "asOfDate": "2026-11-18",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-20T15:18:35.590Z"
   },
   {
-    "accountType": "Em Mkt Gov Bond ETF",
-    "asOfDate": "2026-11-17",
-    "nav": 62.76,
-    "thirtyDayYield": 0.0673,
-    "source": "Vanguard.com ETF",
     "ticker": "VWOB",
-    "timestamp": "2026-11-20T05:44:37.610Z"
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "nav": 62.88,
+    "thirtyDayYield": 0.0675,
+    "asOfDate": "2026-11-18",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-20T15:18:35.590Z"
   },
   {
     "ticker": "XHLF",
     "thirtyDayYield": 0.0405,
     "asOfDate": "2026-10-30",
     "source": "bloxx",
-    "timestamp": "2026-11-16T22:05:18.742Z"
+    "timestamp": "2026-11-20T15:18:47.607Z"
   },
   {
     "ticker": "XONE",
+    "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "thirtyDayYield": 0.045,
     "asOfDate": "2026-10-30",
     "source": "bloxx",
-    "timestamp": "2026-11-16T22:05:18.742Z"
+    "timestamp": "2026-11-20T15:18:47.607Z"
   }
 ]
