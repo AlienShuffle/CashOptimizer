@@ -1,47 +1,49 @@
 [
   {
-    "ticker": "VTEI",
+    "ticker": "BIV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-22T04:55:59.463Z",
-    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0361,
+    "timestamp": "2026-11-22T07:04:42.926Z",
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "thirtyDayYield": 0.0539,
     "asOfDate": "2026-11-19",
-    "nav": 98.03,
-    "distributionYield": 0.0287,
-    "yieldToWorst": 0.0385
+    "nav": 74.15,
+    "distributionYield": 0.0453,
+    "yieldToMaturity": 0.0538,
+    "yieldToWorst": 0.0537
   },
   {
-    "ticker": "VTEL",
+    "ticker": "BLV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-22T04:56:07.516Z",
-    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0455,
+    "timestamp": "2026-11-22T07:04:51.121Z",
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "thirtyDayYield": 0.0591,
     "asOfDate": "2026-11-19",
-    "nav": 99.07,
-    "distributionYield": 0.0389,
-    "yieldToWorst": 0.0478
+    "nav": 64.77,
+    "distributionYield": 0.0496,
+    "yieldToMaturity": 0.0588,
+    "yieldToWorst": 0.0588
   },
   {
-    "ticker": "VTES",
+    "ticker": "BND",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-22T04:56:14.858Z",
-    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
-    "thirtyDayYield": 0.0302,
+    "timestamp": "2026-11-22T07:04:58.388Z",
+    "accountType": "Vanguard Total Bond Market ETF",
+    "thirtyDayYield": 0.0506,
     "asOfDate": "2026-11-19",
-    "nav": 100.09,
-    "distributionYield": 0.0266,
-    "yieldToWorst": 0.0323
+    "nav": 71.33,
+    "distributionYield": 0.0414,
+    "yieldToMaturity": 0.0538,
+    "yieldToWorst": 0.0538
   },
   {
-    "ticker": "VTG",
+    "ticker": "BNDP",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-22T04:56:21.723Z",
-    "accountType": "Vanguard Total Treasury ETF",
-    "thirtyDayYield": 0.0493,
+    "timestamp": "2026-11-22T07:05:05.466Z",
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "thirtyDayYield": 0.0538,
     "asOfDate": "2026-11-19",
-    "nav": 73.52,
-    "distributionYield": 0.0412,
-    "yieldToMaturity": 0.0494,
-    "yieldToWorst": 0.0494
+    "nav": 71.87,
+    "yieldToMaturity": 0.0563,
+    "yieldToWorst": 0.0562
   }
 ]
