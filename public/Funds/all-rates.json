@@ -405,40 +405,40 @@
     "timestamp": "2026-11-24T04:22:16.475Z"
   },
   {
-    "accountType": "Int-Term Tax-Ex Bd ETF",
-    "asOfDate": "2026-11-19",
-    "nav": 98.16,
-    "thirtyDayYield": 0.0361,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEI",
-    "timestamp": "2026-11-24T02:15:23.367Z"
+    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
+    "nav": 98.13,
+    "thirtyDayYield": 0.0361,
+    "asOfDate": "2026-11-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-24T05:26:47.164Z"
   },
   {
-    "accountType": "VG LT Tax Exempt Bond ETF",
-    "asOfDate": "2026-11-19",
-    "nav": 99.16,
-    "thirtyDayYield": 0.0455,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEL",
-    "timestamp": "2026-11-24T02:15:23.367Z"
+    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
+    "nav": 99.12,
+    "thirtyDayYield": 0.0455,
+    "asOfDate": "2026-11-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-24T05:26:47.164Z"
   },
   {
-    "accountType": "Short-Term Tax-Ex Bnd ETF",
-    "asOfDate": "2026-11-19",
-    "nav": 100.24,
-    "thirtyDayYield": 0.0302,
-    "source": "Vanguard.com ETF",
     "ticker": "VTES",
-    "timestamp": "2026-11-24T02:15:23.367Z"
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "nav": 100.15,
+    "thirtyDayYield": 0.0302,
+    "asOfDate": "2026-11-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-24T05:26:47.164Z"
   },
   {
-    "accountType": "Total Treasury ETF",
-    "asOfDate": "2026-11-19",
-    "nav": 73.57,
-    "thirtyDayYield": 0.0493,
-    "source": "Vanguard.com ETF",
     "ticker": "VTG",
-    "timestamp": "2026-11-24T02:15:23.367Z"
+    "accountType": "Vanguard Total Treasury ETF",
+    "nav": 73.55,
+    "thirtyDayYield": 0.0493,
+    "asOfDate": "2026-11-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-24T05:26:47.164Z"
   },
   {
     "accountType": "STerm InflatPro Sec ETF",
@@ -481,14 +481,13 @@
     "thirtyDayYield": 0.0405,
     "asOfDate": "2026-10-30",
     "source": "bloxx",
-    "timestamp": "2026-11-23T21:55:19.712Z"
+    "timestamp": "2026-11-24T05:26:59.313Z"
   },
   {
     "ticker": "XONE",
-    "accountType": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
     "thirtyDayYield": 0.045,
     "asOfDate": "2026-10-30",
     "source": "bloxx",
-    "timestamp": "2026-11-23T21:55:19.712Z"
+    "timestamp": "2026-11-24T05:26:59.313Z"
   }
 ]
