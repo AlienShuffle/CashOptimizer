@@ -81,7 +81,7 @@
   {
     "ticker": "BNDW",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-25T13:45:25.289Z",
+    "timestamp": "2026-11-25T23:26:39.198Z",
     "accountType": "Vanguard Total World Bond ETF",
     "thirtyDayYield": 0.044,
     "asOfDate": "2026-10-31",
@@ -93,12 +93,14 @@
   {
     "ticker": "BNDX",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-25T13:45:32.691Z",
+    "timestamp": "2026-11-25T23:26:47.745Z",
     "accountType": "Vanguard Total International Bond ETF",
     "thirtyDayYield": 0.038,
     "asOfDate": "2026-11-23",
     "nav": 47.53,
-    "distributionYield": 0.0291
+    "distributionYield": 0.0291,
+    "yieldToMaturity": 0.0528,
+    "yieldToWorst": 0.0526
   },
   {
     "ticker": "BOXX",
@@ -115,7 +117,7 @@
   {
     "ticker": "BSV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-25T13:45:57.705Z",
+    "timestamp": "2026-11-25T23:26:55.207Z",
     "accountType": "Vanguard Short-Term Bond ETF",
     "thirtyDayYield": 0.0489,
     "asOfDate": "2026-11-23",
@@ -127,7 +129,7 @@
   {
     "ticker": "EDV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-25T13:46:04.299Z",
+    "timestamp": "2026-11-25T23:27:02.651Z",
     "accountType": "Vanguard Extended Duration Treasury ETF",
     "thirtyDayYield": 0.0557,
     "asOfDate": "2026-11-23",
