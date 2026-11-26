@@ -369,40 +369,40 @@
     "timestamp": "2026-11-26T03:50:59.542Z"
   },
   {
-    "accountType": "Short Dura Tax-Ex Bnd ETF",
-    "asOfDate": "2026-11-23",
-    "nav": 75.77,
-    "thirtyDayYield": 0.0361,
-    "source": "Vanguard.com ETF",
     "ticker": "VSDM",
-    "timestamp": "2026-11-26T01:40:48.221Z"
+    "accountType": "Vanguard Short Duration Tax-Exempt Bond ETF",
+    "nav": 75.74,
+    "thirtyDayYield": 0.0361,
+    "asOfDate": "2026-11-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T04:54:32.715Z"
   },
   {
-    "accountType": "Total Corporate Bond ETF",
-    "asOfDate": "2026-10-31",
+    "ticker": "VTC",
+    "accountType": "Vanguard Total Corporate Bond ETF",
     "nav": 73.96,
     "thirtyDayYield": 0.0586,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTC",
-    "timestamp": "2026-11-26T01:40:48.221Z"
+    "asOfDate": "2026-10-31",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T04:54:32.715Z"
   },
   {
-    "accountType": "Tax-Exempt Bond ETF",
-    "asOfDate": "2026-11-23",
-    "nav": 48.92,
-    "thirtyDayYield": 0.0403,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEB",
-    "timestamp": "2026-11-26T01:40:48.221Z"
+    "accountType": "Vanguard Tax-Exempt Bond ETF",
+    "nav": 48.9,
+    "thirtyDayYield": 0.0403,
+    "asOfDate": "2026-11-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T04:54:32.715Z"
   },
   {
-    "accountType": "CA Tax-Exempt Bond ETF",
-    "asOfDate": "2026-11-23",
-    "nav": 97.47,
-    "thirtyDayYield": 0.0376,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEC",
-    "timestamp": "2026-11-26T01:40:48.221Z"
+    "accountType": "Vanguard California Tax-Exempt Bond ETF",
+    "nav": 97.36,
+    "thirtyDayYield": 0.0376,
+    "asOfDate": "2026-11-23",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T04:54:32.715Z"
   },
   {
     "accountType": "Int-Term Tax-Ex Bd ETF",
@@ -478,17 +478,16 @@
   },
   {
     "ticker": "XHLF",
-    "accountType": "BondBloxx Bloomberg Six Month Target Duration US Treasury ETF",
     "thirtyDayYield": 0.0405,
     "asOfDate": "2026-10-30",
     "source": "bloxx",
-    "timestamp": "2026-11-25T20:12:53.720Z"
+    "timestamp": "2026-11-26T04:54:45.213Z"
   },
   {
     "ticker": "XONE",
     "thirtyDayYield": 0.045,
     "asOfDate": "2026-10-30",
     "source": "bloxx",
-    "timestamp": "2026-11-25T20:12:53.720Z"
+    "timestamp": "2026-11-26T04:54:45.213Z"
   }
 ]
