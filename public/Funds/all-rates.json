@@ -441,40 +441,40 @@
     "timestamp": "2026-11-26T15:43:14.396Z"
   },
   {
-    "accountType": "STerm InflatPro Sec ETF",
-    "asOfDate": "2026-11-19",
+    "ticker": "VTIP",
+    "accountType": "Vanguard Short-Term Inflation-Protected Securities ETF",
     "nav": 48.72,
     "thirtyDayYield": 0.0246,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTIP",
-    "timestamp": "2026-11-26T10:20:37.538Z"
-  },
-  {
-    "accountType": "Total InflatPro Sec ETF",
     "asOfDate": "2026-11-19",
-    "nav": 73.57,
-    "thirtyDayYield": 0.0259,
-    "source": "Vanguard.com ETF",
-    "ticker": "VTP",
-    "timestamp": "2026-11-26T10:20:37.538Z"
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T16:46:51.587Z"
   },
   {
-    "accountType": "Ultra-Short Bond ETF",
-    "asOfDate": "2026-11-24",
+    "ticker": "VTP",
+    "accountType": "Vanguard Total Inflation-Protected Securities ETF",
+    "nav": 73.48,
+    "thirtyDayYield": 0.0259,
+    "asOfDate": "2026-11-19",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T16:46:51.587Z"
+  },
+  {
+    "ticker": "VUSB",
+    "accountType": "Vanguard Ultra-Short Bond ETF",
     "nav": 49.53,
     "thirtyDayYield": 0.0484,
-    "source": "Vanguard.com ETF",
-    "ticker": "VUSB",
-    "timestamp": "2026-11-26T10:20:37.538Z"
+    "asOfDate": "2026-11-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T16:46:51.587Z"
   },
   {
-    "accountType": "Em Mkt Gov Bond ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 63.08,
-    "thirtyDayYield": 0.0679,
-    "source": "Vanguard.com ETF",
     "ticker": "VWOB",
-    "timestamp": "2026-11-26T10:20:37.538Z"
+    "accountType": "Vanguard Emerging Markets Government Bond ETF",
+    "nav": 62.85,
+    "thirtyDayYield": 0.0679,
+    "asOfDate": "2026-11-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T16:46:51.587Z"
   },
   {
     "ticker": "XHLF",
