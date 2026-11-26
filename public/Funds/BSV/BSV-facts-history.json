@@ -2356,13 +2356,25 @@
   {
     "ticker": "BSV",
     "source": "advisors.vanguard.com",
-    "timestamp": "2026-11-25T13:45:57.705Z",
+    "timestamp": "2026-11-25T23:26:55.207Z",
     "accountType": "Vanguard Short-Term Bond ETF",
     "thirtyDayYield": 0.0489,
     "asOfDate": "2026-11-23",
     "nav": 76.87,
     "distributionYield": 0.0409,
     "yieldToMaturity": 0.0489,
+    "yieldToWorst": 0.0489
+  },
+  {
+    "ticker": "BSV",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-26T09:13:26.196Z",
+    "accountType": "Vanguard Short-Term Bond ETF",
+    "thirtyDayYield": 0.0489,
+    "asOfDate": "2026-11-24",
+    "nav": 76.97,
+    "distributionYield": 0.0409,
+    "yieldToMaturity": 0.049,
     "yieldToWorst": 0.0489
   }
 ]
