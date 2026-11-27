@@ -20,40 +20,40 @@
     "timestamp": "2026-11-27T06:44:41.394Z"
   },
   {
-    "accountType": "Inter-Term Bond ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 74.46,
-    "thirtyDayYield": 0.0534,
-    "source": "Vanguard.com ETF",
     "ticker": "BIV",
-    "timestamp": "2026-11-27T10:00:19.724Z"
-  },
-  {
-    "accountType": "Long-Term Bond ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 65.36,
-    "thirtyDayYield": 0.0583,
-    "source": "Vanguard.com ETF",
-    "ticker": "BLV",
-    "timestamp": "2026-11-27T10:00:19.724Z"
-  },
-  {
-    "accountType": "Total Bond Market ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 71.6,
-    "thirtyDayYield": 0.0503,
-    "source": "Vanguard.com ETF",
-    "ticker": "BND",
-    "timestamp": "2026-11-27T10:00:19.724Z"
-  },
-  {
-    "accountType": "Core-Plus Bond Index ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 72.13,
+    "accountType": "Vanguard Intermediate-Term Bond ETF",
+    "nav": 74.44,
     "thirtyDayYield": 0.0534,
-    "source": "Vanguard.com ETF",
+    "asOfDate": "2026-11-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-27T13:17:41.484Z"
+  },
+  {
+    "ticker": "BLV",
+    "accountType": "Vanguard Long-Term Bond ETF",
+    "nav": 65.31,
+    "thirtyDayYield": 0.0583,
+    "asOfDate": "2026-11-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-27T13:17:41.484Z"
+  },
+  {
+    "ticker": "BND",
+    "accountType": "Vanguard Total Bond Market ETF",
+    "nav": 71.57,
+    "thirtyDayYield": 0.0503,
+    "asOfDate": "2026-11-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-27T13:17:41.484Z"
+  },
+  {
     "ticker": "BNDP",
-    "timestamp": "2026-11-27T10:00:19.724Z"
+    "accountType": "Vanguard Core-Plus Bond Index ETF",
+    "nav": 72.1,
+    "thirtyDayYield": 0.0534,
+    "asOfDate": "2026-11-24",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-27T13:17:41.484Z"
   },
   {
     "accountType": "Total World Bond ETF",
