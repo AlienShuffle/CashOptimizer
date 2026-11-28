@@ -227,11 +227,11 @@
   },
   {
     "ticker": "USFR",
-    "asOfDate": "2026-11-25",
+    "asOfDate": "2026-11-27",
     "accountType": "USFRWisdomTree Floating Rate Treasury Fund",
     "thirtyDayYield": 0.0399,
     "source": "Wisdomtree yields",
-    "timestamp": "2026-11-26T05:59:14.900Z"
+    "timestamp": "2026-11-28T06:30:16.607Z"
   },
   {
     "accountType": "0-3 Month T-Bill ETF",
@@ -405,40 +405,40 @@
     "timestamp": "2026-11-28T05:27:05.444Z"
   },
   {
-    "accountType": "Int-Term Tax-Ex Bd ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 98.5,
-    "thirtyDayYield": 0.0359,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEI",
-    "timestamp": "2026-11-28T05:27:05.444Z"
+    "accountType": "Vanguard Intermediate-Term Tax-Exempt Bond ETF",
+    "nav": 98.59,
+    "thirtyDayYield": 0.0359,
+    "asOfDate": "2026-11-25",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-28T06:30:48.861Z"
   },
   {
-    "accountType": "VG LT Tax Exempt Bond ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 99.63,
-    "thirtyDayYield": 0.0453,
-    "source": "Vanguard.com ETF",
     "ticker": "VTEL",
-    "timestamp": "2026-11-28T05:27:05.444Z"
+    "accountType": "Vanguard Long-Term Tax-Exempt Bond ETF",
+    "nav": 99.88,
+    "thirtyDayYield": 0.0451,
+    "asOfDate": "2026-11-25",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-28T06:30:48.861Z"
   },
   {
-    "accountType": "Short-Term Tax-Ex Bnd ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 100.36,
-    "thirtyDayYield": 0.0302,
-    "source": "Vanguard.com ETF",
     "ticker": "VTES",
-    "timestamp": "2026-11-28T05:27:05.444Z"
+    "accountType": "Vanguard Short-Term Tax-Exempt Bond ETF",
+    "nav": 100.32,
+    "thirtyDayYield": 0.0302,
+    "asOfDate": "2026-11-25",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-28T06:30:48.861Z"
   },
   {
-    "accountType": "Total Treasury ETF",
-    "asOfDate": "2026-11-24",
-    "nav": 73.55,
-    "thirtyDayYield": 0.0488,
-    "source": "Vanguard.com ETF",
     "ticker": "VTG",
-    "timestamp": "2026-11-28T05:27:05.444Z"
+    "accountType": "Vanguard Total Treasury ETF",
+    "nav": 73.51,
+    "thirtyDayYield": 0.0488,
+    "asOfDate": "2026-11-25",
+    "source": "advisors.vanguard.com",
+    "timestamp": "2026-11-28T06:30:48.861Z"
   },
   {
     "accountType": "STerm InflatPro Sec ETF",
